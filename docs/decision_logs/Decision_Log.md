@@ -400,3 +400,44 @@ Status
 
 Frozen
 
+
+---
+
+## Decision EH-009
+
+Environmental Health Coverage Analysis completed.
+
+Status
+
+Frozen
+
+---
+
+## Decision EH-010
+
+No critical evidence-function gaps identified.
+
+Status
+
+Frozen
+
+---
+
+## Decision EH-011
+
+Environmental Health Version 1.0 approved.
+
+Status
+
+Frozen
+
+---
+
+## Decision EH-012
+
+Wastewater Treatment Process represented using curated evidence collection.
+
+Status
+
+Frozen
+
