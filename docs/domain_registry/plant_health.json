@@ -1,11 +1,15 @@
 {
   "id": "plant_health",
   "name": "plant_health",
-  "version": "0.1",
-  "status": "Pending",
+  "version": "1.0",
+  "status": "Frozen",
   "phase": "Phase 2",
-  "datasets": [],
-  "coverage_analysis": "",
-  "srr": "",
-  "freeze": false
+  "datasets": [
+    "PH-001",
+    "PH-002",
+    "PH-003"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/plant_health/PH_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/plant_health/SRR_PH_001.md",
+  "freeze": true
 }
