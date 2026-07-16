@@ -179,3 +179,12 @@ GOHIF Scientific Workflow v1.0 established.
 
 Documentation synchronization is now an integral part of every scientific milestone.
 
+
+---
+
+## Governance Update
+
+Scientific Review Records (SRRs) adopted.
+
+All future domain freezes require a completed SRR prior to documentation synchronization.
+

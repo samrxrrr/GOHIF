@@ -55,3 +55,12 @@ Frozen milestones remain immutable.
 
 Changes require a new version.
 
+
+---
+
+## Scientific Review Requirement
+
+Before any major project milestone is frozen, an SRR (Scientific Review Record) must be completed.
+
+Documentation updates may only occur after SRR approval.
+

@@ -343,3 +343,14 @@ Status
 
 Frozen
 
+
+---
+
+## Decision GOV-004
+
+Scientific Review Records (SRRs) adopted as mandatory governance artifacts before all domain freezes and major architectural decisions.
+
+Status
+
+Frozen
+
