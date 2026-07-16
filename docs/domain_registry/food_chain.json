@@ -1,0 +1,16 @@
+{
+  "id": "food_chain",
+  "name": "Food Chain",
+  "version": "1.0",
+  "status": "Frozen",
+  "phase": "Phase 2",
+  "datasets": [
+    "FC-001",
+    "FC-002",
+    "FC-003",
+    "FC-004"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/food_chain/FC_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/food_chain/SRR_FC_001.md",
+  "freeze": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "plant_health",
+  "name": "plant_health",
+  "version": "0.1",
+  "status": "Pending",
+  "phase": "Phase 2",
+  "datasets": [],
+  "coverage_analysis": "",
+  "srr": "",
+  "freeze": false
+}
