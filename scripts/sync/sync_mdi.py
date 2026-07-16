@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parents[2]
 
 REGISTRY = ROOT / "data" / "registry" / "datasets"
 
-OUTDIR = ROOT / "datasets" / "master_inventory"
+OUTDIR = ROOT / "docs" / "MDI"
 
 OUTDIR.mkdir(parents=True, exist_ok=True)
 

@@ -1,11 +1,18 @@
 {
   "id": "genomics",
-  "name": "genomics",
-  "version": "0.1",
-  "status": "Pending",
+  "name": "Genomics & Molecular Evidence",
+  "version": "1.0",
+  "status": "Frozen",
   "phase": "Phase 2",
-  "datasets": [],
-  "coverage_analysis": "",
-  "srr": "",
-  "freeze": false
+  "datasets": [
+    "G-001",
+    "G-002",
+    "G-003",
+    "G-004",
+    "G-005",
+    "G-006"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/genomics/G_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/genomics/SRR_G_001.md",
+  "freeze": true
 }

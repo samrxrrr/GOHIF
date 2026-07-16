@@ -1,0 +1,31 @@
+id,name,domain,organization,tier,evidence_class,status
+AH-001,WOAH WAHIS,Animal Health,WOAH,Tier 1,Primary,Accepted
+AH-002,ANIMUSE,Animal Health,WOAH,Tier 1,Primary,Accepted
+AH-003,ESVAC,Animal Health,EMA,Tier 1,Primary,Accepted
+AH-004,Vet-LIRN,Animal Health,US FDA,Tier 2,Primary,Accepted
+AH-005,DANMAP Animal,Animal Health,Denmark,Tier 2,Primary,Accepted
+AH-006,NARMS Animal,Animal Health,USDA,Tier 2,Primary,Accepted
+EH-001,WHO Tricycle Environmental Component,Environmental Health,World Health Organization,Tier 1,Primary,Accepted
+EH-002,MGnify,Environmental Health,EMBL-EBI,Tier 1,Primary,Accepted
+EH-003,UNEP GEMS/Water,Environmental Health,UNEP,Tier 1,Contextual,Accepted
+EH-004,Earth Microbiome Project,Environmental Health,EMP Consortium,Tier 1,Primary,Accepted
+EH-005,NORMAN Network,Environmental Health,NORMAN Association,Tier 1,Contextual,Accepted
+EH-006,Curated Wastewater Treatment Evidence Collection,Environmental Health,GOHIF,Tier 1,Primary,Accepted
+FC-001,NARMS Retail Meat Surveillance,Food Chain,CDC/FDA/USDA,Tier 1,Primary,Accepted
+FC-002,EFSA/ECDC Food Component,Food Chain,EFSA/ECDC,Tier 1,Primary,Accepted
+FC-003,CIPARS Food Component,Food Chain,Public Health Agency of Canada,Tier 1,Primary,Accepted
+FC-004,GenomeTrakr,Food Chain,US FDA,Tier 1,Primary,Accepted
+G-001,INSDC,genomics,,Tier 1,,Accepted
+G-002,CARD,genomics,,Tier 1,,Accepted
+G-003,AMRFinderPlus,genomics,,Tier 1,,Accepted
+G-004,NCBI Pathogen Detection,genomics,,Tier 1,,Accepted
+G-005,BV-BRC,genomics,,Tier 1,,Accepted
+G-006,PubMLST,genomics,,Tier 1,,Accepted
+HH-001,WHO GLASS,Human Health,World Health Organization,Tier 1,Primary,Accepted
+HH-002,ATLAS,Human Health,Pfizer,Tier 1,Primary,Accepted
+HH-003,ResistanceMap,Human Health,CDDEP,Tier 1,Primary,Accepted
+HH-004,EARS-Net,Human Health,ECDC,Tier 1,Primary,Accepted
+HH-005,NARMS Human,Human Health,CDC,Tier 1,Primary,Accepted
+HH-006,CAESAR,Human Health,WHO Europe,Tier 2,Primary,Accepted
+HH-007,ReLAVRA+,Human Health,PAHO,Tier 2,Primary,Accepted
+HH-008,GLASS-AMC,Human Health,World Health Organization,Tier 1,Primary,Accepted

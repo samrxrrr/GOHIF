@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parents[2]
 
 REGISTRY = ROOT / "docs" / "domain_registry"
 
-BUILD = ROOT / "build" / "phase2"
+BUILD = ROOT / "docs" / "MRD"
 BUILD.mkdir(parents=True, exist_ok=True)
 
 OUTPUT = BUILD / "Master_Research_Document.md"

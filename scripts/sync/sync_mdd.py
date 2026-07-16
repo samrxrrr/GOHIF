@@ -4,7 +4,7 @@ import json
 ROOT = Path(__file__).resolve().parents[2]
 
 REGISTRY = ROOT / "docs" / "domain_registry"
-BUILD = ROOT / "build" / "phase2"
+BUILD = ROOT / "docs" / "MDD"
 
 BUILD.mkdir(parents=True, exist_ok=True)
 
