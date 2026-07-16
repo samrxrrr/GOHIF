@@ -202,3 +202,18 @@ MDI Schema Version 2.0 approved.
 Repository-wide synchronization will occur before freezing the Animal Health
 domain.
 
+
+-------------------------------------------------------------------------------
+
+Transaction 1
+
+MDI Schema upgraded to Version 2.0.
+
+Scientific data migration has not yet begun.
+
+Status:
+
+Completed
+
+-------------------------------------------------------------------------------
+
