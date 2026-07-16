@@ -286,3 +286,26 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision AH-008
+
+FAO InFARM accepted as a Tier 1 Core Dataset.
+
+Primary Evidence Class:
+
+Primary Evidence
+
+Primary Evidence Layer:
+
+Animal AMR Surveillance
+
+Secondary Evidence Layer:
+
+- Food Chain
+
+Status:
+
+Pending Animal Health Domain Freeze
+

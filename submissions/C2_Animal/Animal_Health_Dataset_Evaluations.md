@@ -442,3 +442,79 @@ Evidence Layer: Population & Production Systems
 
 Status: Pending Animal Health Freeze
 
+
+---
+
+# Dataset AH-007
+
+## FAO InFARM
+
+### Organization
+
+Food and Agriculture Organization of the United Nations (FAO)
+
+### Primary Evidence Class
+
+Primary Evidence
+
+### Primary Evidence Layer
+
+Animal AMR Surveillance
+
+### Secondary Evidence Layer
+
+Food Chain
+
+### Scientific Rationale
+
+FAO InFARM is a global initiative supporting harmonized antimicrobial resistance surveillance across food and agriculture sectors, strengthening laboratory capacity, standardized reporting, and One Health integration.
+
+### Dataset Profile
+
+- Domain: Animal Health / Food Chain
+- Geographic Coverage: Global
+- Evidence Type: AMR Surveillance Support Framework
+- Update Frequency: Ongoing
+
+### Scientific Strengths
+
+- Global One Health focus
+- International harmonization
+- Capacity building
+- FAO ecosystem integration
+- Strong future relevance
+
+### Scientific Weaknesses
+
+- Comparatively new framework
+- Variable country participation
+- More limited public data availability
+
+### FAIR Assessment
+
+Findable: Excellent
+
+Accessible: Good
+
+Interoperable: Excellent
+
+Reusable: Good
+
+Overall FAIR Maturity: High
+
+### GOHIF Recommendation
+
+Decision: Accepted
+
+Tier: Tier 1
+
+Primary Evidence Class: Primary Evidence
+
+Primary Evidence Layer: Animal AMR Surveillance
+
+Secondary Evidence Layer:
+
+- Food Chain
+
+Status: Pending Animal Health Freeze
+
