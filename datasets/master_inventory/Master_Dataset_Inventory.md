@@ -1,196 +1,170 @@
-# GOHIF Master Dataset Inventory (MDI)
+# GOHIF Master Dataset Inventory
 
-Version: 1.0
+Status: Auto-generated
 
-Status: Human Health Frozen
+Datasets Registered: **24**
 
----
-
-## Purpose
-
-The Master Dataset Inventory (MDI) is the authoritative registry of every dataset evaluated for GOHIF.
-
-It preserves:
-
-- dataset provenance
-- scientific evaluation
-- FAIR maturity
-- evidence hierarchy
-- acceptance decisions
-
-The MDI is the primary source for dataset management throughout GOHIF.
 
 ---
 
-## Column Definitions
+## Animal Health
 
-### GOHIF_ID
+### AH-001 — WOAH WAHIS
+- Organization: WOAH
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Permanent immutable dataset identifier.
+### AH-002 — ANIMUSE
+- Organization: WOAH
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Example:
+### AH-003 — ESVAC
+- Organization: EMA
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-GOHIF-DS-0001
+### AH-004 — Vet-LIRN
+- Organization: US FDA
+- Tier: Tier 2
+- Evidence Class: Primary
+- Status: Accepted
 
----
+### AH-005 — DANMAP Animal
+- Organization: Denmark
+- Tier: Tier 2
+- Evidence Class: Primary
+- Status: Accepted
 
-### Dataset_Name
+### AH-006 — NARMS Animal
+- Organization: USDA
+- Tier: Tier 2
+- Evidence Class: Primary
+- Status: Accepted
 
-Official dataset title.
-
----
-
-### Acronym
-
-Common short name.
-
----
-
-### Domain
-
-Primary One Health domain.
-
-Examples:
-
-- Human Health
-- Animal Health
-- Environment
-- Food Chain
-- Plant Health
-- Genomics
-
-Multiple domains may be separated using semicolons.
-
----
-
-### Evidence_Layer
-
-Defines the surveillance level.
-
-Examples:
-
-- Global Surveillance
-- Regional Surveillance
-- National Surveillance
-- Laboratory Surveillance
-- Cross-Domain Surveillance
-- Integrated Evidence
-- Continental Coordination
 
 ---
 
-### Tier
+## Environmental Health
 
-Evidence priority.
+### EH-001 — WHO Tricycle Environmental Component
+- Organization: World Health Organization
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Tier 1 = Core evidence
+### EH-002 — MGnify
+- Organization: EMBL-EBI
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Tier 2 = Supporting evidence
+### EH-003 — UNEP GEMS/Water
+- Organization: UNEP
+- Tier: Tier 1
+- Evidence Class: Contextual
+- Status: Accepted
 
----
+### EH-004 — Earth Microbiome Project
+- Organization: EMP Consortium
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-### Organization
+### EH-005 — NORMAN Network
+- Organization: NORMAN Association
+- Tier: Tier 1
+- Evidence Class: Contextual
+- Status: Accepted
 
-Owning or coordinating institution.
+### EH-006 — Curated Wastewater Treatment Evidence Collection
+- Organization: GOHIF
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
----
-
-### Country_or_Region
-
-Geographical coverage.
-
----
-
-### Evidence_Type
-
-Scientific type of dataset.
-
----
-
-### Temporal_Coverage
-
-Years represented.
-
----
-
-### Update_Frequency
-
-Annual
-
-Quarterly
-
-Monthly
-
-Periodic
-
-Continuous
 
 ---
 
-### FAIR_Maturity
+## Food Chain
 
-Overall FAIR assessment.
+### FC-001 — NARMS Retail Meat Surveillance
+- Organization: CDC/FDA/USDA
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Possible values:
+### FC-002 — EFSA/ECDC Food Component
+- Organization: EFSA/ECDC
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Very High
+### FC-003 — CIPARS Food Component
+- Organization: Public Health Agency of Canada
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-High
+### FC-004 — GenomeTrakr
+- Organization: US FDA
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Moderate
-
-Low
-
----
-
-### Accessibility
-
-Open
-
-Mixed
-
-Restricted
-
----
-
-### Provenance
-
-Primary
-
-Secondary
 
 ---
 
-### Scientific_Status
+## Human Health
 
-Accepted
+### HH-001 — WHO GLASS
+- Organization: World Health Organization
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Accepted with Limitations
+### HH-002 — ATLAS
+- Organization: Pfizer
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Rejected
+### HH-003 — ResistanceMap
+- Organization: CDDEP
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Pending Review
+### HH-004 — EARS-Net
+- Organization: ECDC
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
----
+### HH-005 — NARMS Human
+- Organization: CDC
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-### Freeze_Status
+### HH-006 — CAESAR
+- Organization: WHO Europe
+- Tier: Tier 2
+- Evidence Class: Primary
+- Status: Accepted
 
-Frozen
+### HH-007 — ReLAVRA+
+- Organization: PAHO
+- Tier: Tier 2
+- Evidence Class: Primary
+- Status: Accepted
 
-Pending
+### HH-008 — GLASS-AMC
+- Organization: World Health Organization
+- Tier: Tier 1
+- Evidence Class: Primary
+- Status: Accepted
 
-Draft
-
----
-
-### Priority
-
-Core
-
-Supporting
-
----
-
-### Notes
-
-Short scientific remarks.

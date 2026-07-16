@@ -1,11 +1,25 @@
-GOHIF_ID,Dataset_Name,Acronym,Domain,Evidence_Layer,Tier,Organization,Country_or_Region,Evidence_Type,Temporal_Coverage,Update_Frequency,FAIR_Maturity,Accessibility,Provenance,Scientific_Status,Freeze_Status,Priority,Notes
-GOHIF-DS-0001,"Global Antimicrobial Resistance and Use Surveillance System","GLASS","Human Health","Global Surveillance","Tier 1","World Health Organization (WHO)","Global","Public Health Surveillance","2015-Present","Annual","High","Mixed","Primary","Accepted","Frozen","Core","Global reference AMR surveillance dataset"
-GOHIF-DS-0002,"Antimicrobial Testing Leadership and Surveillance","ATLAS","Human Health","Laboratory Surveillance","Tier 1","Pfizer","Global","Laboratory Surveillance","2004-Present","Periodic","High","Mixed","Primary","Accepted","Frozen","Core","Individual isolate-level AST surveillance"
-GOHIF-DS-0003,"European Antimicrobial Resistance Surveillance Network","EARS-Net","Human Health","Regional Surveillance","Tier 1","European Centre for Disease Prevention and Control (ECDC)","Europe","Regional Public Health Surveillance","1998-Present","Annual","Very High","Open","Primary","Accepted","Frozen","Core","European regional surveillance benchmark"
-GOHIF-DS-0004,"Antimicrobial Resistance Surveillance & Research Network","AMRSN","Human Health","National Surveillance","Tier 1","Indian Council of Medical Research (ICMR)","India","National Surveillance","2013-Present","Periodic","Moderate-High","Restricted","Primary","Accepted","Frozen","Core","National LMIC surveillance network"
-GOHIF-DS-0005,"Japan Nosocomial Infections Surveillance","JANIS","Human Health","National Surveillance","Tier 1","Ministry of Health, Labour and Welfare","Japan","Hospital Surveillance","2000s-Present","Annual","Moderate-High","Restricted","Primary","Accepted","Frozen","Core","National surveillance for healthcare-associated infections and AMR"
-GOHIF-DS-0006,"UKHSA Antimicrobial Resistance Surveillance","UKHSA","Human Health","National Surveillance","Tier 1","UK Health Security Agency","United Kingdom","National Surveillance","Ongoing","Annual","Very High","Open","Primary","Accepted","Frozen","Core","Integrated national AMR surveillance"
-GOHIF-DS-0007,"National Antimicrobial Resistance Monitoring System","NARMS","Human Health; Animal Health; Food Chain","Cross-Domain Surveillance","Tier 1","CDC; FDA; USDA","United States","One Health Surveillance","1996-Present","Annual","Very High","Open","Primary","Accepted","Frozen","Core","Cross-domain surveillance bridging human, animal, and food sectors"
-GOHIF-DS-0008,"ReLAVRA+","ReLAVRA+","Human Health","Regional Surveillance","Tier 1","Pan American Health Organization (PAHO)","Latin America and Caribbean","Regional Surveillance","Ongoing","Annual","High","Open","Primary","Accepted","Frozen","Core","Regional AMR surveillance network for Latin America"
-GOHIF-DS-0009,"ResistanceMap","ResistanceMap","Human Health","Integrated Evidence","Tier 2","One Health Trust","Global","Secondary Integrated Resource","Variable","Periodic","High","Open","Secondary","Accepted with Limitations","Frozen","Supporting","Evidence integration and visualization platform; not a primary surveillance dataset"
-GOHIF-DS-0010,"Africa CDC AMR Surveillance Initiatives","AMRSNET/RISLNET","Human Health","Continental Coordination","Tier 2","Africa Centres for Disease Control and Prevention","Africa","Surveillance Coordination","Ongoing","Periodic","Moderate","Mixed","Secondary","Accepted with Limitations","Frozen","Supporting","Continental coordination and capacity-building initiatives rather than a unified surveillance dataset"
+id,name,domain,organization,tier,evidence_class,status
+AH-001,WOAH WAHIS,Animal Health,WOAH,Tier 1,Primary,Accepted
+AH-002,ANIMUSE,Animal Health,WOAH,Tier 1,Primary,Accepted
+AH-003,ESVAC,Animal Health,EMA,Tier 1,Primary,Accepted
+AH-004,Vet-LIRN,Animal Health,US FDA,Tier 2,Primary,Accepted
+AH-005,DANMAP Animal,Animal Health,Denmark,Tier 2,Primary,Accepted
+AH-006,NARMS Animal,Animal Health,USDA,Tier 2,Primary,Accepted
+EH-001,WHO Tricycle Environmental Component,Environmental Health,World Health Organization,Tier 1,Primary,Accepted
+EH-002,MGnify,Environmental Health,EMBL-EBI,Tier 1,Primary,Accepted
+EH-003,UNEP GEMS/Water,Environmental Health,UNEP,Tier 1,Contextual,Accepted
+EH-004,Earth Microbiome Project,Environmental Health,EMP Consortium,Tier 1,Primary,Accepted
+EH-005,NORMAN Network,Environmental Health,NORMAN Association,Tier 1,Contextual,Accepted
+EH-006,Curated Wastewater Treatment Evidence Collection,Environmental Health,GOHIF,Tier 1,Primary,Accepted
+FC-001,NARMS Retail Meat Surveillance,Food Chain,CDC/FDA/USDA,Tier 1,Primary,Accepted
+FC-002,EFSA/ECDC Food Component,Food Chain,EFSA/ECDC,Tier 1,Primary,Accepted
+FC-003,CIPARS Food Component,Food Chain,Public Health Agency of Canada,Tier 1,Primary,Accepted
+FC-004,GenomeTrakr,Food Chain,US FDA,Tier 1,Primary,Accepted
+HH-001,WHO GLASS,Human Health,World Health Organization,Tier 1,Primary,Accepted
+HH-002,ATLAS,Human Health,Pfizer,Tier 1,Primary,Accepted
+HH-003,ResistanceMap,Human Health,CDDEP,Tier 1,Primary,Accepted
+HH-004,EARS-Net,Human Health,ECDC,Tier 1,Primary,Accepted
+HH-005,NARMS Human,Human Health,CDC,Tier 1,Primary,Accepted
+HH-006,CAESAR,Human Health,WHO Europe,Tier 2,Primary,Accepted
+HH-007,ReLAVRA+,Human Health,PAHO,Tier 2,Primary,Accepted
+HH-008,GLASS-AMC,Human Health,World Health Organization,Tier 1,Primary,Accepted
