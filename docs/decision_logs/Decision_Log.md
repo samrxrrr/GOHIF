@@ -379,3 +379,24 @@ Status
 
 Deferred
 
+
+---
+
+## Decision GOV-007
+
+MRD Template Version 1.0 approved.
+
+Status
+
+Frozen
+
+---
+
+## Decision GOV-008
+
+MDD Template Version 1.0 approved.
+
+Status
+
+Frozen
+
