@@ -161,3 +161,67 @@ Evidence Layer: Animal Health Surveillance Context
 
 Status: Pending Animal Health Domain Freeze
 
+
+---
+
+# Dataset AH-003
+
+## ESVAC
+
+### Organization
+
+European Medicines Agency (EMA)
+
+### Evidence Layer
+
+Veterinary Antimicrobial Use (AMU)
+
+### Scientific Rationale
+
+ESVAC provides standardized veterinary antimicrobial consumption estimates across Europe using harmonized methodologies, including population-corrected metrics, supporting stewardship and international comparison.
+
+### Dataset Profile
+
+- Domain: Animal Health
+- Evidence Layer: Veterinary Antimicrobial Use
+- Geographic Coverage: Europe
+- Evidence Type: Veterinary Antimicrobial Consumption
+- Data Level: National
+- Update Frequency: Annual
+
+### Scientific Strengths
+
+- Very high standardization
+- Excellent metadata
+- Strong stewardship value
+- Long-term surveillance
+- High international credibility
+
+### Scientific Weaknesses
+
+- Europe only
+- National aggregation
+- Limited farm-level detail
+
+### FAIR Assessment
+
+Findable: Excellent
+
+Accessible: Excellent
+
+Interoperable: Excellent
+
+Reusable: Excellent
+
+Overall FAIR Maturity: Very High
+
+### GOHIF Recommendation
+
+Decision: Accepted
+
+Tier: Tier 1
+
+Evidence Layer: Veterinary Antimicrobial Use
+
+Status: Pending Animal Health Freeze
+

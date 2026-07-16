@@ -65,3 +65,20 @@ FAIR: High
 
 Freeze Status: Pending Animal Health Domain Freeze
 
+
+---
+
+## Dataset AH-003
+
+ESVAC
+
+Status: Accepted
+
+Tier: Tier 1
+
+Evidence Layer: Veterinary Antimicrobial Use
+
+FAIR: Very High
+
+Freeze Status: Pending Animal Health Domain Freeze
+
