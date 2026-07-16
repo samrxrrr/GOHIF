@@ -1,0 +1,9 @@
+{
+  "id": "FC-004",
+  "name": "GenomeTrakr",
+  "domain": "Food Chain",
+  "organization": "US FDA",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

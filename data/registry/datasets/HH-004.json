@@ -1,0 +1,9 @@
+{
+  "id": "HH-004",
+  "name": "EARS-Net",
+  "domain": "Human Health",
+  "organization": "ECDC",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

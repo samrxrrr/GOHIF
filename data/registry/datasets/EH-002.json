@@ -1,0 +1,9 @@
+{
+  "id": "EH-002",
+  "name": "MGnify",
+  "domain": "Environmental Health",
+  "organization": "EMBL-EBI",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

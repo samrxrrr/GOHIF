@@ -1,0 +1,9 @@
+{
+  "id": "HH-003",
+  "name": "ResistanceMap",
+  "domain": "Human Health",
+  "organization": "CDDEP",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

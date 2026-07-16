@@ -1,0 +1,9 @@
+{
+  "id": "EH-001",
+  "name": "WHO Tricycle Environmental Component",
+  "domain": "Environmental Health",
+  "organization": "World Health Organization",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

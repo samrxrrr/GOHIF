@@ -1,0 +1,9 @@
+{
+  "id": "HH-002",
+  "name": "ATLAS",
+  "domain": "Human Health",
+  "organization": "Pfizer",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}
