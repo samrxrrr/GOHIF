@@ -170,3 +170,12 @@ FAIR: High
 
 Freeze Status: Pending Animal Health Domain Freeze
 
+
+---
+
+## Governance Update
+
+GOHIF Scientific Workflow v1.0 established.
+
+Documentation synchronization is now an integral part of every scientific milestone.
+

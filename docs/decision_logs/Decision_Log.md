@@ -309,3 +309,26 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision GOV-001
+
+GOHIF Scientific Workflow v1.0 adopted.
+
+Status
+
+Frozen
+
+---
+
+## Decision GOV-002
+
+Frozen milestones become immutable.
+
+Future modifications require version updates rather than overwriting history.
+
+Status
+
+Frozen
+
