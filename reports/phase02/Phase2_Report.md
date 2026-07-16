@@ -217,3 +217,20 @@ Completed
 
 -------------------------------------------------------------------------------
 
+
+-------------------------------------------------------------------------------
+
+Milestone 2.4
+
+Documentation Architecture Migration initiated.
+
+Canonical chapter-based architecture adopted.
+
+Master documents are now generated from chapter files.
+
+Status:
+
+Transaction 1 Completed
+
+-------------------------------------------------------------------------------
+

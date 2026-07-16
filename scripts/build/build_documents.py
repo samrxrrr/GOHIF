@@ -1,37 +1,39 @@
 from pathlib import Path
 
-def build(src_dir, outfile):
-    src = Path(src_dir)
+def build(source_dir, output_file, title):
+
+    src = Path(source_dir)
 
     files = sorted(src.glob("*.md"))
 
-    with open(outfile, "w", encoding="utf-8") as out:
+    with open(output_file,"w",encoding="utf-8") as out:
 
-        out.write("<!-- GENERATED FILE -->\n")
-        out.write("<!-- DO NOT EDIT DIRECTLY -->\n\n")
+        out.write("# " + title + "\n\n")
+        out.write("> GENERATED FILE\n\n")
+        out.write("> Do not edit directly.\n")
+        out.write("> Edit chapter files instead.\n\n")
+        out.write("---\n\n")
 
         for f in files:
 
-            out.write("\n")
-            out.write("="*80)
-            out.write("\n\n")
+            out.write(f"\n<!-- BEGIN {f.name} -->\n\n")
 
             out.write(f.read_text(encoding="utf-8"))
 
-            out.write("\n\n")
+            out.write(f"\n\n<!-- END {f.name} -->\n\n")
 
-print("Building MRD...")
+
 build(
-    "docs/MRD/sections",
-    "docs/MRD/master_research_document.md"
+    "docs/MRD/chapters",
+    "docs/MRD/master_research_document.md",
+    "GOHIF Master Research Document"
 )
 
-print("Building MDD...")
 build(
-    "docs/MDD/sections",
-    "docs/MDD/master_development_document.md"
+    "docs/MDD/chapters",
+    "docs/MDD/master_development_document.md",
+    "GOHIF Master Development Document"
 )
 
-print()
-
-print("Done.")
+print("MRD generated.")
+print("MDD generated.")
