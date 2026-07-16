@@ -128,3 +128,22 @@ FAIR: High
 
 Freeze Status: Pending Animal Health Domain Freeze
 
+
+---
+
+## Dataset AH-006
+
+FAOSTAT
+
+Status: Accepted
+
+Tier: Tier 1
+
+Evidence Class: Contextual Evidence
+
+Evidence Layer: Population & Production Systems
+
+FAIR: Very High
+
+Freeze Status: Pending Animal Health Domain Freeze
+

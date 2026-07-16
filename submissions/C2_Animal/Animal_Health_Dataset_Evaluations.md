@@ -373,3 +373,72 @@ Secondary Evidence Layers:
 
 Status: Pending Animal Health Domain Freeze
 
+
+---
+
+# Dataset AH-006
+
+## FAOSTAT
+
+### Organization
+
+Food and Agriculture Organization of the United Nations (FAO)
+
+### Evidence Class
+
+Contextual Evidence
+
+### Evidence Layer
+
+Population & Production Systems
+
+### Scientific Rationale
+
+FAOSTAT provides global agricultural and livestock statistics that supply ecological and production context for interpreting antimicrobial resistance and antimicrobial use observations across animal populations.
+
+### Dataset Profile
+
+- Domain: Animal Health
+- Geographic Coverage: Global
+- Evidence Type: Agricultural Statistics
+- Update Frequency: Annual
+
+### Scientific Strengths
+
+- Global livestock coverage
+- Population context
+- Agricultural production statistics
+- International standardization
+- Long-term sustainability
+
+### Scientific Weaknesses
+
+- Not an AMR dataset
+- Not an AMU dataset
+- National aggregation
+- Variable reporting quality
+
+### FAIR Assessment
+
+Findable: Excellent
+
+Accessible: Excellent
+
+Interoperable: Excellent
+
+Reusable: Excellent
+
+Overall FAIR Maturity: Very High
+
+### GOHIF Recommendation
+
+Decision: Accepted
+
+Tier: Tier 1
+
+Evidence Class: Contextual Evidence
+
+Evidence Layer: Population & Production Systems
+
+Status: Pending Animal Health Freeze
+

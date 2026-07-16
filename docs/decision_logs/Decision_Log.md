@@ -267,3 +267,22 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision AH-007
+
+FAOSTAT accepted as a Tier 1 Core Dataset.
+
+Evidence Class:
+
+Contextual Evidence
+
+Evidence Layer:
+
+Population & Production Systems
+
+Status:
+
+Pending Animal Health Domain Freeze
+
