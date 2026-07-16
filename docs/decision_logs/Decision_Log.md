@@ -441,3 +441,45 @@ Status
 
 Frozen
 
+
+-------------------------------------------------------------------------------
+
+## Decision FC-009
+
+Food Chain Coverage Analysis completed.
+
+Status
+
+Frozen
+
+-------------------------------------------------------------------------------
+
+## Decision FC-010
+
+No critical evidence-function gaps identified.
+
+Status
+
+Frozen
+
+-------------------------------------------------------------------------------
+
+## Decision FC-011
+
+Food Chain Domain Version 1.0 approved.
+
+Status
+
+Frozen
+
+-------------------------------------------------------------------------------
+
+## Decision FC-012
+
+Food metadata and traceability intentionally deferred to the
+Metadata & Data Quality and Knowledge Resources domains.
+
+Status
+
+Frozen
+
