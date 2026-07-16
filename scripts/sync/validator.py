@@ -1,36 +1,56 @@
 from pathlib import Path
-from utils import info, ok, fail
+import json
 
 ROOT = Path(__file__).resolve().parents[2]
+REGISTRY = ROOT / "docs" / "domain_registry"
 
-DOMAINS = [
-    "human_health",
-    "animal_health",
-    "environmental_health",
-    "food_chain",
-]
+def info(msg):
+    print(f"[INFO] {msg}")
+
+def ok(msg):
+    print(f"[ OK ] {msg}")
+
+def fail(msg):
+    print(f"[FAIL] {msg}")
 
 def validate():
 
-    info("Validating frozen domains...")
+    info("Loading domain registry...")
+
+    registry_files = sorted(REGISTRY.glob("*.json"))
+
+    if not registry_files:
+        fail("No domain registry found.")
+        return False
 
     success = True
 
-    for d in DOMAINS:
+    for reg in registry_files:
 
-        cov = ROOT / "docs" / "coverage_analysis" / d
-        srr = ROOT / "docs" / "SRR" / d
+        with open(reg, "r", encoding="utf-8") as f:
+            domain = json.load(f)
 
-        if not cov.exists():
-            fail(f"Coverage missing: {d}")
-            success = False
+        name = domain["id"]
+
+        if not domain.get("freeze", False):
+            print(f"[SKIP] {name} (not frozen)")
+            continue
+
+        print(f"\n[DOMAIN] {domain['name']}")
+
+        coverage = ROOT / domain["coverage_analysis"]
+        srr = ROOT / domain["srr"]
+
+        if coverage.exists():
+            ok("Coverage Analysis")
         else:
-            ok(f"Coverage: {d}")
-
-        if not srr.exists():
-            fail(f"SRR missing: {d}")
+            fail(f"Missing Coverage Analysis: {coverage}")
             success = False
+
+        if srr.exists():
+            ok("Scientific Review Record")
         else:
-            ok(f"SRR: {d}")
+            fail(f"Missing SRR: {srr}")
+            success = False
 
     return success
