@@ -1,16 +1,19 @@
 # Scientific Review Record
 
-ID: SRR-HUMAN_HEALTH
+ID: SRR-HH-001
 
 Domain: Human Health
 
+Version: 1.0
+
 Status: Frozen
 
-## Scope
+## Scientific Question
 
-Legacy domain migrated into Governance v2.
+Has the Human Health evidence portfolio achieved sufficient coverage
+to remain frozen under Governance v2?
 
-## Registered Datasets
+## Evidence Reviewed
 
 - HH-001
 - HH-002
@@ -21,6 +24,17 @@ Legacy domain migrated into Governance v2.
 - HH-007
 - HH-008
 
+## Review Outcome
+
+The legacy Phase 2 evaluation has been migrated into the Governance v2
+framework.
+
+No scientific decisions have been altered during migration.
+
 ## Recommendation
 
 Approved.
+
+## Principal Investigator Decision
+
+Frozen
