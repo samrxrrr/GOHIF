@@ -195,3 +195,18 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision AH-003
+
+WOAH WAHIS accepted as Tier 1 Core Dataset.
+
+Evidence Layer:
+
+Animal Health Surveillance Context
+
+Status:
+
+Pending Animal Health Domain Freeze
+

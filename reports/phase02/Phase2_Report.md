@@ -48,3 +48,20 @@ FAIR: High
 
 Freeze Status: Pending Animal Health Domain Freeze
 
+
+---
+
+## Dataset AH-002
+
+WOAH WAHIS
+
+Status: Accepted
+
+Tier: Tier 1
+
+Evidence Layer: Animal Health Surveillance Context
+
+FAIR: High
+
+Freeze Status: Pending Animal Health Domain Freeze
+
