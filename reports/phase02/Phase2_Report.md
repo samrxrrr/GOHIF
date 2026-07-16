@@ -188,3 +188,17 @@ Scientific Review Records (SRRs) adopted.
 
 All future domain freezes require a completed SRR prior to documentation synchronization.
 
+
+---
+
+## Governance Milestone
+
+Scientific Review Board completed review of the Master Dataset Inventory.
+
+Outcome:
+
+MDI Schema Version 2.0 approved.
+
+Repository-wide synchronization will occur before freezing the Animal Health
+domain.
+

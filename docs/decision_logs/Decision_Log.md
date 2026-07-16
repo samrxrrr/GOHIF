@@ -354,3 +354,28 @@ Status
 
 Frozen
 
+
+---
+
+## Decision GOV-005
+
+Master Dataset Inventory Schema Version 2.0 approved.
+
+Status
+
+Frozen
+
+---
+
+## Decision GOV-006
+
+The term "Master Dataset Inventory (MDI)" will be retained throughout
+Phase 2.
+
+Possible transition to "Master Evidence Registry (MER)" will be evaluated
+prior to manuscript preparation.
+
+Status
+
+Deferred
+
