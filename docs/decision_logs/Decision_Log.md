@@ -225,3 +225,24 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision AH-005
+
+DANMAP accepted as a Tier 1 Core Dataset.
+
+Primary Evidence Layer:
+
+Animal AMR Surveillance
+
+Secondary Evidence Layers:
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+Status:
+
+Pending Animal Health Domain Freeze
+

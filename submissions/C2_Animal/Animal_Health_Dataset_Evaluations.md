@@ -225,3 +225,77 @@ Evidence Layer: Veterinary Antimicrobial Use
 
 Status: Pending Animal Health Freeze
 
+
+---
+
+# Dataset AH-004
+
+## DANMAP
+
+### Organization
+
+Danish Integrated Antimicrobial Resistance Monitoring and Research Programme
+
+### Primary Evidence Layer
+
+Animal AMR Surveillance
+
+### Secondary Evidence Layers
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+### Scientific Rationale
+
+DANMAP is one of the world's most mature integrated One Health surveillance programs, linking antimicrobial use and antimicrobial resistance across animals, food, and humans through harmonized national surveillance.
+
+### Dataset Profile
+
+- Domain: Animal Health (Cross-Domain)
+- Geographic Coverage: Denmark
+- Evidence Type: Integrated One Health Surveillance
+- Update Frequency: Annual
+
+### Scientific Strengths
+
+- Integrated One Health design
+- Long-term surveillance
+- Harmonized methodology
+- International influence
+- Cross-domain integration
+
+### Scientific Weaknesses
+
+- National scope
+- High-resource setting
+- Limited global representativeness
+
+### FAIR Assessment
+
+Findable: Excellent
+
+Accessible: Excellent
+
+Interoperable: Excellent
+
+Reusable: Excellent
+
+Overall FAIR Maturity: Very High
+
+### GOHIF Recommendation
+
+Decision: Accepted
+
+Tier: Tier 1
+
+Primary Evidence Layer: Animal AMR Surveillance
+
+Secondary Evidence Layers:
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+Status: Pending Animal Health Domain Freeze
+
