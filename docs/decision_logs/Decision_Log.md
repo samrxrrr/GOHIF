@@ -1,0 +1,169 @@
+# GOHIF Decision Log
+
+Version: 1.0
+
+Purpose
+
+Permanent scientific audit trail.
+
+---
+
+## Decision D-001
+
+Human Health selected as the first evidence domain.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-002
+
+Human Health candidate discovery completed after evaluation of ten datasets.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-003
+
+Tier hierarchy established.
+
+Tier 1
+
+Primary evidence.
+
+Tier 2
+
+Supporting evidence.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-004
+
+GLASS accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-005
+
+ATLAS accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-006
+
+EARS-Net accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-007
+
+AMRSN accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-008
+
+JANIS accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-009
+
+UKHSA accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-010
+
+NARMS classified as Cross-Domain Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-011
+
+ReLAVRA+ accepted as Tier 1.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-012
+
+ResistanceMap classified as Tier 2.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-013
+
+Africa CDC initiatives classified as Tier 2.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-014
+
+Human Health portfolio frozen.
+
+Status
+
+Frozen
+
+---
+
+## Decision D-015
+
+Documentation architecture frozen.
+
+Status
+
+Frozen
+
+---
+
+End of Document
