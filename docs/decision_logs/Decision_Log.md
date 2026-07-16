@@ -180,3 +180,18 @@ Veterinary Antimicrobial Use (AMU)
 Status
 
 Pending Animal Health Domain Freeze
+
+---
+
+## Decision AH-002
+
+WOAH ANIMUSE accepted as Tier 1 Core Dataset.
+
+Evidence Layer:
+
+Veterinary Antimicrobial Use (AMU)
+
+Status:
+
+Pending Animal Health Domain Freeze
+
