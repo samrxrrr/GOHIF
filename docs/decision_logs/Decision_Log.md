@@ -332,3 +332,14 @@ Status
 
 Frozen
 
+
+---
+
+## Decision GOV-003
+
+Community governance documentation adopted using the .github directory.
+
+Status
+
+Frozen
+
