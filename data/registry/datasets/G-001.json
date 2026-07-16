@@ -1,0 +1,9 @@
+{
+  "id": "G-001",
+  "name": "INSDC",
+  "domain": "genomics",
+  "status": "Accepted",
+  "tier": "Tier 1",
+  "version": "1.0",
+  "evidence_function": "Genome Repository"
+}

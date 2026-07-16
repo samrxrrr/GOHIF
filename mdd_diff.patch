@@ -1,0 +1,165 @@
+--- docs/MDD/master_development_document.md	2026-07-16 10:46:52.581272004 +0000
++++ docs/MDD/Master_Development_Document.md	2026-07-16 11:57:32.629200404 +0000
+@@ -1,128 +1,99 @@
+ # GOHIF Master Development Document
+ 
+-> GENERATED FILE
+-
+-> Do not edit directly.
+-> Edit chapter files instead.
++**Status:** Auto-generated
+ 
+ ---
+ 
+ 
+-<!-- BEGIN 00_Front_Matter.md -->
+-
+-
+-
+-<!-- END 00_Front_Matter.md -->
+-
+-
+-<!-- BEGIN 01_System_Architecture.md -->
+-
+-
+-
+-<!-- END 01_System_Architecture.md -->
+-
+-
+-<!-- BEGIN 02_Repository_Architecture.md -->
+-
+-
+-
+-<!-- END 02_Repository_Architecture.md -->
+-
+-
+-<!-- BEGIN 03_Data_Ingestion.md -->
+-
+-
+ 
+-<!-- END 03_Data_Ingestion.md -->
+ 
+ 
+-<!-- BEGIN 04_Metadata_Framework.md -->
+ 
+ 
+ 
+-<!-- END 04_Metadata_Framework.md -->
+-
+-
+-<!-- BEGIN 05_Provenance_Framework.md -->
+-
+-
+-
+-<!-- END 05_Provenance_Framework.md -->
+-
+-
+-<!-- BEGIN 06_Human_Health.md -->
+-
++---
+ 
++# Human Health
+ 
+-<!-- END 06_Human_Health.md -->
++**Status:** Frozen (v1.0)
+ 
++Datasets Registered: 8
+ 
+-<!-- BEGIN 07_Animal_Health.md -->
+ 
+ 
+ 
+-<!-- END 07_Animal_Health.md -->
++---
+ 
++# Animal Health
+ 
+-<!-- BEGIN 08_Environmental_Health.md -->
++**Status:** Frozen (v1.0)
+ 
++Datasets Registered: 6
+ 
+ 
+-<!-- END 08_Environmental_Health.md -->
+ 
+ 
+-<!-- BEGIN 09_Food_Chain.md -->
++---
+ 
++# Environmental Health
+ 
++**Status:** Frozen (v1.0)
+ 
+-<!-- END 09_Food_Chain.md -->
++Datasets Registered: 6
+ 
+ 
+-<!-- BEGIN 10_Plant_Health.md -->
+ 
+ 
++---
+ 
+-<!-- END 10_Plant_Health.md -->
++# Food Chain
+ 
++**Status:** Frozen (v1.0)
+ 
+-<!-- BEGIN 11_Genomics.md -->
++Datasets Registered: 4
+ 
+ 
+ 
+-<!-- END 11_Genomics.md -->
+ 
++---
+ 
+-<!-- BEGIN 12_Evidence_Ontology.md -->
++# Plant Health
+ 
++**Status:** Frozen (v1.0)
+ 
++Datasets Registered: 3
+ 
+-<!-- END 12_Evidence_Ontology.md -->
+ 
+ 
+-<!-- BEGIN 13_Evidence_Harmonization.md -->
+ 
++---
+ 
++# Genomics & Molecular Evidence
+ 
+-<!-- END 13_Evidence_Harmonization.md -->
++**Status:** Frozen (v1.0)
+ 
++Datasets Registered: 6
+ 
+-<!-- BEGIN 14_AI_Framework.md -->
+ 
+ 
+ 
+-<!-- END 14_AI_Framework.md -->
++---
+ 
++# Knowledge Resources
+ 
+-<!-- BEGIN 15_Validation_Framework.md -->
++**Status:** Pending
+ 
+ 
++---
+ 
+-<!-- END 15_Validation_Framework.md -->
++# Metadata & Data Quality
+ 
++**Status:** Pending
+ 
+-<!-- BEGIN 16_Future_Development.md -->
+ 
++---
+ 
++# Validation & Benchmarking
+ 
+-<!-- END 16_Future_Development.md -->
++**Status:** Pending
+ 

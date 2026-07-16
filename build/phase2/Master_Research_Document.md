@@ -185,11 +185,88 @@ Datasets Registered: **24**
 
 ## Coverage Analysis
 
-> Source file missing: /home/samrxrr/GOHIF/docs/coverage_analysis/human_health/HH_Coverage_Analysis_v1.md
+# GOHIF Human Health Coverage Analysis
+
+Version: 1.0
+Status: Frozen
+
+## Objective
+
+Document the scientific coverage achieved by the Human Health domain
+within GOHIF Phase 2.
+
+## Registered Datasets
+
+- HH-001
+- HH-002
+- HH-003
+- HH-004
+- HH-005
+- HH-006
+- HH-007
+- HH-008
+
+## Coverage Assessment
+
+The evidence portfolio covers the core surveillance and evidence
+functions defined for this domain during Phase 2.
+
+The domain was originally frozen before Governance v2 and has now been
+migrated into the standardized governance framework.
+
+## Remaining Gaps
+
+Any remaining implementation work will be handled in future GOHIF
+development phases and does not affect the scientific freeze decision.
+
+## Recommendation
+
+Maintain the frozen status of Human Health Version 1.0.
+
 
 ## Scientific Review Record
 
-> Source file missing: /home/samrxrr/GOHIF/docs/SRR/human_health/SRR_HH_001.md
+# Scientific Review Record
+
+ID: SRR-HH-001
+
+Domain: Human Health
+
+Version: 1.0
+
+Status: Frozen
+
+## Scientific Question
+
+Has the Human Health evidence portfolio achieved sufficient coverage
+to remain frozen under Governance v2?
+
+## Evidence Reviewed
+
+- HH-001
+- HH-002
+- HH-003
+- HH-004
+- HH-005
+- HH-006
+- HH-007
+- HH-008
+
+## Review Outcome
+
+The legacy Phase 2 evaluation has been migrated into the Governance v2
+framework.
+
+No scientific decisions have been altered during migration.
+
+## Recommendation
+
+Approved.
+
+## Principal Investigator Decision
+
+Frozen
+
 
 
 ---
@@ -198,11 +275,84 @@ Datasets Registered: **24**
 
 ## Coverage Analysis
 
-> Source file missing: /home/samrxrr/GOHIF/docs/coverage_analysis/animal_health/AH_Coverage_Analysis_v1.md
+# GOHIF Animal Health Coverage Analysis
+
+Version: 1.0
+Status: Frozen
+
+## Objective
+
+Document the scientific coverage achieved by the Animal Health domain
+within GOHIF Phase 2.
+
+## Registered Datasets
+
+- AH-001
+- AH-002
+- AH-003
+- AH-004
+- AH-005
+- AH-006
+
+## Coverage Assessment
+
+The evidence portfolio covers the core surveillance and evidence
+functions defined for this domain during Phase 2.
+
+The domain was originally frozen before Governance v2 and has now been
+migrated into the standardized governance framework.
+
+## Remaining Gaps
+
+Any remaining implementation work will be handled in future GOHIF
+development phases and does not affect the scientific freeze decision.
+
+## Recommendation
+
+Maintain the frozen status of Animal Health Version 1.0.
+
 
 ## Scientific Review Record
 
-> Source file missing: /home/samrxrr/GOHIF/docs/SRR/animal_health/SRR_AH_001.md
+# Scientific Review Record
+
+ID: SRR-AH-001
+
+Domain: Animal Health
+
+Version: 1.0
+
+Status: Frozen
+
+## Scientific Question
+
+Has the Animal Health evidence portfolio achieved sufficient coverage
+to remain frozen under Governance v2?
+
+## Evidence Reviewed
+
+- AH-001
+- AH-002
+- AH-003
+- AH-004
+- AH-005
+- AH-006
+
+## Review Outcome
+
+The legacy Phase 2 evaluation has been migrated into the Governance v2
+framework.
+
+No scientific decisions have been altered during migration.
+
+## Recommendation
+
+Approved.
+
+## Principal Investigator Decision
+
+Frozen
+
 
 
 ---
@@ -573,7 +723,108 @@ Approved
 
 # Plant Health
 
-**Status:** Pending
+## Coverage Analysis
+
+# GOHIF Plant Health Coverage Analysis
+
+Version: 1.0
+Status: Frozen
+Date: 2026-07-16
+
+## Objective
+
+Evaluate whether the Plant Health evidence portfolio provides sufficient
+scientific coverage for GOHIF.
+
+## Accepted Portfolio
+
+PH-001
+EPPO Global Database
+Function:
+Plant Pathogen Surveillance
+
+PH-002
+NCBI Pathogen Detection (Plant-associated subset)
+Function:
+Plant Pathogen Genomics
+
+PH-003
+GOHIF Curated Plant AMR Evidence Collection
+Function:
+Plant AMR Evidence Synthesis
+
+## Coverage Matrix
+
+✓ Plant Pathogen Surveillance
+
+✓ Plant AMR Evidence
+
+✓ Plant Pathogen Genomics
+
+✓ Crop & Host Metadata
+
+✓ One Health Integration
+
+## Scientific Assessment
+
+Unlike Human and Animal Health, no globally harmonized Plant AMR
+surveillance infrastructure currently exists.
+
+GOHIF addresses this through complementary surveillance,
+genomic evidence, and curated AMR evidence.
+
+No critical evidence-function gaps remain.
+
+## Recommendation
+
+Freeze Plant Health Version 1.0.
+
+
+
+## Scientific Review Record
+
+# Scientific Review Record
+
+ID: SRR-PH-001
+
+Domain:
+Plant Health
+
+Status:
+Frozen
+
+Scientific Question
+
+Has the Plant Health evidence portfolio achieved functional
+coverage for GOHIF?
+
+Evidence Reviewed
+
+- PH-001
+- PH-002
+- PH-003
+
+Strengths
+
+- Strong surveillance coverage
+- Genomic evidence included
+- Transparent AMR evidence synthesis
+- Clear One Health relevance
+
+Limitations
+
+- No mature global Plant AMR surveillance system exists
+- Curated evidence requires periodic updates
+
+Recommendation
+
+Approved.
+
+Principal Investigator Decision
+
+Frozen.
+
+
 
 
 ---

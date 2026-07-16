@@ -1,0 +1,9 @@
+{
+  "id": "G-006",
+  "name": "PubMLST",
+  "domain": "genomics",
+  "status": "Accepted",
+  "tier": "Tier 1",
+  "version": "1.0",
+  "evidence_function": "Sequence Typing"
+}

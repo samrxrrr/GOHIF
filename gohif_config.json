@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0-dev",
+    "paths": {
+        "project_root": "/home/samrxrr/GOHIF",
+        "config": "/home/samrxrr/GOHIF/config",
+        "datasets": "/home/samrxrr/GOHIF/datasets",
+        "results": "/home/samrxrr/GOHIF/results",
+        "reports": "/home/samrxrr/GOHIF/reports",
+        "logs": "/home/samrxrr/GOHIF/logs"
+    },
+    "runtime": {
+        "debug": false,
+        "verbose": false,
+        "random_seed": 42,
+        "workers": 1
+    }
+}

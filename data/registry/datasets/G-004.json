@@ -1,0 +1,9 @@
+{
+  "id": "G-004",
+  "name": "NCBI Pathogen Detection",
+  "domain": "genomics",
+  "status": "Accepted",
+  "tier": "Tier 1",
+  "version": "1.0",
+  "evidence_function": "Genomic Epidemiology"
+}

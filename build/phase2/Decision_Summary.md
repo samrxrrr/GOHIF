@@ -53,10 +53,10 @@ This file summarizes domain freeze decisions.
 
 ## plant_health
 
-- Status: Pending
-- Version: 0.1
-- Frozen: False
-- Registered Datasets: 0
+- Status: Frozen
+- Version: 1.0
+- Frozen: True
+- Registered Datasets: 3
 
 ## validation
 
