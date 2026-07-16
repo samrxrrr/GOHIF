@@ -246,3 +246,24 @@ Status:
 
 Pending Animal Health Domain Freeze
 
+
+---
+
+## Decision AH-006
+
+CIPARS accepted as a Tier 1 Core Dataset.
+
+Primary Evidence Layer:
+
+Animal AMR Surveillance
+
+Secondary Evidence Layers:
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+Status:
+
+Pending Animal Health Domain Freeze
+

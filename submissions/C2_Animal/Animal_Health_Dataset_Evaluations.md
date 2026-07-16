@@ -299,3 +299,77 @@ Secondary Evidence Layers:
 
 Status: Pending Animal Health Domain Freeze
 
+
+---
+
+# Dataset AH-005
+
+## CIPARS
+
+### Organization
+
+Public Health Agency of Canada (PHAC)
+
+### Primary Evidence Layer
+
+Animal AMR Surveillance
+
+### Secondary Evidence Layers
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+### Scientific Rationale
+
+CIPARS is Canada's integrated One Health antimicrobial resistance surveillance program, linking antimicrobial resistance and antimicrobial use across animals, food, and humans through coordinated national surveillance.
+
+### Dataset Profile
+
+- Domain: Animal Health (Cross-Domain)
+- Geographic Coverage: Canada
+- Evidence Type: Integrated One Health Surveillance
+- Update Frequency: Annual
+
+### Scientific Strengths
+
+- Integrated surveillance
+- Government-supported
+- Harmonized laboratory methods
+- Food chain integration
+- Internationally recognized
+
+### Scientific Weaknesses
+
+- National scope
+- Country-specific stewardship context
+- Public reports are largely aggregated
+
+### FAIR Assessment
+
+Findable: Excellent
+
+Accessible: Good
+
+Interoperable: Excellent
+
+Reusable: Excellent
+
+Overall FAIR Maturity: High
+
+### GOHIF Recommendation
+
+Decision: Accepted
+
+Tier: Tier 1
+
+Primary Evidence Layer: Animal AMR Surveillance
+
+Secondary Evidence Layers:
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+Status: Pending Animal Health Domain Freeze
+

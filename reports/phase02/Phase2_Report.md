@@ -105,3 +105,26 @@ FAIR: Very High
 
 Freeze Status: Pending Animal Health Domain Freeze
 
+
+---
+
+## Dataset AH-005
+
+CIPARS
+
+Status: Accepted
+
+Tier: Tier 1
+
+Primary Evidence Layer: Animal AMR Surveillance
+
+Secondary Evidence Layers:
+
+- Veterinary Antimicrobial Use
+- Food Chain
+- Human Health
+
+FAIR: High
+
+Freeze Status: Pending Animal Health Domain Freeze
+
