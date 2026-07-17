@@ -1,11 +1,27 @@
 {
   "id": "metadata",
-  "name": "metadata",
-  "version": "0.1",
-  "status": "Pending",
+  "code": "MD",
+  "name": "Metadata & Data Quality",
+  "type": "governance",
+  "version": "1.0",
+  "status": "Approved",
   "phase": "Phase 2",
+  "description": "Governance domain defining metadata standards, identifier policies, controlled vocabularies, FAIR compliance, data quality, provenance, and version management across GOHIF.",
+  "documentation": "docs/metadata",
+  "framework": "docs/metadata/metadata_framework.md",
+  "coverage_analysis": "docs/metadata/coverage_analysis.md",
+  "scientific_review_record": "docs/metadata/scientific_review_record.md",
+  "governance_decision": "docs/metadata/governance_decision.md",
+  "decision_log": "docs/metadata/decision_log.md",
   "datasets": [],
-  "coverage_analysis": "",
-  "srr": "",
-  "freeze": false
+  "external_standards": [
+    "FAIR Guiding Principles",
+    "Dublin Core",
+    "DataCite Metadata Schema",
+    "ISO 11179",
+    "ISO 8000",
+    "W3C PROV",
+    "Semantic Versioning"
+  ],
+  "freeze": true
 }
