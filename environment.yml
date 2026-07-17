@@ -1,0 +1,38 @@
+name: gohif
+
+channels:
+  - conda-forge
+
+dependencies:
+
+  - python=3.12
+
+  - pip
+
+  - pandas
+  - numpy
+  - pyarrow
+  - duckdb
+  - pyyaml
+  - networkx
+
+  - pip:
+
+      - typer
+      - rich
+      - loguru
+      - pydantic
+      - pydantic-settings
+
+      - pytest
+      - pytest-cov
+
+      - mypy
+
+      - ruff
+
+      - pre-commit
+
+      - build
+
+      - twine
