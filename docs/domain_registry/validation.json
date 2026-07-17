@@ -1,11 +1,18 @@
 {
   "id": "validation",
-  "name": "validation",
-  "version": "0.1",
-  "status": "Pending",
-  "phase": "Phase 2",
+  "code": "VAL",
+  "name": "Validation & Benchmarking",
+  "type": "governance",
+  "version": "1.0",
+  "status": "Approved",
+  "phase": "Phase 2B",
+  "description": "Governance domain defining validation methodology, benchmarking strategy, reproducibility assessment, statistical validation, and scientific quality assurance across GOHIF.",
+  "documentation": "docs/validation",
+  "framework": "docs/validation/validation_framework.md",
+  "coverage_analysis": "docs/validation/coverage_analysis.md",
+  "scientific_review_record": "docs/validation/scientific_review_record.md",
+  "governance_decision": "docs/validation/governance_decision.md",
+  "decision_log": "docs/validation/decision_log.md",
   "datasets": [],
-  "coverage_analysis": "",
-  "srr": "",
-  "freeze": false
+  "freeze": true
 }
