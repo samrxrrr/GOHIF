@@ -18,6 +18,8 @@ src/gohif/common/constants.py
 src/gohif/common/types.py
 src/gohif/common/version.py
 src/gohif/config/__init__.py
+src/gohif/config/defaults.py
+src/gohif/config/models.py
 src/gohif/data/__init__.py
 src/gohif/database/__init__.py
 src/gohif/exceptions/__init__.py

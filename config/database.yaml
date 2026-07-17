@@ -1,0 +1,6 @@
+database:
+  backend: duckdb
+  filename: gohif.duckdb
+
+connection:
+  read_only: false

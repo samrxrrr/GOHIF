@@ -1,0 +1,13 @@
+project:
+  name: GOHIF
+  short_name: GOHIF
+  version: 0.1.0
+  description: >
+    Global One Health Intelligence Framework
+
+  author: GOHIF Consortium
+
+runtime:
+  environment: development
+  random_seed: 42
+  threads: 4

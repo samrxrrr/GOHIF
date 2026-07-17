@@ -1,0 +1,5 @@
+provenance:
+  enabled: true
+  hash_algorithm: sha256
+  record_timestamp: true
+  record_environment: true

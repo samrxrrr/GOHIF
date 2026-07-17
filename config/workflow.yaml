@@ -1,0 +1,7 @@
+workflow:
+  continue_on_error: false
+  save_intermediate: true
+  overwrite_outputs: false
+
+execution:
+  workers: 4

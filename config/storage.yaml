@@ -1,0 +1,9 @@
+storage:
+  data_directory: data
+  output_directory: results
+  cache_directory: cache
+  temp_directory: temp
+
+database:
+  engine: duckdb
+  file: gohif.duckdb

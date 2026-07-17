@@ -1,0 +1,4 @@
+validation:
+  strict: true
+  schema_validation: true
+  checksum_validation: true
