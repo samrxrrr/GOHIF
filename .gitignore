@@ -27,3 +27,6 @@ dist/
 # Temporary
 *.tmp
 *.bak
+
+# Downloaded datasets
+data/
