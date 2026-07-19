@@ -1,0 +1,11 @@
+ID,Dataset,Authority,OneHealth_Relevance,FAIR,Update_Frequency,Accessibility,API,License,Scientific_Value,Decision,Tier,Remarks
+PH-001,EPPO Global Database,,,,,,,,,,,,
+PH-002,CABI Crop Protection Compendium,,,,,,,,,,,,
+PH-003,PHI-base,,,,,,,,,,,,
+PH-004,FungiDB,,,,,,,,,,,,
+PH-005,Ensembl Plants,,,,,,,,,,,,
+PH-006,Gramene,,,,,,,,,,,,
+PH-007,GenBank Plant Pathogens,,,,,,,,,,,,
+PH-008,NCBI Pathogen Detection,,,,,,,,,,,,
+PH-009,European Nucleotide Archive,,,,,,,,,,,,
+PH-010,FAOSTAT Crops,,,,,,,,,,,,

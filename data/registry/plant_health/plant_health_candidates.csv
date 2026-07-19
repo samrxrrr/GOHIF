@@ -1,0 +1,11 @@
+ID,Dataset,Organization,Category,Priority,Status
+PH-001,EPPO Global Database,EPPO,Plant Surveillance,High,Pending
+PH-002,CABI Crop Protection Compendium,CABI,Plant Surveillance,High,Pending
+PH-003,PHI-base,PHI-base Consortium,Host-Pathogen,High,Pending
+PH-004,FungiDB,VEuPathDB,Fungal Genomics,High,Pending
+PH-005,Ensembl Plants,EMBL-EBI,Plant Genomics,High,Pending
+PH-006,Gramene,Gramene Consortium,Plant Genomics,High,Pending
+PH-007,GenBank Plant Pathogens,NCBI,Sequence Repository,High,Pending
+PH-008,NCBI Pathogen Detection,NCBI,Pathogen Genomics,Medium,Pending
+PH-009,European Nucleotide Archive,EMBL-EBI,Sequence Repository,High,Pending
+PH-010,FAOSTAT Crops,FAO,Agricultural Context,Medium,Pending

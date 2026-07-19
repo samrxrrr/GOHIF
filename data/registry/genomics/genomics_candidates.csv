@@ -1,0 +1,16 @@
+ID,Dataset,Organization,Category,Priority,Status
+G-001,CARD,McMaster University,AMR Gene Database,High,Pending
+G-002,ResFinder,DTU,AMR Gene Database,High,Pending
+G-003,AMRFinderPlus,NCBI,AMR Gene Database,High,Pending
+G-004,MEGARes,University of Maryland,AMR Gene Database,High,Pending
+G-005,BacMet,Gothenburg University,Biocide & Metal Resistance,High,Pending
+G-006,PLSDB,ETH Zurich,Plasmid Database,High,Pending
+G-007,ICEberg,Shanghai Jiao Tong University,Mobile Genetic Elements,Medium,Pending
+G-008,ISfinder,ISfinder Consortium,Insertion Sequences,High,Pending
+G-009,RefSeq,NCBI,Reference Genomes,High,Pending
+G-010,SRA,NCBI,Sequence Repository,High,Pending
+G-011,ENA,EMBL-EBI,Sequence Repository,High,Pending
+G-012,MGnify,EMBL-EBI,Metagenomics,High,Pending
+G-013,BV-BRC,Bacterial and Viral Bioinformatics Resource Center,Pathogen Resource,Medium,Pending
+G-014,VFDB,Zhejiang University,Virulence Factors,Medium,Pending
+G-015,Pathogenwatch,Wellcome Sanger Institute,Genomic Surveillance,High,Pending
