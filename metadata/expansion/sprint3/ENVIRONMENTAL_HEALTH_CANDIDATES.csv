@@ -1,0 +1,16 @@
+Candidate_ID,Dataset_Name,Provider,Official_URL,Country,Scope,Access,API,Download_Method,License,Update_Frequency,Priority,Verification_Status,Automation_Status,Reviewer,Notes
+EH-001,MGnify,EMBL-EBI,https://www.ebi.ac.uk/metagenomics/,Global,Environmental Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Environmental metagenomics
+EH-002,NCBI BioProject,NCBI,https://www.ncbi.nlm.nih.gov/bioproject/,Global,Environmental Health,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Environmental sequencing projects
+EH-003,NCBI BioSample,NCBI,https://www.ncbi.nlm.nih.gov/biosample/,Global,Environmental Health,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Environmental sample metadata
+EH-004,ENA,EMBL-EBI,https://www.ebi.ac.uk/ena/,Global,Environmental Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,European Nucleotide Archive
+EH-005,Earth Microbiome Project,EMP,https://earthmicrobiome.org/,Global,Environmental Health,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,Global microbial ecology
+EH-006,PANGAEA,AWI,https://www.pangaea.de/,Global,Environmental Health,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Earth and environmental science repository
+EH-007,GBIF,GBIF,https://www.gbif.org/,Global,Environmental Health,Open,Yes,REST_API,CC-BY,Continuous,High,Verified,Pending,,Global biodiversity occurrence data
+EH-008,GEO BON,GEO BON,https://geobon.org/,Global,Environmental Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Biodiversity observation network
+EH-009,Copernicus Climate Data Store,ECMWF,https://cds.climate.copernicus.eu/,Global,Environmental Health,Open,Yes,API,Open,Continuous,High,Verified,Pending,,Climate observations
+EH-010,NOAA NCEI,NOAA,https://www.ncei.noaa.gov/,Global,Environmental Health,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Environmental and climate data
+EH-011,NASA Earthdata,NASA,https://www.earthdata.nasa.gov/,Global,Environmental Health,Open,Yes,API,Open,Continuous,High,Verified,Pending,,Earth observation datasets
+EH-012,GEMStat,UNEP,https://gemstat.org/,Global,Environmental Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Global freshwater quality
+EH-013,AquaMaps,AquaMaps,https://www.aquamaps.org/,Global,Environmental Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Aquatic biodiversity
+EH-014,WorldClim,WorldClim,https://www.worldclim.org/,Global,Environmental Health,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,Global climate layers
+EH-015,SoilGrids,ISRIC,https://soilgrids.org/,Global,Environmental Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Global soil properties

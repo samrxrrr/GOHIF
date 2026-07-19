@@ -1,0 +1,49 @@
+======================================================================
+GOHIF GENOMICS REGISTRY AUDIT
+======================================================================
+
+Total genomics datasets : 15
+
+Current datasets
+----------------------------------------------------------------------
+01. AMRFinderPlus
+02. BV-BRC
+03. BacMet
+04. CARD
+05. ENA
+06. ICEberg
+07. ISfinder
+08. MEGARes
+09. MGnify
+10. PLSDB
+11. Pathogenwatch
+12. RefSeq
+13. ResFinder
+14. SRA
+15. VFDB
+
+Providers
+----------------------------------------------------------------------
+NCBI                                3
+EMBL-EBI                            2
+McMaster University                 1
+DTU                                 1
+University of Maryland              1
+Gothenburg University               1
+ETH Zurich                          1
+Shanghai Jiao Tong University       1
+ISfinder Consortium                 1
+BV-BRC Consortium                   1
+Zhejiang University                 1
+Wellcome Sanger Institute           1
+
+Download methods
+----------------------------------------------------------------------
+Unknown              5
+HTTP                 4
+REPOSITORY           1
+CLI                  1
+NCBI_DATASETS_CLI    1
+SRA_TOOLKIT          1
+ENA_API              1
+REST_API             1

@@ -1,0 +1,16 @@
+Candidate_ID,Dataset_Name,Provider,Official_URL,Country,Scope,Access,API,Download_Method,License,Update_Frequency,Priority,Verification_Status,Automation_Status,Reviewer,Notes
+PH-001,EPPO Global Database,EPPO,https://gd.eppo.int/,Europe,Plant Health,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,Plant pests and diseases
+PH-002,CABI Crop Protection Compendium,CABI,https://www.cabi.org/cpc/,Global,Plant Health,Restricted,No,HTTP,Commercial,Continuous,High,Verified,Pending,,Crop pest knowledgebase
+PH-003,IPPC Pest Reports,IPPC,https://www.ippc.int/,Global,Plant Health,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,International Plant Protection Convention
+PH-004,USDA PLANTS Database,USDA,https://plants.usda.gov/,USA,Plant Health,Open,No,HTTP,Public,Continuous,Medium,Verified,Pending,,Plant taxonomy and distribution
+PH-005,GRIN Global,USDA,https://npgsweb.ars-grin.gov/,Global,Plant Health,Open,No,HTTP,Public,Continuous,High,Verified,Pending,,Plant genetic resources
+PH-006,Genesys PGR,Genesys,https://www.genesys-pgr.org/,Global,Plant Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Plant germplasm accessions
+PH-007,PlantVillage,Penn State University,https://plantvillage.psu.edu/,Global,Plant Health,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,Plant disease diagnostics
+PH-008,IRRI Rice Knowledge Bank,IRRI,https://www.irri.org/,Global,Plant Health,Open,No,HTTP,Open,Continuous,Medium,Verified,Pending,,Rice production and disease resources
+PH-009,WheatIS,Wheat Initiative,https://wheatis.org/,Global,Plant Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Global wheat information system
+PH-010,MaizeGDB,MaizeGDB,https://www.maizegdb.org/,Global,Plant Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Maize genetics and genomics
+PH-011,Ensembl Plants,EMBL-EBI,https://plants.ensembl.org/,Global,Plant Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Plant genome browser
+PH-012,PLAZA Plant Comparative Genomics,VIB,https://bioinformatics.psb.ugent.be/plaza/,Global,Plant Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Comparative plant genomics
+PH-013,Sol Genomics Network,SGN,https://solgenomics.net/,Global,Plant Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Solanaceae genomics
+PH-014,TAIR,The Arabidopsis Information Resource,https://www.arabidopsis.org/,Global,Plant Health,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,Arabidopsis genetics
+PH-015,PHI-base,PHI-base Consortium,https://www.phi-base.org/,Global,Plant Health,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,Pathogen-host interaction database

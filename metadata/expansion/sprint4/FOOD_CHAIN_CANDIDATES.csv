@@ -1,0 +1,16 @@
+Candidate_ID,Dataset_Name,Provider,Official_URL,Country,Scope,Access,API,Download_Method,License,Update_Frequency,Priority,Verification_Status,Automation_Status,Reviewer,Notes
+FC-001,FAOSTAT,FAO,https://www.fao.org/faostat/,Global,Food Chain,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Global agriculture and food production statistics
+FC-002,WHO GEMS/Food,WHO,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,Global,Food Chain,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,Global Environment Monitoring System for Food
+FC-003,FoodData Central,USDA,https://fdc.nal.usda.gov/,USA,Food Chain,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Comprehensive food composition database
+FC-004,GenomeTrakr,FDA,https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network,USA,Food Chain,Open,No,HTTP,Public,Continuous,High,Verified,Pending,,Foodborne pathogen whole-genome sequencing network
+FC-005,EFSA OpenFoodTox,EFSA,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,Europe,Food Chain,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,Chemical hazard database for food safety
+FC-006,FoodEx2,EFSA,https://www.efsa.europa.eu/en/data/data-standardisation,Europe,Food Chain,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Standardized food classification system
+FC-007,Codex Alimentarius,FAO/WHO,https://www.fao.org/fao-who-codexalimentarius/,Global,Food Chain,Open,No,HTTP,Open,Periodic,High,Verified,Pending,,International food standards
+FC-008,FoodMicrobionet,University of Turin,https://www.foodmicrobionet.org/,Global,Food Chain,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Food microbiome reference database
+FC-009,AGROVOC,FAO,https://agrovoc.fao.org/,Global,Food Chain,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Multilingual agricultural vocabulary
+FC-010,RASFF Portal,European Commission,https://webgate.ec.europa.eu/rasff-window/,Europe,Food Chain,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,Rapid Alert System for Food and Feed
+FC-011,FoodRisk-Labs,FoodRisk-Labs,https://foodrisklabs.bfr.bund.de/,Germany,Food Chain,Open,No,HTTP,Open,Periodic,Medium,To_Verify,Pending,,Food safety risk assessment resources
+FC-012,INFOSAN,WHO/FAO,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,Global,Food Chain,Open,No,HTTP,Open,Continuous,High,Verified,Pending,,International Food Safety Authorities Network
+FC-013,USDA Food Safety and Inspection Service Data,USDA FSIS,https://www.fsis.usda.gov/,USA,Food Chain,Open,No,HTTP,Public,Continuous,Medium,Verified,Pending,,Food inspection and recalls
+FC-014,OpenFoodFacts,OpenFoodFacts,https://world.openfoodfacts.org/,Global,Food Chain,Open,Yes,REST_API,ODbL,Continuous,Medium,Verified,Pending,,Crowdsourced food product database
+FC-015,European Food Safety Open Data Portal,EFSA,https://open.efsa.europa.eu/,Europe,Food Chain,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,EFSA scientific datasets

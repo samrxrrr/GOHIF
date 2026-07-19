@@ -1,0 +1,31 @@
+Candidate_ID,Dataset_Name,Provider,Official_URL,Country,Scope,Access,API,Download_Method,License,Update_Frequency,Priority,Verification_Status,Automation_Status,Reviewer,Notes
+GN-001,GenBank,NCBI,https://www.ncbi.nlm.nih.gov/genbank/,Global,Genomics,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Primary nucleotide sequence archive
+GN-002,DDBJ,DDBJ Center,https://www.ddbj.nig.ac.jp/,Japan,Genomics,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,DNA Data Bank of Japan
+GN-003,Ensembl Genomes,EMBL-EBI,https://ensemblgenomes.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Genome browser for non-vertebrates
+GN-004,Ensembl Bacteria,EMBL-EBI,https://bacteria.ensembl.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Bacterial genome browser
+GN-005,Ensembl Protists,EMBL-EBI,https://protists.ensembl.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Protist genomes
+GN-006,NCBI Gene,NCBI,https://www.ncbi.nlm.nih.gov/gene/,Global,Genomics,Open,Yes,REST_API,Public,Continuous,High,Verified,Pending,,Gene-centered reference resource
+GN-007,InterPro,EMBL-EBI,https://www.ebi.ac.uk/interpro/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Protein family annotation
+GN-008,Pfam,EMBL-EBI,https://www.ebi.ac.uk/interpro/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Protein domain database
+GN-009,eggNOG,EMBL-EBI,https://eggnog.embl.de/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Orthology database
+GN-010,SMART,EMBL,https://smart.embl.de/,Global,Genomics,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Protein domain architecture
+GN-011,SUPERFAMILY,University of Bristol,https://supfam.org/,UK,Genomics,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Structural protein families
+GN-012,COG Database,NCBI,https://www.ncbi.nlm.nih.gov/research/cog/,Global,Genomics,Open,No,HTTP,Public,Periodic,Medium,Verified,Pending,,Clusters of Orthologous Groups
+GN-013,OrthoDB,University of Geneva,https://www.orthodb.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Ortholog catalog
+GN-014,OMA Browser,SIB,https://omabrowser.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Orthology inference
+GN-015,MicroScope,Genoscope,https://mage.genoscope.cns.fr/,France,Genomics,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Microbial genome annotation
+GN-016,Ensembl Compara,EMBL-EBI,https://www.ensembl.org/info/genome/compara/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Comparative genomics
+GN-017,PANTHER,USC,https://www.pantherdb.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Protein classification
+GN-018,KEGG GENES,KEGG,https://www.kegg.jp/kegg/genes.html,Japan,Genomics,Restricted,No,HTTP,Restricted,Periodic,High,Verified,Pending,,Gene catalog
+GN-019,GTDB,GTDB Consortium,https://gtdb.ecogenomic.org/,Global,Genomics,Open,Yes,HTTP,Open,Continuous,High,Verified,Pending,,Genome Taxonomy Database
+GN-020,SILVA,ARB-SILVA,https://www.arb-silva.de/,Global,Genomics,Open,Yes,HTTP,Open,Continuous,High,Verified,Pending,,rRNA reference database
+GN-021,RDP,Michigan State University,https://rdp.cme.msu.edu/,Global,Genomics,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Ribosomal Database Project
+GN-022,Open Tree of Life,OpenTree,https://tree.opentreeoflife.org/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Phylogenetic synthesis
+GN-023,TimeTree,Temple University,https://timetree.org/,Global,Genomics,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Evolutionary divergence times
+GN-024,Expression Atlas,EMBL-EBI,https://www.ebi.ac.uk/gxa/home,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Gene expression atlas
+GN-025,PRIDE,EMBL-EBI,https://www.ebi.ac.uk/pride/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Proteomics repository
+GN-026,MetaboLights,EMBL-EBI,https://www.ebi.ac.uk/metabolights/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Metabolomics repository
+GN-027,BioStudies,EMBL-EBI,https://www.ebi.ac.uk/biostudies/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Life science study archive
+GN-028,UniProt,UniProt Consortium,https://www.uniprot.org/,Global,Genomics,Open,Yes,REST_API,CC-BY,Continuous,High,Verified,Pending,,Protein sequence knowledgebase
+GN-029,AlphaFold Protein Structure Database,DeepMind & EMBL-EBI,https://alphafold.ebi.ac.uk/,Global,Genomics,Open,Yes,REST_API,CC-BY,Continuous,High,Verified,Pending,,AI-predicted protein structures
+GN-030,PDBe,EMBL-EBI,https://www.ebi.ac.uk/pdbe/,Global,Genomics,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Protein Data Bank in Europe
