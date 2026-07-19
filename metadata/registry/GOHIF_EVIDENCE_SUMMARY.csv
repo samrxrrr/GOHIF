@@ -1,0 +1,25 @@
+One_Health_Domain,Primary_Evidence_Layer,Datasets
+Animal Health,Animal AMR Surveillance,2
+Animal Health,Veterinary Antimicrobial Use,2
+Animal Health,Animal Disease Surveillance,1
+Animal Health,Population & Production Systems,1
+Animal Health;Food Chain,Animal AMR Surveillance,1
+Environmental Health,Chemical Surveillance,1
+Environmental Health,Environmental AMR Surveillance,1
+Environmental Health,Environmental Microbiome,1
+Environmental Health,Metagenomic Surveillance,1
+Environmental Health,Wastewater Surveillance,1
+Environmental Health,Water Quality Monitoring,1
+Food Chain,Foodborne AMR Surveillance,1
+Food Chain,Integrated Food Surveillance,1
+Food Chain,Retail Food Surveillance,1
+Food Chain,Whole Genome Surveillance,1
+Genomics,Genomics & Molecular Evidence,15
+Human Health,National Surveillance,3
+Human Health,Regional Surveillance,2
+Human Health,Continental Coordination,1
+Human Health,Cross-Domain Surveillance,1
+Human Health,Global Surveillance,1
+Human Health,Integrated Evidence,1
+Human Health,Laboratory Surveillance,1
+Plant Health,Plant Health,10

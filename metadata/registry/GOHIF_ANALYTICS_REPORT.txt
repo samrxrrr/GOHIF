@@ -1,0 +1,93 @@
+
+================================================================================
+GOHIF REGISTRY
+================================================================================
+
+Datasets : 152
+Columns  : 52
+Domains  : 7
+Organizations : 98
+
+================================================================================
+DOMAIN DISTRIBUTION
+================================================================================
+
+One_Health_Domain
+Genomics                    45
+Plant Health                25
+Animal Health               21
+Environmental Health        21
+Human Health                20
+Food Chain                  19
+Animal Health;Food Chain     1
+
+================================================================================
+VALIDATION
+================================================================================
+
+Severity
+WARNING    75
+
+================================================================================
+FAIR
+================================================================================
+
+count    152.000000
+mean      55.065789
+std        7.805306
+min       40.000000
+25%       50.000000
+50%       60.000000
+75%       60.000000
+max       60.000000
+
+================================================================================
+SCIENTIFIC
+================================================================================
+
+count    152.000000
+mean      55.065789
+std        7.805306
+min       40.000000
+25%       50.000000
+50%       60.000000
+75%       60.000000
+max       60.000000
+
+================================================================================
+HEALTH
+================================================================================
+
+Health_Status
+LIMITED      104
+NOT_READY     45
+FAIR           3
+
+================================================================================
+PRIMARY EVIDENCE
+================================================================================
+
+Primary_Evidence_Layer
+Genomics & Molecular Evidence      15
+Plant Health                       10
+Animal AMR Surveillance             3
+National Surveillance               3
+Regional Surveillance               2
+Veterinary Antimicrobial Use        2
+Animal Disease Surveillance         1
+Environmental Microbiome            1
+Environmental AMR Surveillance      1
+Cross-Domain Surveillance           1
+Continental Coordination            1
+Chemical Surveillance               1
+Integrated Evidence                 1
+Global Surveillance                 1
+Foodborne AMR Surveillance          1
+Metagenomic Surveillance            1
+Laboratory Surveillance             1
+Integrated Food Surveillance        1
+Population & Production Systems     1
+Retail Food Surveillance            1
+Wastewater Surveillance             1
+Water Quality Monitoring            1
+Whole Genome Surveillance           1

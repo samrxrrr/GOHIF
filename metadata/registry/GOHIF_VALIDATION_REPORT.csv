@@ -1,0 +1,76 @@
+Severity,Issue,Column,GOHIF_ID,Dataset_Name
+WARNING,Missing Value,Official_Website,GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System
+WARNING,Missing Value,Official_Website,GOHIF-DS-0002,ATLAS
+WARNING,Missing Value,Official_Website,GOHIF-DS-0003,EARS-Net
+WARNING,Missing Value,Official_Website,GOHIF-DS-0004,AMRSN
+WARNING,Missing Value,Official_Website,GOHIF-DS-0005,JANIS
+WARNING,Missing Value,Official_Website,GOHIF-DS-0006,UKHSA AMR Surveillance
+WARNING,Missing Value,Official_Website,GOHIF-DS-0007,NARMS
+WARNING,Missing Value,Official_Website,GOHIF-DS-0008,ReLAVRA+
+WARNING,Missing Value,Official_Website,GOHIF-DS-0009,ResistanceMap
+WARNING,Missing Value,Official_Website,GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives
+WARNING,Missing Value,Official_Website,GOHIF-DS-0011,WOAH ANIMUSE
+WARNING,Missing Value,Official_Website,GOHIF-DS-0012,WOAH WAHIS
+WARNING,Missing Value,Official_Website,GOHIF-DS-0013,European Surveillance of Veterinary Antimicrobial Consumption
+WARNING,Missing Value,Official_Website,GOHIF-DS-0014,DANMAP
+WARNING,Missing Value,Official_Website,GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance
+WARNING,Missing Value,Official_Website,GOHIF-DS-0016,FAOSTAT
+WARNING,Missing Value,Official_Website,GOHIF-DS-0017,FAO InFARM
+WARNING,Missing Value,Official_Website,GOHIF-DS-0018,WHO Tricycle Environmental Component
+WARNING,Missing Value,Official_Website,GOHIF-DS-0019,MGnify
+WARNING,Missing Value,Official_Website,GOHIF-DS-0020,UNEP GEMS/Water
+WARNING,Missing Value,Official_Website,GOHIF-DS-0021,Earth Microbiome Project
+WARNING,Missing Value,Official_Website,GOHIF-DS-0022,NORMAN Network
+WARNING,Missing Value,Official_Website,GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection
+WARNING,Missing Value,Official_Website,GOHIF-DS-0024,NARMS Retail Meat Surveillance
+WARNING,Missing Value,Official_Website,GOHIF-DS-0025,EFSA/ECDC Food Component
+WARNING,Missing Value,Official_Website,GOHIF-DS-0026,CIPARS Food Component
+WARNING,Missing Value,Official_Website,GOHIF-DS-0027,GenomeTrakr
+WARNING,Missing Value,Download_URL,GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System
+WARNING,Missing Value,Download_URL,GOHIF-DS-0002,ATLAS
+WARNING,Missing Value,Download_URL,GOHIF-DS-0003,EARS-Net
+WARNING,Missing Value,Download_URL,GOHIF-DS-0004,AMRSN
+WARNING,Missing Value,Download_URL,GOHIF-DS-0005,JANIS
+WARNING,Missing Value,Download_URL,GOHIF-DS-0006,UKHSA AMR Surveillance
+WARNING,Missing Value,Download_URL,GOHIF-DS-0007,NARMS
+WARNING,Missing Value,Download_URL,GOHIF-DS-0008,ReLAVRA+
+WARNING,Missing Value,Download_URL,GOHIF-DS-0009,ResistanceMap
+WARNING,Missing Value,Download_URL,GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives
+WARNING,Missing Value,Download_URL,GOHIF-DS-0011,WOAH ANIMUSE
+WARNING,Missing Value,Download_URL,GOHIF-DS-0012,WOAH WAHIS
+WARNING,Missing Value,Download_URL,GOHIF-DS-0013,European Surveillance of Veterinary Antimicrobial Consumption
+WARNING,Missing Value,Download_URL,GOHIF-DS-0014,DANMAP
+WARNING,Missing Value,Download_URL,GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance
+WARNING,Missing Value,Download_URL,GOHIF-DS-0016,FAOSTAT
+WARNING,Missing Value,Download_URL,GOHIF-DS-0017,FAO InFARM
+WARNING,Missing Value,Download_URL,GOHIF-DS-0018,WHO Tricycle Environmental Component
+WARNING,Missing Value,Download_URL,GOHIF-DS-0019,MGnify
+WARNING,Missing Value,Download_URL,GOHIF-DS-0020,UNEP GEMS/Water
+WARNING,Missing Value,Download_URL,GOHIF-DS-0021,Earth Microbiome Project
+WARNING,Missing Value,Download_URL,GOHIF-DS-0022,NORMAN Network
+WARNING,Missing Value,Download_URL,GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection
+WARNING,Missing Value,Download_URL,GOHIF-DS-0024,NARMS Retail Meat Surveillance
+WARNING,Missing Value,Download_URL,GOHIF-DS-0025,EFSA/ECDC Food Component
+WARNING,Missing Value,Download_URL,GOHIF-DS-0026,CIPARS Food Component
+WARNING,Missing Value,Download_URL,GOHIF-DS-0027,GenomeTrakr
+WARNING,Missing Value,Download_URL,GOHIF-DS-0028,EPPO Global Database
+WARNING,Missing Value,Download_URL,GOHIF-DS-0029,CABI Crop Protection Compendium
+WARNING,Missing Value,Download_URL,GOHIF-DS-0030,PHI-base
+WARNING,Missing Value,Download_URL,GOHIF-DS-0031,FungiDB
+WARNING,Missing Value,Download_URL,GOHIF-DS-0032,Ensembl Plants
+WARNING,Missing Value,Download_URL,GOHIF-DS-0033,Gramene
+WARNING,Missing Value,Download_URL,GOHIF-DS-0034,GenBank Plant Pathogens
+WARNING,Missing Value,Download_URL,GOHIF-DS-0035,European Nucleotide Archive
+WARNING,Missing Value,Download_URL,GOHIF-DS-0036,FAOSTAT Crops
+WARNING,Missing Value,Download_URL,GOHIF-DS-0037,NCBI Pathogen Detection (Plant)
+WARNING,Missing Value,Download_URL,GOHIF-DS-0039,ResFinder
+WARNING,Missing Value,Download_URL,GOHIF-DS-0040,AMRFinderPlus
+WARNING,Missing Value,Download_URL,GOHIF-DS-0044,ICEberg
+WARNING,Missing Value,Download_URL,GOHIF-DS-0045,ISfinder
+WARNING,Missing Value,Download_URL,GOHIF-DS-0046,RefSeq
+WARNING,Missing Value,Download_URL,GOHIF-DS-0047,SRA
+WARNING,Missing Value,Download_URL,GOHIF-DS-0048,ENA
+WARNING,Missing Value,Download_URL,GOHIF-DS-0049,MGnify
+WARNING,Missing Value,Download_URL,GOHIF-DS-0050,BV-BRC
+WARNING,Missing Value,Download_URL,GOHIF-DS-0051,VFDB
+WARNING,Missing Value,Download_URL,GOHIF-DS-0052,Pathogenwatch
