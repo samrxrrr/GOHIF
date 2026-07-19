@@ -1,1 +1,16 @@
 GOHIF_ID,Dataset,Organization,Category,Tier,Status,Version,Domain,Source_URL
+GOHIF-DS-0038,CARD,McMaster University,AMR Gene Database,Tier 1,Accepted,v1.0,Genomics,https://card.mcmaster.ca/
+GOHIF-DS-0039,ResFinder,DTU,AMR Gene Database,Tier 1,Accepted,v1.0,Genomics,https://cge.food.dtu.dk/services/ResFinder/
+GOHIF-DS-0040,AMRFinderPlus,NCBI,AMR Gene Database,Tier 1,Accepted,v1.0,Genomics,https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/
+GOHIF-DS-0041,MEGARes,University of Maryland,AMR Gene Database,Tier 1,Accepted,v1.0,Genomics,https://megares.meglab.org/
+GOHIF-DS-0042,BacMet,Gothenburg University,Biocide and Metal Resistance,Tier 1,Accepted,v1.0,Genomics,http://bacmet.biomedicine.gu.se/
+GOHIF-DS-0043,PLSDB,ETH Zurich,Plasmid Database,Tier 1,Accepted,v1.0,Genomics,https://ccb-microbe.cs.uni-saarland.de/plsdb/
+GOHIF-DS-0044,ICEberg,Shanghai Jiao Tong University,Mobile Genetic Elements,Tier 2,Accepted,v1.0,Genomics,http://db-mml.sjtu.edu.cn/ICEberg/
+GOHIF-DS-0045,ISfinder,ISfinder Consortium,Insertion Sequences,Tier 1,Accepted,v1.0,Genomics,https://www-is.biotoul.fr/
+GOHIF-DS-0046,RefSeq,NCBI,Reference Genomes,Tier 1,Accepted,v1.0,Genomics,https://www.ncbi.nlm.nih.gov/refseq/
+GOHIF-DS-0047,SRA,NCBI,Sequence Repository,Tier 1,Accepted,v1.0,Genomics,https://www.ncbi.nlm.nih.gov/sra
+GOHIF-DS-0048,ENA,EMBL-EBI,Sequence Repository,Tier 1,Accepted,v1.0,Genomics,https://www.ebi.ac.uk/ena/
+GOHIF-DS-0049,MGnify,EMBL-EBI,Metagenomics,Tier 1,Accepted,v1.0,Genomics,https://www.ebi.ac.uk/metagenomics/
+GOHIF-DS-0050,BV-BRC,BV-BRC Consortium,Pathogen Resource,Tier 2,Accepted,v1.0,Genomics,https://www.bv-brc.org/
+GOHIF-DS-0051,VFDB,Zhejiang University,Virulence Factors,Tier 2,Accepted,v1.0,Genomics,http://www.mgc.ac.cn/VFs/
+GOHIF-DS-0052,Pathogenwatch,Wellcome Sanger Institute,Genomic Surveillance,Tier 1,Accepted,v1.0,Genomics,https://pathogen.watch/

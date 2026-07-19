@@ -1,1 +1,11 @@
 GOHIF_ID,Dataset,Organization,Category,Tier,Status,Version,Domain,Source_URL
+GOHIF-DS-0028,EPPO Global Database,EPPO,Plant Surveillance,Tier 1,Accepted,v1.0,Plant Health,https://gd.eppo.int/
+GOHIF-DS-0029,CABI Crop Protection Compendium,CABI,Plant Disease Knowledgebase,Tier 1,Accepted,v1.0,Plant Health,https://www.cabi.org/cpc/
+GOHIF-DS-0030,PHI-base,PHI-base Consortium,Host-Pathogen Interactions,Tier 1,Accepted,v1.0,Plant Health,https://www.phi-base.org/
+GOHIF-DS-0031,FungiDB,VEuPathDB,Fungal Pathogen Genomics,Tier 1,Accepted,v1.0,Plant Health,https://fungidb.org/
+GOHIF-DS-0032,Ensembl Plants,EMBL-EBI,Plant Genomics,Tier 1,Accepted,v1.0,Plant Health,https://plants.ensembl.org/
+GOHIF-DS-0033,Gramene,Gramene Consortium,Comparative Plant Genomics,Tier 1,Accepted,v1.0,Plant Health,https://www.gramene.org/
+GOHIF-DS-0034,GenBank Plant Pathogens,NCBI,Sequence Repository,Tier 1,Accepted,v1.0,Plant Health,https://www.ncbi.nlm.nih.gov/genbank/
+GOHIF-DS-0035,European Nucleotide Archive,EMBL-EBI,Sequence Repository,Tier 1,Accepted,v1.0,Plant Health,https://www.ebi.ac.uk/ena/
+GOHIF-DS-0036,FAOSTAT Crops,FAO,Agricultural Statistics,Tier 2,Accepted,v1.0,Plant Health,https://www.fao.org/faostat/
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),NCBI,Pathogen Surveillance,Tier 2,Accepted,v1.0,Plant Health,https://www.ncbi.nlm.nih.gov/pathogens/

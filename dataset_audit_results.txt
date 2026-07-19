@@ -1,0 +1,28 @@
+MRD/Master_Research_Document.md:11:**Current Phase:** Phase 0 – Repository Initialization
+MRD/Master_Research_Document.md:32:14. Repository Architecture
+MRD/Master_Research_Document.md:36:18. Dataset Strategy
+MRD/Master_Research_Document.md:56:Unlike conventional AMR analysis pipelines, GOHIF focuses on creating reusable scientific infrastructure rather than isolated analyses.
+MRD/Master_Research_Document.md:82:Repository Initialization
+MRD/Master_Research_Document.md:90:Develop a globally reusable computational framework for explainable One Health AMR research.
+MRD/Master_Research_Document.md:175:* Repository initialized
+MRD/Master_Research_Document.md:215:* Repository architecture frozen.
+MRD/Master_Research_Document.md:222:* Repository documentation.
+MRD/Master_Research_Document.md:232:* Dataset infrastructure.
+MDD/Master_Development_Document.md:11:**Current Phase:** Repository Initialization
+MDD/Master_Development_Document.md:19:3. Repository Information
+MDD/Master_Development_Document.md:26:10. Repository Architecture
+MDD/Master_Development_Document.md:72:# 3 Repository Information
+MDD/Master_Development_Document.md:74:Repository Name
+MDD/Master_Development_Document.md:82:Repository Status
+MDD/Master_Development_Document.md:86:Repository Architecture
+MDD/Master_Development_Document.md:173:# 10 Repository Architecture
+MDD/Master_Development_Document.md:175:Repository Architecture Version
+MDD/Master_Development_Document.md:293:Repository Initialization
+MDD/Master_Development_Document.md:301:Repository initialized
+MDD/Master_Development_Document.md:395:Repository initialized
+config/provenance.yaml:1:provenance:
+config/provenance.yaml:2:  enabled: true
+config/database.yaml:1:database:
+config/database.yaml:3:  filename: gohif.duckdb
+config/storage.yaml:7:database:
+config/logging.yaml:8:  filename: gohif.log
