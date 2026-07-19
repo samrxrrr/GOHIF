@@ -1,70 +1,96 @@
 """
-GOHIF Download Manager
-
-Reads the download manifest and dispatches datasets
-to the appropriate download backend.
-
-Version: 1.0
+GOHIF Download Engine v3
 """
 
-from __future__ import annotations
+from pathlib import Path
+import hashlib
 
-import pandas as pd
-
-try:
-    from .http_downloader import download as http_download
-    from .ncbi_downloader import NCBIDownloader
-    from .api_downloader import APIDownloader
-except ImportError:
-    from http_downloader import download as http_download
-    from ncbi_downloader import NCBIDownloader
-    from api_downloader import APIDownloader
-
+from manifest import ManifestManager
+from dispatcher import DownloadDispatcher
+from http_downloader import download as http_download
 
 MANIFEST = "metadata/downloads/GOHIF_Download_Manifest.csv"
 
 
-def show_summary(df):
+def sha256(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        while True:
+            chunk = f.read(1024 * 1024)
+            if not chunk:
+                break
+            h.update(chunk)
+    return h.hexdigest()
 
-    print("\n==============================")
-    print("GOHIF DOWNLOAD MANIFEST")
-    print("==============================")
 
-    print(f"Total datasets : {len(df)}")
+def filesize(path):
+    return Path(path).stat().st_size / (1024 * 1024)
 
-    print("\nAutomation levels")
-    print(df["Automation"].value_counts(dropna=False))
 
-    print("\nDownload methods")
-    print(df["Download_Method"].value_counts(dropna=False))
+def output_file(row):
 
-    print("==============================\n")
+    dataset = row["Dataset_Name"]
+
+    mapping = {
+        "CARD": "data/raw/genomics/CARD/card_data.tar.bz2",
+        "MEGARes": "data/raw/genomics/MEGARes/megares_v3.00.zip",
+        "BacMet": "data/raw/genomics/BacMet/BacMet2_EXP_database.fasta",
+        "PLSDB": "data/raw/genomics/PLSDB/plsdb.fna.bz2",
+    }
+
+    return mapping.get(dataset)
 
 
 def main():
 
-    df = pd.read_csv(MANIFEST).fillna("")
+    manifest = ManifestManager(MANIFEST)
+    dispatcher = DownloadDispatcher()
 
-    show_summary(df)
+    print("=" * 70)
+    print("GOHIF DOWNLOAD ENGINE")
+    print("=" * 70)
 
-    ncbi = NCBIDownloader()
-    api = APIDownloader()
+    for idx, row in manifest.datasets():
 
-    print("Dispatcher initialized.")
+        backend = dispatcher.dispatch(row)
 
-    print("\nConfigured datasets:\n")
+        if backend != "HTTP":
+            continue
 
-    cols = [
-        "GOHIF_ID",
-        "Dataset_Name",
-        "Download_Method",
-        "Automation",
-    ]
+        outfile = output_file(row)
 
-    print(df[df["Automation"] == "Full"][cols].to_string(index=False))
+        if outfile is None:
+            continue
 
-    print("\nNo downloads executed.")
-    print("Framework ready.")
+        print(f"\nDownloading {row['Dataset_Name']}...\n")
+
+        ok = http_download(
+            row["Download_URL"],
+            outfile
+        )
+
+        if ok:
+
+            manifest.update(
+                idx,
+                status="Success",
+                local_file=outfile,
+                sha256=sha256(outfile),
+                size_mb=filesize(outfile),
+                error=""
+            )
+
+            print("SUCCESS\n")
+
+        else:
+
+            manifest.update(
+                idx,
+                status="Failed",
+                error="Download failed"
+            )
+
+            print("FAILED\n")
 
 
 if __name__ == "__main__":
