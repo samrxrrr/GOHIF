@@ -1,1 +1,11 @@
 Dataset_ID,Dataset_Name,Provider,Official_URL,Domain,Subdomain,Country,Scope,Data_Type,File_Format,Access,License,API,Download_Method,Authentication,Version,Update_Frequency,FAIR_Status,Evidence_Level,Automation_Level,Integration_Priority,Schema_Status,Quality_Score,Last_Verified,Status,Reviewer,Notes
+HH-001,WHO GLASS,WHO,https://www.who.int/initiatives/glass,Global,Global,Open,No,Manual,WHO,Annual,High,Pending,Pending,,
+HH-002,WHO AWaRe,WHO,https://aware.essentialmeds.org,Global,Global,Open,No,Manual,WHO,Periodic,High,Pending,Pending,,
+HH-003,WHO Essential Medicines List,WHO,https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines,Global,Global,Open,No,HTTP,WHO,Biennial,Medium,Pending,Pending,,
+HH-004,CDC NHSN AR Option,CDC,https://www.cdc.gov/nhsn/,USA,National,Restricted,No,Manual,CDC,Annual,High,Pending,Pending,,
+HH-005,ECDC Surveillance Atlas,ECDC,https://atlas.ecdc.europa.eu,Europe,Regional,Open,Yes,REST_API,ECDC,Continuous,High,Pending,Pending,,
+HH-006,ClinicalTrials.gov,NIH,https://clinicaltrials.gov,Global,Global,Open,Yes,REST_API,Public,Daily,Medium,Pending,Pending,,
+HH-007,GISAID Metadata,GISAID,https://gisaid.org,Global,Global,Restricted,Yes,API,GISAID,Continuous,High,Pending,Pending,,
+HH-008,Pathogenwatch,Pathogenwatch,https://pathogen.watch,Global,Global,Open,Yes,REST_API,Public,Continuous,High,Pending,Pending,,
+HH-009,OpenSAFELY,OpenSAFELY,https://www.opensafely.org,UK,National,Restricted,No,Manual,OpenSAFELY,Continuous,Medium,Pending,Pending,,
+HH-010,Vivli,Vivli,https://vivli.org,Global,Global,Restricted,No,Manual,Vivli,Continuous,Medium,Pending,Pending,,

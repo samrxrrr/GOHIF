@@ -1,0 +1,14 @@
+Backend,Supported,Authentication,Parallel,Resume,Checksum,Status
+HTTP,Yes,No,Yes,Yes,Optional,Implemented
+REST_API,Yes,Optional,Yes,No,Optional,Implemented
+FTP,Planned,No,Yes,Yes,Optional,Planned
+Git,Yes,No,No,No,Git Hash,Implemented
+NCBI_DATASETS_CLI,Yes,No,Yes,Yes,Built-in,Implemented
+SRA_TOOLKIT,Yes,No,Yes,Yes,Built-in,Implemented
+ENA_API,Planned,No,Yes,No,Optional,Planned
+AWS_OPEN_DATA,Planned,Optional,Yes,Yes,Optional,Planned
+GOOGLE_CLOUD_STORAGE,Planned,Optional,Yes,Yes,Optional,Planned
+ZENODO,Planned,No,Yes,Yes,MD5,Planned
+FIGSHARE,Planned,No,Yes,Yes,MD5,Planned
+DOI_RESOLVER,Planned,No,No,No,N/A,Planned
+KAGGLE,Planned,Yes,Yes,Yes,Optional,Planned

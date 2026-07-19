@@ -1,0 +1,11 @@
+Dataset,Backend,Status,Last_Run,Notes
+WHO GLASS,MANUAL,Pending,,
+WHO AWaRe,MANUAL,Pending,,
+WHO Essential Medicines,HTTP,Pending,,
+CDC NHSN,MANUAL,Pending,,
+ECDC Atlas,REST_API,Pending,,
+ClinicalTrials.gov,REST_API,Pending,,
+GISAID,API,Pending,,
+Pathogenwatch,REST_API,Pending,,
+OpenSAFELY,MANUAL,Pending,,
+Vivli,MANUAL,Pending,,
