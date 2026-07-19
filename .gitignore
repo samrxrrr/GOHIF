@@ -1,18 +1,16 @@
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
+*.so
 
 # Virtual environments
 .env
 .venv
+venv/
 
 # Logs
+*.log
 logs/
-
-# Temporary files
-tmp/
-cache/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -21,55 +19,11 @@ cache/
 .DS_Store
 Thumbs.db
 
-# ==========================
-# GOHIF Raw Data
-# ==========================
+# Build
+build/
+dist/
+*.egg-info/
 
-data/raw/
-data/processed/
-data/intermediate/
-tmp/
-cache/
-
-*.zip
-*.gz
-*.tar
-*.tar.gz
-*.fasta
-*.fa
-*.fastq
-*.fq
-*.bam
-*.sam
-*.sra
-*.sqlite
-
-# ==================================================
-# GOHIF Generated Data
-# ==================================================
-
-data/raw/
-data/processed/
-data/intermediate/
-tmp/
-cache/
-logs/
-
-*.zip
-*.gz
-*.bz2
-*.xz
-*.tar
-*.tar.gz
-*.7z
-
-*.fa
-*.fasta
-*.fna
-*.faa
-*.fastq
-*.fq
-*.bam
-*.sam
-*.sra
-*.sqlite
+# Temporary
+*.tmp
+*.bak
