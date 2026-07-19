@@ -1,0 +1,18 @@
+{
+  "id": "animal_health",
+  "name": "Animal Health",
+  "version": "1.0",
+  "status": "Frozen",
+  "phase": "Phase 2",
+  "datasets": [
+    "AH-001",
+    "AH-002",
+    "AH-003",
+    "AH-004",
+    "AH-005",
+    "AH-006"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/animal_health/AH_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/animal_health/SRR_AH_001.md",
+  "freeze": true
+}

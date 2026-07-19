@@ -1,0 +1,9 @@
+{
+  "id": "AH-006",
+  "name": "NARMS Animal",
+  "domain": "Animal Health",
+  "organization": "USDA",
+  "tier": "Tier 2",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "environmental_health",
+  "name": "Environmental Health",
+  "version": "1.0",
+  "status": "Frozen",
+  "phase": "Phase 2",
+  "datasets": [
+    "EH-001",
+    "EH-002",
+    "EH-003",
+    "EH-004",
+    "EH-005",
+    "EH-006"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/environmental_health/EH_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/environmental_health/SRR_EH_001.md",
+  "freeze": true
+}

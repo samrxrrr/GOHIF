@@ -1,0 +1,9 @@
+{
+  "id": "HH-005",
+  "name": "NARMS Human",
+  "domain": "Human Health",
+  "organization": "CDC",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

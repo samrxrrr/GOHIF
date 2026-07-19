@@ -1,0 +1,9 @@
+{
+  "id": "AH-004",
+  "name": "Vet-LIRN",
+  "domain": "Animal Health",
+  "organization": "US FDA",
+  "tier": "Tier 2",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

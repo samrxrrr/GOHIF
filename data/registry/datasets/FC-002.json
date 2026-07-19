@@ -1,0 +1,9 @@
+{
+  "id": "FC-002",
+  "name": "EFSA/ECDC Food Component",
+  "domain": "Food Chain",
+  "organization": "EFSA/ECDC",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

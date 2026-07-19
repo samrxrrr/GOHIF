@@ -1,0 +1,9 @@
+{
+  "id": "AH-005",
+  "name": "DANMAP Animal",
+  "domain": "Animal Health",
+  "organization": "Denmark",
+  "tier": "Tier 2",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

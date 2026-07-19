@@ -1,0 +1,9 @@
+{
+  "id": "AH-003",
+  "name": "ESVAC",
+  "domain": "Animal Health",
+  "organization": "EMA",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

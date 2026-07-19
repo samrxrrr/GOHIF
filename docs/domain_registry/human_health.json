@@ -1,0 +1,20 @@
+{
+  "id": "human_health",
+  "name": "Human Health",
+  "version": "1.0",
+  "status": "Frozen",
+  "phase": "Phase 2",
+  "datasets": [
+    "HH-001",
+    "HH-002",
+    "HH-003",
+    "HH-004",
+    "HH-005",
+    "HH-006",
+    "HH-007",
+    "HH-008"
+  ],
+  "coverage_analysis": "docs/coverage_analysis/human_health/HH_Coverage_Analysis_v1.md",
+  "srr": "docs/SRR/human_health/SRR_HH_001.md",
+  "freeze": true
+}

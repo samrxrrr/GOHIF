@@ -1,0 +1,9 @@
+{
+  "id": "FC-003",
+  "name": "CIPARS Food Component",
+  "domain": "Food Chain",
+  "organization": "Public Health Agency of Canada",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}

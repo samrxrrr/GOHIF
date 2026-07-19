@@ -1,0 +1,9 @@
+{
+  "id": "FC-001",
+  "name": "NARMS Retail Meat Surveillance",
+  "domain": "Food Chain",
+  "organization": "CDC/FDA/USDA",
+  "tier": "Tier 1",
+  "evidence_class": "Primary",
+  "status": "Accepted"
+}
