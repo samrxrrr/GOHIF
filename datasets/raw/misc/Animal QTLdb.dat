@@ -1,0 +1,249 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<title>Animal Genome Databases: Home</title>
+<meta name="google-site-verification" content="kWjHFk6LX_AqXHXQbx3rMBQfWXDY2mSMQEpMm1ORQi4" />
+ <META HTTP-EQUIV="Content-Type" CONTENT="text/html">
+ <META NAME="AUTHOR" CONTENT="Zhiliang Hu">
+ <META NAME="description" CONTENT="NAGRP - National Animal Genome Research Program">
+ <META NAME="keywords" CONTENT="NAGRP, NRSP8, NRSP8, livestock, animal genome, genomics,
+ gene, genetics, QTL, DNA, database, pig, swine, sow, boar, pork, chicken, cow, cattle,
+ bovine, ovine, sheep, chick, chicken, hen, cock, broiler, fish, aquaculture">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <link REL="icon" href="/favicon.ico" type="image/x-icon"> 
+ <LINK REL="SHORTCUT ICON" HREF="/favicon.ico" type="image/x-icon" />
+ <LINK REL="STYLESHEET" TYPE="text/css" HREF="/default/style2.css" MEDIA=screen>
+<STYLE TYPE="text/css">
+BODY    { font-size: 2rem;  }
+SPAN.dm { color:#888; letter-spacing:0.10em; }
+SPAN.SN { font-size:12pt; font-family:arial rounded MT,Trebuchet MS,Tahoma,Geneva,helvetica;
+          color:#950; font-weight:500; }
+SPAN.inv { border-radius:0.8em;background-color:#f80;padding:0.1em 0.5em;color:#fFF; }
+IMG.IC  { height:180px; width:160px; }
+LI.a  { list-style-type:none; padding-left:21px; background-image: url('/icons/di-yellow.gif');
+        background-repeat:no-repeat; background-position:.1em .4em; line-height:1.5em;
+        font-size:1.2em; }
+I.lsno { color:#55a;font-family:arial narrow;letter-spacing:0.05em; font-size:1.1em;  }
+BODY { background-image:url('/icons/general/bkgrd_dnsfarm.jpg'); 
+       background-size:cover; background-size:auto 92%; background-padding:auto;
+       background-repeat:no-repeat; background-position:center center; }
+img.ff:hover { -webkit-transform: scaleX(-1);transform:scaleX(-1); }
+A.hovr    { font-size:12pt;letter-spacing:0.096em;color:#038;line-height:1.5em;
+            text-shadow:4px 2px 8px #faf,4px -2px 8px #ffa,-4px 2px 8px #ffa,-4px -2px 8px #aff; }
+A.hovr:hover { text-shadow:4px 5px 1px #ffa,4px -5px 1px #ffa,-4px 5px 1px #ffa,-4px -1px 8px #ffa;
+               font-weight:400; }
+</STYLE>
+
+<SCRIPT LANGUAGE="javascript">
+<!-- Hide script top.location.target="_top" if(window.location.target != "_top") {top.location.href=window.location.href} // -->
+</SCRIPT>
+<BASE TARGET="_top">
+</head>
+
+<body onclick=(window.location.href="javascript:HideContent('advr')")>
+<!-- popup text script starts --------- -->
+<script type="text/javascript" src="/share/popuptxt/wz_tooltip.js"></script>
+<!-- show/hide script ----------- -->
+<script type="text/javascript" language="JavaScript" src="/share/js/showhide.js"></script>
+
+<DIV style='display:table;width:100%;background-image:linear-gradient(to bottom, #cef,#def,#eff);border-bottom:3px solid #efebf6'>
+ <div style="display:table-row;">
+  <div style="display:table-cell;text-align:left;padding:5 8px">
+   <a href="/"><img style='height:34px;margin:1 8px;' src='/icons/animals/barn.png' alt='HOME'></a>
+   <a onMouseOver="Tip('<div style=&quot;padding:12 20px;&quot;><B>NRSP8</B>:<br>National Research Support Program 8 - supported by USDA/NIFA</div>', BGCOLOR, '#FFFF89', FADEIN, 400, SHADOW, true, SHADOWCOLOR, '#BDB76B', WIDTH, 380, ABOVE, true, TITLE, 'INFORMATION')" onMouseOut="UnTip()" href='/NRSP8' alt='NRSP8'><img style='height:25px;margin:1 8px' src='/icons/links/newnrsp8logo.png'></a>
+   <a onMouseOver="Tip('<div style=&quot;padding:12 20px;&quot;><B>RCN</B>:<br>Research Collaboration Network - supported by USDA/NIFA</div>', BGCOLOR, '#FFFF99', FADEIN, 400, SHADOW, true, SHADOWCOLOR, '#BDB76B', WIDTH, 330, ABOVE, true, TITLE, 'INFORMATION')" onMouseOut='UnTip()' href='/RCN' alt='RCN'><img style='height:25px;margin:1 8px' src='/icons/links/rcn3.png'></a>
+  </div>
+  <div style="display:table-cell;text-align:right;padding-right:10px"><a href="javascript:DisplayReverse('advr')"><img style='height:23px;' src='/icons/small/expand.png'></a></div>
+ </div><!-- table row -->
+</DIV>
+<!-- 
+<marquee direction="right" behavior="alternate" style='position:relative;top:-44px;left:250px;width:50%'>
+  <h3><a href='/community/bbs/'><img style='height:26px' src='/icons/misc/bbs.png'></a></h3>
+</marquee>
+ -->
+
+<div class='hidenLoC' id='advr' style='z-index:100'>
+<UL class='guid'>
+<LI><a style='color:#ff9' href="/news">What's new on the site</a></LI>
+<LI>NRSP8</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/NRSP8/?tab=abo'>Introduction</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/NRSP8/?tab=str'>Structure</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/bbs'>Bulletin board</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/NRSP8/join'>To participate</a></LI>
+
+<LI>RCN</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/RCN/?tab=str'>Structure</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/RCN/?tab=obj'>Objectives</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/RCN/?tab=pro'>Projects</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/RCN/?tab=pat'>Partnerships</a></LI>
+
+<LI>Communications</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/bbs'>Bulletin Board (BBS)</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/meetings'>Conferences, workshops, etc.</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/angenmap'>AnGenMap Listserv</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/angenmap/dir'>AGRC Directory</a></LI>
+
+<LI>Support community</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community'>Interest groups</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/community/#forum'>Forums</a> | <a class='hidenLoCa' href='/community/#service'>Services</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='https://www.faang.org/'>FAANG</a></LI>
+
+<LI>Databases/Projects</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/QTLdb'>QTLdb</a> | <a class='hidenLoCa' href='/CorrDB'>CorrDB</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/epidb'>EpiDB</a> | <a class='hidenLoCa' href='https://bmurdoch42.wixsite.com/ruminant-t2t'>Ruminant T2T</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/bioinfo/projects/vt/'>VT</a> | <a class='hidenLoCa' href='/bioinfo/projects/lpt/'>LPT</a> | <a class='hidenLoCa' href='/bioinfo/projects/lbo/'>LBO</a></LI>
+
+<LI>Utilities</LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/tools'>Tool box</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href='/cgi-bin/util/fileshare'>Data sharing platform</a></LI>
+<LI class='lst'>- <a class='hidenLoCa' href="/cgi-bin/angenmap/angendir?q=y">Member login</a></LI>
+
+<LI><a class='hidenLoCa' style='color:#aff' href="alt">Go to earlier web version</a></LI>
+</UL>
+</div>
+
+<DiV class='main'>
+
+<H1 style='text-align:center'>
+<a style="color:inherit;" href="https://www.nimss.org/projects/view/mrp/outline/18969">Building Applied Genomic Capacity for Animal Industries</a>
+</H1>
+<div style='margin:18px 0 16px 0'><!-- Start WOWSlider.com BODY section -->
+<link rel="stylesheet" type="text/css" href="/share/js/dynamic_slides/style.css" />
+<script type="text/javascript" src="/share/js/dynamic_slides/jquery.js"></script>
+<script type="text/javascript" src="/share/js/dynamic_slides/a.js"></script>
+
+ <div id="wowslider-container1">
+   <div class="ws_images" style='z-index:50'>
+    <ul>
+     <li><a href="/NRSP8/bigdata"><img src="/icons/banners/5_DATA.png" alt="data" title="Double click slide for info" id="data"></a></li>
+<li><a href="/NRSP8/?tab=abo"><img src="/icons/banners/1_nrsp8.png" alt="scienc" title="Double click slide for info" id="scienc"></a></li>
+<li><a href="/RCN/"><img src="/icons/banners/3_RCNa.png" alt="RCN" title="Double click slide for info" id="RCN"></a></li>
+<li><a href="/NRSP8/?tab=str"><img src="/icons/banners/4_NRSP8.png" alt="nrsp8" title="Double click slide for info" id="nrsp8b"></a></li>
+
+	 </ul>
+   </div>
+
+   <div class="ws_bullets">
+      <div>
+       <a href="#" title="DATA"><span><img src="/icons/banners/5_DATAs.png" alt="" /></span></a>
+<a href="#" title="NRSP8 science"><span><img src="/icons/banners/1_nrsp8s.png" alt="" /></span></a>
+<a href="#" title="RCN people"><span><img src="/icons/banners/3_RCNs.png" alt="" /></span></a>
+<a href="#" title="NRSP8 people"><span><img src="/icons/banners/4_NRSP8s.png" alt="" /></span></a>
+
+     </div>
+   </div>	
+ </div>	
+	<script type="text/javascript" src="/share/js/dynamic_slides/wowslider.js"></script>
+	<script type="text/javascript" src="/share/js/dynamic_slides/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+</div>
+<P>
+
+<div style='border:1px groove #cde;margin:18px auto;border-radius:8em;background-color:#efeffe;background-image:url("/icons/general/taskteamfaded.png");background-size:contain;background-repeat:no-repeat;background-position:center;padding:3em 5em 0.1em 5em;max-width:730px;'>
+<a href="/NRSP8/join" class='hovr'>
+ <div><span style='font-size:2.2em'>J</span>oin NRSP8 efforts at all levels of collaborations</div>
+  <div style='font-style:italic;margin:12px 0;padding-left:30px;font-size:1.3em;color:#55d;font-family:arial narrow;letter-spacing:0.05em'><span style='font-size:1.2em'>b</span>e it in terms of expertise, depths in science, or areas in applications.</div>
+   <div style='padding-left:60px'><span style='font-size:1.9em'>C</span>lick to see "How to join NRSP8?"</div>
+  <img style='margin-left:50%;height:60px;' src='/icons/misc/push_button.png' class='ff'>
+</a>
+</div>
+
+<DIV style='text-align:center;'><!-- (start)content block -->
+
+<fieldset class='inlblk'>
+<legend class='hd'><a style='color:inherit;' href="">Events and Activities</a></legend>
+<LI class='a'><B style='color:#d38'>Bulletin Board</B>:
+ <a href='/community/bbs'><I class='lsno'>news, short courses, workshops,<br> open positions, etc</I></a>
+<span class='SN'><span class='inv'>2</span> new posts</span>
+<!-- select count(1) from BBS where expiredate>now() -->
+</LI>
+<LI class='a'><B>Events</B>: <a href="/community/meetings"><I class='lsno'>meetings, symposium...</I></a>
+<span class='SN'><span class='inv'>3</span> upcoming</span></LI>
+</fieldset>
+
+<fieldset class='inlblk'>
+<legend class='hd'>Communications</legend>
+<LI class='a'><B>AnGenMap</B> <a href="/community/angenmap">Listserv</a>
+<span class='SN'><span class='inv'>18</span> new mails</span></LI>
+<LI class='a'><a href="/community/angenmap/dir.php">AGRC Directory</a>
+<span class='SN'><span class='inv'>5,718</span> members</span></LI>
+<LI class='a'><a href="/NRSP8/?tab=cal">Community Calendar</a>
+<span class='SN' style='font-family:arial narrow;letter-spacing:0.05em'>( 2026, 2027 )</span><img src='/icons/newest.gif'>
+</LI>
+</fieldset>
+
+<fieldset class='inlblk'>
+<legend class='hd'>Support Community</legend>
+<LI class='a'><a href='https://www.faang.org'><B>FAANG</B></a> <I class='lsno'>Consortium website</I></LI>
+<LI class='a'><a href='/lush'>Lush Pedigree</a> <I class='lsno'>of Animal Geneticists / Breeders</I></LI>
+<LI class='a'><a href="/community">Groups</a>
+<span class='SN'>(4)</span> |
+<a href="/community/#forum">Forums</a> <span class='SN'>(7)</span> |
+<a href="/community/#service">Services</a> <span class='SN'>(4)</span>
+</LI>
+</fieldset>
+
+<fieldset class='inlblk'>
+<legend class='hd'>Active Projects</legend>
+<LI class='a'><span style='color:#666'>Databases:</span>
+<a href="/QTLdb/">QTLdb</a>
+<img src='/icons/newest.gif'>| <a href="/CorrDB">CorrDB</a>
+<img src='/icons/newest.gif'>| <a href="/epidb">EpiDB</a>
+</LI>
+
+   <LI class='a'><span style='color:#666'>Ontologies:</span>
+  
+ <a href="/bioinfo/projects/vt/">VT</a><img src='/icons/newest.gif'> 
+| <a href="/bioinfo/projects/lpt/">LPT</a> 
+| <a href="/bioinfo/projects/cmo/">CMO</a> 
+| <a href="/bioinfo/projects/lbo/">LBO</a></LI>
+
+<LI class='a'><span style='color:#666'>Genomes:</span>
+ <a href="https://bmurdoch42.wixsite.com/ruminant-t2t">Ruminant T2T <img src='/icons/small/linkout1.png'></a>
+</LI>
+</fieldset>
+
+<fieldset class='inlblk'>
+<legend class='hd'>Ultilities</legend>
+<LI class='a'><a href="/tools">Animal Genomics Toolbox</a></LI>
+<LI class='a'><a href="/cgi-bin/util/fileshare">Data Sharing Platform <img style='float:right;opacity:0.6;height:28px' src="/icons/upload-512.png"></a></LI>
+</fieldset>
+
+<fieldset class='inlblk'>
+<legend class='hd'>Publications</legend>
+<LI class='a'><a href="/bioinfo/pub/abstracts">Conference Abstracts</a>
+<img align='right' style='margin-left:16px' src='/icons/small/archive2.png'></LI>
+<LI class='a'><a href="/bioinfo/pub/papers">Journal Papers</a></LI>
+</fieldset>
+</DIV><!-- (end)content block (align center) -->
+</DiV><!-- main -->
+
+<P style='padding:40px'>&nbsp;</P>
+
+<P style='padding:40px'>&nbsp;</P> 
+<TABLE border='0' cellpadding='0' cellspacing='0' style="border-top:1px solid #999;width:100%;position:fixed;bottom:0;background-color:#fff">
+<TR><TD style='vertical-align:top;width:72px;padding:3px' rowspan='2'>
+ <a href="/copyright">
+  <img border=0 style='margin:0;height:40px' src="/icons/links/creativecomm.png">
+ </a>
+</TD><TD style='vertical-align:top;padding:4 0 0 3px;text-align:left;color:red;
+         font-family:verdana,helvetica,sans-serif;font-size:0.65em;line-height:1.5em'>
+ &#169; 2003-2026:
+ <a target="_NEW" href="/default/info" style='font-weight:400'>
+ USA &#183; USDA &#183; NRPSP8 &#183; Program to Accelerate Animal Genomics Applications</a>.
+ <nobr>Contact: <a href="#" onclick="submitGiddenForm();return false;">Bioinformatics Team</a></nobr>
+</TD>
+<TD colspan='2' style='vertical-align:bottom;text-align:right;'>
+<div class='inlblk1' style='float:right'><a onMouseOver="Tip('<table><tr><td><img src=/icons/I-call90.gif></td><td valign=top style=font-size:.5em;font-weight:bold;color:#ff1493;>Help<BR>Desk</td></tr></table>', FONTSIZE, '13pt', BGCOLOR, '#ffffff', FADEIN, 400, SHADOW, true, SHADOWCOLOR, '#BDc76B', BORDERWIDTH, 8, BORDERCOLOR, '#87ceff')" onMouseOut="UnTip()" href="#" onclick="submitGiddenForm();return false;"><img style='text-decoration:none;padding:1 20px' src="/icons/general/helpdesk.jpg"></a><BR><img border=0 src="/icons/misc/baseline.jpg"></div>
+</TD></TR>
+</TABLE>
+<form method="post" name='jh9v' action="/bioinfo/services/helpdesk/" id="denForm" style="display:none;">
+    <input type="hidden" name='subj' value='/'>
+</form>
+<script>
+   function submitGiddenForm() {
+      document.getElementById("denForm").submit();
+   }
+</script>
+</body>
+</html>

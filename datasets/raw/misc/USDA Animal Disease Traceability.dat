@@ -1,0 +1,1742 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Animal disease traceability or knowing where diseased and at-risk animals are, where they’ve been, and when is important to ensuring a rapid response when animal disease events take place." />
+<meta name="abstract" content="Animal disease traceability is knowing where diseased and at-risk animals are, where they’ve been, and when is important to ensuring a rapid response when animal disease events take place." />
+<meta name="keywords" content="Animal disease, traceability, outbreak" />
+<link rel="canonical" href="https://www.aphis.usda.gov/livestock-poultry-disease/traceability" />
+<meta property="og:site_name" content="Animal and Plant Health Inspection Service" />
+<meta property="og:url" content="https://www.aphis.usda.gov/livestock-poultry-disease/traceability" />
+<meta property="og:title" content="Animal Disease Traceability | Animal and Plant Health Inspection Service" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Article",
+            "@id": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability",
+            "headline": "Animal Disease Traceability",
+            "name": "Animal Disease Traceability",
+            "datePublished": "2023-06-21T08:59:45-0400",
+            "dateModified": "2026-06-26T09:27:11-0400",
+            "author": {
+                "@type": "Organization",
+                "@id": "agregory",
+                "name": "agregory",
+                "url": "https://www.aphis.usda.gov/user/752"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "agregory"
+            },
+            "mainEntityOfPage": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.aphis.usda.gov/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Livestock Poultry Disease",
+                        "item": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability"
+                    }
+                ]
+            },
+            "author": {
+                "@type": "Organization",
+                "@id": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability",
+                "name": "agregory",
+                "url": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability",
+                "name": "agregory",
+                "url": "https://www.aphis.usda.gov/livestock-poultry-disease/traceability"
+            }
+        }
+    ]
+}</script>
+<link rel="alternate" hreflang="en" href="https://www.aphis.usda.gov/livestock-poultry-disease/traceability" />
+
+    <title>Traceability</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Pa1yhuMIyUAvbseJmkChUNTw5fk0u6uVtK7XySEEu4o.css?delta=0&amp;language=en&amp;theme=aphis&amp;include=eJxFyEEOgCAMBMAPEfoksxVCSao0XTn4e4_OcRA2KcOXwo-TLIHESIRRWu6A13_qvmOrT1pvhS-ffomC_QO1pRst" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_OxeTCTN2xlsg9tu6XKDXyHKrAJ-FWh49IsRwX4OGT44.css?delta=1&amp;language=en&amp;theme=aphis&amp;include=eJxFyEEOgCAMBMAPEfoksxVCSao0XTn4e4_OcRA2KcOXwo-TLIHESIRRWu6A13_qvmOrT1pvhS-ffomC_QO1pRst" />
+
+    <script src="/sites/default/files/js/js_xUjqRTdsCPjfZx5DVf16crm1dweVQpwoAXKnaJ77ELQ.js?scope=header&amp;delta=0&amp;language=en&amp;theme=aphis&amp;include=eJyNi9EKhEAIRX9o26AfEsfEpnVzUP-fppjeg4twjvdi22rMBekHaT3tg7ch9HUSr-tgUSuoEOS1ZQzZyVSxKENe99GMTtuA_uj1CE6ox86U5vMeXzGTeybwxwOF_VUJlhPJZ0Sk"></script>
+
+  
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PLQXJ-EM6JU-DK9JY-CAUZR-BT3HU",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PLQXJ-EM6JU-DK9JY-CAUZR-BT3HU";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="37uupgixzgbli2s5ag2a-f-d7cacb939-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1671898","ak.ai":parseInt("1079305",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"38a60b60","ak.r":48784,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":7124,"ak.gh":"23.63.108.61","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1784480180","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==7NOR90e53qR00COnRhiOL803kKEwFTswBkqhqDltMU8+RdAfSrS/IdF80MuL/F6SW6uWfhb6ukC/YioeJ3mxCAmo8+Y5/07VdIe787m9Bs5EycsrGzmRr9RZA9LcvTlUX0EQDA2ynGdNd1KeoVftIJPdTlw+pDtpxxMvSdZTci3imm7xYSdRzKxUjBSnVgjuaipU3xZLta00oByPZisiEGDwHRQJW798gDYUnEnaiSb1Dkr97oOhuKmyTw7NqeX++gFiYdno/IpfW5tV6Z41pPYFS5XugoRqlplCz+wCLwV+tCdsIhBxvHIdh7efezmJgQxYzJXWb3lZEs8sbFJCJkOguQxzag3+hGln3qQUMweItHfUMUTyaaORxYA7MB3Ja8i7vJodppvZg/e++07TVby+9/2NfcAwl9DH1vwQtOg=","ak.pv":"20","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+  <body  class="path-node not-front node-page node-page--node-type-page" id="top">
+    
+<div  class="c-skiplinks">
+  <a href="#main" class="c-skiplinks__link u-visually-hidden u-focusable">Skip to main content</a>
+</div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+            
+
+<div  class="l-site-container">
+      
+      
+<section  class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">  <header class="usa-banner__header">
+    <div class="usa-banner__inner">
+      <div class="grid-col-auto">
+        <img class="usa-banner__header-flag" src="/themes/aphis/dist/images/us_flag_small.png" alt="U.S. flag" />
+      </div>
+      <div class="grid-col-fill tablet:grid-col-auto">
+        <p class="usa-banner__header-text">An official website of the United States government</p>
+              <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p></div>
+        <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+          </div>
+  </header>
+      <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+                  <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" src="/themes/aphis/dist/images/icon-dot-gov.svg" alt="Dot gov">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Official websites use .gov</strong>
+                <br> A <strong>.gov</strong> website belongs to an official government organization in the United States.
+              </p>
+            </div>
+          </div>
+                  <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" src="/themes/aphis/dist/images/icon-https.svg" alt="HTTPS">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>Secure .gov websites use HTTPS</strong>
+                <br> A <strong>lock</strong> (<span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span>) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+              </p>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+  </section>
+
+    
+    
+
+<div class="usa-overlay"></div>
+<header  class="usa-header usa-header--extended" role="banner">
+              
+<div  class="usa-navbar">
+        
+
+<div  id="block-aphis-branding" class="c-site-branding">
+        
+<a  class="c-site-logo" href="/" title="USDA Logo" rel="USDA Logo">
+  <img class="c-site-logo__image" src="/sites/default/files/logo.jpeg" alt="USDA Logo" />
+</a>
+        <div class="c-site-branding__text">
+              
+<p  class="c-site-name">
+  <a class="c-site-name__text" href="/" rel="home">Animal and Plant Health Inspection Service</a>
+</p>
+      
+              
+<span  class="c-site-slogan">U.S. DEPARTMENT OF AGRICULTURE</span>
+          </div>
+    
+
+
+<div class="usa-nav__secondary">
+      
+        
+
+
+
+
+
+
+
+  
+  
+    
+
+  
+            
+
+                                <ul  class="usa-nav__secondary-links c-menu c-menu--secondary-header">
+        
+                                            
+                              
+      
+      
+      <li  class="usa-nav__secondary-item">
+                  <a href="/organization/business-services/forms" title="Electronic Forms" class="c-menu__link js-top-level" data-drupal-link-system-path="node/6688">Forms</a>
+              </li>
+    
+                                            
+                              
+      
+      
+      <li  class="usa-nav__secondary-item">
+                  <a href="/careers" class="c-menu__link js-top-level" data-drupal-link-system-path="node/5830">Careers</a>
+              </li>
+    
+                                            
+                                                    
+      
+      
+      <li  class="usa-nav__secondary-item is-collapsed">
+                  <a href="/contact" class="c-menu__link js-top-level is-collapsed" data-drupal-link-system-path="node/1335">Contact Us</a>
+              </li>
+        </ul>
+  
+
+  
+  
+  
+  
+
+        
+<form action="/search"  method="get"  id="global-header-search-form"  class="usa-search">
+    <div role="search">
+        <label  class="usa-sr-only" for="global-header-search-input">Search</label>
+        <div class="usa-search__inputs">
+            <!-- Escape values with Twig's autoescaping to prevent unsafe rendering -->
+            <input class="usa-input" id="global-header-search-input" type="search" name="search_api_fulltext">
+            <button class="usa-button" type="submit">
+                <span class="usa-search__submit-text">Search</span>
+            </button>
+                    </div>
+    </div>
+</form>  </div>
+</div>
+
+
+
+
+
+
+
+
+
+    <button class="usa-menu-btn">Menu</button>
+</div>
+
+
+            
+            
+<nav  class="usa-nav" role="navigation" aria-label="Primary navigation">
+  <div class="usa-nav__inner">
+    <button class="usa-nav__close">Close</button>
+                        
+
+
+
+
+
+
+
+  
+  
+    
+
+  
+            
+
+                                <ul  data-region="navigation" class="c-menu c-menu--main usa-accordion">
+                                                    
+                                                          
+      
+      
+      
+      <li  class="c-menu__item c-menu__link--image">
+                              <a href="/" class="c-menu__link js-top-level c-menu__link--image" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                        </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>Travelers</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Pet Travel</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/pet-travel" class="c-menu__link">Travel With a Pet</a></li>
+                        <li><a href="/pet-travel/us-to-another-country-export" class="c-menu__link">Take a Pet From the United States to Another Country (Export)</a></li>
+                        <li><a href="/pet-travel/another-country-to-us-import" class="c-menu__link">Bring a Pet From Another Country into the United States (Import)</a></li>
+                        <li><a href="/pet-travel/state-to-state" class="c-menu__link">Take a Pet From One U.S. State or Territory to Another (Interstate)</a></li>
+                        <li><a href="/pet-travel/accredited-veterinarians" class="c-menu__link">USDA-Accredited Veterinarians: Certifying Pets for International Travel</a></li>
+                        <li><a href="/pet-travel/pet-travel-united-states-mongolia" class="c-menu__link">Pet Travel From the United States to Mongolia</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Traveling With Food or Agricultural Products</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/traveling-with-ag-products" class="c-menu__link">Traveling With Food or Agricultural Products</a></li>
+                        <li><a href="/traveling-with-ag-products/another-country" class="c-menu__link">Traveling From Another Country</a></li>
+                        <li><a href="/traveling-with-ag-products/hawaii" class="c-menu__link">Traveling From Hawaii to the U.S. Mainland, Alaska, or Guam</a></li>
+                        <li><a href="/traveling-with-ag-products/puerto-rico-usvi" class="c-menu__link">Traveling to U.S. Mainland From Puerto Rico and U.S. Virgin Islands</a></li>
+                        <li><a href="/traveling-with-ag-products/traveling-united-states-canada-land-borders" class="c-menu__link">Traveling into the United States From Canada at Land Borders</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                          
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 c-menu__link--image">
+                  <a  class="c-menu__link c-menu__link--image" href="/fifa-world-cup-2026-travel-information">
+            <div class="c-menu__link-image-container">
+             
+
+
+
+
+<div  class="c-field c-field--name-field-menu-image c-field--type-image c-field--label-hidden">
+  <div class="c-field__content">  <img loading="lazy" src="/sites/default/files/2026-03/fifa-world-cup-soccer-ball-stadium-adobe-1831198272-editorial.jpeg" width="7778" height="5184" alt="close up image of FIFA World Cup 2026 soccer ball on a grass field with stadium seating in background" />
+
+</div></div>
+
+            </div>
+            <span>FIFA World Cup 2026 Travel Information</span>
+          </a>
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>Trade</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Imports</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/live-animal-import" class="c-menu__link">Live Animal Imports</a></li>
+                        <li><a href="/animal-product-import" class="c-menu__link">Animal Product Imports</a></li>
+                        <li><a href="/plant-imports" class="c-menu__link">Plant and Plant Product Imports</a></li>
+                        <li><a href="/organism-soil-imports" class="c-menu__link">Organism and Soil Imports</a></li>
+                        <li><a href="/regulated-garbage" class="c-menu__link">Regulated Garbage</a></li>
+                        <li><a href="/ace" class="c-menu__link">Filing APHIS Core Message Set Data in ACE</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Exports</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/live-animal-export" class="c-menu__link">Live Animal Exports</a></li>
+                        <li><a href="/animal-product-export" class="c-menu__link">Animal Product Exports</a></li>
+                        <li><a href="/plant-exports" class="c-menu__link">Plant and Plant Product Exports</a></li>
+                        <li><a href="/new-markets" class="c-menu__link">Opening New Markets for U.S. Plant Commodities</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Trade Management</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/international-standards" class="c-menu__link">International Standard Setting</a></li>
+                        <li><a href="/aqi" class="c-menu__link">Agricultural Quarantine and Inspection Program</a></li>
+                        <li><a href="/phytosanitary-issues-management" class="c-menu__link">Phytosanitary Issues Management</a></li>
+                        <li><a href="/trade-management-manuals" class="c-menu__link">Plant Health Commodity Trade Manuals</a></li>
+                        <li><a href="/sitc" class="c-menu__link">Smuggling Interdiction and Trade Compliance</a></li>
+                        <li><a href="/user-fees" class="c-menu__link">User Fees</a></li>
+                        <li><a href="/regionalization-evaluation-services" class="c-menu__link">Animal Health Regionalization and Compartmentalization</a></li>
+                        <li><a href="/trade-feedback" class="c-menu__link">Commenting Opportunities: Facilitating Safe Agricultural Trade</a></li>
+                      </ul>
+
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>Animals</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Animal Health</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/animals/animal-health/livestock-and-poultry-disease" class="c-menu__link">Livestock and Poultry Disease</a></li>
+                        <li><a href="/labs" class="c-menu__link">Laboratory Information and Services</a></li>
+                        <li><a href="/nvap" class="c-menu__link">National Veterinary Accreditation Program</a></li>
+                        <li><a href="/veterinary-biologics" class="c-menu__link">Veterinary Biologics</a></li>
+                        <li><a href="/animal-emergencies" class="c-menu__link">Emergency Management</a></li>
+                        <li><a href="/sars-cov-2" class="c-menu__link">SARS-CoV-2</a></li>
+                        <li><a href="/h5n1-hpai" class="c-menu__link">H5N1 Influenza</a></li>
+                        <li><a href="/animal-health-feedback" class="c-menu__link">Commenting Opportunities: Animal Health</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Animal Welfare</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/animal-care/awa-services" class="c-menu__link">Animal Welfare Services and Activities</a></li>
+                        <li><a href="/hpa" class="c-menu__link">Horse Protection Act</a></li>
+                        <li><a href="/animal-welfare/attending-veterinarians" class="c-menu__link">Attending Veterinarians</a></li>
+                        <li><a href="/animal-welfare-feedback" class="c-menu__link">Commenting Opportunities: Animal Welfare</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Wildlife</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/wildlife-state-offices" class="c-menu__link">Requesting Wildlife Services Support</a></li>
+                        <li><a href="/wildlife-services-national-programs" class="c-menu__link">Wildlife Services National Programs</a></li>
+                        <li><a href="/national-wildlife-programs/nwrc" class="c-menu__link">Wildlife Damage Research Activities</a></li>
+                        <li><a href="/operational-wildlife-activities" class="c-menu__link">Wildlife Damage Operational Activities</a></li>
+                        <li><a href="/wildlife-protected-resources" class="c-menu__link">Protected Resources</a></li>
+                        <li><a href="/wildlife-feedback" class="c-menu__link">Commenting Opportunities: Wildlife Services</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                          
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 c-menu__link--image">
+                  <a  class="c-menu__link c-menu__link--image" href="/livestock-poultry-disease/avian/defend-the-flock">
+            <div class="c-menu__link-image-container">
+             
+
+
+
+
+<div  class="c-field c-field--name-field-menu-image c-field--type-image c-field--label-hidden">
+  <div class="c-field__content">  <img loading="lazy" src="/sites/default/files/2024-03/chickens-in-coop-adobestock_397333709.jpeg" width="3664" height="2061" alt="group of white chickens" />
+
+</div></div>
+
+            </div>
+            <span>Defend the Flock</span>
+          </a>
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>Plants</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Plant Health</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/plant-pests-diseases" class="c-menu__link">Plant Pests and Diseases</a></li>
+                        <li><a href="/frsmp" class="c-menu__link">The Federally Recognized State Managed Phytosanitary Program</a></li>
+                        <li><a href="/crop-biosecurity" class="c-menu__link">Crop Biosecurity and Emergency Management</a></li>
+                        <li><a href="/plant-feedback" class="c-menu__link">Commenting Opportunities: Plant Health</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Biotechnology</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/biotechnology/about" class="c-menu__link">About Biotechnology Regulatory Services</a></li>
+                        <li><a href="/biotechnology/regulations" class="c-menu__link">Biotechnology Regulations</a></li>
+                        <li><a href="/biotechnology/legacy-petition-process/petitions" class="c-menu__link">Legacy Petitions for Determination of Nonregulated Status</a></li>
+                        <li><a href="/biotechnology/regulated-article-inquiry" class="c-menu__link">Regulated Article Letters of Inquiry</a></li>
+                        <li><a href="/biotechnology/release-permits-pharmaceuticals-industrials-value-added-proteins-human-consumption-or" class="c-menu__link">Release Permits for Pharmaceuticals, Industrials, Value Added Proteins for Human Consumption, or for Phytoremediation</a></li>
+                        <li><a href="/biotechnology/meetings" class="c-menu__link">BRS Meetings</a></li>
+                        <li><a href="/biotechnology/biotechnology-permits-notifications" class="c-menu__link">Biotechnology Permits and Notifications</a></li>
+                        <li><a href="/biotechnology-feedback" class="c-menu__link">Commenting Opportunities: Biotechnology</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                          
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 c-menu__link--image">
+                  <a  class="c-menu__link c-menu__link--image" href="/plant-pests-diseases/hungry-pests">
+            <div class="c-menu__link-image-container">
+             
+
+
+
+
+<div  class="c-field c-field--name-field-menu-image c-field--type-image c-field--label-hidden">
+  <div class="c-field__content">  <img loading="lazy" src="/sites/default/files/2026-04/spotted-lanternfly-adult-3.jpg" width="800" height="450" alt="adult spotted lanternfly on a leafy background" />
+
+</div></div>
+
+            </div>
+            <span>Stop Hungry Pests</span>
+          </a>
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>Funding</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Funding Opportunities</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/funding" class="c-menu__link">Open Funding Opportunities</a></li>
+                        <li><a href="/funding/amr-dashboard" class="c-menu__link">Antimicrobial Resistance (AMR) Dashboard Funding Opportunities</a></li>
+                        <li><a href="/funding/cwd" class="c-menu__link">Chronic Wasting Disease Management and Response Funding Opportunities</a></li>
+                        <li><a href="/funding/highly-pathogenic-avian-influenza-hpai-poultry-innovation-grand-challenge" class="c-menu__link">Highly Pathogenic Avian Influenza (HPAI) Poultry Innovation Grand Challenge</a></li>
+                        <li><a href="/funding/nadprp" class="c-menu__link">National Animal Disease Preparedness and Response Program</a></li>
+                        <li><a href="/funding/nahln" class="c-menu__link">National Animal Health Laboratory Network Funding Opportunities</a></li>
+                        <li><a href="https://www.aphis.usda.gov/livestock-poultry-disease/stop-screwworm/innovation-research#comp-34184" class="c-menu__link">New World Screwworm Grand Challenge</a></li>
+                        <li><a href="/funding/ncpn" class="c-menu__link">The National Clean Plant Network</a></li>
+                        <li><a href="/funding/ppdmdpp" class="c-menu__link">PPA 7721: Plant Pest and Disease Management and Disaster Prevention Program</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                          
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 c-menu__link--image">
+                  <a  class="c-menu__link c-menu__link--image" href="/apply-for-funding">
+            <div class="c-menu__link-image-container">
+             
+
+
+
+
+<div  class="c-field c-field--name-field-menu-image c-field--type-image c-field--label-hidden">
+  <div class="c-field__content">  <img loading="lazy" src="/sites/default/files/2024-03/accounting_adobe.png" width="2100" height="1400" alt="Person using a calculator" />
+
+</div></div>
+
+            </div>
+            <span>How To Apply for Funding</span>
+          </a>
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item has-subnav c-menu__link--image is-expanded">
+                            <button  class="c-menu__link js-top-level has-subnav c-menu__link--image is-expanded usa-nav__link usa-accordion__button" aria-expanded="false"><span>About</span></button>
+                        <div  class="c-menu c-menu__subnav" hidden>
+        <ul class="grid-row grid-gap">
+                                                    
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Our Agency</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/about" class="c-menu__link">About APHIS</a></li>
+                        <li><a href="/mission" class="c-menu__link">Mission</a></li>
+                        <li><a href="/organization" class="c-menu__link">Organization</a></li>
+                        <li><a href="/mission/tribal-relations" class="c-menu__link">Tribal Relations</a></li>
+                        <li><a href="/one-health" class="c-menu__link">One Health</a></li>
+                        <li><a href="/leadership" class="c-menu__link">Leadership</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Program Areas</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/animal-care" class="c-menu__link">Animal Care</a></li>
+                        <li><a href="/biotechnology" class="c-menu__link">Biotechnology Regulatory Services</a></li>
+                        <li><a href="/international-services" class="c-menu__link">International Services</a></li>
+                        <li><a href="/plant-protection-quarantine" class="c-menu__link">Plant Protection and Quarantine</a></li>
+                        <li><a href="/veterinary-services" class="c-menu__link">Veterinary Services</a></li>
+                        <li><a href="/wildlife-services" class="c-menu__link">Wildlife Services</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">News and Media</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/news" class="c-menu__link">News and Updates</a></li>
+                        <li><a href="/news/stories" class="c-menu__link">APHIS In Action</a></li>
+                        <li><a href="https://www.flickr.com/photos/usda-aphis/albums" class="c-menu__link">Image Gallery</a></li>
+                        <li><a href="/publications" class="c-menu__link">Publications</a></li>
+                        <li><a href="/data-visualization-tools" class="c-menu__link">Data Visualization Tools</a></li>
+                      </ul>
+
+              </li>
+                                                
+                                                                                                      
+      
+      
+      
+      <li  class="c-menu__item usa-nav__submenu-item grid-col-12 tablet-lg:grid-col-3 has-subnav c-menu__link--image is-expanded">
+                  <p class="c-menu__subnav-title">Policies and Regulations</p>
+          <ul  class="c-menu c-menu__subnav">
+                        <li><a href="/laws-regs" class="c-menu__link">Laws and Regulations</a></li>
+                        <li><a href="/privacy" class="c-menu__link">Privacy Act</a></li>
+                        <li><a href="/peer-review" class="c-menu__link">Peer Review</a></li>
+                        <li><a href="/rulemaking" class="c-menu__link">Rulemaking at APHIS</a></li>
+                      </ul>
+
+              </li>
+        </ul>
+          </div>
+      
+              </li>
+        </ul>
+      
+
+
+  
+  
+  
+  
+
+
+                    
+  
+
+
+<div class="usa-nav__secondary">
+        
+
+
+
+
+
+
+
+  
+  
+    
+
+  
+            
+
+                                <ul  class="usa-nav__secondary-links c-menu c-menu--secondary-header">
+        
+                                            
+                              
+      
+      
+      <li  class="usa-nav__secondary-item">
+                  <a href="/organization/business-services/forms" title="Electronic Forms" class="c-menu__link js-top-level" data-drupal-link-system-path="node/6688">Forms</a>
+              </li>
+    
+                                            
+                              
+      
+      
+      <li  class="usa-nav__secondary-item">
+                  <a href="/careers" class="c-menu__link js-top-level" data-drupal-link-system-path="node/5830">Careers</a>
+              </li>
+    
+                                            
+                                                    
+      
+      
+      <li  class="usa-nav__secondary-item is-collapsed">
+                  <a href="/contact" class="c-menu__link js-top-level is-collapsed" data-drupal-link-system-path="node/1335">Contact Us</a>
+              </li>
+        </ul>
+  
+
+  
+  
+  
+  
+
+        
+<form action="/search"  method="get"  id="global-header-search-form"  class="usa-search">
+    <div role="search">
+        <label  class="usa-sr-only" for="global-header-search-input-mobile">Search</label>
+        <div class="usa-search__inputs">
+            <!-- Escape values with Twig's autoescaping to prevent unsafe rendering -->
+            <input class="usa-input" id="global-header-search-input-mobile" type="search" name="search_api_fulltext">
+            <button class="usa-button" type="submit">
+                <span class="usa-search__submit-text">Search</span>
+            </button>
+                    </div>
+    </div>
+</form>    </div>
+
+
+                  </div>
+</nav>
+        </header>
+
+    
+
+    
+
+    
+
+                    
+        
+        
+        
+        
+        
+    <main id="main" class="c-main" role="main" tabindex="-1">
+          
+    
+
+
+<div  class="l-content">
+    <div  class="l-constrain">
+          
+
+
+
+
+
+
+
+  
+  
+    
+
+  
+            
+
+
+
+  
+
+
+
+
+
+<article  class="c-article">
+  
+                                
+<div  class="c-page-title">
+      <div class="c-page-title__content-wrapper">
+      <div class="c-page-title__content l-constrain">
+                    
+
+
+<nav  aria-labelledby="breadcrumb-label" class="c-breadcrumb" role="navigation">
+  <p
+     id="breadcrumb-label" class="c-breadcrumb__title  u-visually-hidden">Breadcrumb</p>
+  <ol class="c-breadcrumb__list">
+          <li class="c-breadcrumb__item">
+                  <a class="c-breadcrumb__link" href="/">Home</a>
+              </li>
+          <li class="c-breadcrumb__item">
+                  <span aria-current="page">
+            Livestock Poultry Disease
+          </span>
+              </li>
+          <li class="c-breadcrumb__item">
+                  <span aria-current="page">
+            Animal Disease Traceability
+          </span>
+              </li>
+      </ol>
+</nav>
+
+                          <h1 class="c-page-title__heading">
+<span>Animal Disease Traceability</span>
+</h1>
+              </div>
+    </div>
+                
+<div  class="c-last-modified-date l-constrain">
+  <span>Last Modified:  June 26, 2026</span>
+</div>
+        </div>
+                
+    
+
+                  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+      
+  
+      
+<div  class="c-wysiwyg">
+  
+
+
+<div  class="c-field">
+  <div class="c-field__content">                                                    
+
+<div  class="c-page-intro l-constrain">
+    
+  
+  <div class="c-field">
+    <div class="c-field__content">
+      <div class="c-paragraph c-paragraph--type-page-intro-summary c-paragraph--view-mode-default">
+        <div class="c-field c-field--name-field-page-intro-rte-summary c-field--type-text-long c-field--label-hidden">
+          <div class="c-field__content">
+            <p>
+
+
+<div  class="c-field">
+  <div class="c-field__content">  <div class="c-paragraph c-paragraph--type-page-intro-summary c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-page-intro-rte-summary c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><p>Animal disease traceability is knowing where diseased and at-risk animals are, where they have been, and when they were there. This information is important to ensuring&nbsp;a rapid response when animal disease events take place.</p></div></div>
+
+  </div>
+</div></div>
+</p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+
+<div  class="c-field">
+  <div class="c-field__content">
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><p>Although animal disease traceability does not prevent disease, an efficient and accurate traceability system reduces the number of animals and response time involved in a disease investigation. This, in turn, reduces the economic impact on owners and affected communities.</p></div></div>
+
+  </div>
+      </div></div>
+
+
+  </div>
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default c-rte">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><h2>Free Identification Tags</h2></div></div>
+
+  </div>
+          
+
+                                    
+                
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+        
+
+
+<div  class="c-card-grid l-constrain">
+      <div class="grid-row c-card-grid__row grid-gap-lg">
+                                  <div class="grid-col-12 tablet:grid-col-4 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://usaha.org/saho/"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Cattle Identification
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <p>APHIS provides electronic ID tags to cattle producers at no cost through State Veterinarian offices. Check with your State Veterinarian to inquire about the availability and distribution of these tags in your State.</p>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+            <div class="c-card__media">
+                        <img loading="lazy" src="https://www.aphis.usda.gov/sites/default/files/styles/3_2_ratio/public/2024-04/ADT_option%202%20copy.jpg" alt="cow with an electronic ear tag"/>
+                    </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-4 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="/animal-disease/sheep-goat/scrapie-tag"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Sheep and Goat Identification
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p>First-time participants in the sheep and goat identification program can receive up to 100 plastic flock ID tags free of charge from the National Scrapie Eradication Program. Learn more.</p><p>&nbsp;</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+            <div class="c-card__media">
+                        <img loading="lazy" src="https://www.aphis.usda.gov/sites/default/files/styles/3_2_ratio/public/2024-08/sheep-face.png" alt="Close-up of a grayish-white sheep with an ear tag."/>
+                    </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-4 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="/livestock-poultry-disease/swine/swine-identification"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Swine Identification
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><p>APHIS is offering no-cost radio frequency identification (RFID) eartags to eligible swine producers. Learn more.</p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+            <div class="c-card__media">
+                        <img loading="lazy" src="https://www.aphis.usda.gov/sites/default/files/styles/3_2_ratio/public/2025-08/youth-pig-fair-adobestock-1537850008.jpg" alt="Girl next to a pig with black-brown fur."/>
+                    </div>
+        </a>
+
+                </div>
+            </div>
+</div>
+
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default c-rte">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><h2><strong>Overarching Goals To Increase Traceability</strong></h2><p>A comprehensive animal disease traceability system is our best protection against a devastating disease outbreak.&nbsp;USDA is committed to implementing a modern system that tracks animals from birth to slaughter using affordable technology that allows for quick tracing of sick and exposed animals to stop disease spread.&nbsp;In September 2018, USDA established four overarching goals to increase traceability.&nbsp;These goals are:&nbsp;</p><ul><li>Advance the electronic sharing of data among Federal and State animal health officials, veterinarians, and industry, including sharing basic animal disease traceability data with the Federal animal health events repository;</li><li>Use electronic identification tags for animals requiring individual identification in order to make the transmission of data more efficient;</li><li>Enhance the ability to track animals from birth to slaughter through a system that allows tracking data points to be connected; and</li><li>Elevate the discussion with States and industry to work toward a system where animal health certificates are electronically transmitted from private veterinarians to State animal health officials.</li></ul><h2><strong>Traceability for Livestock Moving Interstate</strong></h2></div></div>
+
+  </div>
+          
+
+                                    
+                
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+        
+
+
+<div  class="c-card-grid l-constrain">
+      <div class="grid-row c-card-grid__row grid-gap-lg c-card-grid__row--two-col">
+                                  <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.ecfr.gov/current/title-9/chapter-I/subchapter-C/part-86"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                ADT Rule
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.aphis.usda.gov/sites/default/files/traceability-final-rule.pdf"   class="c-card    c-card--download" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                2024 ADT Rule Comments
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.aphis.usda.gov/sites/default/files/animal-id-device-standards.pdf"   class="c-card    c-card--download" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Official Animal Identification Device Standards (OAIDS)
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="/sites/default/files/traceability-faq.pdf"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                FAQs
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="/news/agency-announcements/aphis-bolsters-animal-disease-traceability-united-states"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Press Release
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.aphis.usda.gov/sites/default/files/adt-mythbusters-factsheet.pdf"   class="c-card    c-card--download" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Myth Busters: The Facts About Animal Disease Traceability
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+            </div>
+</div>
+
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default c-rte">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><h2>Resources</h2></div></div>
+
+  </div>
+          
+
+                                    
+                
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+                    
+                
+
+                        
+                
+        
+        
+
+
+<div  class="c-card-grid l-constrain">
+      <div class="grid-row c-card-grid__row grid-gap-lg c-card-grid__row--two-col">
+                                  <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.aphis.usda.gov/sites/default/files/guidelines-usda-approved-id-devices.pdf"   class="c-card    c-card--download" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Guidelines for Manufacturing, Selling, and Distributing USDA-Approved Official Identification Devices
+                            </span>
+        </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="/animal-disease/traceability/pin"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                How To Obtain a PIN or LID in Your State
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <p>A premises identification number (PIN) or location identifier (LID) is a unique code permanently assigned to a physical location and is required to purchase official animal identification tags. Each State administers PIN or LID registration. Learn more.</p>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.interstatelivestock.com/"   class="c-card    c-card--arrow" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                Interstate Animal Movement Requirements 
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <p>Find quick, accurate access to State import requirements for livestock.</p>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+                              <div class="grid-col-12 tablet:grid-col-6 c-card-grid__item" data-card-flag="">
+                          
+
+<a  href="https://www.aphis.usda.gov/sites/default/files/how-to-become-an-ain-device-manager.pdf"   class="c-card    c-card--download" >
+        <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                How To Become an AIN Device Manager
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                    <p>(PDF, 279.28 KB)</p>
+                                 <p>Want to become an animal identification number (AIN) device manager? Download this document to learn how.</p>
+            </div>
+                                    <div class="c-card__footer">
+                                    <span class="c-card__arrow" aria-hidden="true"></span>
+                            </div>
+            </div>
+        </a>
+
+                </div>
+            </div>
+</div>
+    
+
+                                    
+                
+                    
+                
+
+                        
+                
+                                                    
+        
+
+
+<div  class="c-card-grid l-constrain">
+      <div class="grid-row c-card-grid__row grid-gap-lg">
+                                  <div class="grid-col-12 c-card-grid__item" data-card-flag="">
+                          
+
+    <div  class="c-card    c-card--flag">
+            <div class="c-card__body">
+                <div class="c-card__header">
+                        <span class="c-card__title">
+                                    <a href="/livestock-poultry-disease/traceability/approved-livestock-markets">
+                                Federally Approved Livestock Markets
+                                    </a>
+                            </span>
+        </div>
+                    <div class="c-card__content">
+                                 <p>View all Federally approved livestock facilities in the United States for handling of livestock pursuant to Title 9 of the Code of Federal Regulations.</p>
+            </div>
+                                    <div class="c-card__footer">
+                                    
+                        <a href="/" class="c-button usa-button">View Dashboard</a>
+            
+                            </div>
+            </div>
+            <div class="c-card__media">
+                            <a href="/livestock-poultry-disease/traceability/approved-livestock-markets">
+                        <img loading="lazy" src="https://www.aphis.usda.gov/sites/default/files/styles/16_9_ratio/public/2024-06/cows-adt-market-map.jpg" alt="group of brown cows looking at the camera"/>
+                            </a>
+                    </div>
+        </div>
+
+                </div>
+            </div>
+</div>
+  
+
+  <div class="c-accordion usa-accordion c-paragraph c-paragraph--type-accordion-section c-paragraph--view-mode-default"  class="c-accordion usa-accordion c-paragraph c-paragraph--type-accordion-section c-paragraph--view-mode-default" aria-multiselectable="true">
+    <a id="accordion-section-3375"></a>
+        <div class="c-accordion--expand-collapse-buttons">
+      <a href="#" class="c-accordion--expand-all">Expand All</a>
+      <a href="#" class="c-accordion--collapse-all" style="display:none;">Collapse All</a>
+    </div>
+
+          
+
+<div  class="c-accordion usa-accordion l-constrain" aria-multiselectable="true">
+                      <h2 class="usa-accordion__heading">
+            <button class="usa-accordion__button" aria-expanded="" aria-controls="accordion-3375-a1">
+        Information on Approved Identification Devices
+      </button>
+    </h2>
+    <div id="accordion-3375-a1" class="usa-accordion__content">
+      <a id="information-on-approved-identification-devices"></a>                  
+
+  
+
+
+<div  class="c-field c-field--name-field-panel-body c-field--type-entity-reference-revisions c-field--label-hidden">
+    <div id="11" class="c-field__content c-field__content--accordion-panel-body">
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><ul><li><a href="/sites/default/files/animal-id-device-standards.pdf" data-entity-type="file" data-entity-uuid="725d2c14-b69d-4bf6-b349-5835a1123a72" data-entity-substitution="file" title="animal-id-device-standards.pdf">Official Animal Identification Device Standards (OAIDS)</a><span class="file-size"> (748.83 KB)</span><ul><li><a href="/sites/default/files/uhf-interim-tag-data-standard_4.pdf" data-entity-type="media" data-entity-uuid="86bb6b95-c94b-4906-90cc-79ad6cf41964" data-entity-substitution="media" title="uhf-interim-tag-data-standard">UHF Interim Tag Data Standards</a><span class="file-size"> (921.6 KB)</span></li></ul></li><li><a href="/sites/default/files/adt-eartags-criteria.pdf" data-entity-type="file" data-entity-uuid="39d59d8d-7f37-41e6-b638-6049928f0eb0" data-entity-substitution="file" title="adt-eartags-criteria.pdf">Official Eartags: General Criteria and Options</a><span class="file-size"> (931.77 KB)</span></li><li><a href="/sites/default/files/adt-device-ain.pdf" data-entity-type="file" data-entity-uuid="792ca1aa-3468-4224-87a5-3324005774b5" data-entity-substitution="file" title="adt-device-ain.pdf">Approved Animal Identification Number (AIN) Devices</a><span class="file-size"> (1.09 MB)</span></li><li><a href="/sites/default/files/non840-id-tags-imported-cattle-bison.pdf" data-entity-type="file" data-entity-uuid="1c44acf9-c61c-42f4-a598-c916290793eb" data-entity-substitution="file" title="non840-id-tags-imported-cattle-bison.pdf">Non-840 Official Identification for Certain Imported Cattle and Bison</a><span class="file-size"> (151.08 KB)</span></li><li><a href="/sites/default/files/adt-device-nues.pdf" data-entity-type="file" data-entity-uuid="3a6ea00a-f5c0-4543-becb-ab4b134475cb" data-entity-substitution="file" title="adt-device-nues.pdf">Approved National Uniform Eartagging System (NUES)</a><span class="file-size"> (365.84 KB)</span></li><li><a href="/sites/default/files/ADT_device_swine_3.pdf" data-entity-type="media" data-entity-uuid="0973f7c5-c686-425f-88d9-5c92a3294d17" data-entity-substitution="media" title="ADT_device_swine">Approved Premises Identification Number (PIN) Devices for Swine</a><span class="file-size"> (228.33 KB)</span></li><li>Ultra-High Radio Frequency Identification: Demonstration Projects<ul><li><a href="/sites/default/files/uhrf-id-demo-pro-excsummary_4.pdf" data-entity-type="media" data-entity-uuid="8b1e2c5a-8d93-4483-beeb-f67c7fcb7c62" data-entity-substitution="media" title="uhrf-id-demo-pro-excsummary">Executive Summary</a><span class="file-size"> (193.73 KB)</span></li><li><a href="/sites/default/files/uhrf-id-demo-pro-summary-st-rpt.pdf" data-entity-type="media" data-entity-uuid="6438a756-65aa-43e6-ada2-4f8f9bba1fb6" data-entity-substitution="media" title="uhrf-id-demo-pro-summary-st-rpt.pdf">Summary and State Reports</a><span class="file-size"> (1.4 MB)</span>&nbsp;</li></ul></li></ul></div></div>
+
+  </div>
+      </div></div>
+
+
+
+
+      
+          </div>
+                      <h2 class="usa-accordion__heading">
+            <button class="usa-accordion__button" aria-expanded="" aria-controls="accordion-3375-a2">
+        Species-Specific Guides to Identifying Livestock Moved Interstate
+      </button>
+    </h2>
+    <div id="accordion-3375-a2" class="usa-accordion__content">
+      <a id="species-specific-guides-to-identifying-livestock-moved-interstate"></a>                  
+
+  
+
+
+<div  class="c-field c-field--name-field-panel-body c-field--type-entity-reference-revisions c-field--label-hidden">
+    <div id="13" class="c-field__content c-field__content--accordion-panel-body">
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><ul><li><a href="/sites/default/files/cattle-adt-decision-tree.pdf" data-entity-type="file" data-entity-uuid="adb75dbb-3871-4672-9096-28525e73c5c5" data-entity-substitution="file" title="cattle-adt-decision-tree.pdf">ADT Rule 2024: Interstate Movement Requirements for Cattle</a><span class="file-size"> (224.45 KB)</span></li><li><a href="/sites/default/files/rule_movement_equine_4.pdf" data-entity-type="media" data-entity-uuid="a5bf2d09-db88-4dc1-99c9-b5bc6a179099" data-entity-substitution="media" title="rule_movement_equine">Horses and Other Equines</a><span class="file-size"> (42.53 KB)</span></li><li><a href="/nvap/reference-guide/animal-identification/sheep-goat" data-entity-type="node" data-entity-uuid="fae6db02-e8bd-4842-bec5-b28f4ca80766" data-entity-substitution="canonical" title="NVAP Reference Guide: Sheep and Goat Identification">Sheep and Goats</a></li><li><a href="/sites/default/files/rule_movement_swine_4.pdf" data-entity-type="media" data-entity-uuid="1b59516d-9afc-4dcc-bc9c-e9b6295a0955" data-entity-substitution="media" title="rule_movement_swine">Swine</a><span class="file-size"> (50.29 KB)</span></li><li><a href="/sites/default/files/rule_movement_poultry_4.pdf" data-entity-type="media" data-entity-uuid="ae60606a-5c87-4cd0-b3ca-abf9711b0069" data-entity-substitution="media" title="rule_movement_poultry">Poultry</a><span class="file-size"> (41.81 KB)</span></li></ul></div></div>
+
+  </div>
+      </div></div>
+
+
+
+
+      
+          </div>
+                      <h2 class="usa-accordion__heading">
+            <button class="usa-accordion__button" aria-expanded="" aria-controls="accordion-3375-a3">
+        Program Documents and Information
+      </button>
+    </h2>
+    <div id="accordion-3375-a3" class="usa-accordion__content">
+      <a id="program-documents-and-information"></a>                  
+
+  
+
+
+<div  class="c-field c-field--name-field-panel-body c-field--type-entity-reference-revisions c-field--label-hidden">
+    <div id="15" class="c-field__content c-field__content--accordion-panel-body">
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><ul class="two-column-list" dir="ltr"><li><a href="/sites/default/files/adt-trace-perf-report-2013-2022_1.pdf" data-entity-type="media" data-entity-uuid="4a3de240-d395-4da4-9594-214e23c31e5e" data-entity-substitution="media" title="adt-trace-perf-report-2013-2022">ADT Trace Performance Metric Report (2013–2022)</a><span class="file-size"> (297.78 KB)</span></li><li><a href="/sites/default/files/ADT_monitoring_and_compliance_overview_3.pdf" data-entity-type="media" data-entity-uuid="2297ada9-c488-4989-99d3-4248e2bee960" data-entity-substitution="media" title="ADT_monitoring_and_compliance_overview">ADT Monitoring and Compliance Overview</a><span class="file-size"> (104.2 KB)</span> and <a href="/sites/default/files/monitoring-and-compliance.pdf" data-entity-type="media" data-entity-uuid="a3931d62-85be-435a-a730-ba3cb5a62496" data-entity-substitution="media" title="monitoring-and-compliance">Guidelines</a><span class="file-size"> (1.11 MB)</span></li></ul><p>&nbsp;</p></div></div>
+
+  </div>
+      </div></div>
+
+
+
+
+      
+          </div>
+                      <h2 class="usa-accordion__heading">
+            <button class="usa-accordion__button" aria-expanded="" aria-controls="accordion-3375-a4">
+        State Road Maps
+      </button>
+    </h2>
+    <div id="accordion-3375-a4" class="usa-accordion__content">
+      <a id="state-road-maps"></a>                  
+
+  
+
+
+<div  class="c-field c-field--name-field-panel-body c-field--type-entity-reference-revisions c-field--label-hidden">
+    <div id="17" class="c-field__content c-field__content--accordion-panel-body">
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><h4>State Road Maps: Traceability Implementation Plans</h4><p>The following States, Territories, and Tribal Nations are cooperators with USDA for the implementation of the Animal Disease Traceability (ADT) program. As part of the cooperative agreement with USDA, cooperators provide ADT Road Maps to reflect their long-term plan and approach for implementing the ADT. These reports are provided below.</p><ul class="two-column-list"><li><a href="/sites/default/files/adt-alabama.pdf" target="_blank" data-entity-type="file" data-entity-uuid="1e65afc4-d2d8-4eb9-9031-43628016c716" data-entity-substitution="file" title="adt-alabama.pdf">Alabama</a><span class="file-size"> (225.1 KB)</span></li><li><a href="/sites/default/files/adt-alaska.pdf" target="_blank" data-entity-type="file" data-entity-uuid="c7b1b5ed-a268-4966-b246-d82c9883c77e" data-entity-substitution="file" title="adt-alaska.pdf">Alaska</a><span class="file-size"> (543.22 KB)</span></li><li><a href="/sites/default/files/az_2.pdf" target="_blank" title="Advancing Animal Disease Traceability Road Map for Arizona 2025" data-entity-type="file" data-entity-uuid="388c22b8-6277-4bb0-a9b2-c8e124e3dbc6" data-entity-substitution="file">Arizona</a><span class="file-size"> (430.09 KB)</span></li><li><a href="/sites/default/files/ar.pdf" target="_blank" data-entity-type="file" data-entity-uuid="d4f1c837-4ef5-481c-9971-ab907673f1f3" data-entity-substitution="file" title="ar.pdf">Arkansas</a><span class="file-size"> (434.73 KB)</span></li><li><a href="/sites/default/files/adt-california.pdf" target="_blank" data-entity-type="file" data-entity-uuid="435c96b0-b113-4b91-afe0-bfa5ce583206" data-entity-substitution="file" title="adt-california.pdf">California</a><span class="file-size"> (508.68 KB)</span></li><li><a href="/sites/default/files/colorado.pdf" data-entity-type="file" data-entity-uuid="36cead87-5060-4e8c-a3ba-ce66bad6bda7" data-entity-substitution="file" title="colorado.pdf">Colorado</a><span class="file-size"> (427.85 KB)</span></li><li><a href="/sites/default/files/CT_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="cd4268e4-5521-403c-a18b-166d30b394fa" data-entity-substitution="media" title="CT">Connecticut</a><span class="file-size"> (362.04 KB)</span></li><li><a href="/sites/default/files/DE_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="10d97d94-5524-48b2-9c46-3161f75bb1f9" data-entity-substitution="media" title="DE">Delaware</a><span class="file-size"> (396.22 KB)</span></li><li><a href="/sites/default/files/ebci-adt-roadmap.pdf" target="_blank" data-entity-type="media" data-entity-uuid="8c708006-b135-43dc-a896-28e38eba3c63" data-entity-substitution="media" title="ebci-adt-roadmap">Eastern Band of Cherokee Indians</a><span class="file-size"> (336.29 KB)</span></li><li><a href="/sites/default/files/adt-florida.pdf" target="_blank" data-entity-type="file" data-entity-uuid="35ae6104-698f-4643-a552-8d4cd3241369" data-entity-substitution="file" title="adt-florida.pdf">Florida</a><span class="file-size"> (603.08 KB)</span></li><li><a href="/sites/default/files/ga.pdf" target="_blank" data-entity-type="media" data-entity-uuid="f74b6c36-3b77-45af-bf57-b516a6821feb" data-entity-substitution="media">Georgia</a></li><li><a href="/sites/default/files/hi-roadmap.pdf" data-entity-type="file" data-entity-uuid="c6fd347d-345f-4ed3-adf1-f1173725cc42" data-entity-substitution="file" title="hi-roadmap.pdf">Hawaii</a><span class="file-size"> (365.31 KB)</span></li><li><a href="/sites/default/files/ID_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="f1573207-1c05-4b72-84e4-e3091b95deff" data-entity-substitution="media" title="ID">Idaho</a><span class="file-size"> (380.37 KB)</span></li><li><a href="/sites/default/files/IL_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="ae7e403c-c0d2-4d4f-ae77-d60724eb9ed0" data-entity-substitution="media" title="Illinois Traceability Road Map">Illinois</a><span class="file-size"> (458.25 KB)</span></li><li><a href="/sites/default/files/in.pdf" target="_blank" data-entity-type="file" data-entity-uuid="1c83afa2-2ef4-40db-96fd-e277dfc6613d" data-entity-substitution="file" title="in.pdf">Indiana</a><span class="file-size"> (331.22 KB)</span></li><li><a href="/sites/default/files/ia.pdf" target="_blank" data-entity-type="media" data-entity-uuid="269cc371-2fd5-400e-a92d-d12f53f5b4c4" data-entity-substitution="media">Iowa</a></li><li><a href="/sites/default/files/KS_3.pdf" target="_blank" data-entity-type="file" data-entity-uuid="d39dc212-a5d3-4dfc-b55b-3dc67f675685" data-entity-substitution="file" title="KS.pdf">Kansas</a><span class="file-size"> (433.71 KB)</span></li><li><a href="/sites/default/files/KY_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="86e81d8b-1093-406f-b1ef-5dcce40e6150" data-entity-substitution="media" title="Kentucky ADT Roadmap">Kentucky</a><span class="file-size"> (611.52 KB)</span></li><li><a href="/sites/default/files/la-roadmap.pdf" data-entity-type="file" data-entity-uuid="b13eab69-b697-41e8-bd6f-2975aed8519b" data-entity-substitution="file" title="la-roadmap.pdf">Louisiana</a><span class="file-size"> (428.41 KB)</span></li><li><a href="/sites/default/files/ME_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="23d29b48-cb97-47d4-aa26-2d456581c324" data-entity-substitution="media" title="Maine ADT Roadmap">Maine</a><span class="file-size"> (214.73 KB)</span></li><li><a href="/sites/default/files/MA_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="92fe04b2-1582-478c-aaf5-fee57f24adbf" data-entity-substitution="media" title="MA">Massachusetts</a><span class="file-size"> (443.26 KB)</span></li><li><a href="/sites/default/files/MD_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="777d930b-8709-44c9-8667-524e4ffa1432" data-entity-substitution="media" title="MD">Maryland</a><span class="file-size"> (346.3 KB)</span></li><li><a href="/sites/default/files/michigan.pdf" data-entity-type="file" data-entity-uuid="6fc1c669-5c6b-42f5-b421-0778c243026f" data-entity-substitution="file" title="michigan.pdf">Michigan</a><span class="file-size"> (534.09 KB)</span></li><li><a href="/sites/default/files/mn-roadmap.pdf" data-entity-type="file" data-entity-uuid="d0f93bc1-b6c1-44db-98b1-8201b5f0cfa8" data-entity-substitution="file" title="mn-roadmap.pdf">Minnesota</a><span class="file-size"> (459.97 KB)</span></li><li><a href="/sites/default/files/adt-mississippi.pdf" target="_blank" data-entity-type="file" data-entity-uuid="d74f7aaf-8e6f-49fb-a932-767b7bd64b40" data-entity-substitution="file" title="adt-mississippi.pdf">Mississippi</a><span class="file-size"> (472.56 KB)</span></li><li><a href="/sites/default/files/MO_3.pdf" target="_blank" data-entity-type="media" data-entity-uuid="d7891b1c-f4d7-445c-b6ea-c828a66d310d" data-entity-substitution="media" title="MO">Missouri</a><span class="file-size"> (419.05 KB)</span></li><li><a href="/sites/default/files/adt-montana.pdf" target="_blank" data-entity-type="file" data-entity-uuid="d29b3f3e-5b02-45a1-a309-8e562f11e03c" data-entity-substitution="file" title="adt-montana.pdf">Montana</a><span class="file-size"> (424.25 KB)</span></li><li><a href="/sites/default/files/nebraska.pdf" target="_blank" data-entity-type="file" data-entity-uuid="a3ded45a-e17d-4fdb-b49f-678c0efb1b1b" data-entity-substitution="file" title="nebraska.pdf">Nebraska</a><span class="file-size"> (386.15 KB)</span></li><li><a href="/sites/default/files/nv.pdf" target="_blank" data-entity-type="media" data-entity-uuid="fb5235a9-1f1c-4f5d-9f8b-02f190f7e906" data-entity-substitution="media" title="NV">Nevada</a><span class="file-size"> (317.31 KB)</span></li><li><a href="/sites/default/files/NJ_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="bd269ac9-262f-44b0-856e-cad9ae26eae9" data-entity-substitution="media" title="NJ">New Jersey</a><span class="file-size"> (512.54 KB)</span></li><li><a href="/sites/default/files/NM_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="72f64ad0-e7d1-4e80-bb68-e0c476e0e927" data-entity-substitution="media" title="NM">New Mexico</a><span class="file-size"> (433.97 KB)</span></li><li><a href="/sites/default/files/ny.pdf" data-entity-type="file" data-entity-uuid="0536ed33-e5bd-4ae9-a02a-22309cac852b" data-entity-substitution="file" title="ny.pdf">New York</a><span class="file-size"> (410.78 KB)</span></li><li><a href="/sites/default/files/adt-north-carolina.pdf" data-entity-type="file" data-entity-uuid="3f1ee6eb-7b48-4c27-8ae4-c48e5a85d2e8" data-entity-substitution="file" title="adt-north-carolina.pdf">North Carolina</a><span class="file-size"> (414.91 KB)</span></li><li><a href="/sites/default/files/nd-roadmap.pdf" data-entity-type="file" data-entity-uuid="587db3be-82b5-4ce2-8a35-07647f31c23e" data-entity-substitution="file" title="nd-roadmap.pdf">North Dakota</a><span class="file-size"> (765.37 KB)</span></li><li><a href="/sites/default/files/OH_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="519f3f24-6a2c-4bc9-a083-6f93d06b6526" data-entity-substitution="media" title="OH">Ohio</a><span class="file-size"> (420.95 KB)</span></li><li><a href="/sites/default/files/ok-roadmap.pdf" data-entity-type="file" data-entity-uuid="d95c64f7-f5c0-4855-a78c-a42c06cd72f1" data-entity-substitution="file" title="ok-roadmap.pdf">Oklahoma</a><span class="file-size"> (381.17 KB)</span></li><li><a href="/sites/default/files/OR_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="0595526d-2317-4ce6-970a-ac0a3aab3010" data-entity-substitution="media" title="OR">Oregon</a><span class="file-size"> (414.2 KB)</span></li><li><a href="/sites/default/files/pa.pdf" target="_blank" data-entity-type="media" data-entity-uuid="f16a1465-8018-4865-98b9-3c92724e5739" data-entity-substitution="media" title="pa.pdf">Pennsylvania</a><span class="file-size"> (501.14 KB)</span></li><li><a href="/sites/default/files/ri.pdf" target="_blank" data-entity-type="media" data-entity-uuid="8a63cb2e-2ed8-4782-9110-37c30c67a08e" data-entity-substitution="media" title="RI">Rhode Island</a><span class="file-size"> (321.18 KB)</span></li><li><a href="/sites/default/files/SC_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="1a2ca6b0-0125-4758-b5aa-7f0b6aa78a02" data-entity-substitution="media" title="SC">South Carolina</a><span class="file-size"> (499.87 KB)</span></li><li><a href="/sites/default/files/sd-roadmap.pdf" data-entity-type="file" data-entity-uuid="601ea230-9f98-4712-841b-bb9cb4981777" data-entity-substitution="file" title="sd-roadmap.pdf">South Dakota</a><span class="file-size"> (388.04 KB)</span></li><li><a href="/sites/default/files/tn-roadmap.pdf" data-entity-type="file" data-entity-uuid="d46af1d7-a902-48e6-804d-5381e1a82a7a" data-entity-substitution="file" title="tn-roadmap.pdf">Tennessee</a><span class="file-size"> (476.38 KB)</span></li><li><a href="/sites/default/files/tx.pdf" target="_blank" data-entity-type="file" data-entity-uuid="d1496786-1af0-4db1-90cd-70b9dc13cc61" data-entity-substitution="file" title="tx.pdf">Texas</a><span class="file-size"> (452.52 KB)</span></li><li><a href="/sites/default/files/ut-roadmap.pdf" data-entity-type="file" data-entity-uuid="8709b990-8327-4c42-a3f9-c5656b14b2f4" data-entity-substitution="file" title="ut-roadmap.pdf">Utah</a><span class="file-size"> (471.58 KB)</span></li><li><a href="/sites/default/files/VT_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="2e2f3040-a68b-4567-ba38-860647e9e4be" data-entity-substitution="media" title="VT">Vermont</a><span class="file-size"> (393.81 KB)</span></li><li><a href="/sites/default/files/adt-virginia.pdf" target="_blank" data-entity-type="file" data-entity-uuid="be11584d-b7eb-40cb-b53a-f7d56e49a63e" data-entity-substitution="file" title="adt-virginia.pdf">Virginia</a><span class="file-size"> (344.74 KB)</span></li><li><a href="/sites/default/files/wa-roadmap.pdf" data-entity-type="file" data-entity-uuid="8ad2cd10-cc7b-4c0e-94d7-c52a1aff6d81" data-entity-substitution="file" title="wa-roadmap.pdf">Washington</a><span class="file-size"> (483.85 KB)</span></li><li><a href="/sites/default/files/wv.pdf" target="_blank" data-entity-type="media" data-entity-uuid="e2a6080b-5e02-4ae4-94c3-d4916efa66ef" data-entity-substitution="media" title="WV">West Virginia</a><span class="file-size"> (317.33 KB)</span></li><li><a href="/sites/default/files/adt-wisconsin.pdf" data-entity-type="file" data-entity-uuid="1b79514e-77a9-46a9-9a9e-cec1ac7cf0ea" data-entity-substitution="file" title="adt-wisconsin.pdf">Wisconsin</a><span class="file-size"> (433.55 KB)</span></li><li><a href="/sites/default/files/adt-wyoming.pdf" data-entity-type="file" data-entity-uuid="a7b6595b-679a-4495-b99f-0e044b2050ad" data-entity-substitution="file" title="adt-wyoming.pdf">Wyoming</a><span class="file-size"> (466.2 KB)</span></li><li><a href="/sites/default/files/PR_1.pdf" target="_blank" data-entity-type="media" data-entity-uuid="1c5b922a-0e38-422a-baec-ca05cec55c91" data-entity-substitution="media" title="PR">Puerto Rico</a><span class="file-size"> (442.13 KB)</span></li><li><a href="/sites/default/files/adt-vigin-islands.pdf" target="_blank" data-entity-type="file" data-entity-uuid="38c53580-d3f4-4ef5-aadb-d65ff4a3be76" data-entity-substitution="file" title="adt-vigin-islands.pdf">U.S. Virgin Islands</a><span class="file-size"> (422.99 KB)</span></li></ul><p>&nbsp;</p></div></div>
+
+  </div>
+      </div></div>
+
+
+
+
+      
+          </div>
+  </div>
+      </div>
+
+                      
+
+  <div class="l-constrain c-paragraph c-paragraph--type-wysiwyg c-paragraph--view-mode-default c-rte">
+        
+
+
+
+
+<div  class="c-field c-field--name-field-wysiwyg c-field--type-text-long c-field--label-hidden">
+  <div class="c-field__content"><h2>Contact Us</h2><p>For more information on the ADT program, email us at <a href="mailto:traceability@usda.gov"><u>traceability@usda.gov</u></a>. We also encourage you to contact your <a href="https://www.usaha.org/saho"><u>State animal health official</u></a>&nbsp;to learn more about your State's traceability activities and requirements.</p></div></div>
+
+  </div>
+      
+                            
+                
+        
+                                    <div  class="c-paragraph c-paragraph--type-link-list c-paragraph--view-mode-default">
+                        
+<div  class="c-link-list l-constrain">
+      <h3 class="c-link-list__heading">Related References</h3>
+    <ul class="c-link-list__list">
+          <li class="c-link-list__list-item">
+                  <a href="/contact/animal-health">APHIS Veterinary Services District Offices</a>
+              </li>
+          <li class="c-link-list__list-item">
+                  <a href="https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do?_gl=1*1c1bp7x*_ga*Nzc0ODk1NTc0LjE1OTg4OTAxODc.*_ga_NRK0CEY9GC*MTcwOTMyMzQ1OS4xNS4xLjE3MDkzMzE2MTMuMC4wLjA.">Locate an Accredited Veterinarian</a>
+              </li>
+      </ul>
+</div>    </div>
+      </div></div>
+
+<div class="print__wrapper print__wrapper--pdf"><a href="/print/pdf/node/1113" class="print__link print__link--pdf">Print</a></div>
+
+</div>
+      </article>
+
+
+  
+  
+  
+  
+
+        </div>
+  </div>
+
+  
+    </main>
+
+    
+                        
+                                                                            
+
+
+
+<footer  class="usa-footer usa-footer--slim c-footer" role="contentinfo">
+        <nav class="usa-footer__primary-section" aria-label="Footer Navigation">
+        <div class="c-footer__identifier">
+            <div class="l-constrain">
+                <div class="grid-row">
+                    <img loading="lazy" alt="USDA Logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgd2lkdGg9Ijc2cHgiIGhlaWdodD0iNTNweCIgdmlld0JveD0iMCAwIDc2LjAgNTMuMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGRlZnM+PGNsaXBQYXRoIGlkPSJpMCI+PHBhdGggZD0iTTYuMTA3NDQzMjEsMCBDNS41OTc5NTQ0MywwLjI1NDcyNTAxMyA1LjEyMjcxNywwLjY5OTk1ODY0OSA1LjEyMjcxNywxLjQzMjAyNTQ5IEw1LjEyMjcxNywxNC43NTQ3ODU4IEM1LjEyMjcxNywxNi45ODA5NTQgNS44ODQ4MDk0NiwyMC4xMjk2OTc2IDEwLjAxODUxODgsMjAuMTI5Njk3NiBDMTMuODAzMjkyNiwyMC4xMjk2OTc2IDE1LjE3MTIwNTgsMTcuNjQ4ODA0NSAxNS4xNzEyMDU4LDE0LjUwMDA2MDggTDE1LjEwNDg0MzgsMS40MzIwMjU0OSBDMTUuMTA0ODQzOCwwLjY5OTk1ODY0OSAxNC43MjU5MzgzLDAuMjU0NzI1MDEzIDE0LjI0ODU2MDEsMCBMMTcuOTM3MDAyLDAgQzE3LjQ1OTYyMzgsMC4yNTQ3MjUwMTMgMTcuMTEwNjg4MywwLjY5OTk1ODY0OSAxNy4xMTA2ODgzLDEuNDMyMDI1NDkgTDE3LjAxNjQ5NzEsMTQuNDM3OTg1IEMxNy4wMTY0OTcxLDE5Ljg0Mjg2NDQgMTMuODAzMjkyNiwyMS45NDI3NDA0IDkuNDc2OTE5NDIsMjEuOTQyNzQwNCBDNS43NTYzNjY5MSwyMS45NDI3NDA0IDEuMDE2ODM2ODUsMjAuMjg4MDk4MSAxLjAxNjgzNjg1LDE0LjY2MDYwMTggTDEuMDE2ODM2ODUsMS40MzIwMjU0OSBDMS4wMTY4MzY4NSwwLjY5OTk1ODY0OSAwLjUwOTQ4ODc3OCwwLjI1NDcyNTAxMyAwLDAgTDYuMTA3NDQzMjEsMCBaIj48L3BhdGg+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImkxIj48cGF0aCBkPSJNNi45OTc5NzgyMiwwIEM4LjA3OTAzNjM0LDAgMTAuMTc5MDcyLDAuMjI0NzU3MzY0IDExLjgwMTcyOTYsMS4xNzczMDA0OCBMMTEuOTU4MDAxMyw1Ljg4NjUwMjQgQzExLjUxMjczMzgsNC4xOTk3NTE4OSA5LjcwMTY5Mzg4LDEuNjU0NjQyMzEgNi42NDkwNDI2MywxLjY1NDY0MjMxIEM0LjIzMDA0MTI5LDEuNjU0NjQyMzEgMy4yNzc0MjU3MSwzLjM0MTM5MjgxIDMuMjc3NDI1NzEsNC43MDkyMDE5MiBDMy4yNzc0MjU3MSw2LjY0ODUzNjg5IDQuNjQ1MzM4ODYsNy4zODA2MDM3MyA3LjYzMzc2ODg0LDguNzQ2MjcyMjkgQzcuNzY1MTYwODEsOC44MDg0OTA4MyA3Ljg5NjgxMDcyLDguODcwMDE1OTUgOC4wMjg0MzYxMSw4LjkzMTE3NDQzIEw4LjQyMjk1NjIyLDkuMTEzODc2NzYgQzExLjExNDQ4MDUsMTAuMzU5MjkyOSAxMy42NzY5OTA4LDExLjU4Nzk2NjUgMTMuNjc2OTkwOCwxNS42MTUyODU0IEMxMy42NzY5OTA4LDE5LjU5MDI4IDEwLjE3OTA3MiwyMi4yOTM3OSA2LjI2NTg1NTY5LDIyLjI5Mzc5IEMzLjM3MTYxNjkyLDIyLjI5Mzc5IDEuMjcxNTgxMjQsMjEuMzA5MTM4NyAwLjE2MDU1MzE4NiwyMC43Njk3MjEgTDAsMTUuMzkyNjY4NiBDMC42MDU4MjA2OSwxNy42NTA5NDUgMi41MTMxOTI1NCwyMC42MzkxNDc3IDUuODIwNTg4MTksMjAuNjM5MTQ3NyBDOC45Njk1NzEzNSwyMC42MzkxNDc3IDkuOTI0MzI3NjMsMTguMzgzMDExOCA5LjkyNDMyNzYzLDE2LjgyNDY5NDEgQzkuOTI0MzI3NjMsMTMuNzcyMjc1MSA3LjE1NjM5MDcsMTMuMzU3MDA5MSA0LjI2MjE1MTkyLDExLjc5ODY5MTMgQzEuMzM3OTQzMjIsMTAuMTc4Mjk3OCAwLjA2NDIyMTI3NDYsOC40NjE1Nzk2MyAwLjA2NDIyMTI3NDYsNi4wNDQ5MDI4MiBDMC4wNjQyMjEyNzQ2LDEuNzE4ODU4NyA0LjEwMzczOTQ1LDAgNi45OTc5NzgyMiwwIFoiPjwvcGF0aD48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iaTIiPjxwYXRoIGQ9Ik04LjQyNDc3NzYzLDAgQzE4Ljg0Mjc2NTYsMCAyMC45MzQwMzc1LDcuMzEyOTc4NDIgMjAuOTM0MDM3NSwxMC4zNTc3NjM3IEMyMC45MzQwMzc1LDE1LjgxOTc4MzEgMTYuNjg5NjcyMSwyMS4zNDUxOTE2IDguMTM5MTE5NjgsMjEuMzQ1MTkxNiBMMCwyMS4zNDUxOTE2IEMwLjQ3NTM4NTk4NSwyMS4wNjIwNTQgMC44MjI4NjU0MjYsMjAuNjIyNTU2OSAwLjgyMjg2NTQyNiwxOS45MzM3Mjk3IEwwLjgyMjg2NTQyNiwxLjQxMTQ2MTg4IEMwLjgyMjg2NTQyNiwwLjY5MDk0MDE3NCAwLjQ3NTM4NTk4NSwwLjI1MTQ0MzA2IDAsMCBMOC40MjQ3Nzc2MywwIFogTTcuNzU5NjYzNjEsMS41Njc4MjE0NCBMNy40MTEzODAwOSwxLjU2Nzk3MTY5IEM2LjU3MjYwNTYyLDEuNTY4OTQ4MzUgNS4yNTc1MjczOSwxLjU3NjI3MzMgNC44NDU1MjYyLDEuNjMxMjEwNDQgTDQuODQ1NTI2MiwxOS43MTM5ODExIEw3LjM3ODA3NTc1LDE5LjcxMzk4MTEgQzE0LjUzNjU3ODYsMTkuNzEzOTgxMSAxNi41Mjk3ODg5LDE0Ljk0MjkwMTkgMTYuNTI5Nzg4OSwxMC4zNTc3NjM3IEMxNi41Mjk3ODg5LDYuNTkyNDU2NzEgMTQuMzE0ODczOSwxLjU2NzgyMTQ0IDcuNzU5NjYzNjEsMS41Njc4MjE0NCBaIj48L3BhdGg+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImkzIj48cGF0aCBkPSJNMTAuNDIwMTE5NywwIEMxMC40MjAxMTk3LDAgMTguODQ0ODk3MywxOS4yNzIzNzEgMTkuNDE0MDgxNCwyMC40NjYxOTczIEMxOS43MzE3MTYsMjEuMTI1NDQzIDE5Ljk1NTU1MjUsMjEuNDY5ODU2NiAyMS4wMDAxMjI2LDIyLjAwNDQzNzIgTDE0LjIyMTA3NTgsMjIuMDA0NDM3MiBDMTUuMDQ2MDczLDIxLjU2NDk0MDEgMTUuMjAxNjkyNiwyMS4xMjU0NDMgMTQuOTc5OTg4LDIwLjQ2NjE5NzMgQzE0Ljg4NjE4OTgsMjAuMTUxMzY1MyAxNC4wNjMzMjQ0LDE4LjIzNzAxNzMgMTMuMTc2NTA1NywxNi4xMDI5MjA3IEw1LjQxNjg0MjA5LDE2LjEwMjkyMDcgQzQuNDY2MDcwMTIsMTguMjM3MDE3MyAzLjcwNzE1Nzk3LDIwLjA5MDA4OTIgMy42NDMyMDQ3LDIwLjQzNDUwMjggQzMuMzU5Njc4NTMsMjEuMTg2NzE5IDMuNTE1Mjk4MTYsMjEuNjI4MzI5MSA0LjM3MjI3MTk5LDIyLjAwNDQzNzIgTDAsMjIuMDA0NDM3MiBDMC44ODY4MTg2OTgsMjEuNDA4NTgwNiAxLjE3NDYwODQyLDIxLjA2MjA1NCAxLjQ5MDExMTIzLDIwLjQ2NjE5NzMgQzEuNzY0MzY1NDYsMTkuOTE5NjI2MyAzLjY1OTMxMDE0LDE1LjU4MzYyMDEgNS42MzM0NTMyNywxMS4wNDI1ODk0IEw2LjEwMTczNTg0LDkuOTY1MDEyMzUgQzguMjg2ODg1ODcsNC45MzQ4OTA3NyAxMC40MjAxMTk3LDAgMTAuNDIwMTE5NywwIFogTTkuMjE3Nzk4Miw2Ljc4MDUxMDc2IEM5LjIxNzc5ODIsNi43ODA1MTA3NiA3LjA2MjU3Mjk1LDEyLjExNzg2NTEgNi4wNDk5Nzk0OCwxNC40Njk1OTczIEwxMi40NDc0Mzg0LDE0LjQ2OTU5NzMgQzEwLjk1OTQ1OSwxMC45ODUzMTQ5IDkuMjE3Nzk4Miw2Ljc4MDUxMDc2IDkuMjE3Nzk4Miw2Ljc4MDUxMDc2IFoiPjwvcGF0aD48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iaTQiPjxwYXRoIGQ9Ik03Mi4wOTQzOTUzLDAuMDAwNzgzMDE5NTQ4IEM3My4zMTk2NjU3LDAuMDA0NTg1NDY1NDkgNzMuOTg4ODIyOCwwLjAyMDk0MjY5NjggNzMuOTg4ODIyOCwwLjAyMDk0MjY5NjggTDczLjk4ODgyMjgsMy4xMDg2OTIyNCBDMjkuMTY2MDY2NCwxLjk3Mjc3MzM5IDAsMTMuMzQ0Njc3MyAwLDEzLjM0NDY3NzMgQzIzLjM5MTY0MDksMS4wNTM5NzE4NyA2MC40NzQ0MTY3LDAuMDMxMDY3NDIxMiA3MS4wNzI5Mzc2LDAuMDAwNzM2OTU3NjE1IFoiPjwvcGF0aD48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iaTUiPjxwYXRoIGQ9Ik0yNS4zNzY1NjI3LDMuNzM4MzU5NzcgQzI1LjM3NjU2MjcsMy43MzgzNTk3NyAxOC43MjA1NzYzLDMuMTk1NzM1MDkgMTIuMDUxMDY4MSwyLjg5NDQ4MTMxIEwxMS4yODE4Mjc0LDIuODYwODM3MDMgQzYuNjcwNTU4MTYsMi42NjU5MzM3MSAyLjE3NTI1Njc3LDIuNjAxMTY5MzggMCwyLjkyNjY4NjQyIEwwLDAgTDAuMDQ5MTg5MTg1MiwwLjAwMDYzMzE5NzA1OSBDMS4wMTQ2NDAwOSwwLjAxNDI3MDM5NTEgMTUuOTcxNTYzMSwwLjI3OTc2NDI0MyAyNS4zNzY1NjI3LDMuNzM4MzU5NzcgWiI+PC9wYXRoPjwvY2xpcFBhdGg+PGNsaXBQYXRoIGlkPSJpNiI+PHBhdGggZD0iTTE3Ljk2MDkxNDYsMC4zMzg1MDM5MTQgQzE3Ljk2MDkxNDYsMC4zMzg1MDM5MTQgMTQuMjI5NzUxMiwwLjc4Mzk4MzQxNCAxMC4xNTYwMTE4LDEuMzM3ODU1ODMgTDkuNDEyMzExMjYsMS40Mzk2NzkyOCBDNS4xODUxNjYyMywyLjAyMjU5NjcxIDAuODEyMzcyNDg5LDIuNjk4ODg5NDYgMCwzLjA5OTg4ODcxIEwwLDAuMTc1MzIxNTQzIEMwLDAuMTc1MzIxNTQzIDMuNzY1NjQ2NDYsMC4wMTE1MTQ2NTg3IDguMjQ3MTI3NjUsMC4wMDA1NzM1NTYxMzUgTDkuMjY2MjUzOTksMC4wMDA4MjUwMTQ0MTEgQzEyLjIzNzg1OTgsMC4wMDk3NzU1NDU5NCAxNS40MTUyNjQ4LDAuMDkzMzQ2NDM1NSAxNy45NjA5MTQ2LDAuMzM4NTAzOTE0IFoiPjwvcGF0aD48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iaTciPjxwYXRoIGQ9Ik03MC45ODczMDgxLDAuMDAwNzk2MjA3Njc2IEM3Mi43NjM3MDU5LDAuMDA1ODcwNTYwNzggNzMuODEwMTk0NSwwLjAzMzYyMDAyMzIgNzMuOTY2MjYzNywwLjAzODAyNzQ2MTMgTDczLjk4NjY3MzMsMC4wMzg2MTc0NzMxIEw3My45ODY2NzMzLDIwLjQ3MDMyMTkgTDAsMjAuNDgzMDM3NCBMMCwxMC4zMzE4MjI0IEMyNC4xODc5MDk2LDEuOTA1Njc4MTEgNTIuNTIyMTMzNywwLjI5OTI4NTQxNiA2Ni4wMzU4MDg5LDAuMDQyODU1OTc2MiBMNjYuMjc0Mzk5MywwLjAzODYxNzQ3MzEgQzY3LjY5MDUyODYsMC4wMTMxODY0NTQyIDY4LjkzODM2MywwLjAwMjY0MTg4NTQzIDY5Ljk5NTEwNjIsMC4wMDA0NDgyNTIwMzQgWiI+PC9wYXRoPjwvY2xpcFBhdGg+PC9kZWZzPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNTIuMCAtMTMwLjApIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTIuMDUxODEzMjk4MDc0MiAxMjguMTY4Mjg4Mjg4Mjg1MSkiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMCAxLjk5NTU2Mjc2OTUyMzMzMTgpIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAgMC43NjY0MTMzNDM5MjU0NDk5KSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2kwKSI+PHBvbHlnb24gcG9pbnRzPSIwLDAgMTcuOTM3MDAyLDAgMTcuOTM3MDAyLDIxLjk0Mjc0MDQgMCwyMS45NDI3NDA0IDAsMCIgc3Ryb2tlPSJub25lIiBmaWxsPSIjMTYxNjE2Ij48L3BvbHlnb24+PC9nPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOS40NTkyNjAyNjYwNTk1NzMgMC40MTQ1MDc1Mjc5NjQxMDQ4NCkiPjxnIGNsaXAtcGF0aD0idXJsKCNpMSkiPjxwb2x5Z29uIHBvaW50cz0iMCwwIDEzLjY3Njk5MDgsMCAxMy42NzY5OTA4LDIyLjI5Mzc5IDAsMjIuMjkzNzkgMCwwIiBzdHJva2U9Im5vbmUiIGZpbGw9IiMxNjE2MTYiPjwvcG9seWdvbj48L2c+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0Ljk5OTE0MzcxNjMzODk1IDAuNjU5MjQ1NjcwODE4OTYxNikiPjxnIGNsaXAtcGF0aD0idXJsKCNpMikiPjxwb2x5Z29uIHBvaW50cz0iMCwwIDIwLjkzNDAzNzUsMCAyMC45MzQwMzc1LDIxLjM0NTE5MTYgMCwyMS4zNDUxOTE2IDAsMCIgc3Ryb2tlPSJub25lIiBmaWxsPSIjMTYxNjE2Ij48L3BvbHlnb24+PC9nPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NC4wMjMzMjMzODIzOTY0ODQgMC4wKSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2kzKSI+PHBvbHlnb24gcG9pbnRzPSIwLDAgMjEuMDAwMTIyNiwwIDIxLjAwMDEyMjYsMjIuMDA0NDM3MiAwLDIyLjAwNDQzNzIgMCwwIiBzdHJva2U9Im5vbmUiIGZpbGw9IiMxNjE2MTYiPjwvcG9seWdvbj48L2c+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuOTk5MzU4NjYyNjYwNTk3NSAyNi4wMDQ0MzcyMzA0NzY2NjgpIj48ZyBjbGlwLXBhdGg9InVybCgjaTQpIj48cG9seWdvbiBwb2ludHM9IjAsMi43OTI5MDQ4ZS0xNSA3My45ODg4MjI4LDIuNzkyOTA0OGUtMTUgNzMuOTg4ODIyOCwxMy4zNDQ2NzczIDAsMTMuMzQ0Njc3MyAwLDIuNzkyOTA0OGUtMTUiIHN0cm9rZT0ibm9uZSIgZmlsbD0iIzE2MTYxNiI+PC9wb2x5Z29uPjwvZz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC45OTkxNDM3MTYzMzg5NDkyIDI2LjAyNTM3OTkyNzI4NTIzKSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2k1KSI+PHBvbHlnb24gcG9pbnRzPSIwLDAgMjUuMzc2NTYyNywwIDI1LjM3NjU2MjcsMy43MzgzNTk3NyAwLDMuNzM4MzU5NzcgMCwwIiBzdHJva2U9Im5vbmUiIGZpbGw9IiMxNjE2MTYiPjwvcG9seWdvbj48L2c+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuOTk5MTQzNzE2MzM4OTQ5MiAzMC44ODc1MTkzNjcxODI2NDQpIj48ZyBjbGlwLXBhdGg9InVybCgjaTYpIj48cG9seWdvbiBwb2ludHM9IjAsLTMuMDUzMTEzMzJlLTE2IDE3Ljk2MDkxNDYsLTMuMDUzMTEzMzJlLTE2IDE3Ljk2MDkxNDYsMy4wOTk4ODg3MSAwLDMuMDk5ODg4NzEgMCwtMy4wNTMxMTMzMmUtMTYiIHN0cm9rZT0ibm9uZSIgZmlsbD0iIzE2MTYxNiI+PC9wb2x5Z29uPjwvZz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMS4wMTI0NzAzODgyNzAyMzA2IDMxLjUyMTM5OTg1NTk2NDk3MikiPjxnIGNsaXAtcGF0aD0idXJsKCNpNykiPjxwb2x5Z29uIHBvaW50cz0iMCwtMy4zNTE0ODU3NmUtMTUgNzMuOTg2NjczMywtMy4zNTE0ODU3NmUtMTUgNzMuOTg2NjczMywyMC40ODMwMzc0IDAsMjAuNDgzMDM3NCAwLC0zLjM1MTQ4NTc2ZS0xNSIgc3Ryb2tlPSJub25lIiBmaWxsPSIjMTYxNjE2Ij48L3BvbHlnb24+PC9nPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4=" />
+                    <div class="c-footer__identifier-title">
+                        <span>aphis.usda.gov</span>
+                        <p>An official website of the <a href="https://www.usda.gov/">U.S. Department of Agriculture</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="c-footer__nav-wrapper l-constrain">
+            <div class="grid-row grid-gap">
+                <div class="grid-col-6 tablet:grid-col-3">
+                    <div class="c-link-list">
+                        <h2 class="c-link-list__heading">Legal</h2>
+                        <ul class="c-link-list__list">
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://acir.aphis.usda.gov/s/">Agricultural Commodity Import Requirements (ACIR)</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://aphis.my.site.com/PublicSearchTool/s/">Animal Care Public Search Tool</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://efile.aphis.usda.gov/s/">APHIS eFile</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://pcit.aphis.usda.gov/pcit/faces/signIn.jsf">Phytosanitary Certificate Issuance and Tracking System (PCIT)</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://vehcs.aphis.usda.gov/vehcs/faces/login_initial.jsf">Veterinary Export Health Certification System (VEHCS)</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://vsapps.aphis.usda.gov/vsps/public/Login.do">Veterinary Services Process Streamlining (VSPS)</a>
+                            </li>
+                                                </ul>
+                    </div>
+                </div>
+                <div class="grid-col-6 tablet:grid-col-3">
+                    <div class="c-link-list">
+                        <h2 class="c-link-list__heading">Resources</h2>
+                        <ul class="c-link-list__list">
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.aphis.usda.gov/map-data-disclaimer">Map and Data Disclaimer</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/accessibility-statement">Accessibility</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/ocio/guidelines-and-compliance-resources/information-quality-activities">Information Quality</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/non-discrimination-statement">Non-Discrimination</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/plain-writing">Plain Writing</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/privacy-policy">Privacy</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights">Anti-Harassment</a>
+                            </li>
+                                                </ul>
+                    </div>
+                </div>
+                <div class="grid-col-12 tablet:grid-col-3">
+                    <div class="c-link-list">
+                        <h2 class="c-link-list__heading">Program Areas</h2>
+                        <ul class="c-link-list__list">
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.aphis.usda.gov/freedom-information-act">FOIA</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.aphis.usda.gov/privacy">Privacy Act</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.aphis.usda.gov/organization/business-services/reasonable-accommodations">Reasonable Accommodations</a>
+                            </li>
+                                                    <li class="c-link-list__list-item">
+                                <a href="https://www.aphis.usda.gov/mission/civil-rights">Civil Rights</a>
+                            </li>
+                                                </ul>
+                    </div>
+                </div>
+                <div class="grid-col-12 tablet:grid-col-3">
+                    
+
+<div  class="c-email-signup">
+  <h2 class="c-email-signup__heading">Subscribe For Updates</h2>
+  <div class="c-email-signup__body">
+    <p>Stay updated on the latest news and stories from APHIS and all of our different focus areas.</p>
+  </div>
+  
+                        <a href="https://public.govdelivery.com/accounts/USDAAPHIS/subscriber/new" class="c-button usa-button usa-button--small">Subscribe</a>
+            
+</div>
+                </div>
+            </div>
+            <div class="c-footer__nav-bottom l-constrain">
+                <div class="grid-row grid-gap">
+                    <div class="grid-col-12 tablet:grid-col-3 c-footer__social">
+                        
+<div  class="c-social-media-component">
+    <a class="usa-social-link" href="https://twitter.com/usda_aphis" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#twitter"></use>
+    </svg>
+    <span>twitter</span>
+  </a>
+    <a class="usa-social-link" href="https://www.facebook.com/USDAAPHIS" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#facebook"></use>
+    </svg>
+    <span>facebook</span>
+  </a>
+    <a class="usa-social-link" href="https://public.govdelivery.com/accounts/USDAAPHIS/subscriber/new" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#rss"></use>
+    </svg>
+    <span>rss</span>
+  </a>
+    <a class="usa-social-link" href="https://www.instagram.com/usdagov/" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#instagram"></use>
+    </svg>
+    <span>instagram</span>
+  </a>
+    <a class="usa-social-link" href="http://www.flickr.com/photos/usdagov/collections/72157625204032244/" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#flickr"></use>
+    </svg>
+    <span>flickr</span>
+  </a>
+    <a class="usa-social-link" href="http://www.youtube.com/usdaaphis" >
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#youtube"></use>
+    </svg>
+    <span>youtube</span>
+  </a>
+  </div>
+                    </div>
+                    <div class="grid-col-12 tablet:grid-col-9 c-footer__text">
+                        <p><a href="/contact-us">Contact us</a> for support, or <a href="https://touchpoints.app.cloud.gov/touchpoints/8a22dd4d/submit">tell us how we're doing.</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="c-footer__secondary-section">
+        <div class="l-constrain">
+            <nav class="grid-row grid-gap" aria-label="Sub-footer Navigation">
+                                    <div class="grid-col-6 tablet:grid-col-3">
+                        <a href="https://www.usda.gov/">USDA.gov</a>
+                    </div>
+                                    <div class="grid-col-6 tablet:grid-col-3">
+                        <a href="https://www.whitehouse.gov/">Whitehouse.gov</a>
+                    </div>
+                            </nav>
+            <p>Looking for U.S. government information and services? Visit <a href="https://www.usa.gov">USA.gov</a></p>
+        </div>
+    </div>
+</footer>
+</div>
+
+  </div>
+
+    
+          
+
+
+<a href="#top"  class="c-back-to-top" title="Back to top" aria-hidden="true" tabindex="-1">
+  
+<svg  class="c-icon c-icon--back-to-top" role="img"><title>Back to top</title><use xlink:href="/themes/aphis/dist/images/sprite.artifact.svg#angle-up"></use></svg></a>
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1113","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gesso":{"backToTopThreshold":"200","backToTopSmoothScroll":1},"user":{"uid":0,"permissionsHash":"388d7d09bb7be4b28f63c59a44191cf59a62342c4acdcce6dce05f53b2d1233b"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/sites/default/files/js/js_pRRO2u9gmCWOyx-zUvBbkxG1uDwS7hRlM2BZiJ5ley0.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=aphis&amp;include=eJyNi9EKhEAIRX9o26AfEsfEpnVzUP-fppjeg4twjvdi22rMBekHaT3tg7ch9HUSr-tgUSuoEOS1ZQzZyVSxKENe99GMTtuA_uj1CE6ox86U5vMeXzGTeybwxwOF_VUJlhPJZ0Sk"></script>
+
+  </body>
+</html>

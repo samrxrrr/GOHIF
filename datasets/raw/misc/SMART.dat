@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Ivica Letunic">
+
+<title>SMART: Select the running mode </title>
+<script src="/js/vendor/jquery-3.7.1.min.js"></script>
+<link rel="stylesheet" href="/js/vendor/fa/css/fa5.css">
+<link rel="stylesheet" href="/js/vendor/fa/custom/styles.css">
+<link href="/js/vendor/animate.min.css" rel="stylesheet" />
+
+    <script src="/js/vendor/bs/bootstrap.bundle.min.js"></script>
+    <link href="/js/vendor/jspanel/jspanel.min.css" rel="stylesheet" />
+    <script src="/js/vendor/jspanel/jspanel.min.js"></script>
+    <script src="/js/vendor/jspanel/jspanel.hint.min.js"></script>
+    <script src="/js/vendor/jspanel/jspanel.modal.min.js"></script>
+    <script src="/js/vendor/dt2/datatables.min.js"></script>
+    <link href="/js/vendor/dt2/datatables.css" rel="stylesheet" />
+    <script src="/js/vendor/popper.min.js"></script>
+    <script src="/js/vendor/tippy.js"></script>
+    <link href="/js/vendor/tippy-light-border.css" rel="stylesheet" type="text/css"/>
+    <script src="/js/vendor/bootstrap-autocomplete.js"></script>
+    <script src="/js/vendor/FileSaver.js"></script>
+    <script src="/js/vendor/snap.svg-min.js"></script>
+    <script src="/js/vendor/snap.svg.zpd.js"></script>
+
+ <link rel="stylesheet" href="/js/vendor/wunderbaum.min.css" />
+ <link rel="stylesheet" href="/js/vendor/bs/bootstrap-icons.css" />
+    <script src="/js/vendor/wunderbaum.umd.min.js"></script>
+<link href='/js/vendor/bs/bootstrap_norm.min.css' rel='stylesheet'><link href='/css/smart_norm.css?v=10.0030' rel='stylesheet'><link href='/css/smart.css?v=10.0030' rel='stylesheet'><script src='/js/smart_all.min.js?v=10.0030'></script><script>var pfam_chk = 0;var blast_chk = 0;var signal_chk = 0;var repeats_chk = 0;var introns_chk = 0;var s_mode='normal';</script></head>
+<body>
+
+<nav id='mainNav' class="navbar justify-content-between fixed-top navbar-expand-md navbar-dark bg-primary mb-4" style='padding: 0 10px ; border-bottom: 1px solid #aaa;'>
+
+      <a class="navbar-brand" style='padding:0' href='/'><img style='height: 40px' class="d-inline-block align-top" src="/images/main_logo_mini.png" alt="logo"/></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+
+        <ul class="navbar-nav mr-auto ml-2">
+<li class='nav-item'>          <a class='nav-link' href='/domains.cgi'><i class="fad fa-hexagon"></i> Domains</a></li>
+<li class='nav-item'>          <a class='nav-link' href='/settings.cgi'><i class="fad fa-cog"></i> Settings</a></li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="helpDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fad fa-question-circle"></i> Help</a>
+                <div class="dropdown-menu " aria-labelledby="helpDropdown">
+                    <a class="dropdown-item" href="/about.cgi"><i class="fad fa-envelope"></i> About SMART</a>
+                    <a class="dropdown-item" href="/faq.cgi"><i class="fad fa-question"></i> Frequently asked questions</a>
+                    <a class="dropdown-item" href="/glossary.cgi"><i class="fad fa-info-square"></i> Glossary</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="/version_history.cgi"><i class="far fa-history"></i> Version history</a>
+                </div>
+            </li>
+      </ul>
+        <form class="form-inline mr-2">
+            <select id='modeSelector' onchange="modeChange()" class="form-control"><option value="normal">Normal mode</option><option value="genomic">Genomic mode</option></select>
+        </form>
+        <form id="hdSearchF" method='post' action='/smart/search.cgi' class="form-inline my-0 my-lg-0">
+            <div class="input-group ">
+                <input id='headerSearch' type="text" name="q" onfocus="this.value=''" class="form-control" placeholder="Search SMART" aria-label="Search SMART" aria-describedby="sbut1">
+                <div class="input-group-append">
+                    <button class="btn btn-info" id="sbut1"><i class='fad fa-search'></i></button>
+                </div>
+            </div>
+        </form>
+      </div>
+
+    </nav>
+
+
+
+<div class='container' id='mainContainer'>
+<div class='row'>
+<div class='col mt-3'>
+
+<h1 class='mb-3'>Select your preferred SMART mode:</h1>
+
+
+<p>You can change the mode anytime by simply selecting it in the top right side of any SMART page, or by using the buttons below.</p>
+<h5 class='my-3'>Currently selected mode: <b>none</b></h5>
+<table class='w-100'><tr><td><a class='btn btn-block btn-large btn-primary' style='border: 1px solid #7580c4; background-image: linear-gradient(#ced2ea,#99a1d3 50%,#8b94cd);' href='change_mode.cgi?mode=normal'>Normal mode</a></td><td><a class='btn btn-block btn-large btn-primary' style='border: 1px solid #b0868c; background-image: linear-gradient(#e2d3d5,#c4a5a9 50%,#bc999d);' href='change_mode.cgi?mode=genomic'>Genomic mode</a></td></tr></table>
+
+<h2 class='mt-5 mb-3'>SMART running modes</h2>
+
+
+<p>You can use SMART in two different modes: <b>normal</b> or <b>genomic</b>.
+The main difference is in the underlying protein database used.</p>
+<ul><li><b>Normal SMART</b> : the database contains the complete <a href='https://www.uniprot.org'>Uniprot</a> and the majority of stable <a href='https://www.ensembl.org'>Ensembl</a> proteomes. </li>
+<li><b>Genomic SMART</b>: only the proteomes of completely sequenced genomes are used, and the protein database is synchronized with the current version of <a href='https://string-db.org'>the STRING database</a>. The complete list of genomes in the current version of Genomic SMART <a href='/smart/list_genomes.cgi'>is available here</a>.</li>
+</ul>
+<p>The protein database in <b>Normal SMART</b> has significant redundancy, even though identical proteins are removed. If you use SMART to explore domain architectures, or want to find exact domain counts in various genomes, consider switching to Genomic mode. The taxonomy breakdown counts in the domain annotation pages will be more accurate, and there will not be many protein fragments corresponding to the same gene in the architecture query results.
+Remember that you are exploring a limited set of genomes, though.</p>
+
+<h2 class='my-4'>Different color schemes are used to easily identify the mode you're in:</h2>
+<img class='img-fluid mb-2' src='/images/mode_normal.png' alt='Normal mode' />
+<img class='img-fluid' src='/images/mode_genomic.png' alt='Genomic mode' />
+
+
+</div>
+</div>
+</div>
+<footer id='mainFooter' class="footer" style='text-align: center'>
+    <div style='margin-left:10px' class='small text-muted float-left'>
+        <span class="footHd"><b>Citation:</b> Letunic and Bork (2025) <i>Nucleic Acids Res</i> <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1023/8277914"><b>doi: 10.1093/nar/gkaf1023</b></a> |</span>
+        <a href='https://www.embl.org/info/privacy-policy/'>Privacy Policy</a>
+    </div>
+    <div style='margin-right:10px' class='small text-muted float-right'>design & development: <a target='_blank' href='https://www.biobyte.de'>biobyte solutions</a></div>
+    </footer>
+  <div class="loading-modal"></div>
+  <div id='cHelper'></div>
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//tr-denbi.embl.de/heimdall/";
+      _paq.push(['setTrackerUrl', u+'p.php']);
+      _paq.push(['setSiteId', '5']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'p.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+   <div class="loading-modal"></div>
+</body></html>

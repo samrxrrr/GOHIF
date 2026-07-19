@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TimeTree :: The Timescale of Life</title>
+  
+  <!--Scripts-->
+  <script src="/public/js/jquery-2.2.3.min.js"></script>
+  <script src="/public/js/bootstrap.min.js"></script>
+  <script src="/public/js/jquery-ui-1.11.4.min.js"></script>
+  <script src="/public/js/jquery.validate.min.js"></script>
+  <script src="/public/js/jquery.ctrl-forward.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
+  <script
+    src="https://cdn.datatables.net/v/ju/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-colvis-1.5.4/b-html5-1.5.4/b-print-1.5.4/cr-1.5.0/fh-3.1.4/rg-1.1.0/rr-1.2.4/sc-1.5.0/sl-1.2.6/datatables.min.js"></script>
+  <script src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+  <script src="/public/js/app.js" defer></script>
+  
+<script src="/public/js/evol-colorpicker.min.js" type="text/javascript" charset="utf-8"></script>
+   <!--Stylesheets-->
+  <link rel="stylesheet" href="/public/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/public/css/jquery-ui.min.css" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/ju/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-colvis-1.5.4/b-html5-1.5.4/b-print-1.5.4/cr-1.5.0/fh-3.1.4/rg-1.1.0/rr-1.2.4/sc-1.5.0/sl-1.2.6/datatables.min.css" />
+  <link rel="stylesheet" href="/public/css/references.css" />
+  <link rel="stylesheet" href="/public/css/styles.css" />
+  
+<link rel="stylesheet" href="/public/css/search.css">
+<link rel="stylesheet" href="/public/css/widget.css">
+<link rel="stylesheet" href="/public/css/evol-colorpicker.min.css">
+   <!--Favicons-->
+  <link rel="icon" type="image/png" href="/public/img/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/public/img/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/public/img/favicon-96x96.png" sizes="96x96" />
+  <!--Font Awesome-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+
+<body>
+  <a href="#content" class="skip-content">Skip to main content</a>
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-8 col-sm-4">
+          <a href="/" aria-label="Home"><img src="/public/img/timetree_logo.svg" class="logo" alt="Timetree logo"
+              height="50" /></a>
+        </div>
+        <div class="mobile-menu hidden-sm hidden-md hidden-lg">
+          <input type="checkbox" id="toggle" style="display: none" />
+          <label class="toggle-btn toggle-btn__cross" for="toggle">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </label>
+          <nav class="mobile-nav">
+            <ul>
+              <li class="program-name">
+                <a href="/" aria-label="Home"><img src="/public/img/timetree_logo.svg" class="logo" alt="Timetree logo"
+                    height="70" /></a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/about" class="">About</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/book" class="">Book</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/references" class="">Studies</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/resources" class="">Resources</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/movies" class="">Movie</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/news" class="">News</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/faqs" class="">FAQs</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/contact" class="">Contact</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="col-sm-8 hidden-xs">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="study-species-counter">
+                <div class="studies">
+                  4,203
+                  <a href="/references" class="study-species-counter-label">Studies</a>
+                </div>
+                <div class="species">
+                  148,876
+                  <span class="study-species-counter-label">Species</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-12">
+              <nav class="main-nav nav">
+                <ul class="main-nav-links-list">
+                  <li class="main-nav-link">
+                    <a href="/about" class="">About</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/book" class="">Book</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/references" class="">Studies</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/resources" class="">Resources</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/movies" class="">Movie</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/news" class="">News</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/faqs" class="">FAQs</a>
+                  </li>
+                  <li class="main-nav-link">
+                    <a href="/contact" class="">Contact</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+<main id="content">
+<!--Search tabs-->
+  <div class="tabs-background">
+    <div class="tabs">
+      
+      <!--Search tab-->
+      <input id="search-tab" type="radio" name="tabs" checked>
+      <label for="search-tab" tabindex="0">Search</label>
+      
+      <!--Pair Time tab-->
+      <input id="pairtime-tab" type="radio" name="tabs">
+      <label for="pairtime-tab" tabindex="0" class="pairtime-tab hidden">Divergence Time</label>
+      
+      <!--Timeline tab-->
+      <input id="timeline-tab" type="radio" name="tabs">
+      <label for="timeline-tab" tabindex="0" class="timeline-tab hidden">Timeline</label>
+      
+      <!--TimeTree Taxa Group tab-->
+      <input id="timetree-tab" type="radio" name="tabs">
+      <label for="timetree-tab" tabindex="0" class="timetree-tab hidden">Timetree</label>
+      
+      <!--TimeTree Taxa List tab-->
+      <input id="prunetree-tab" type="radio" name="tabs">
+      <label for="prunetree-tab" tabindex="0" class="prunetree-tab hidden">Timetree</label>
+    </div>
+  </div>
+  <div id="search-content" class="container tab-content">
+    <div class="row">
+      
+      <!-- Introduction to TimeTree, Landing Page -->
+      <div class="hidden-xs col-sm-8 col-sm-offset-2 col-md-7 col-md-offset-0">
+        <h1 class="timetree-main-heading">Timetree of Life</h1>
+        <p>
+          TimeTree is a public knowledge-base for information on the evolutionary timescale of life. Data from thousands of published studies are assembled into a searchable tree of life scaled to time.
+        </p>
+        <p>
+          <strong>Timepanels</strong> showing events in geological time and astronomical history are provided for comparison with timelines and timetrees. Results can be exported in different formats for additional analyses and publication.
+        </p>
+      </div>
+      <div class="hidden-xs col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-1 slideshow">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+          </ol>
+        
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <a href="http://timetree.org/movies">
+                <img src="/public/img/slide01.jpg" alt="">
+                <div class="carousel-caption">
+                  <p><em>TimeTree</em> in Emmy Award-winning movie Attenborough's Rise of Animals (2016)</p>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="http://timetree.org/movies">
+                <img src="/public/img/slide02.jpg" alt="">
+                <div class="carousel-caption">
+                  <p><em>TimeTree</em> in Emmy Award-winning movie Attenborough's Rise of Animals (2016)</p>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="http://timetree.org/movies">
+                <img src="/public/img/slide03.jpg" alt="">
+                <div class="carousel-caption">
+                  <p><em>TimeTree</em> in Emmy Award-winning movie Attenborough's Rise of Animals (2016)</p>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="http://timetree.org/book">
+                <img src="/public/img/slide04.jpg" alt="">
+                <div class="carousel-caption">
+                  <p>Timetree of Life book (2009)</p>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="http://timetree.org/public/data/poster/timetree_lg.jpg" target="_blank">
+                <img src="/public/img/slide05.jpg" alt="">
+                <div class="carousel-caption">
+                  <p>Timetree of Life poster (2009)</p>
+                </div>
+              </a>
+            </div>
+            <div class="item">
+              <a href="http://timetree.org/public/img/timetree-spiral-2.png" target="_blank">
+                <img src="/public/img/slide06.jpg" alt="">
+                <div class="carousel-caption">
+                  <p>Timetree of Life poster (2015)</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+          <span class="glyphicon icon-prev" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+          <span class="glyphicon icon-next" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+
+
+      <!-- Begin Search -->
+      <div class="col-xs-12">
+        <!-- Main heading in XS devices -->
+        <h1 class="search-heading hidden-sm hidden-md hidden-lg">Search</h1>
+        <h2 class="search-heading hidden-xs">Search</h2>
+      </div>
+      <div class="col-xs-12">
+        <div class="row">
+          <!-- Get Divergence Time -->
+          <div class="col-xs-12">
+            <h3 id="pairwise-search-header" class="search-category">Get Divergence Time<!-- for a pair of taxa--></h3>
+          </div>
+          <div class="hidden-xs col-xs-3 col-sm-1">
+            <img src="/public/img/node_time_thumbnail.svg" class="search-thumbnail" alt="Node Time" />
+          </div>
+          <!-- Get Divergence Time -->
+          <!-- Step 1: Specify Taxon Names -->
+          <div class="col-xs-12 col-sm-3">
+            <div class="search-step-container">
+              <h4 class="search-step">
+                <!--<span class="hidden-sm hidden-md hidden-lg">Step 1: </span>-->Specify 2 Taxon Names
+                <i class="tooltip-help" title="Enter two taxa names to search the Timetree database."></i>
+              </h4>
+              <form name="pairwise_search" id="pairwise_search" action="/ajax/names/[#taxon-a]/[#taxon-b]" method="post">
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0 search-label-container">
+                    <label class="search-label" for="taxon-a"><strong>Taxon 1:</strong></label>
+                  </div>
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                    <input class="search-field" name="taxon_a" id="taxon-a" type="text" title="Required Field">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0 search-label-container">
+                    <label class="search-label" for="taxon-b"><strong>Taxon 2:</strong></label>
+                  </div>
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                    <input class="search-field" name="taxon_b" id="taxon-b" type="text" title="Required Field">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                    <button id="pairwise-search-button1" type="submit" class="search-button" data-forward="/ajax/names/[#taxon-a]/[#taxon-b]" onclick="ga('set', 'dimension4', $('#taxon-a').val());ga('set', 'dimension5', $('#taxon-b').val());ga('send', 'event', 'pairwise', 'search');">Search</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+          
+          <div class="col-xs-12 col-sm-1">
+            <img class="progression-arrow" src="/public/img/redesign/arrow.svg" alt="Arrow pointing to the next step">
+          </div>
+          <!-- Get Divergence Time -->
+          <!-- Step 2: Resolve Ambiguity -->
+          <div class="col-xs-12 col-sm-3">
+            <div class="disabled search-step-container" id="pairwise-resolve-container">
+              <div class="hidden-sm hidden-md hidden-lg">
+                <div id="pairwise-search-header" class="search-category">Get Divergence Time<!-- for a pair of taxa--></div>
+              </div>
+              <h4 class="search-step">
+                Resolve Ambiguity
+                <i class="tooltip-help" title="Please select from multiple search results"></i>
+              </h4>
+              <form id="pairwise-resolve" action="/ajax/pairwise/[#pairwise-resolve-taxon-a1]/[#pairwise-resolve-taxon-b1]" method="post">
+                <div id="pairwise-resolve-target">
+                  <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0">
+                      <label class="search-label" for="pairwise-resolve-taxon-a">Taxon 1:</label>
+                    </div>
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                      <select class="search-field" id="pairwise-resolve-taxon-a" disabled></select>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0">
+                      <label class="search-label" for="pairwise-resolve-taxon-b">Taxon 2:</label>
+                    </div>
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                      <select class="search-field" id="pairwise-resolve-taxon-b" disabled></select>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                      <button disabled id="pairwise-resolve-button2" type="submit" class="search-button" data-forward="/ajax/pairwise/[#taxon-a]/[#taxon-b]">Show Time</button>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-xs-12">
+        <hr>
+      </div>
+      <div class="col-xs-12">
+        <div class="row">
+          <!-- Get Evolutionary Timeline -->
+          <div class="col-xs-12">
+            <h3 id="timeline-search-header" class="search-category">Get an Evolutionary Timeline<!-- For a Taxon--></h3>
+          </div>
+          <div class="hidden-xs col-xs-3 col-sm-1">
+            <img src="/public/img/timeline_thumbnail.svg" class="search-thumbnail" alt="Timeline" />
+          </div>
+          
+          <!-- Get Evolutionary Timeline -->
+          <!-- Step 1: Specify Taxon Name -->
+          <div class="col-xs-12 col-sm-3">
+            <div class="search-step-container">
+              <h4 class="search-step">
+                Specify a Taxon Name
+                <i class="tooltip-help" title="Enter the name of the taxon for which you wish to build an evolutionary timeline."></i>
+              </h4>
+              <form id="timeline-search" action="/ajax/name/timeline/[#timeline-taxon]" method="post">
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0 search-label-container">
+                    <label class="search-label" for="timeline-taxon"><strong>Taxon:</strong></label>
+                  </div>
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                    <input class="search-field" id="timeline-taxon" name="timeline_taxon" type="text" title="Required Field">
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                    <button id="timeline-search-button1" class="search-button" type="submit" data-forward="/ajax/name/timeline/[#timeline-taxon]" onclick="ga('set', 'dimension4', $('#timeline-taxon').val());ga('send', 'event', 'timeline', 'search');">Search</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+          
+          <div class="col-xs-12 col-sm-1">
+            <img class="progression-arrow" src="/public/img/redesign/arrow.svg" alt="Arrow pointing to the next step">
+          </div>
+          <!-- Get Evolutionary Timeline -->
+          <!-- Step 2: Resolve Ambiguity -->
+          <div class="col-xs-12 col-sm-3">
+            <div id="timeline-resolve" class="search-resolve disabled search-step-container">
+              <div class="hidden-sm hidden-md hidden-lg">
+                <div id="timeline-search-header" class="search-category">Get an Evolutionary Timeline<!-- For a Taxon--></div>
+              </div>
+              <h4 class="search-step disabled">
+                Resolve Ambiguity
+                <i class="tooltip-help" title="Please select a taxon from multiple search results"></i>
+              </h4>
+              <div class="search-resolve" id="pairwise-search-resolve">
+                <div class="disabled" id="pairwise-resolve-container">
+                  <form id="timeline_resolve_name_form" action="/ajax/timeline/[#timeline-resolve-target]" method="post">
+                    <div id="timeline-resolve-placeholder">
+                      <div class="row">
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0">
+                          <label class="search-label" for="timetree-resolve-target3">Taxon:</label>
+                        </div>
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                          <select class="search-field" id="timetree-resolve-target3"></select>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                          <button id="timeline-name-select-submit" type="submit" class="search-button" data-forward="/ajax/timeline/[#timeline-resolve-target]" onclick="ga('send', 'pageview', '/test');">Show Timeline</button>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-xs-12">
+        <hr>
+      </div>
+      <div class="col-xs-12">
+        <div class="row">
+          <!-- Build Timetree -->
+          <div class="col-xs-12">
+            <h3 id="timeline-search-header" class="search-category">Build a Timetree</h3>
+          </div>
+          <div class="hidden-xs col-xs-3 col-sm-1">
+            <img src="public/img/timetree_thumbnail.svg" class="search-thumbnail" alt="Timetree" />
+          </div>
+          
+          <!-- Build Timetree -->
+          <!-- Step 1: Specify a Group of Taxa -->
+          <div class="col-xs-12 col-sm-3">
+            <div class="search-step-container">
+              <h4 class="search-step">
+                Specify a Group of Taxa
+                <i class="tooltip-help" title="Specify a taxa group to build a timetree for (e.g. &quot;primates&quot;)."></i>
+              </h4>
+              <form id="timetree_search" action="/ajax/name/timetree/[#timetree-taxon]" method="post">
+                <div class="row">
+                  <div class="col-xs-offset-1 col-sm-3 col-sm-offset-0 search-label-container">
+                    <label class="search-label" for="timetree-taxon"><strong>Group:</strong></label>
+                  </div>
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                    <input name="timetree_taxon" id="timetree-taxon" class="search-field" type="text" >
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                    <button id="timetree-search-button1" type="submit" class="search-button" data-forward="/ajax/name/timetree/[#timetree-taxon]" onclick="ga('set', 'dimension4', $('#timetree-taxon').val());ga('send', 'event', 'timetree', 'search');">Search</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+          
+          <div class="col-xs-12 col-sm-1">
+            <img class="progression-arrow" src="/public/img/redesign/arrow.svg" alt="Arrow pointing to the next step">
+          </div>
+          <!-- Build Timetree -->
+          <!-- Step 2: Resolve Ambiguity -->
+          <div class="col-xs-12 col-sm-3">
+            <div id="timetree-resolve" class="search-resolve disabled search-step-container">
+              <div class="hidden-sm hidden-md hidden-lg">
+                <div id="timeline-search-header" class="search-category">Build a Timetree</div>
+              </div>
+              <h4 class="search-step disabled">
+                Resolve Ambiguity
+                <i class="tooltip-help" title="Please select a taxa group from multiple search results"></i>
+              </h4>
+              <div class="search-resolve" id="pairwise-search-resolve">
+                <div class="disabled" id="pairwise-resolve-container">
+                  <form id="timetree-get-taxonomy" action="/ajax/taxonomy/[#timetree-resolve-target]" method="post">
+                    <div id="timetree-resolve-placeholder" class="timetree-resolve-placeholder">
+                      <div class="row">
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0">
+                          <label class="search-label" for="timetree-resolve-target2">Group:</label>
+                        </div>
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                          <select class="search-field" id="timetree-resolve-target2"></select>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                          <button disabled id="timetree-name-select-submit" type="submit" class="search-button" data-forward="/ajax/taxonomy/[#timetree-resolve-target]">Update</button>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-sm-1">
+            <img class="progression-arrow" src="/public/img/redesign/arrow.svg" alt="Arrow pointing to the next step">
+          </div>
+          <!-- Build Timetree -->
+          <!-- Step 3: Select Taxonomic Rank -->
+          <div class="col-xs-12 col-sm-3">
+            <div id="timetree-levels" class="search-resolve disabled search-step-container">
+              <div class="hidden-sm hidden-md hidden-lg">
+                <div id="timeline-search-header" class="search-category">Build a Timetree</div>
+              </div>
+              <h4 class="search-step disabled">
+                Select Taxonomic Rank
+                <i class="tooltip-help" title="Specify the most-inclusive taxonimic rank for building the tree"></i>
+              </h4>
+              <form id="timetree-build-widget" action="/ajax/timetree/[#timetree-resolve-target]/[#timetree-taxonomy-resolve]" method="post">
+                <div id="timetree-taxonomy-resolve-placeholder">
+                  <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-0">
+                      <label class="search-label" for="timetree-taxonomy-resolve">Rank:</label>
+                    </div>
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+                      <select disabled id="timetree-taxonomy-resolve" class="col-xs-12 search-field" name="rank">
+                      </select>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-3">
+                      <button id="rank-select-button" class="search-button" type="submit" disabled>Show Timetree</button>
+                    </div>
+                  </div>                                                
+                </div>
+              </form>
+              <form id="do-direct-download-form" action="/ajax/direct_download">
+                <input type="hidden" id="direct-download-format" name="direct-download-format" value="newick"/>        
+                <input type="hidden" id="direct-download-id" name="direct-download-id" value=""/>
+                <input type="hidden" id="direct-download-rank" name="direct-download-rank" value=""/>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- This feature is not optimized on XS devices at this point in time.
+      Therefore, this feature is currently hidden on XS devices -->
+      <div class="hidden-xs col-sm-3 col-sm-offset-1">
+         <p class="or-heading">or</p>
+      </div>
+      <div class="hidden-xs col-xs-12 col-sm-9 col-sm-offset-1">
+        <h3 class="search-step">
+          Load a List of Species
+          <i class="tooltip-help" title="Load a text file with a list of taxa names to build a timetree for (each name must be on a separate line)."></i>
+        </h3>
+        <form id="prunetree_search" name="prunetree_search" action="/ajax/prune/load_names" method="post" enctype="multipart/form-data">
+          <div class="row">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-1 col-sm-offset-0">
+              <label class="search-label">Upload:</label>
+            </div>
+            <div class="col-xs-10 col-xs-offset-1 col-sm-9 col-sm-offset-0">
+              <input id="prunetree_upload" name="prunetree_upload" type="file" title="Please select a file of taxa names to upload">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-1">
+              <button id="prunetree-upload-button1" class="search-button" type="submit" onclick="ga('send', 'event', 'User Upload', 'Species List');">Upload</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tab Content -->
+  <!-- Pairwise Results -->
+  <div id="pairtime-content" class="container tab-content">
+    <div id="pairtime-results"></div>
+  </div>
+
+  <!-- Tab Content -->
+  <!-- Timeline Results -->
+  <div id="timeline-content" class="container tab-content">
+    <div id="timeline-widget">
+          </div>
+  </div>
+
+  <!-- Tab Content -->
+  <!-- TimeTree Results -->
+  <div id="timetree-content" class="container tab-content">
+    <div id="timetree-widget">
+          </div>
+  </div>
+  
+  <!-- Tab Content -->
+  <!-- Prune Tree Results -->
+  <div id="prunetree-content" class="container tab-content">
+    <div id="prunetree-widget">
+          </div>
+  </div>
+  <div id="geo-timescale-context-menu" title="Geologic Timescale">
+    <div class="context-content">
+    <div id="time-name">
+        <span class="context-menu-item-name">Name:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="time-unit">
+        <span class="context-menu-item-name">Unit:</span>
+        <span class="context-menu-item-value"></span>        
+    </div>
+    <div id="time-begin">
+        <span class="context-menu-item-name">Begin:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="time-end">
+        <span class="context-menu-item-name">End:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+</div>  </div>
+  <div id="impacts-context-menu" title="Impact Data" class="context-menu">
+    <div class="context-content">
+    <div id="impact-name">
+        <span class="context-menu-item-name">Name:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="impact-location">
+        <span class="context-menu-item-name">Location:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="impact-coords">
+        <span class="context-menu-item-name">Coordinates:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="impact-diameter">
+        <span class="context-menu-item-name">Diameter:</span>
+        <span class="context-menu-item-value"></span>
+    </div>    
+    <div id="impact-age">
+        <span class="context-menu-item-name">Age:</span>
+        <span class="context-menu-item-value"></span>
+    </div>        
+</div>
+  </div>
+  <div id="timetree-context-menu" title="Node Summary" class="context-menu">
+    <div class="context-content">
+    <div id="taxon-name">
+        <span class="context-menu-item-name">Name:</span>
+        <span class="context-menu-item-value"></span>        
+    </div>
+    <div id="taxonomic-rank">
+        <span class="context-menu-item-name">Rank:</span>
+        <span class="context-menu-item-value"></span>
+
+    </div>
+    <div id="descendent-of"> 
+        <span class="context-menu-item-name">Descendant of:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="child-taxa-count">
+        <span class="context-menu-item-name">Clade Size:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="divergence-time">
+        <span class="context-menu-item-name">Estimated Time:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="adjusted-time">
+        <span class="context-menu-item-name">Adjusted Time:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="confidence-interval">
+        <span class="context-menu-item-name">CI:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="ncbi-coverage">
+        <span class="context-menu-item-name">NCBI Coverage:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    
+    <div id="phylogenetic-diversity" class="hidden">
+        <span class="context-menu-item-name">Phylogenetic Diversity:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="ncbi-link">
+        <span class="context-menu-item-name">NCBI Link:</span>
+        <span class="context-menu-item-value"><a target="_blank" href=""></a></span>        
+    </div>
+    <div class="menu-actions">
+        <form id="search-tree-form" action="/search/subtree/name/" method="post" target="_blank">
+            <input type="hidden" name="taxonName" value="" id="selectedNodeName"/>            
+            <button id="get-subtree-button" class='context-menu-btn' type="submit">Get Subtree</button>
+        </form>
+        <button id="get-timetable-button" name="timetree-timetable-btn" class= "show-timetable context-menu-btn" data-url="/api/widget/timetree/studies/-1/test">Show Timetable</button>
+    </div>
+    <span class="text"></span>
+</div>
+ 
+<script>
+    $('#get-subtree-button').click(function(e){
+        e.preventDefault();
+        $('#search-tab').click();
+        $('#search-tab').click();
+        var node = $('#selectedNodeName').val();
+        node = decodeURI(node);
+        console.log('node is: ' + node);
+        $('#timetree-taxon').val(node);
+        $('#timetree-search-button1').click();
+    });
+</script>  </div>
+  <div id="timeline-context-menu" title="Node Summary" class="context-menu">
+    <div class="context-content">
+    <div id="timeline-taxon-name">
+        <span class="context-menu-item-name">Name:</span>
+        <span class="context-menu-item-value"></span>        
+    </div>
+    <div id="timeline-taxonomic-rank">
+        <span class="context-menu-item-name">Rank:</span>
+        <span class="context-menu-item-value"></span>
+
+    </div>
+    <div id="timeline-time">
+        <span class="context-menu-item-name">Estimated Time:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+    <div id="timeline-ci">
+        <span class="context-menu-item-name">CI:</span>
+        <span class="context-menu-item-value"></span>
+    </div>
+
+    <div id="timeline-ncbi-link">
+        <span class="context-menu-item-name">NCBI Link:</span>
+        <span class="context-menu-item-value"><a target="_blank" href=""></a></span>        
+    </div>
+    <div class="menu-actions">
+        <form id="timeline-search-tree-form" action="/ajax/name/timetree/" method="post" target="_blank">
+            <input type="hidden" name="taxonName" value="" id="timelineSelectedNodeName"/>            
+            <button id="timeline-subtree-button" class='context-menu-btn' type="submit">Get Timetree</button>
+        </form>        
+    </div>
+    <span class="text"></span>
+</div>
+ 
+<script>
+    $('#timeline-subtree-button').click(function(e){
+        e.preventDefault();
+        $('#search-tab').click();
+        $('#search-tab').click();
+        var node = $('#timelineSelectedNodeName').val();
+        node = decodeURI(node);
+        console.log('node is: ' + node);
+        $('#timetree-taxon').val(node);
+        $('#timetree-search-button1').click();
+    });
+</script>  </div>   
+</main>
+  
+
+
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 col-sm-offset-1 hidden-xs">
+          <h2 class="footer-heading" id="site-links">Site Links</h2>
+          <nav aria-labelledby="site-links">
+            <ul class="site-links-list">
+              <li class="site-links-link">
+                <a href="/about" class="">About</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/book" class="">Book</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/references" class="">Studies</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/resources" class="">Resources</a>
+              </li>
+              <li class="main-nav-link">
+                <a href="/movies" class="">Movie</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/news" class="">News</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/faqs" class="">FAQs</a>
+              </li>
+              <li class="site-links-link">
+                <a href="/contact" class="">Contact</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-sm-offset-1">
+          <h2 class="footer-heading" id="footer-contact">Contact</h2>
+          <address class="footer-contact" aria-labelledby="footer-contact">
+            Institute for Genomics and Evolutionary Medicine<br />
+            Center of Biodiversity<br />
+            Temple University<br />
+            1925 N. 12th Street<br />
+            Philadelphia, PA 19122-1801<br />
+            Email:
+            <a href="mailto:info@timetree.org" target="_top">info@timetree.org</a>
+          </address>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+          <h2 class="footer-heading" id="ios-app">iOS App</h2>
+          <p aria-labelledby="ios-app">
+            <a href="https://itunes.apple.com/us/app/timetree-4/id372842500?mt=8" target="_blank">Download the TimeTree app</a>
+            on the App Store
+          </p>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+          <p class="copyright-info">
+            <small>Copyright &copy; 2005 &ndash; 2026. Data and syntheses
+              accessed from TimeTree are provided openly for personal research
+              and teaching use. Requests to use these data for all other
+              purposes must be sent to
+              <a href="mailto:info@timetree.org">info@timetree.org</a>.
+              Redistribution of TimeTree data and its transformations are not
+              permitted. Publications utilizing the TimeTree resource or data
+              are encouraged to include a citation to TimeTree. Please write
+              to <a href="mailto:info@timetree.org">info@timetree.org</a> for
+              clarifications.</small>
+          </p>
+          <p class="copyright-info">
+            <small>Note: copyright holders expressly disclaim any warranty for
+              processed study timetrees and other data accessed from these
+              resources. Data are provided 'As Is' without any express or
+              implied warranty of any kind, including but not limited to any
+              warranties of merchantability, non-infringement, or fitness for
+              a particular purpose.</small>
+          </p>
+          <p class="citation-directions">
+            <small><strong>CITE THIS RESOURCE AS</strong>: S. Kumar, M. Suleski, J.E. Craig,
+              A.E. Kasprowicz, M. Sanderford, M. Li, G. Stecher, and S.B. Hedges, 2022.
+              <a class="pdflink" href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac174/6657692" target="_blank">TimeTree 5: 
+              An Expanded Resource for Species Divergence Times</a>. Molecular Biology and Evolution, DOI:
+              10.1093/molbev/msac174.</small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+<script src="/public/js/jquery.ajax-load.js"></script>
+<script src="/public/js/widgets/common.js"></script>
+<script>
+        $('.tooltip-help').tooltip({
+            tooltipClass: 'tooltip-style',
+            position: {
+                my: 'left bottom',
+                at: 'left top'
+            }
+        });
+                                
+                       
+        
+    // PAIRWISE
+        $('#pairwise_search').ajaxLoad({
+            target: $('#pairwise-resolve-target'),
+            beforeSubmit: function () {
+                var taxonA = $('#taxon-a').val();
+                var taxonB = $('#taxon-b').val();
+                if ((taxonA == null) || (taxonA.trim() == '') || (taxonB == null) || (taxonB.trim() == '')) {
+                  messageDialog.show('Pairwise search requires two taxa names');
+                  return false;
+                }
+                else if (containsIllegalChars(taxonA) == true) {
+                    messageDialog.show('Taxon 1 contains invalid characters');
+                    return false;
+                }
+                else if (containsIllegalChars(taxonB) == true) {
+                    messageDialog.show('Taxon 2 contains invalid characters');
+                    return false;
+                }                    
+                waitingDialog.show();
+            },
+            afterLoad: function () {
+                $('#pairwise-search-resolve').show();
+                var list1 = $('#pairwise-resolve-taxon-a1 option');
+                var list2 = $('#pairwise-resolve-taxon-b1 option');
+                $("#pairwise-resolve-button1").attr("onclick","ga('set', 'dimension1', $('#pairwise-resolve-taxon-a1 option')[$('#pairwise-resolve-taxon-a1 option:selected').index()].text);ga('set', 'dimension2', $('#pairwise-resolve-taxon-b1 option')[$('#pairwise-resolve-taxon-b1 option:selected').index()].text);ga('send', 'event', 'pairwise', 'search-resolve');");
+                if ((list1 !== null) && (list1.length == 1) && (list2 !== null) && (list2.length == 1))
+                    $("#pairwise-resolve-button1").click();
+                else {
+                    hideModalProgress();
+                    makeButtonBlink($("#pairwise-resolve-button1")); 
+                }
+                $('#pairwise-resolve-container').removeClass('disabled');
+            }
+        });
+
+        $('#pairwise-resolve').ajaxLoad({
+            target: $('#pairtime-results'),
+            data: {
+                'taxon-a': function () {
+                    return $('#taxon-a').val()
+                },
+                'taxon-b': function () {
+                    return $('#taxon-b').val()
+                },
+            },
+            beforeSubmit: function () {
+                waitingDialog.show();
+            },
+            beforeLoad: function () {
+                $('.pairtime-tab').removeClass('hidden');
+                $('#pairtime-tab').click();
+                $('#pairwise-resolve-button1').html('Show Time');
+            },
+            afterLoad: function () {
+                $('#pairtime-tab').click();
+//                $('table.sortable').tablesorter();
+                sortTables('#time-estimates');
+                hideModalProgress();
+            }
+        });
+
+    // TIMELINE   
+         $('#timeline-search').ajaxLoad({
+            target: $('#timeline-resolve-placeholder'),
+            data: {
+                select_tag_id: 'timeline-resolve-target'
+            },
+            beforeSubmit: function() {
+                var timelineTaxon = $('#timeline-taxon').val();
+                if ((timelineTaxon == null) || (timelineTaxon.trim() == '')) {
+                    messageDialog.show('Timeline search requires a taxon name');
+                    return false;
+                }
+                else if (containsIllegalChars(timelineTaxon) == true) {
+                    messageDialog.show('The timeline query contains invalid characters');
+                    return false;
+                }
+                waitingDialog.show();
+            },
+            beforeLoad: function() {
+
+            },
+            afterLoad: function(data) {
+                $('#timeline-resolve').show();  
+                var taxaList = $('#timeline-resolve-target option');
+                $("#timeline-submit").attr("onclick","ga('set', 'dimension1', $('#timeline-resolve-target option')[$('#timeline-resolve-target option:selected').index()].text);ga('send', 'event', 'timeline', 'search-resolve');");
+                if ((taxaList !== null) && (taxaList.length ==1))
+                    $('#timeline-submit').click();
+                else {
+                    hideModalProgress();
+                    makeButtonBlink($("#timeline-submit"));                      
+                }
+                $('#timeline-resolve').removeClass('disabled');
+            }
+         });    
+
+         $('#timeline_resolve_name_form').ajaxLoad({
+            target: $('#timeline-widget'),
+            data: {
+                taxon: function () {
+                    return $('#timeline-taxon').val();
+                },
+                selected: function() {
+                    return $('#timeline-resolve-target').val();
+                }
+            },
+            beforeSubmit: function () {
+                waitingDialog.show();
+            },
+            beforeLoad: function () {
+                $('#timeline-submit').html('Show Timeline');
+                $('.timeline-tab').removeClass('hidden');
+                $('#timeline-tab').click();
+            },
+            afterLoad: function () {
+                $('#timeline-tab').click();            
+                hideModalProgress();
+            }         
+         });
+
+
+    // TIMETREE
+        $('#timetree_search').ajaxLoad({
+            target: $('.timetree-resolve-placeholder'),
+            data: {
+                select_tag_id: 'timetree-resolve-target',
+            },
+            dependents: [$('#timetree-taxonomy-resolve')],
+            beforeSubmit: function () {
+                var queryStr = $('#timetree-taxon').val();
+                if ((queryStr == null) || (queryStr.trim() == '')) {
+                    messageDialog.show('Timetree search requires a taxon name');
+                    return false;
+                } 
+                else if (containsIllegalChars(queryStr) == true) {
+                    messageDialog.show('The search query contains invalid characters');
+                    return false;
+                }
+                waitingDialog.show();
+            },
+            beforeLoad: function() {
+
+            },
+            afterLoad: function () {
+                $('#timetree-resolve').removeClass('disabled'); 
+                $('#timetree-taxonomy-resolve').html('');
+                $('#timetree-levels').addClass('disabled');
+                var dropdown = $('#timetree-resolve-target option');
+                if ((dropdown !== null) && (dropdown.length == 1))
+                    $("#timetree-submit").click();
+                else {
+                    hideModalProgress();
+                    makeButtonBlink($("#timetree-submit"));
+                }
+            }
+        });
+
+        $('#timetree-get-taxonomy').ajaxLoad({
+            target: $('#timetree-taxonomy-resolve-placeholder'),
+            data: {
+                'rank-id': 'timetree-taxonomy-resolve',
+                'select_tag_id': 'timetree-resolve-target'
+            },
+            beforeSubmit: function () {
+                waitingDialog.show();
+            },
+            beforeLoad: function() {
+
+            },
+            afterLoad: function () {
+                $('#timetree-levels').removeClass('disabled');
+                $("#rank-select-button").attr("onclick","ga('set', 'dimension1', $('#timetree-resolve-target option')[$('#timetree-resolve-target option:selected').index()].text);ga('set', 'dimension3', $('#timetree-taxonomy-resolve option')[$('#timetree-taxonomy-resolve option:selected').index()].text);ga('send', 'event', 'timetree', 'search-resolve');");
+                $("#generate-download-button").attr("onclick","ga('set', 'dimension1', $('#timetree-resolve-target option')[$('#timetree-resolve-target option:selected').index()].text);ga('set', 'dimension3', $('#timetree-taxonomy-resolve option')[$('#timetree-taxonomy-resolve option:selected').index()].text);ga('send', 'event', 'timetree', 'download-newick');doNewickDownload()");
+                hideModalProgress();
+                makeButtonBlink($("#rank-select-button"));
+            }
+        });
+
+        $('#timetree-build-widget').ajaxLoad({
+            target: $('#timetree-widget'),
+            data: {
+                taxon: function () {
+                    return $('#timetree-taxon').val()
+                }
+            },
+            beforeSubmit: function () {
+                var lcount = $('#timetree-taxonomy-resolve option:selected').attr('lcount');
+                if (lcount >= 10000) {
+                    messageDialog.show('The requested tree is too large to display. Please select a taxonomic rank with less than 10,000 leaves or download the timetree directly.');
+                    return false;
+                }                     
+                waitingDialog.show();
+            },
+            beforeLoad: function () {
+                $('.timetree-tab').removeClass('hidden');
+                $('#timetree-tab').click();                
+            },
+            afterLoad: function () {
+                $('#rank-select-button').html('Show Timetree'); 
+                $('#timetree-tab').click();
+                hideModalProgress();                                               
+            }
+        });
+
+        // Prune Tree
+        $('#prunetree-upload-button1').click(function(e) {        
+            e.preventDefault(); 
+            var formData = new FormData();   
+            if ($('#prunetree_upload').val() == '') {
+                messageDialog.show('Please select a file to upload');
+                return;
+            }
+            waitingDialog.show();
+            var input = $('#prunetree_upload')[0];
+
+            formData.append( 'file', input.files[0] );
+
+            $.ajax({
+              url: '/ajax/prune/load_names/',
+              data: formData,
+              processData: false,
+              contentType: false,
+              type: 'POST',
+              success: function(data){
+                try {
+                    $('.prunetree-tab').removeClass('hidden');
+                    $('#prunetree-widget').html(data);
+                    var msgBox = $('#prunetree-msg-box');
+                    if (msgBox != null) { // move the error messages into the search tools box which does not get reloaded
+                        $('#prunetree-msg-container').html(msgBox.html());
+                        msgBox.html('');  
+                        $('#prunetree-msg-btn').click(function() {
+                            if ($(this).hasClass('error-btn-enabled')) {
+                                $('#prunetree-leaf-count').fadeToggle();
+                                $('#unresolved-names').fadeToggle();                                                            
+                            }                           
+                        });                        
+                        $('#unresolved-names').hide();
+                    }
+                    else
+                        $('#prunetree-msg-container').html('');
+                    $('#prunetree-tab').click();
+                    $('#prunetree-tab').click();                
+                    hideModalProgress();
+                }
+                catch(err) {
+                    var message = '<div class="wrap"><h3 class="error">Oh no! An error occurred: ' + err + '</h3></div>';
+                    $('#prunetree-widget').html(message);
+                    $('#prunetree-tab').click();
+                    $('#prunetree-tab').click();
+                    hideModalProgress();
+                }
+
+              },
+              error: function(data){
+                  hideModalProgress();
+              }
+            });        
+        });
+
+
+
+
+        $('#pairwise-search-button1').click(function () {
+            $('#pairwise_search').validate({
+                rules: {
+                    taxon_a: {
+                        required: true,
+                        maxlength: 1024
+                    },
+                    taxon_b: {
+                        required: true,
+                        maxlength: 1024
+                    }
+                }
+            }); // end #pairwise-search         
+        });
+
+        $('#timetree-search-button1').click(function () {
+            $('#timetree_search').validate({
+                rules: {
+                    timetree_taxon: {
+                        required: true,
+                        maxlength: 1024
+                    }
+                }
+            });
+        });
+        $('#timeline-search-button1').click(function() {
+            $('#timeline-search').validate({
+                rules: {
+                    timeline_taxon: {
+                        required: true,
+                        maxlength: 1024
+                    }
+                }
+            });
+        });
+
+        function hideModalProgress() {
+            waitingDialog.hide();
+        }
+
+
+    var messageDialog = messageDialog || (function ($) {
+        'use strict';
+
+            // Creating modal dialog's DOM
+            var $dialog = $(
+                    '<div class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true" style="padding-top:15%; overflow-y:visible;">' +
+                    '<div class="modal-dialog modal-m">' +
+                    '<div class="modal-content">' +
+                            '<div class="modal-header"><h3 style="margin:0;"></h3></div>' +
+                            '<div class="modal-body center">' +
+                                    '<button id="message-dialog-button" class="button">Close</button>' +
+                            '</div>' +
+                    '</div></div></div>');
+
+            return {
+                    show: function (message, options) {
+                            // Assigning defaults
+                            if (typeof options === 'undefined') {
+                                    options = {};
+                            }
+                            if (typeof message === 'undefined') {
+                                    message = 'Loading';
+                            }
+                            var settings = $.extend({
+                                    dialogSize: 'm',
+                                    progressType: '',
+                                    onHide: null // This callback runs after the dialog was hidden
+                            }, options);
+
+                            // Configuring dialog
+                            $dialog.find('.modal-dialog').attr('class', 'modal-dialog').addClass('modal-' + settings.dialogSize);
+                            $dialog.find('#message-dialog-button').click(function() {
+                                $dialog.modal('hide');
+                            });
+                            $dialog.find('h3').text(message);
+                            // Adding callbacks
+                            if (typeof settings.onHide === 'function') {
+                                    $dialog.off('hidden.bs.modal').on('hidden.bs.modal', function (e) {
+                                            settings.onHide.call($dialog);
+                                    });
+                            }
+                            // Opening dialog
+                            $dialog.modal();
+                    },
+                    /**
+                     * Closes dialog
+                     */
+                    hide: function () {
+                            $dialog.modal('hide');
+                    }
+            };
+
+    })(jQuery);        
+
+    var forward_url = '';
+    function onConfirmExitHidden() {
+        var stay_or_leave = $('#stay-or-leave').attr('value');
+        if (stay_or_leave == 'leave')
+          window.location.href = forward_url;
+    }
+    var confirmExitDlg = confirmExitDlg || (function ($) {
+        'use strict';
+
+            // Creating modal dialog's DOM
+            var $dialog = $(
+                    '<div class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true" style="padding-top:15%; overflow-y:visible;">' +
+                    '<div class="modal-dialog modal-m">' +
+                    '<div class="modal-content">' +
+                            '<div class="modal-header"><h3 style="margin:0;"></h3></div>' +
+                            '<div class="modal-body center">' +
+                                    '<button id="leave-button" class="button spaced-button">Leave</button>' +
+                                    '<button id="stay-button" class="button spaced-button">Stay</button>' + 
+                                    '<input id="stay-or-leave" type="hidden" value="leave"/>' +
+                            '</div>' +
+                    '</div></div></div>');
+
+            return {
+                    show: function (message, options) {
+                            // Assigning defaults
+                            if (typeof options === 'undefined') {
+                                    options = {};
+                            }
+                            if (typeof message === 'undefined') {
+                                    message = 'Loading';
+                            }
+                            var settings = $.extend({
+                                    dialogSize: 'm',
+                                    progressType: 'warning',
+                                    onHide: onConfirmExitHidden // This callback runs after the dialog was hidden
+                            }, options);
+
+                            // Configuring dialog
+                            $dialog.find('.modal-dialog').attr('class', 'modal-dialog').addClass('modal-' + settings.dialogSize);
+                            $dialog.find('#leave-button').click(function() {
+                                $('#stay-or-leave').attr('value', 'leave');
+                                $dialog.modal('hide');                                
+                            });
+                            $dialog.find('#stay-button').click(function(){
+                                $('#stay-or-leave').attr('value', 'stay');
+                                $dialog.modal('hide');                                        
+                            });
+                            $dialog.find('h3').text(message);
+                            // Adding callbacks
+                            if (typeof settings.onHide === 'function') {
+                                    $dialog.off('hidden.bs.modal').on('hidden.bs.modal', function (e) {
+                                            settings.onHide.call($dialog);
+                                    });
+                            }
+                            // Opening dialog
+                            $dialog.modal();
+                    },
+                    /**
+                     * Closes dialog
+                     */
+                    hide: function () {
+                            $dialog.modal('hide');
+                    }
+            };
+
+    })(jQuery);   
+   
+    
+    function userHasMadeChanges() {
+        var text_inputs = $('input[type="text"]');
+        var result = false;
+        text_inputs.each(function() {
+            
+            if ($(this).val().trim() !== '') {
+                result = true;
+            }
+        });
+        return result;
+    }
+    
+    function checkIfUserWantsToLeave() {        
+        
+        var hasChanges = userHasMadeChanges();
+        if (hasChanges == true) {
+            confirmExitDlg.show("You have attempted to leave this page. Any changes you have made will be lost. Are you sure you want to leave this page?");
+        } 
+        else {
+            if (forward_url !== '') 
+              window.location.href = forward_url;
+        }        
+    }
+    
+    $('#main-nav a').click(function(e){
+        e.preventDefault();
+        forward_url = $(this).attr('href');
+        checkIfUserWantsToLeave();
+    });
+    
+    $('#logo-link a').click(function(e){
+        e.preventDefault();
+        forward_url = $(this).attr('href');
+        checkIfUserWantsToLeave();        
+    });
+    
+//    if (window.history && window.history.pushState) {
+//        window.history.pushState('forward', null, './#forward');
+//        $(window).on('popstate', function(e) {
+//            if ((document.referrer.indexOf(location.origin) >= 0)) {
+//                e.preventDefault();
+//                forward_url = document.referrer;                
+//                checkIfUserWantsToLeave();
+//            }
+//    });
+
+//  }
+</script>
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4210986-3', 'auto');
+
+  ga('send', 'pageview');
+  
+</script>
+
+</body>
+
+</html>

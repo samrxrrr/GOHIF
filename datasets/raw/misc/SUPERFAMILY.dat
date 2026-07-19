@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+
+	<!-- Bootstrap -->
+	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<link href="/css/supfam.css" rel="stylesheet">
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	
+	
+</head>
+<body>
+	<div class="container">
+		
+		<!--<img id="left-corner" src="/img/betacorner-left.png">-->
+
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="/">SUPERFAMILY</a>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li><a href="/about">About</a></li>
+				<li><a href="/contact">Contact</a></li>
+				<!-- <li><a href="/sitemap">Sitemap</a></li> -->
+			</ul>
+			<form class="navbar-form navbar-right" role="search" action="/site/search" method="POST">
+				<div class="form-group">
+					<input type="text" class="form-control" name="keyword" id="keyword" placeholder="Search SUPERFAMILY">
+				</div>
+				<button type="submit" class="btn btn-default">Go</button>
+			</form>
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>
+
+		
+
+		
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+	<div class="container">
+		<h1>SUPERFAMILY 2</h1>
+		<p>SUPERFAMILY is a database of structural and functional annotation for all proteins and genomes.</p>
+		<p>The SUPERFAMILY annotation is based on a collection of <strong>hidden Markov models</strong>, which represent structural protein domains at the <a href="http://scop.mrc-lmb.cam.ac.uk/scop/index.html" title="Structural Classification of Proteins">SCOP</a> superfamily level.  A superfamily groups together domains which have an evolutionary relationship.  The annotation is produced by scanning protein sequences from over <a href="\genome\hierarchy"><strong>3,200 completely sequenced genomes</strong></a> against the hidden Markov models</p>
+		<p>
+		<p><b>SUPERFAMILY 1.75</b> can be accessed from <a href="/SUPERFAMILY" title="SUPERFAMILY version 1.75">legacy-supfam.org</a></p>
+		<a class="btn btn-primary btn-lg" role="button" href="/about">Learn more &raquo;</a></p>
+
+	</div>
+</div>
+
+<div class="page-header">
+  <h2>Entry points:</h2>
+</div>
+<!-- Example row of columns -->
+<div class="row">
+	<div class="col-md-6">
+		<div class="panel panel-default">
+			<div class="panel-heading strong">
+				Quick Sequence Search
+			</div>
+			<div class="panel-body">
+				<p>Paste a protein sequence in FASTA format, or visit the <a href="/sequence/search">full search page</a> for more options</p>
+
+				<form role="form" action="/sequence/search" method="POST" class="form-horizontal">
+					<div class="col-md-9">
+						<textarea class="form-control col-md-9" rows="3" name="sequence_text", id="sequence_text" placeholder="Paste your sequence(s) in FASTA format"></textarea>
+					</div>
+					<div class="col-md-3">
+						<button type="submit" class="btn btn-default">Search &raquo;</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-md-6">
+		<div class="panel panel-default">
+			<div class="panel-heading strong">
+				Keyword Search
+			</div>
+			<div class="panel-body">
+				<p>Search for superfamily, family or species names plus sequence, <a href="http://scop.mrc-lmb.cam.ac.uk/scop/">SCOP</a>, <a href="http://www.rcsb.org/pdb/">PDB</a> or hidden Markov model IDs.</p>
+
+				<form role="form" class="form-horizontal" action="/site/search" method="POST">
+					<div class="col-md-9">
+						<input type="text" style="100%" class="form-control" name="keyword" id="keyword" placeholder="Search SUPERFAMILY">
+					</div>
+					<div class="col-md-3">
+						<button type="submit" class="btn btn-default">GO &raquo;</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<div class="row">
+
+	<div class="col-md-4">
+		<div class="panel panel-default">
+			<div class="panel-heading strong">
+				SCOP Hierarchy
+			</div>
+			<div class="panel-body">
+				<p>Browse the SCOP hierarchy</p>
+				<p><a class="btn btn-default" href="/scop" role="button">Browse &raquo;</a></p>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="col-md-4">
+		<div class="panel panel-default">
+			<div class="panel-heading strong">
+				Taxonomic Hierarchy
+			</div>
+			<div class="panel-body">
+				<p>Browse a tree of all the SUPERFAMILY genomes</p>
+				<p><a class="btn btn-default" href="/genome/hierarchy" role="button">Browse &raquo;</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-md-4">
+		<div class="panel panel-default">
+			<div class="panel-heading strong">
+				Genome Statistics
+			</div>
+			<div class="panel-body">
+				<p>View a variety of statistics on the structural assignment of 3,200 genomes</p>
+				<p><a class="btn btn-default" href="/genome/stats" role="button">View details &raquo;</a></p>
+			</div>
+		</div>
+
+	</div>
+
+</div>
+
+
+		
+		
+
+<hr />
+<footer>
+	<p>Please cite: <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=11697912&amp;dopt=Abstract" target="PubMed">Gough, J., Karplus, K., Hughey, R. and
+                Chothia, C. (2001). "Assignment of Homology to Genome Sequences using a Library of Hidden Markov Models
+                that Represent all Proteins of Known Structure." <em>J. Mol. Biol.</em>, <strong>313(4)</strong>,
+                903-919.</a> and <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky1130/5184710">Arun Prasad Pandurangan, Jonathan Stahlhacke, Matt E. Oates, Ben Smithers and Julian Gough. 
+The SUPERFAMILY 2.0 database: a significant proteome update and a new webserver.
+<em>Nucl. Acids Res.</em> first published online November 16, 2018. https://doi.org/10.1093/nar/gky1130</a></p>
+
+	<p>&copy; The <a href="http://www.supfam.org">SUPERFAMILY</a> authors and Julian Gough 2001-2026.</p>
+</footer>
+
+		
+	</div>
+
+	<!-- Bootstrap core JavaScript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="/js/jquery/jquery-1.11.0.min.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-17338744-2', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+
+	
+	
+</body>
+</html>

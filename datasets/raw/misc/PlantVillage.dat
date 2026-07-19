@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sN2ggO3_oxLoT7_FmYNJTRKUYJZsP7DTouPvHEP1zkzZu2oje5MFV7_ZyahTXEgiC_Zee7Sw8klj1WJKKh8FiQ" />
+    <title>PlantVillage</title>
+    <link rel="icon" type="image/x-icon" href="https://plantvillage.psu.edu/assets/favicon-0d13f32e.ico" />
+
+
+      <!-- Common Meta Tags / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://plantvillage.psu.edu">
+<meta property="og:title" content="PlantVillage">
+<meta property="og:description" content="We help smallholder farmers across Africa, Asia and the Americas adapt to climate change">
+<meta property="og:image" content="https://plantvillage.psu.edu/og/site_og_image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<!-- Twitter Meta Tags -->
+<meta property="twitter:url" content="https://plantvillage.psu.edu">
+<meta property="twitter:domain" content="pv_landing.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PlantVillage">
+<meta name="twitter:description" content="We help smallholder farmers across Africa, Asia and the Americas adapt to climate change">
+<meta name="twitter:image" content="https://plantvillage.psu.edu/og/site_og_image.jpg">
+
+
+  </head>
+
+  <body>
+    <div class="page-content" data-page-content>
+      <nav data-top-menu class="top-menu" aria-label="Main menu">
+  <section class="top-menu__links-section" aria-labelledby="top-menu-about">
+    <h4 id="top-menu-about" class="top-menu__links-header">About</h4>
+    <div class="top-menu__links-list">
+        <a class="top-menu__link" href="/team">Team</a>
+        <a class="top-menu__link" href="/blogposts">Blog</a>
+        <a class="top-menu__link" href="/donate">Donate</a>
+        <a class="top-menu__link" href="https://plantvillageplus.coop/">PV+</a>
+        <a class="top-menu__link" href="https://llm.plantvillage.psu.edu">PlantVillage AI</a>
+      <a class="top-menu__link" href="mailto:contact@plantvillage.psu.edu">Contact us</a>
+    </div>
+  </section>
+
+  <section class="top-menu__links-section" aria-labelledby="top-menu-farmer">
+    <h4 id="top-menu-farmer" class="top-menu__links-header">For farmer </h4>
+    <div class="top-menu__links-list">
+        <a class="top-menu__link" href="/plants">Crops</a>
+        <a class="top-menu__link" href="/diseases">Pests &amp; Diseases</a>
+        <a class="top-menu__link" href="/topics">Topics</a>
+        <a class="top-menu__link" href="/video_libraries">Video Library</a>
+    </div>
+  </section>
+
+  <section class="top-menu__links-section" aria-labelledby="top-menu-research">
+    <h4 id="top-menu-research" class="top-menu__links-header">For research</h4>
+    <div class="top-menu__links-list">
+        <a class="top-menu__link" href="/panel/home">Observatory</a>
+        <a class="top-menu__link" href="/panel/analytics/locust_surveys">Locust Map</a>
+        <a class="top-menu__link" href="/reports">Reports</a>
+    </div>
+
+  </section>
+
+  <div class="top-menu__signin">
+    <a class="top-menu__signin-link" href="/users/sign_in">
+      <h4 class="top-menu__signin-header">Profile</h4>
+      <div>SIGN IN</div>
+</a>  </div>
+</nav>
+
+
+      <header class="site-header">
+        <div class="top-menu__mobile-section">
+  <a href="/" style="display: flex; align-items: center;">
+    <img src="/images/index2024/plantvillage-logo.svg" alt="plantvillage" class="plantvillage-logo">
+  </a>
+  <div data-burger class="top-menu-burger">
+    <div class="top-menu-burger__lines"></div>
+  </div>
+</div>
+
+<div class="top-menu__desktop-section">
+  <div class="top-menu__main-group">
+    <a href="/" style="display: flex; align-items: center;">
+      <img src="/images/index2024/plantvillage-logo.svg" alt="plantvillage" class="plantvillage-logo">
+    </a>
+
+    <div class="top-line-menu">
+      <a class="top-line-menu__link " href="/team">Team</a>
+      <a class="top-line-menu__link " href="/blogposts">Blog</a>
+      <a class="top-line-menu__link " href="/donate">Donate</a>
+
+      <a class="top-line-menu__link" target="_blank" href="https://plantvillageplus.coop/">
+        PV<img class="top-line-menu__pvp-logo" src="/images/index2024/elements/pvp_logo.svg" alt="dropdown">
+</a>
+      <a class="top-line-menu__link" target="_blank" rel="noopener noreferrer" href="https://llm.plantvillage.psu.edu">
+        PlantVillage AI
+        <img src="/images/tomato_ai.png" alt="PlantVillage AI" style="position:relative; left: 2px; top: 1px; width: 24px;" />
+</a>
+      <a class="top-line-menu__link" href="/cetcil">CETC IL</a>
+
+      <a class="top-line-menu__link" href="mailto:contact@plantvillage.psu.edu">Contact us</a>
+
+      <a class="top-line-menu__link" data-more="true" href="#">
+        MORE<img class="top-line-menu__more" src="/images/index2024/elements/arrow-down.svg" alt="dropdown">
+</a>    </div>
+  </div>
+
+  <div class="top-line-menu__signin top-line-menu__link">
+    <a class="top-line-menu__signin-link" href="/users/sign_in">
+      Profile<br>
+      SIGN&nbsp;IN<img class="top-line-menu__more" src="/images/index2024/elements/arrow-down.svg" alt="dropdown">
+</a>  </div>
+</div>
+
+      </header>
+
+      <main class="page-main ">
+        
+
+<section class="top-message">
+  <div class="top-message__image"></div>
+
+  <div class="top-message__text">
+    <h2 class="top-message__text-header">We help smallholder farmers across Africa, Asia and the Americas adapt to climate change</h2>
+
+    <div class="top-message__text-content">
+      <div class="top-message__help-us">
+        <p class="top-message__text_help">Help us reach more farmers</p>
+
+        <a class="top-message__text_link link-common" href="/donate">
+          <span class="top-message__heart nobr">
+            Donate&nbsp;
+            <img class="top-message__heart-icon" src="/images/index2024/social/heart.svg" alt="heart">
+          </span>
+          <span class="nobr">&nbsp;& support farmers →</span>
+</a>      </div>
+
+      <div class="top-message__pv-nest">
+        <p class="top-message__text_help">Originated at</p>
+        <img src="/images/index2024/orgs_logos/pennstate.svg" alt="pennstate">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="climate-change">
+  <div class="climate-change__content">
+    <div class="climate-change__text">
+      Climate change shocks coupled with pests and diseases prevent African farmers from becoming profitable enterprises
+    </div>
+
+    <div class="climate-change__link">
+      <a class="link-common" href="#" data-open-climat-popup>how we cope with it →</a>
+    </div>
+  </div>
+</section>
+
+<h3 class="current-projects">Currently running projects</h3>
+<section class="section-common pv-ai__section">
+    <img src="/images/tomato_ai.png" alt="PlantVillage AI" class="pv-ai__image" />
+    <div class="pv-ai__content">
+        <h4 class="pv-ai__title">PlantVillage AI</h4>
+        <p class="pv-ai__description">
+            We are releasing for beta testing our new AI that combines multiple AIs and third-party tools and datasets, such as weather forecasts and soil data to give more specific answers. We are actively evaluating multiple AI models for accuracy, relevance and cost, and we update the PlantVillage AI as we discover better models. We would love your feedback.
+        </p>
+        <a href="https://llm.plantvillage.psu.edu" class="pv-ai__button" target="_blank" rel="noopener noreferrer">
+            Open assistant
+        </a>
+    </div>
+</section>
+<section
+  class="section-common carbon-removal__section deferred-bg"
+  data-deferred-bg
+  data-bg-mobile="/images/index2024/versions/mobile/section-1.webp"
+  data-bg-tablet="/images/index2024/versions/tablet/section-1.webp"
+  data-bg-desktop="/images/index2024/versions/desktop/section-1.webp"
+>
+  <div
+    class="section-common__image carbon-removal__image deferred-bg"
+    data-deferred-bg
+    data-bg-mobile="/images/index2024/versions/mobile/section-1.webp"
+  ></div>
+  <div class="section-common__content carbon-removal__content">
+    <div class="section-common__info">
+      <p class="section-common__info-organization">
+        <img class="section-common__info-organization-prize" src="/images/index2024/section_logos/xprize.webp" alt="Prize">
+      </p>
+      <p class="section-common__info-time">2021 - present</p>
+    </div>
+    <div class="section-common__text-content">
+      <h3 class="section-common__header">The path to gigatonne scale carbon removal</h3>
+      <div class="section-common__text">
+        <p class="section-common__text-block">African farms and rangelands can store permanently billions of tonnes of carbon each year. </p>
+        <p class="section-common__text-block">We see farms and rangelands in Africa as AI Powered Carbon Capture Cubes that capture carbon and permanently store it as biochar, improving soils and diversifying incomes via carbon markets.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section
+  class="section-common threats-to-crops__section deferred-bg"
+  data-deferred-bg
+  data-bg-mobile="/images/index2024/versions/mobile/section-2.webp"
+  data-bg-tablet="/images/index2024/versions/tablet/section-2.webp"
+  data-bg-desktop="/images/index2024/versions/desktop/section-2.webp"
+>
+  <div
+    class="section-common__image threats-to-crops__image deferred-bg"
+    data-deferred-bg
+    data-bg-mobile="/images/index2024/versions/mobile/section-2.webp"
+  ></div>
+  <div class="section-common__content threats-to-crops__content">
+    <div class="section-common__info">
+      <div class="section-common__info-organization section-common__info-organization-content">
+        <p><img class="section-common__info-organization-feed-future" src="/images/index2024/section_logos/feedthefuture.svg" alt="Feed the Future"></p>
+      </div>
+      <p class="section-common__info-time">2022 - present</p>
+    </div>
+    <div class="section-common__text-content">
+      <h3 class="section-common__header">Current and Emerging Threats to Crops Innovation Lab</h3>
+      <div class="section-common__text">
+        <p class="section-common__text-block">In a climate changed, interconnected world we need research on the threats farmers face. The Feed the Future Innovation Lab for Current and Emerging Threats to Crops will focus on tackling pests, diseases and weeds of crops in a climate changed world.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section
+  class="section-common help-pastoralists__section deferred-bg"
+  data-deferred-bg
+  data-bg-mobile="/images/index2024/versions/mobile/section-3.webp"
+  data-bg-tablet="/images/index2024/versions/tablet/section-3.webp"
+  data-bg-desktop="/images/index2024/versions/desktop/section-3.webp"
+>
+  <div
+    class="section-common__image help-pastoralists__image deferred-bg"
+    data-deferred-bg
+    data-bg-mobile="/images/index2024/versions/mobile/section-3.webp"
+  ></div>
+  <div class="section-common__content help-pastoralists__content">
+    <div class="section-common__info">
+      <div class="section-common__info-organization"></div>
+      <p class="section-common__info-time">2021 - present</p>
+    </div>
+    <div class="section-common__text-content">
+      <h3 class="section-common__header">Helping pastoralists</h3>
+      <div class="section-common__text">
+        <p class="section-common__text-block">We support pastoralists with advanced forecasts from FEWS NET and UN on where they can find vegetation and water, as well how to treat their animals. We connect vets and pastoralists in rangelands to adapt to climate change.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<a class="food-security" aria-label="Learn more about Nutrition" href="/food">
+  <div class="food-security__images">
+    <div class="food-security__logo">
+      <img src="/images/index2024/section_logos/frani.svg" alt="frani">
+    </div>
+    <div
+      class="food-security__ticket-image deferred-bg"
+      data-deferred-bg
+      data-bg-mobile="/images/index2024/versions/mobile/section-5.webp"
+      data-bg-tablet="/images/index2024/versions/tablet/section-5.webp"
+      data-bg-desktop="/images/index2024/versions/tablet/section-5.webp"
+    ></div>
+  </div>
+  <div class="food-security__content">
+    <div class="food-security__info">
+      <p class="food-security__info-time">2021 - present</p>
+    </div>
+
+    <h3 class="food-security__header">Nutrition</h3>
+    <div class="food-security__text">
+      <p class="food-security__text-block">Together with IFPRI we’ve launched a AI driven diet habit tracking app that is focused on improving the diets of adolescents and ensuring schools meals are healthy.</p>
+    </div>
+  </div>
+</a>
+<section
+  class="section-common fighting-locusts__section deferred-bg"
+  data-deferred-bg
+  data-bg-mobile="/images/index2024/versions/mobile/section-4.webp"
+  data-bg-tablet="/images/index2024/versions/tablet/section-4.webp"
+  data-bg-desktop="/images/index2024/versions/desktop/section-4.webp"
+>
+  <div
+    class="section-common__image fighting-locusts__image deferred-bg"
+    data-deferred-bg
+    data-bg-mobile="/images/index2024/versions/mobile/section-4.webp"
+  ></div>
+  <div class="section-common__content fighting-locusts__content">
+    <div class="section-common__info">
+      <p class="section-common__info-organization">
+        <img class="section-common__info-organization-fao" src="/images/index2024/section_logos/fao.webp" alt="FAO">
+      </p>
+      <p class="section-common__info-time">2018 - present</p>
+    </div>
+    <div class="section-common__text-content">
+      <h3 class="section-common__header">Fighting locusts</h3>
+      <div class="section-common__text">
+        <p class="section-common__text-block">PlantVillage at Penn State created the eLocust3m for UN FAO to help them gather data on locust occurrence. We’ve created a simple reporting tool to to engage communities who have limited experience in locusts surveying.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="data-harvesting">
+  <div class="data-harvesting__images">
+    <div
+      class="data-harvesting__ticket-image deferred-bg"
+      data-deferred-bg
+      data-bg-mobile="/images/index2024/versions/mobile/section-6.webp"
+      data-bg-tablet="/images/index2024/versions/tablet/section-6.webp"
+      data-bg-desktop="/images/index2024/versions/tablet/section-6.webp"
+    ></div>
+  </div>
+
+  <div class="data-harvesting__content">
+    <div class="section-common__info data-harvesting__info">
+      <p class="section-common__info-time data-harvesting__info-time">2018 - present</p>
+    </div>
+
+    <h3 class="data-harvesting__header">Data harvesting & processing</h3>
+    <div class="data-harvesting__text">
+      <p class="data-harvesting__text-block">Using the PlantVillage app and our analytical platform we aggregate data from farms all over the world.</p>
+      <p class="data-harvesting__text-block">This allow us make cost-effective collaborative research on novel approaches to monitor, predict and combat current and emerging threats to crops in a climate changed world.</p>
+    </div>
+  </div>
+</section>
+
+<section class="kip-e-tom">
+  <div class="kip-e-tom__name">
+    <picture class="kip-e-tom__picture">
+      <source srcset="/images/index2024/versions/desktop/kip-e-tom.webp" media="(min-width: 1024px)">
+      <source srcset="/images/index2024/versions/tablet/kip-e-tom.webp" media="(min-width: 768px)">
+      <img
+        class="kip-e-tom__image"
+        src="/images/index2024/versions/mobile/kip-e-tom.webp"
+        alt="Kip E. Tom"
+        loading="lazy"
+        decoding="async"
+      >
+    </picture>
+    <div class="kip-e-tom__role">
+      <p class="kip-e-tom__image_header">Kip E. Tom</p>
+      <p class="kip-e-tom__image_text">US Ambassador</p>
+    </div>
+  </div>
+
+  <div class="kip-e-tom__content">
+    <div class="kip-e-tom__text">
+      <blockquote>
+        <p class="kip-e-tom__text-block">“PlantVillage from one of our US Land Grants (Penn State) has shown the important role of <b>Artificial Intelligence, cloud computing, analytics and satellite intelligence</b> in cost-effectively fighting the Desert Locust and other threats African farmers face.</p>
+        <p class="kip-e-tom__text-block">Data is critical for both the current threat but future ones when they occur. You must measure and monitor digitally if you want to control.”</p>
+      </blockquote>
+    </div>
+
+    <div class="kip-e-tom__link">
+      <a href="https://www.mercycorpsagrifin.org/wp-content/uploads/2020/12/Desert-Locust-Citizen-Reporting-Case.pdf" class="link-common2" target="_blank">Source</a>
+    </div>
+  </div>
+</section>
+
+<section class="news-reports">
+  <h3 class="news-reports__header">News, reports & stories</h3>
+
+  <div class="news-reports__list">
+      <a class="news-reports__link" href="/blogposts/380-tiny-wasps-big-impact-natural-pest-control-for-kenyan-farmers">
+  <div class="news-reports__item">
+    <div class="news-reports__item-content">
+      <h4 class="news-reports__item-header">Tiny Wasps, Big Impact: Natural Pest Control for Kenyan Farmers</h4>
+
+
+      <div class="news-reports__item-date">Mar 16, 2026 • PlantVillage</div>
+    </div>
+
+      <img
+        class="news-reports__image"
+        src="https://plantvillage-production-new.s3.amazonaws.com/blogpost/380/main_image/square-18f0c84aa13f930c14fc3cb35621dad2.jpeg"
+        alt="Tiny Wasps, Big Impact: Natural Pest Control for Kenyan Farmers"
+        loading="lazy"
+        decoding="async"
+      />
+  </div>
+</a>
+      <a class="news-reports__link" href="/blogposts/379-plantvillage-malawi-showcases-mobile-app-at-national-irrigation-campaign-launch">
+  <div class="news-reports__item">
+    <div class="news-reports__item-content">
+      <h4 class="news-reports__item-header">PlantVillage Malawi Showcases Mobile App at National Irrigation Campaign Launch</h4>
+
+
+      <div class="news-reports__item-date">Jun  3, 2025 • PlantVillage</div>
+    </div>
+
+      <img
+        class="news-reports__image"
+        src="https://plantvillage-production-new.s3.amazonaws.com/blogpost/379/main_image/square-c3b0790f327758f690f7008750411662.jpg"
+        alt="PlantVillage Malawi Showcases Mobile App at National Irrigation Campaign Launch"
+        loading="lazy"
+        decoding="async"
+      />
+  </div>
+</a>
+      <a class="news-reports__link" href="/blogposts/374-daes-empowered-with-pest-diseases-observatory-system">
+  <div class="news-reports__item">
+    <div class="news-reports__item-content">
+      <h4 class="news-reports__item-header">DAES Empowered with Pest, Diseases Observatory System</h4>
+
+
+      <div class="news-reports__item-date">Dec  2, 2024 • PlantVillage</div>
+    </div>
+
+      <img
+        class="news-reports__image"
+        src="https://plantvillage-production-new.s3.amazonaws.com/blogpost/374/main_image/square-21dbc63f0c074c489b3eb413086f8a68.jpeg"
+        alt="DAES Empowered with Pest, Diseases Observatory System"
+        loading="lazy"
+        decoding="async"
+      />
+  </div>
+</a>
+      <a class="news-reports__link" href="/blogposts/372-chitipa-district-council-embraces-madiphs-plantvillage-app">
+  <div class="news-reports__item">
+    <div class="news-reports__item-content">
+      <h4 class="news-reports__item-header">Chitipa district council embraces MaDiPHS, PlantVillage app</h4>
+
+
+      <div class="news-reports__item-date">Nov 11, 2024 • PlantVillage</div>
+    </div>
+
+      <img
+        class="news-reports__image"
+        src="https://plantvillage-production-new.s3.amazonaws.com/blogpost/372/main_image/square-2cfa36ab6d7523e57a90e983d3febb81.jpeg"
+        alt="Chitipa district council embraces MaDiPHS, PlantVillage app"
+        loading="lazy"
+        decoding="async"
+      />
+  </div>
+</a>
+  </div>
+
+  <div class="news-reports__link-block">
+    <a class="news-reports__more" href="/blogposts">View all →</a>
+  </div>
+</section>
+
+
+
+      </main>
+
+      <footer class="page-footer">
+        <div class="page-footer__desktop-link-sections">
+  <div class="page-footer__link-sections">
+    <section class="footer-links__section">
+      <h4 class="footer-links__header">About</h4>
+      <div class="footer-links__list">
+          <a class="footer-links__link" href="/team">Team</a>
+          <a class="footer-links__link" href="/blogposts">Blog</a>
+          <a class="footer-links__link" href="/donate">Donate</a>
+          <a class="footer-links__link" target="_blank" href="https://plantvillageplus.coop/">PV+</a>
+          <a class="footer-links__link" target="_blank" href="https://llm.plantvillage.psu.edu">PlantVillage AI</a>
+        <a class="footer-links__link" href="mailto:contact@plantvillage.psu.edu">Contact us</a>
+      </div>
+    </section>
+
+    <section class="footer-links__section">
+      <h4 class="footer-links__header">For farmer </h4>
+      <div class="footer-links__list">
+          <a class="footer-links__link" href="/plants">Crops</a>
+          <a class="footer-links__link" href="/diseases">Pests &amp; Diseases</a>
+          <a class="footer-links__link" href="/topics">Topics</a>
+          <a class="footer-links__link" href="/video_libraries">Video Library</a>
+      </div>
+    </section>
+
+    <section class="footer-links__section">
+      <h4 class="footer-links__header">For research</h4>
+      <div class="footer-links__list">
+          <a class="footer-links__link" href="/panel/home">Observatory</a>
+          <a class="footer-links__link" href="/panel/analytics/locust_surveys">Locust Map</a>
+          <a class="footer-links__link" href="/reports">Reports</a>
+      </div>
+    </section>
+  </div>
+
+  <section class="footer-support">
+    <p>
+      <a class="footer-support__button" href="/donate">Donate</a>
+    </p>
+    <p class="footer-support__text">Support our project by<br />donating or participating</p>
+  </section>
+</div>
+
+<section class="footer-terms-social">
+  <div class="footer-terms-social__terms">
+    <a class="link-common3" href="/tos">Terms</a>
+    <span class="link-common3"> / </span>
+    <a class="link-common3" href="/static_pages/privacy_policy">Privacy</a>
+  </div>
+
+  <div class="footer-terms-social__social-networks">
+    <a href="https://www.facebook.com/PlantVillageAfrica" class="link-common4 footer-terms-social__facebook">Facebook</a>
+    <a href="https://x.com/plantvillage" class="link-common4 footer-terms-social__xcom">x.com</a>
+    <a href="https://www.youtube.com/channel/UCwU3ura8EXmHpQqucO74zzA" class="link-common4 footer-terms-social__youtube">YouTube</a>
+    <a href="https://us.linkedin.com/company/plantvillage" class="link-common4 footer-terms-social__linkedin">LinkedIn</a>
+  </div>
+</section>
+
+      </footer>
+    </div>
+
+    
+  <div class="climate-popup climate-popup_hidden" data-climat-popup>
+  <div class="climate-popup__close" data-close-climat-popup></div>
+
+  <div class="climate-popup__content">
+    <div class="climate-popup__text">
+      <h3 class="climate-popup__header">Climate change shocks coupled with pests and diseases prevent African farmers from becoming profitable enterprises </h3>
+
+      <p class="climate-popup__text-block">PlantVillage uses AI and cloud computing  that works to increase the yield and profitability for millions of farmers.</p>
+      <p class="climate-popup__text-block">It is our goal to reach hundreds of millions in partnership with an ecosystem of farmer facing organizations and the farmers themselves. Our algorithms come from our integration of AI, satellite technology and our PlantVillage extension officers who now work across 12 countries and we are aiming to get to >50 countries by late 2025.</p>
+      <p class="climate-popup__text-block">Once a farmer inputs 3 critical details (crop type, location, planting date) the algorithms within the PlantVillage engine can send out advice via smartphone, SMS, TV or real world social networks.</p>
+    </div>
+  </div>
+</div>
+
+  <link rel="stylesheet" href="https://plantvillage.psu.edu/vite/assets/index2024.B9ztcBDV.css" />
+
+    
+    <script src="https://plantvillage.psu.edu/vite/assets/layout2024.BNF2RWVL.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="https://plantvillage.psu.edu/vite/assets/header.B3-bzXt4.js" as="script" crossorigin="anonymous"><link rel="stylesheet" href="https://plantvillage.psu.edu/vite/assets/index.B1EdvHsu.css" media="screen" />
+  </body>
+</html>

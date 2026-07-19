@@ -1,0 +1,3152 @@
+<!doctype html>
+
+<html lang="en">
+     
+     
+       
+
+      <head>
+
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="robots" content="index,follow">
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+
+         
+
+        <meta property="og:site_name" content="International Plant Protection Convention">		
+        <meta property="og:url" content="">
+        <meta property="og:image" content="">
+        <meta property="og:title" content="">
+        <meta property="og:type"  content="" />
+        <meta property="og:description" content=""/>
+    
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@IPPC">
+        <meta name="twitter:creator" content="@IPPC">
+        <meta name="twitter:title" content="">
+        <meta property="twitter:image" content=""/>
+        <meta property="twitter:description" content=""/>
+        
+        
+        
+     
+        <meta name="google-site-verification" content="7gYniolcWgnISXKdGyrk7JeW0RGCtu3cT0VAXZQjm9I" />
+        <title>IPPC - International Plant Protection Convention</title>
+        <!--link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"-->
+        <link rel="shortcut icon" href="/static/img/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="/static/grappelli/css/widgets.css">
+        
+            <link rel="alternate" type="application/rss+xml" title="RSS" href="/en/blog/feeds/rss/">
+            <link rel="alternate" type="application/atom+xml" title="Atom" href="/en/blog/feeds/atom/">
+        
+
+        
+            <!--link rel="stylesheet" href="/static/css/bootstrap.css" %}"-->
+            <!--link rel="stylesheet" href="/static/css/mezzanine.css" %}"-->
+            <!--link rel="stylesheet" href="/static/css/bootstrap-responsive.css"-->
+              <!--link rel="stylesheet" href="/static/css/ippc20160201_2.css" %}"-->
+             <!-- Font Awesome --> 
+                <!--link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" -->
+                <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+                <!--link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css"-->
+                <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" >
+  <!-- Bootstrap core CSS -->
+            <!--link rel="stylesheet" type="text/css" href="/static/css/gridipp/bootstrap/css/bootstrap.min.css" -->
+            <link rel="preconnect" href="https://fonts.googleapis.com/">
+            <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+
+           
+            <link href="/static/css/gridipp/bootstrap/css/animate.css" rel="stylesheet" type="text/css">
+            <!-- Bootstrap  CSS -->
+
+     <!--  
+      =SmartMenus core CSS
+      https://www.smartmenus.org/ 
+      Documentation: https://www.smartmenus.org/docs/ -->
+      <link href='/static/css/2023/sm-core-css.css' rel='stylesheet' type='text/css'>
+      <!-- "sm-clean" menu theme - don’t forget to set the =Globalnav ul class to sm-clean, too! -->
+      <link href='/static/css/2023/sm-clean/sm-clean.css' rel='stylesheet' type='text/css'>
+      
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/css/2023/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IPPC Theme -->
+    <link href="/static/css/2023/ippc20230518.css" rel="stylesheet">
+
+
+    <!--script charset="utf-8" src="/static/css/2023/timeline.16b53cc33aaa562f8f41a495bf720289.js.download"></script-->
+  </head>
+            <!--link rel="stylesheet" href="/static/css/gridipp/style.css">
+            <link rel="stylesheet" href="/static/css/gridipp/style_1_1.css"-->
+
+              <link rel="stylesheet" href="/static/css/chosen.css">
+              <!--link rel="stylesheet" href="/static/schedule/css/schedule.css" type="text/css" media="screen" /-->
+    
+              
+              
+
+              
+          
+              <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> 
+
+        <script src="/static/js/bootstrap.js"></script>
+        <script src="/static/js/bootstrap-extras.js"></script>
+        <script src="/static/js/chosen.jquery.min.js"></script>
+        <script src="/static/js/jquery.min.js"></script>
+    
+        <script type="text/javascript" src="/en/jsi18n/"></script>
+   
+        <script type="text/javascript" src="/static/admin/js/core.js"></script>
+
+
+        <script type="tepxt/javascript" src="/static/admin/js/jquery.min.js"></script> 
+        <script type="text/javascript" src="/static/admin/js/jquery.init.js"></script> 
+        <script type="text/javascript" src="/static/admin/js/actions.min.js"></script> 
+        <script type="text/javascript" src="/static/admin/js/calendar.js"></script>
+
+        <script type="text/javascript" src="/static/admin/js/admin/DateTimeShortcuts.js"></script>
+
+        
+        
+        <script src="/static/js/jquery.formset.js"></script>
+ 
+          
+    
+        
+        <!--[if lt IE 9]>
+        <script src="/static/js/html5shiv.js" %}"></script>
+        <![endif]-->
+
+          
+         
+        
+          
+           
+           
+               
+               
+               <script type="text/javascript">
+                function openNav() {
+                  var divmainbox = document.getElementById('divmainbox');
+                  var divmainsidebox = document.getElementById('divmainsidebox');
+                  var divaction = document.getElementById('divaction');
+                  divmainbox.className = "span8";
+                  divmainsidebox.className = "span4";
+                  divmainsidebox.style.display='block';
+                  divaction.style.display='none';
+                }
+
+                function closeNav() {
+                  var divmainbox = document.getElementById('divmainbox');
+                  var divmainsidebox = document.getElementById('divmainsidebox');
+                  var divaction = document.getElementById('divaction');
+                  divmainbox.className = "span12";
+                  divmainsidebox.style.display='none';
+                  divaction.style.display='block';
+                }
+            </script>
+            <!-- new Google Tag Manager -->
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              window.dataLayer.push({
+              'event': 'pageType',
+              'cmsType': 'DJANGO'
+              }); 
+               </script>
+            <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PQGSTC5');</script>
+    <!-- End Google Tag Manager -->
+    
+            <!-- end new google tag manager -->
+ <!-- Google Tag Manager -->
+<!--script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W5F9DKL');</script-->
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript" class="init">
+	$(document).ready(function () {
+    $('#publications').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+});
+ 
+      $(document).ready(function () {
+        $('#topic1').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#topic2').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#topic3').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#topic4').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#topic5').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#topic6').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#memberstable').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#meetings').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+        /*columnDefs: [ { type: 'date', "targets": [2] } ] , */
+        order: [[2, 'desc']],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#fcreports').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+       // columnDefs: [ { type: 'date', "targets": [2] } ] , 
+        order: [[2, 'desc']],
+    });
+      
+      });
+      $(document).ready(function () {
+        $('#reportingsys').DataTable({
+        lengthMenu: [
+            [50, 100, 150, -1],
+            [50, 100, 150, 'All'],
+        ],
+        columnDefs: [ { type: 'date', "targets": [2] } ] , 
+        order: [[2, 'desc']],
+    });
+      
+      });
+      
+        </script> 
+</head>
+<body id="home">  
+  <!-- Google Tag Manager (noscript) -->
+<!--noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5F9DKL"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript-->
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQGSTC5"  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+<!--  MODAL POP UP   --> 
+     
+
+<!--  MODAL POP UP end   -->
+  <div class="container">
+
+    
+    <div class="row">
+      <div class="col-md-12">
+         
+        <header>
+          <div class="row">
+            <div class="col-md-12">
+
+              <div> 
+              <a href="http://www.fao.org/"><img id="faologo" src="/static/img/FAO_logo_Blue_3lines_en.jpg" alt="FAO" class="d-inline-block"></a>
+              <a href="/en"><img src="/static/img/IPPC_logo_Green_3lines_en.jpg" alt="logo IPPC" class="d-inline-block" width="260px"></a>
+
+               
+<form class="form-inline d-inline-block" id="searchform" action="/en/search/">
+     
+        <input placeholder="Search" type="text" name="q" value="" class="form-control d-inline-block" aria-label="Search" style="width:80px;">
+        
+        
+        <select name="type" class="form-control d-inline-block"  style="width:80px;">
+            <option value="">All</option>
+            
+            <option value="calls.CallsPost"
+                >
+                Calls
+            </option>
+            
+            <option value="ippc.EventReporting"
+                >
+                Event reporting
+            </option>
+            
+            <option value="news.NewsPost"
+                >
+                News
+            </option>
+            
+            <option value="pages.Page"
+                >
+                Pages
+            </option>
+            
+            <option value="ippc.PestReport"
+                >
+                Pest reports
+            </option>
+            
+            <option value="ippc.Publication"
+                >
+                Publications
+            </option>
+            
+            <option value="ippc.ReportingObligation"
+                >
+                Reporting obligations
+            </option>
+            
+        </select>
+    
+
+<input type="submit" class="btn btn-secondary d-inline-block w-auto" value="Search">
+ 
+  </form>
+
+              
+              
+
+
+    
+     
+
+
+               
+<div class="utilities d-inline-block pull-right"> <!-- d-flex justify-content-end -->
+    
+    <form action=""  method="POST" enctype="multipart/form-data"  class="form-inline d-inline-block" >
+    <input type="hidden" name="csrfmiddlewaretoken" value="dCRcHWenRnSv3tqDsgkTQcuU7ldiFwCtwCXqEi3POmv7GOzKDSuTxovag2Q8oJPZ">
+    <select data-placeholder="Language" class="form-control d-inline-block btn btn-primary"  id="selectlanguage">
+      <option>Language</option>
+      
+        
+            
+              <option  class="btn btn-primary" value="/en/">English</option>
+             
+                         
+      
+        
+            
+              <option   class="btn btn-light" value="/fr/">French</option>
+             
+                         
+      
+        
+            
+              <option   class="btn btn-light" value="/es/">Spanish</option>
+             
+                         
+      
+        
+            
+              <option   class="btn btn-light" value="/ru/">Russian</option>
+             
+                         
+      
+        
+            
+              <option   class="btn btn-light" value="/ar/">Arabic</option>
+             
+                         
+      
+        
+            
+              <option   class="btn btn-light" value="/zh/">Chinese</option>
+             
+                         
+      
+    </select>                        
+    </form>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="/faq/" class="d-inline-block text-success" role="button">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!--a href="" class="d-inline-block text-success" role="button">Toolkit</a-->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+
+   
+
+   <a href="/en/accounts/login/?next=/en/" class="btn btn-secondary">Log in</a>
+            
+ 
+  </div> <!-- end .utilities -->
+
+
+</div> <!-- end .utilities -->
+
+
+
+
+
+
+
+
+               
+
+              
+              <script type="text/javascript" charset="utf-8">
+                $(function() {
+                      $('#selectlanguage').change(function() {
+                            window.location.href = $(this).val();
+                      });
+                });
+                </script>
+            </div> <!-- end .row -->
+        </div></header>
+        
+    </div> <!-- end .col-md-12 -->
+</div> <!-- end .row --> 
+<nav class="main-nav navbar-light" role="navigation"> 
+ 
+    
+  <ul id="main-menu" class="sm sm-clean">
+            
+<li class="current"><a href="/">Home</a></li><li><a href="/about/overview" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        About 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/en/about/overview/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Overview 
+                        
+                         </a></li><li><a href="/en/about/convention-text/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Convention text 
+                        
+                         </a></li><li><a href="/en/about/secretariat/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Secretariat 
+                        
+                         </a></li><li><a href="/en/about/core-activities/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Core Activities 
+                        
+                         </a><ul><li><a href="/en/about/core-activities/standards-setting/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Standard setting 
+                        
+                         </a><ul><li><a href="/en/about/core-activities/standards-setting/topics-list-call/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Topics list & Call 
+                        
+                         </a></li><li><a href="/en/about/core-activities/standards-setting/language-versions/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Language versions 
+                        
+                         </a></li><li><a href="/en/core-activities/standards-setting/approved-specifications/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Approved specifications 
+                        
+                         </a></li></ul></li><li><a href="/en/about/core-activities/capacity-development/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Implementation & Capacity Development 
+                        
+                         </a><ul><li><a href="/en/about/core-activities/capacity-development/guides-and-training-materials/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Guides and Training Materials 
+                        
+                         </a><ul><li><a href="/en/e-learning/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        E-learning courses 
+                        
+                         </a></li></ul></li><li><a href="/en/core-activities/capacity-development/programmes/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Programmes 
+                        
+                         </a><ul><li><a href="/en/core-activities/capacity-development/programmes/strenghtening-pest-outbreak-alert-and-response-systems/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Pest Outbreak Alert and Response System (POARS) 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/programmes/ippc-global-coordination-on-fusarium-oxysporum-f-sp-cubense-tropical-race-4-tr4/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Global coordination response on Fusarium oxysporum f. sp. cubense Tropical Race 4 (TR4) 
+                        
+                         </a></li></ul></li><li><a href="/en/core-activities/capacity-development/projects-on-implementation-and-capacity-development/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Implementation and Capacity Development Projects 
+                        
+                         </a><ul><li><a href="/en/core-activities/capacity-development/projects-on-implementation-and-capacity-development/eu-support-to-the-ippc-strategic-framework-2026-/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        EU Support to the IPPC Strategic Framework and Workplan 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/projects-on-implementation-and-capacity-development/japan-support-for-implementation-capacity-development-activities/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Japan Support for Implementation and Capacity Development Activities of the IPPC Secretariat 
+                        
+                         </a></li></ul></li><li><a href="/en/about/core-activities/capacity-development/phytosanitary-capacity-evaluation/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Phytosanitary Capacity Evaluation (PCE) 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/consultation-on-ic-sub-groups-draft-terms-of-reference-and-draft-rules-of-procedure/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Consultation on Implementation and Capacity Development Documents 
+                        
+                         </a></li></ul></li><li><a href="/en/about/overview/about/core-activities/governance/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Governance & Communication 
+                        
+                         </a><ul><li><a href="/en/about/overview/about/core-activities/governance/governance/communication-and-partnerships/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Communication and Partnerships 
+                        
+                         </a></li></ul></li><li><a href="/en/about/overview/about/core-activities/standards-and-implementation/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Cooperation between Standards & Implementation 
+                        
+                         </a><ul><li><a href="https://www.ippc.int/en/centre-of-excellence/framework/list">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Framework for Standards and Implementation 
+                        
+                
+                         
+                        
+                         </a></li></ul></li></ul></li></ul></li><li><a href="/strategic-objectives/ippc-strategic-framework" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        Strategic Objectives 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/en/strategic-objectives/ippc-strategic-framework/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Strategic Framework 
+                        
+                         </a></li><li><a href="/en/strategic-objectives/plant-health-food-security/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Plant Health & Food Security 
+                        
+                         </a></li><li><a href="/en/strategic-objectives/plant-health-safe-trade/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Plant Health & Safe Trade 
+                        
+                         </a><ul><li><a href="/en/core-activities/capacity-development/e-commerce/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        E-commerce 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/sea-containers/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Sea Containers 
+                        
+                         </a><ul><li><a href="/en/core-activities/capacity-development/sea-containers/ic-sub-group-sea-container-task-force-sctf/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Sea Container Task Force (SCTF) 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/sea-containers/international-workshop-on-reducing-the-introduction-of-pests-through-the-sea-container-pathway/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        International workshop on reducing the introduction of pests through the sea container pathway 
+                        
+                         </a></li><li><a href="/en/core-activities/capacity-development/sea-containers/international-workshop-on-pest-risk-mitigation-of-sea-containers-and-their-cargoes-and-the-facilitation-of-international-trade-defining-the-way-forward/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        International workshop on pest risk mitigation of sea containers and their cargoes and the facilitation of international trade - defining the way forward 
+                        
+                         </a></li></ul></li><li><a href="/en/ephyto/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC ePhyto Solution 
+                        
+                         </a></li><li><a href="/en/core-activities/governance/trade-facilitation/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Trade facilitation 
+                        
+                         </a></li></ul></li><li><a href="/en/strategic-objectives/plant-health-environmental-protection/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Plant Health & Environmental Protection 
+                        
+                         </a><ul><li><a href="/en/strategic-objectives/plant-health-environmental-protection/the-impacts-of-climate-change-on-plant-health/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        The impacts of climate change on plant health 
+                        
+                         </a><ul><li><a href="/en/strategic-objectives/plant-health-environmental-protection/the-impacts-of-climate-change-on-plant-health/climate-change-impacts-on-plant-pests-technical-factsheets/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Climate change impacts on plant pests: technical factsheets 
+                        
+                         </a></li></ul></li></ul></li></ul></li><li><a href="/commission/cpm/" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        Commission 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/en/commission/cpm/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        The Commission on Phytosanitary Measures (CPM) 
+                        
+                         </a><ul><li><a href="/en/commission/cpm/cpm-sessions/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Sessions 
+                        
+                         </a><ul><li><a href="/en/commission/cpm/cpm-sessions/cpm-20-2026/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM 20 - 2026 
+                        
+                         </a></li></ul></li><li><a href="/en/commission/cpm/cpm-rules-of-procedure/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Rules of Procedure 
+                        
+                         </a></li><li><a href="/en/commission/cpm/cpm-recommendations/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Recommendations 
+                        
+                         </a></li><li><a href="/en/commission/cpm/orientation-to-cpm/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Orientation to CPM 
+                        
+                         </a></li></ul></li><li><a href="/en/commission/bureau/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Bureau 
+                        
+                         </a><ul><li><a href="/en/commission/bureau/ippc-financial-committee-fc/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Financial Committee (FC) 
+                        
+                         </a></li><li><a href="/en/core-activities/dispute-settlement/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Dispute avoidance and settlement 
+                        
+                         </a></li></ul></li><li><a href="/en/commission/strategic-planning-group/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Strategic Planning Group 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group and Working Group Reports 
+                        
+                         </a><ul><li><a href="/en/commission/cpm-focus-group-reports/task-force-on-topics/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Task Force on Topics 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/climate-change-and-phytosanitary-issues/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Climate Change and Phytosanitary Issues 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/cpm-focus-group-on-global-phytosanitary-research-coordination/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Global Phytosanitary Research Coordination 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/cpm-fg-on-plant-health-in-the-context-of-one-health/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM FG on Plant Health in the Context of One Health 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/fg-safe-provision-of-food-and-other-humanitarian-aid/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Safe Provision of Food and Other Humanitarian Aid 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/fg-on-sea-containers/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Sea Containers 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/strengthening-pest-outbreak-alert-and-response-systems/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Strengthening Pest Outbreak Alert and Response Systems 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/fg-sustainable-funding-ippc-ephyto-solution/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        CPM Focus Group on Sustainable Funding of the IPPC ePhyto Solution 
+                        
+                         </a></li><li><a href="/en/commission/cpm-focus-group-reports/calls-nominations-for-cpm-fg/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Calls for nominations for CPM Focus Groups 
+                        
+                         </a></li></ul></li><li><a href="/en/commission/standards-committee/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Standards Committee (SC) 
+                        
+                         </a><ul><li><a href="/en/commission/standards-committee/technical-panels/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Technical panels (TPs) 
+                        
+                         </a><ul><li><a href="/en/commission/standards-committee/technical-panels/technical-panel-diagnostic-protocols/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Technical Panel on Diagnostic Protocols  (TPDP) 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/technical-panels/technical-panel-glossary-phytosanitary-terms-ispm-5/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Technical Panel for the Glossary (TPG) 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/technical-panels/technical-panel-phytosanitary-treatments/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Technical Panel on Phytosanitary Treatments (TPPT) 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/technical-panels/technical-panel-on-commodity-standards/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Technical Panel on Commodity Standards (TPCS) 
+                        
+                         </a></li></ul></li><li><a href="/en/commission/standards-committee/expert-working-groups/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Expert working groups (EWGs) 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/workshop-expert-meetings/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Ad hoc expert groups 
+                        
+                         </a><ul><li><a href="/en/commission/standards-committee/workshop-expert-meetings/expert-consultation-on-cold-treatments/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Expert Consultation on Cold Treatments (ECCT) 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/workshop-expert-meetings/open-ended-workshop-international-movement-of-grain/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Open-ended Workshop on the International Movement of Grain 
+                        
+                         </a></li><li><a href="/en/commission/standards-committee/workshop-expert-meetings/expert-consultation-phytosanitary-treatments-bactrocera-dorsalis-complex/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Expert Consultation on phytosanitary treatments for The Bactrocera Dorsalis complex 
+                        
+                         </a></li></ul></li></ul></li><li><a href="/en/commission/capacity-development-committee/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Implementation and Capacity Development Committee (IC) 
+                        
+                         </a><ul><li><a href="/en/commission/capacity-development-committee/ic-sub-group/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IC Subgroups and Teams 
+                        
+                         </a></li></ul></li></ul></li><li><a href="/core-activities/standards-setting/ispms/" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        Standards 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/en/core-activities/standards-setting/ispms/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Adopted Standards (ISPMs) 
+                        
+                         </a></li><li><a href="/commission/cpm-recommendations/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        CPM Recommendations 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/about/core-activities/capacity-development/guides-and-training-materials">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Guides and Training Materials 
+                        
+                
+                         
+                        
+                         </a></li></ul></li><li><a href="/en/ippc-community/" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                         
+                        
+                
+                        IPPC Community 
+                        
+                
+        </a><ul><li><a href="/en/about/ippc-network/countries/">
+ 
+            
+                
+                    Countries 
+                
+
+                
+                 </a><ul><li><a href="/countries/nppos/list-countries/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        National Plant Protection Organizations (NPPOs) 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/countries/all/list-countries/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        List of Countries 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/ippc-community/countries/nro/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        National Reporting Obligations 
+                        
+                         </a><ul><li><a href="/en/core-activities/information-exchange/nro-and-ipp-training/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        NRO and IPP training 
+                        
+                         </a></li></ul></li></ul></li><li><a href="/en/ippc-community/regional-plant-protection-organizations/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Regional Plant Protection Organizations 
+                        
+                         </a></li><li><a href="/en/ippc-community/partners/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Partners 
+                        
+                         </a><ul><li><a href="/en/core-activities/external-cooperation/fao-regional-plant-protection-officers/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        FAO Regional Plant Protection and Production Officers 
+                        
+                         </a></li></ul></li></ul></li><li><a href="/en/news/category/ippcnews/" >
+        
+        
+        
+              
+                
+                    News & Calls
+                
+
+                
+                
+        </a><ul><li><a href="https://www.ippc.int/en/news/category/ippcnews">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        IPPC news 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/news/category/announcements/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Announcements 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/news/category/spotlight/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Spotlights 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/news/category/blogs/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Blogs 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/stories/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Success stories 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/news/ippc-newsletters/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Newsletters 
+                        
+                         </a></li><li><a href="/calls/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Calls & Deadlines 
+                        
+                
+                         
+                        
+                         </a><ul><li><a href="/en/calls/call-for-topics-standards-and-implementation/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Call for Topics: Standards and Implementation 
+                        
+                         </a></li><li><a href="/en/calls//calls-and-consultations/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Calls for Standards 
+                        
+                         </a></li><li><a href="/en/calls/calls-capacaity-dev/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Calls on Implementation and Capacity Development Activities 
+                        
+                         </a></li></ul></li></ul></li><li><a href="/year/calendar" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        Events 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/en/year/calendar/">
+ 
+            
+                
+                    Calendar 
+                
+
+                
+                 </a></li><li><a href="/en/events/regional-ippc-workshops/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Regional Workshops 
+                        
+                         </a></li><li><a href="/en/events/webinars/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Webinars, Workshops and Symposia 
+                        
+                         </a></li><li><a href="/en/events/international-plant-health-conference/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        International Plant Health Conference 
+                        
+                         </a></li></ul></li><li><a href="/resources/publications" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                        Resources 
+                        
+                
+                         
+                        
+                
+        </a><ul><li><a href="/resources/publications">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Publications 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/resources/media/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Multimedia 
+                        
+                         </a><ul><li><a href="/en/resources/media/photos/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Photos 
+                        
+                         </a></li><li><a href="/en/resources/media/videos/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Videos 
+                        
+                         </a></li><li><a href="/en/resources/multimedia/social-media/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Social media 
+                        
+                         </a></li></ul></li><li><a href="/en/resources/multimedia/online-tools/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Online tools 
+                        
+                         </a><ul><li><a href="https://elearning.fao.org/course/view.php?name=ippc-campus">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        IPPC Plant Health Campus 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="http://www.ephytoexchange.org/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        ePhyto 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/pce">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Phytosanitary Capacity Evaluation (PCE) 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/centre-of-excellence/phytosanitary-system/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Phytosanitary Systems 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/resources/multimedia/online-tools/ippc-observatory/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Observatory 
+                        
+                         </a></li><li><a href="/about/core-activities/capacity-development/guides-and-training-materials">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        IPPC Guides and Training Materials 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/online-comment-system/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        IPPC Online Comment System (OCS) 
+                        
+                         </a></li><li><a href="/core-activities/standards-setting/ispms">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Adopted Standards (ISPMs) 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/commission/cpm-recommendations/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        CPM Recommendations 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/ippc-community/countries/nro">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        National Reporting Obligations 
+                        
+                
+                         
+                        
+                         </a></li></ul></li></ul></li><li><a href="/en/centre-of-excellence/" ><!---->
+        
+        
+        
+              
+                
+                    
+                
+
+                
+                
+                    
+                         
+                        
+                
+                        Centre of Excellence 
+                        
+                
+        </a><ul><li><a href="/centre-of-excellence/framework/list">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Framework for Standards and Implementation 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/centre-of-excellence/phytosanitary-treatments-tool/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        IPPC Phytosanitary Treatments search tool 
+                        
+                
+                         
+                        
+                         </a></li><li><a href="/en/centre-of-excellence/phytosanitary-system/">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                         
+                        
+                
+                        Phytosanitary Systems 
+                        
+                         </a></li><li><a href="/about/core-activities/standards-setting/development-standards/searchable-pdf-database">
+ 
+            
+                
+                     
+                
+
+                
+                
+                       
+                  
+                        Searchable PDF database 
+                        
+                
+                         
+                        
+                         </a></li></ul></li>
+
+
+  </ul>
+</nav>
+
+
+
+  
+ 
+    
+   <nav aria-label="breadcrumb"> 
+           
+                <ol class="breadcrumb">
+                
+                </ol>
+            
+          </nav>
+  
+    
+ <div class="row" >
+        <div class="col-md-12">
+            
+            
+            
+        </div>
+    </div>
+       
+       
+
+
+
+
+   
+   
+   
+   <div class="row">
+    <div class="col-md-12">
+      
+      <h1>International Plant Protection Convention</h1>
+      
+        </div>
+    </div>
+    
+     
+<!--/.container-->
+     
+
+  
+        <!--p class="pull-right"><a id="divaction" href="#" onclick="javascript:openNav();">☰ Open Navigation Menu</a></p-->
+        
+            
+              </div>
+            
+             
+      
+        
+        
+     
+     
+
+
+
+
+
+<script type="text/javascript">//<![CDATA[ 
+      $(window).on('load', function () {
+         $('#carousel-example-2, #carousel-example-2').carousel({                         
+          interval: 5000
+         })
+         $('#carousel-example-1z, #carousel-example-1z').carousel({                         
+          interval: 5000
+         })
+     });//]]>  
+ </script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>                    
+ 
+  
+  
+  
+  
+  
+  
+
+
+</div>
+
+<div class="container-fluid">
+<!-- highlight in SLIDES ================== -->
+    <div class="imgmain-bg-container"> 
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          
+              
+                  <!--First slide-->
+                  <div class="carousel-item active">
+               
+                <a href="https://www.ippc.int/en/news/the-ippc-plant-health-campus-is-now-fully-available-in-spanish-opening-plant-health-learning-to-a-global-community-1/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/header_-_spanish_webinar_.png/header_-_spanish_webinar_-1400x560.png" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> The IPPC Plant Health Campus is now fully available in Spanish, opening plant health learning to a global community</p>              
+                  </div>
+                </a>
+              </div>
+          
+              
+                  <div class="carousel-item">
+               
+                <a href="https://www.ippc.int/en/news/launch-of-africa-phytosanitary-programme-app-phase-3-1/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/app3group_photo.jpeg/app3group_photo-1400x560.jpeg" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> Africa Phytosanitary Programme expands to 38 countries with launch of phase 3 in Ethiopia</p>              
+                  </div>
+                </a>
+              </div>
+          
+              
+                  <div class="carousel-item">
+               
+                <a href="https://www.ippc.int/en/news/leaders-convene-to-drive-the-expansion-of-the-africa-phytosanitary-programme-to-protect-plant-health-in-the-region/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/screenshot_2026-07-06_144955.png/screenshot_2026-07-06_144955-1400x560.png" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> Leaders convene to drive the expansion of the Africa Phytosanitary Programme to protect plant health in the region</p>              
+                  </div>
+                </a>
+              </div>
+          
+              
+                  <div class="carousel-item">
+               
+                <a href="https://www.ippc.int/en/news/blog-protecting-plants-and-people-from-pests-the-africa-phytosanitary-programme-is-on-a-roll/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/screenshot_2026-07-06_143938.png/screenshot_2026-07-06_143938-1400x560.png" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> BLOG: Protecting plants and people from pests, the Africa Phytosanitary Programme is on a roll</p>              
+                  </div>
+                </a>
+              </div>
+          
+              
+                  <div class="carousel-item">
+               
+                <a href="https://www.ippc.int/en/news/ippc-online-comment-system-webinar-sets-the-stage-for-effective-consultation-on-draft-phytosanitary-standards/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/uf1bsfx_12418dd_1hq0164.jpg/uf1bsfx_12418dd_1hq0164-1400x560.jpg" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> IPPC Online Comment System webinar sets the stage for effective consultation on draft phytosanitary standards</p>              
+                  </div>
+                </a>
+              </div>
+          
+              
+                  <div class="carousel-item">
+               
+                <a href="https://www.ippc.int/en/news/spotlight-how-the-phytosanitary-capacity-evaluation-tool-helped-mali-develop-a-new-plant-health-strategy/">
+                  <img class="img-fluid rounded img-max" src="https://assets.ippc.int/static/media/uploads/news/Test/.thumbnails/uf124iq_00082191.jpg/uf124iq_00082191-1400x560.jpg" width="1400px" alt="Highlights">
+                  <div class="carousel-caption">
+                    <p style="color:white; text-decoration: none;font-size: 34px;"> SPOTLIGHT: How the Phytosanitary Capacity Evaluation tool helped Mali develop a new plant health strategy</p>              
+                  </div>
+                </a>
+              </div>
+            
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </div>	
+  </div>
+        
+  <div 	class="container">
+
+
+    <p class="lead">The <a class='hp'  href='/en/'>International Plant Protection Convention (IPPC)</a> is the intergovernmental treaty that aims to protect the world's plants, agricultural products and natural resources from plant pests. Ratified by  <a class='hp' href='/en/countries/nppos/list-countries/'>185 contracting parties</a>, the IPPC develops, adopts and promotes the application of <a class='hp'  href='/en/core-activities/standards-setting/ispms/'>International Phytosanitary Measures (ISPMs)</a> as the main tool to safeguard global <a class='hp'  href='/en/strategic-objectives/plant-health-food-security/'>food security</a>, <a  class='hp' href='/en/strategic-objectives/plant-health-safe-trade/'>facilitate safe trade</a> and protect the <a class='hp'  href='/en/strategic-objectives/plant-health-environmental-protection/'>environment</a>.</p>
+
+    
+    <h2>Strategic Objectives</h2>
+      
+    <div class="row">
+      <div class="col-sm">
+        <a  class="hp" href="/en/strategic-objectives/plant-health-food-security/">
+          <img src="/static/css/2023/FAO_24969_261_warmer_brighter.jpg" alt="Hands holding fruits." class="rounded">
+          <h3>Plant Health &  <em>Food Security</em></h3>
+        </a>
+        <p>Keeping plants healthy means safeguarding global food security. Protecting plants and plant resources and important crops from pests will help feed an increasingly hungry world.</p>
+      </div>
+      <div class="col-sm">
+        <a  class="hp" href="/en/strategic-objectives/plant-health-safe-trade/">
+          <img src="/static/css/2023/FAO_24804_042_warmer_brighter.jpg" alt="Pineapples floating in water." class="rounded">
+          <h3>Plant Health &  <em>Safe Trade</em></h3>
+        </a>
+        <p>Facilitating the safe trade of goods by applying international phytosanitary standards will help mitigate the negative impacts of plant pests on the environment, economies and livelihoods.</p>
+      </div>
+      <div class="col-sm">
+        <a  class="hp" href="/en/strategic-objectives/plant-health-environmental-protection">
+          <img src="/static/css/2023/hans-luiggi-uvQmacxnfcE-unsplash.jpg" alt="Cultivated valley amid forested hills." class="rounded">
+          <h3>Plant Health &  <em>Environmental Protection</em></h3>
+        </a>
+        <p>Protecting plants and plant resources from the impact of a warming climate will mitigate the introduction and spread of invasive species, and thus helps to protect the environment and biodiversity.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8">  
+              
+            <div class="row">
+              <h2>Core Activities</h2>
+            </div>
+            <div class="row">
+                <div class="col-sm">
+                  <a href="/en/about/core-activities/standards-setting/" class="hp">
+                    <img src="/static/css/2023/FAO_24892_STC2017040G03220_warmer_brighter.jpg" alt="Woman mesuring height of corn plant." class="rounded">
+                    <h3>Standard Setting</h3>
+                  </a>
+                </div>
+                <div class="col-sm">
+                  <a href="/en/about/core-activities/capacity-development/"  class="hp">
+                    <img src="/static/css/2023/FAO_24804_342_warmer_brighter.jpg" alt="A plant scientist looking at a leaf with a microscope." class="rounded">
+                    <h3>Implementation and Capacity Development</h3>
+                  </a>
+                </div>
+                <div class="col-sm">
+                  <a href="/en/about/core-activities/governance/"  class="hp">
+                    <img src="/static/css/2023/FAO_PO_SOM_012120_21_002_warmer_brighter.jpg" alt="Farmers discussing a plant pest factsheet on the field." class="rounded">
+                    <h3>Governance, Communication and Partnerships</h3> 
+                  </a>
+                </div>
+            </div> <!-- end .row -->
+            <div class="row">
+               <div class="card bg-light px-3 border-0 shadow-sm">
+              <h2 class="mt-3">IPPC Tools</h2> 
+                <div class="row">
+                  <div class="col-sm text-center">
+                    <a href="/en/ephyto/"  class="hp">
+                      <img src="/static/css/2023/ico-ephyto.png" width="154" alt="Globe and leaf icon.">
+                      <h3>ePhyto</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/about/core-activities/capacity-development/phytosanitary-capacity-evaluation/"  class="hp">
+                      <img src="/static/css/2023/ico-phyto-capacity.png" width="154" alt="Person and plant icon.">
+                      <h3>Phytosanitary Capacity Evaluation</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/centre-of-excellence/phytosanitary-system/"  class="hp">
+                      <img src="/static/css/2023/ico-phyto-sys.png" width="154" alt="Microscope and leaf icon.">
+                      <h3>Phytosanitary Systems</h3>
+                    </a>
+                  </div> <!-- end .col-sm -->
+                </div> <!-- end .row -->
+                <div class="row my-5">
+                  <div class="col-sm text-center">
+                    <a href="/en/resources/multimedia/online-tools/ippc-observatory/"  class="hp">
+                      <img src="/static/css/2023/ico-observatory.png" width="154" alt="Magnifying glass and plant icon.">
+                      <h3>IPPC Observatory</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/about/core-activities/capacity-development/guides-and-training-materials/"  class="hp">
+                      <img src="/static/css/2023/ico-elearning.png" width="154" alt="Globe and book icon.">
+                      <h3>Guides and Training Materials</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/online-comment-system/"  class="hp">
+                      <img src="/static/css/2023/ico-ocs.png" width="154" alt="Commenting icon.">
+                      <h3>Online Commenting System (OCS)</h3>
+                    </a>
+                  </div> <!-- end .col-sm -->
+                </div> <!-- end .row -->
+                <div class="row my-5">
+                  <div class="col-sm text-center">
+                    <a href="/en/core-activities/standards-setting/ispms/"  class="hp">
+                      <img src="/static/css/2023/ico-adopted-standards.png" width="154" alt="Standards icon.">
+                      <h3>Adopted Standards</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/commission/cpm-recommendations/"  class="hp">
+                      <img src="/static/css/2023/ico-cpm-recommendations.png" width="154" alt="Recommendations icon.">
+                      <h3>CPM Recommendations</h3>
+                    </a>
+                  </div>
+                  <div class="col-sm text-center">
+                    <a href="/en/ippc-community/countries/nro/"  class="hp">
+                      <img src="/static/css/2023/ico-nros.png" width="154" alt="Flags and leaves icon.">
+                      <h3>National Reporting Obligations (NROs)</h3>
+                    </a>
+                  </div> <!-- end .col-sm -->
+                </div> <!-- end .row -->
+            </div> <!-- end .card -->
+          </div> <!-- end .row -->
+            <div class="row">
+              <p>&nbsp;</p>
+              <h2>Latest publications</h2>
+            </div> <!-- end .row -->
+            <div class="row">
+            
+           
+              <div class="col-sm">
+              <img src="https://assets.ippc.int/static/media/files/mediakitdocument/images/2026/06/ce0254en.pdf_1.jpg" alt="Publication cover description." class="rounded" width="214px" height="303px">
+              <h3>
+                
+                      
+                            <a href="https://openknowledge.fao.org/handle/20.500.14283/ce0254en" target="_blank" class="hp1">  
+                         
+                  
+              Africa Phytosanitary Programme (APP)</a> </h3> 
+
+
+            </div> 
+         
+           
+           
+              <div class="col-sm">
+              <img src="https://assets.ippc.int/static/media/files/mediakitdocument/images/2025/03/cd4569en.pdf.jpg" alt="Publication cover description." class="rounded" width="214px" height="303px">
+              <h3>
+                
+                      
+                            <a href="https://doi.org/10.4060/cd9180en" target="_blank" class="hp1">  
+                         
+                  
+              IPPC Procedure manual for implementation and capacity development</a> </h3> 
+
+
+            </div> 
+         
+           
+           
+              <div class="col-sm">
+              <img src="https://assets.ippc.int/static/media/files/mediakitdocument/images/2025/05/f3_market.png" alt="Publication cover description." class="rounded" width="214px" height="303px">
+              <h3>
+                
+                      
+                            <a href="https://elearning.fao.org/course/view.php?id=1246" target="_blank" class="hp1">  
+                         
+                  
+              Achieving market access for plants and plant products</a> </h3> 
+
+
+            </div> 
+         
+            
+          </div>
+           <div class="row">
+             <h2 class="mt-5">Multimedia</h2>  
+        
+             <iframe width="650" height="500" src="https://www.youtube.com/embed?listType=playlist&list=PLzp5NgJ2-dK4T7GE2fsGujftlxSX1rCTC&index=1"   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+            
+        <div class="row"> 
+
+ 
+          <div class="card shadow-sm border-0 bg-light mt-4 mb-4 pb-1">
+            <div class="card-body">
+              <h3 class="mt-0"><strong>Join the Plant Health Community!</strong></h3>
+              <p class="mb-3">Subscribe to receive the latest <a href="/en/news/ippc-newsletters/">news</a> from the IPPC in your inbox.!</p>
+              <a href="http://newsletters.fao.org/k/Fao/ippc_subscription_form_english" class="btn btn-primary">Subscribe!</a>
+            </div>
+          </div>
+          
+        </div>       
+          </div>
+               
+            <div class="col-md-4">    <!-- =sidebar =calls =announcements -->
+              <br> 
+              <div class="card bg-light mb-3 border-0 shadow-sm">
+                <nav>
+                  <div class="nav nav-pills p-2" id="pills-tab" role="tablist">
+                    <a class="nav-link active" id="nav-announcements-tab" data-toggle="tab" href="/en/#pills-home-1" role="tab" aria-controls="pills-home-1" aria-selected="true"><h6>Announcements</h6></a>  
+                    <a class="nav-link" id="pills-profile-tab-1" data-toggle="tab" href="/en/#pills-profile-1" role="tab" aria-controls="pills-profile-1" aria-selected="false"><h6>Calls</h6></a> 
+                    <a class="nav-link" id="pills-profile-tab-1" data-toggle="tab" href="/en/#pills-profile-2" role="tab" aria-controls="pills-profile-2" aria-selected="false"><h6>Pest reports</h6></a>  
+                </nav>
+                <div class="tab-content p-3" id="nav-tabContent">
+                    <div class="tab-pane show active" id="pills-home-1" role="tabpanel" aria-labelledby="pills-home-tab-1">
+                     
+                      <p><a  href="/en/news/please-be-aware-of-spam-phishing-or-spoofed-emails-that-appear-to-come-from-fao-or-ippc-email-addresses/">15-07-2026</a>&#160;&#160;
+                          Please be aware of SPAM, phishing, or spoofed emails that appear to come from FAO or IPPC email addresses
+                        
+                      </p>
+                     
+                      <p><a  href="/en/news/international-phytosanitary-and-seed-quality-conference-2026/">15-07-2026</a>&#160;&#160;
+                          International Phytosanitary and Seed Quality Conference 2026
+                        
+                      </p>
+                     
+                      <p><a  href="/en/news/out-now-infarm-report-on-early-implementation-20232024/">13-07-2026</a>&#160;&#160;
+                          Out now: InFARM report on early implementation (2023–2024)
+                        
+                      </p>
+                            
+                    <p><a href="/en/news/category/announcements/">See all announcements</a></p> 
+                </div>
+                <div class="tab-pane fade" id="pills-profile-1" role="tabpanel" aria-labelledby="pills-profile-tab-1">
+                  
+                    <p><a  href="/en/calls/2026-07-call-for-information-materials-for-commodity-standards/">15-07-2026</a>&#160;&#160;
+                          2026-07– Call for information materials for Commodity Standards
+                        
+                    </p>
+                    
+                    <p><a  href="/en/calls/2026-07-call-for-dp-authors/">14-07-2026</a>&#160;&#160;
+                          2026-07 - Call for DP authors
+                        
+                    </p>
+                            
+                    <p><a href="/en/calls/category/deadline/">See all calls</a></p>
+                  </div>    
+                  <div class="tab-pane fade" id="pills-profile-2" role="tabpanel" aria-labelledby="pills-profile-tab-2">
+                     
+                    <p><a  href="/countries/ecuador/pestreports/2026/07/declaratoria-oficial-de-la-situacion-fitosanitaria-de-xylella-fastidiosa-en-la-republica-del-ecuador">DECLARATORIA OFICIAL DE LA SITUACIÓN FITOSANITARIA DE Xylella fastidiosa EN LA REPÚBLICA DEL ECUADOR</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-kingdom/pestreports/2026/06/tomato-brown-rugose-fruit-virus-tobrfv-2026">Tomato brown rugose fruit virus - (TOBRFV) pest report 2026</a><small><span class="btn btn-sm btn-warning" style="width: auto">updated</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/canada/pestreports/2026/06/confirmation-of-golden-nematode-globodera-rostochiensis-in-the-province-of-manitoba-confirmation-du-nematode-dore-globodera-rostochiensis-dans-la-province-du-manitoba">Confirmation of golden nematode (Globodera rostochiensis) in the province of Manitoba / Confirmation du nématode doré (Globodera rostochiensis) dans la province du Manitoba</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/colombia/pestreports/2026/05/reporte-de-plagas-drosophila-suzukii-matsumura">Reporte de plagas. Drosophila suzukii Matsumura.</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/aphis-expands-the-citrus-greening-huanglongbing-quarantined-area-in-california-2">APHIS Expands the Citrus Greening (Huanglongbing) Quarantined Area in California</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/bactrocera-dorsalis-oriental-fruit-fly-aphis-removes-quarantine-area-in-california">Bactrocera dorsalis (Oriental Fruit Fly): APHIS Removes Quarantine Area in California</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/anastrepha-ludens-mexican-fruit-fly-aphis-establishes-a-quarantine-area-in-texas-2">Anastrepha ludens (Mexican Fruit Fly): APHIS Establishes a Quarantine Area in Texas</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/cydalima-perspectalis-box-tree-moth-aphis-establishes-a-quarantine-in-virginia">Cydalima perspectalis (Box Tree Moth): APHIS Establishes a Quarantine in Virginia</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/anastrepha-serpentina-sapote-fruit-fly-aphis-establishes-quarantines-in-texas">Anastrepha serpentina (Sapote Fruit Fly): APHIS Establishes Quarantines in Texas</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                       
+                    <p><a  href="/countries/united-states-of-america/pestreports/2026/05/anastrepha-ludens-mexican-fruit-fly-aphis-establishes-a-quarantine-area-in-california">Anastrepha ludens (Mexican Fruit Fly): APHIS Establishes a Quarantine Area in California</a><small><span class="btn btn-sm btn-success" style="width: auto">new</span></small>
+                    </p>
+                              
+                      <p><a href="/en/countries/reportingsystem-summary/all/">See pest reports bulletin</a></p>
+                    </div>
+              </div>
+
+            </div>
+           
+             
+            <div class="card bg-light p-3 mt-4 mb-2 border-0 shadow-sm">
+              <h2>Events</h2>
+              <ul class="list-unstyled">  
+                
+                <li><a  href="/en/events/event/1670">04-08-2026</a> - IPPC Regional Workshop for Africa.<br><small class="quiet">Hotel Nomad, Libreville, Gabon </small></li>
+                
+                <li><a  href="/en/events/event/1652">04-08-2026</a> - The IPPC ePhyto Steering Group (ESG) Virtual Meeting.<br><small class="quiet">Virtual (14:00-15:00 CET), None, None </small></li>
+                
+                <li><a  href="/en/events/event/1672">17-08-2026</a> - IPPC Regional Workshop for Pacific.<br><small class="quiet">None, Nadi, Fiji </small></li>
+                
+                <li><a  href="/en/events/event/1684">24-08-2026</a> - IPPC Regional Workshop for Caribbean.<br><small class="quiet">CARICOM Headquarter, Georgetown, Guyana </small></li>
+                
+                <li><a  href="/en/events/event/1675">01-09-2026</a> - IPPC Regional Workshop for Latin America.<br><small class="quiet">Peru, Lima, None, None </small></li>
+                 
+              </ul>
+              <p><a href="/en/year/calendar/">Calendar</a></p>
+      
+            </div> <!-- end .card -->   
+            <div class="card mt-5" style="width: 100%">
+              <a href="http://www.fao.org/plant-health-day">
+                <img src="/static/css/2023/internation-day-of-plant-health.png" alt="12 May International Day of Plant Health">
+              </a>
+            </div>   
+            <div class="card mt-5" style="width: 100%">
+             
+                <a href="/en/about-app/">  <img src="https://assets.ippc.int/static/media/uploads/app_ico.jpg" width="100px" class="mr-2 mt-2 float-left">  <h2>Africa<br>Phytosanitary<br>Programme</h2>
+              </a>
+              </div>
+               
+           
+              <div class="card mt-5" style="width: 100%">
+             
+                <a href="https://elearning.fao.org/course/view.php?id=1255">
+                  <img width="410px" src="https://assets.ippc.int/static/media/uploads/headerph.jpg" alt="IPPC Plant Health CAMPUS">
+                </a>    
+              </div>
+             
+              <br> 
+        <div class="card bg-light p-3 mb-2 border-0 shadow-sm">
+          <h2>Common Questions</h2>
+          <ul>
+            <li>What is the <a href="/en/about/convention-text/">Convention</a> on plant health?</li> 
+            <li>What are <a href="/en/standards/ispms/">plant health standards</a>?</li>
+            <li>How are these standards <a href="/en/about/core-activities/standards-setting/">developed</a>?</li>
+            <li>How do plant health standards impact <a href="/en/strategic-objectives/plant-health-safe-trade/">trade</a>?</li>
+          </ul>
+        </div> <!-- end .card --> 
+       
+        <div class="card mt-5" style="width: 100%">
+          <center><a href="https://www.fao.org/world-food-day/80th-anniversary/en">
+            <img width="350px" src="https://assets.ippc.int/static/media/uploads/fao80_web_button_en.jpg"   alt="FAO 80th anniversary">
+          </a></center>
+        </div>
+        <br> 
+        
+      <div class="card" style="display: block;font-size: 23px;margin-bottom: 5px;background-color: #039ff4;color: #fff;border-bottom: 0;">
+        <div class="card-header"><em class="bi bi-twitter-x "><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
+          <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+        </svg></em><br>Join the conversation  </div>
+        <div class="card-body" style="background-color: #5cbcf7;  color: #fff;">
+            <ul class="list-unstyled">
+                  <li><a href="https://twitter.com/ippcnews" target="blank" style="color:white">#PlantHealth</a></li>
+              
+              </ul>
+        </div>
+      </div>
+       
+              <!--div  class="card mt-5" style="width: 100%;height: 500px;">
+<iframe src="https://copilotstudio.microsoft.com/environments/a1d6969e-97ae-eccb-b274-4ac3fb2c065d/bots/cr5ab_test1/webchat?__version__=2" frameborder="0" style="width: 100%; height: 100%;"></iframe>
+
+              </div-->
+          
+          
+        <!--div class="twitter-timeline twitter-timeline-rendered" style="display: flex; max-width: 100%; margin-top: 0px; margin-bottom: 0px;">
+          <a class="twitter-timeline" data-width="380" data-height="1050" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/ippcnews?ref_src=twsrc%5Etfw">Tweets by ippcnews</a--> 
+          <!--script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>     </div>
+          <a href="https://twitter.com/intent/tweet?button_hashtag=ippcnews&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #ippcnews</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script-->
+
+          <!--/div-->
+        </div>
+     
+    </div>
+          
+          
+   
+
+      </div>
+        
+        
+ 
+
+    
+         
+
+
+   
+
+
+        
+        
+  <div class="container" > 
+         
+        
+        
+        
+	
+        
+                    <!--p><a id="divaction" href="#closenav" onclick="javascript:closeNav();"> ☰ Close Sidebar</a></p-->    
+        
+        
+        
+        
+        
+        
+        
+       
+           
+           
+           
+           
+
+           
+  
+   
+        
+     
+    
+                
+       
+        
+
+        
+
+        
+<div class="row" id="footer">
+    <div class="col-sm-4">
+      <div class="card shadow-sm border-0">
+        <div class="card-body">
+          <h5 class="card-title"><a class="hp" href="/news/ippc-newsletters/">IPPC Newsletter</a></h5>
+          <p class="card-text">Subscribe to receive the latest <a class="hp" href="/news/category/ippcnews">news</a> from the IPPC in your inbox.</p>
+          <a href="http://newsletters.fao.org/k/Fao/ippc_subscription_form_english" class="btn btn-primary">Subscribe</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card shadow-sm border-0">
+        <div class="card-body">
+          <h5 class="card-title"><a href="#top" class="hp text-decoration-none">↑ <span style="color:var(--bs-dark);">Back To Top</span></a></h5>
+          <ul class="list-unstyled">
+            <li><a href="/contact/" class="hp">Contact</a></li>
+            <li><a href="/faq/" class="hp">FAQ</a> &  <a href="/sitemap/" class="hp">Sitemap</a></li>
+            <li><a href="/legal/" class="hp">Copyright & Legal</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card shadow-sm border-0">
+        <div class="card-body">
+          <h5 class="card-title">IPPC Socials</h5>
+          <ul class="list-unstyled">
+            <li><a href="https://twitter.com/ippcnews" class="hp">Twitter</a></li>
+            <li><a href="https://www.linkedin.com/groups/3175642/profile" class="hp">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/pages/IPPC-Protecting-the-worlds-plant-resources-from-pests/113230338690380" class="hp">Facebook</a></li>
+          </ul>
+        </div>
+        
+      </div>
+    </div>    
+    <div class="position-relative"> 
+      <div class="card logo-bottom shadow-sm border-0">
+        <div class="card-body">
+          <a href="/en"><img src="/static/img/IPPC_logo_Green_3lines_en.jpg" alt="logo IPPC"  style="max-width:225px;"><!--img src="/static/css/2023/IPPC_logo_Green_3lines_en.svg" alt="IPPC"--></a>
+
+          <a  href=""> 
+        </div>
+      </div>
+    </div> <!-- end .position-relative -->
+
+  </div> <!-- end .row -->       
+        
+        
+    </div> 
+  </div> 
+  </div>
+       
+        
+ <!-- =SmartMenus jQuery plugin - https://www.smartmenus.org/docs/ -->
+ <!--script src="/static/css/2023/jquery.js" type="text/javascript"></script-->
+ <script src="/static/css/2023/jquery.smartmenus.min.js" type="text/javascript"></script>
+
+ <script>
+   // =SmartMenus init
+   // Docs: https://www.smartmenus.org/docs/
+   $(function() {
+     $('#main-menu').smartmenus({
+       subMenusSubOffsetX: 1,
+       subMenusSubOffsetY: -8
+     });
+   });
+
+   // SmartMenus mobile menu toggle button
+   $(function() {
+     var $mainMenuState = $('#main-menu-state');
+     if ($mainMenuState.length) {
+       // animate mobile menu
+       $mainMenuState.change(function(e) {
+         var $menu = $('#main-menu');
+         if (this.checked) {
+           $menu.hide().slideDown(250, function() { $menu.css('display', ''); });
+         } else {
+           $menu.show().slideUp(250, function() { $menu.css('display', ''); });
+         }
+       });
+       // hide mobile menu beforeunload
+       $(window).bind('beforeunload unload', function() {
+         if ($mainMenuState[0].checked) {
+           $mainMenuState[0].click();
+         }
+       });
+     }
+   });
+ </script>
+        
+        
+<script type="text/javascript">
+    $(window).on('load',function(){
+        var page='/en/';
+       
+        if (page == '/en/' || page == '/es/' || page == '/fr/' || page == '/ar/' || page == '/ru/' ||  page == '/zh/' ){
+            $('#myModal').modal('show');
+        }/*
+         if (page == '/en/cpm-sessions/cpm-15-2020/' || page == '/es/cpm-sessions/cpm-15-2020/'|| page == '/fr/cpm-sessions/cpm-15-2020/'  || page == '/ar/cpm-sessions/cpm-15-2020/'|| page == '/ru/cpm-sessions/cpm-15-2020/'|| page == '/zh/cpm-sessions/cpm-15-2020/' ){
+            $('#myModalCPM').modal('show');
+        }*/
+    });
+</script>
+        
+
+        
+        
+        
+        <script>
+                    (function(i, s, o, g, r, a, m) {
+                        i['GoogleAnalyticsObject'] = r;
+                        i[r] = i[r] || function() {
+                            (i[r].q = i[r].q || []).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                        a = s.createElement(o),
+                                m = s.getElementsByTagName(o)[0];
+                        a.async = 1;
+                        a.src = g;
+                        m.parentNode.insertBefore(a, m)
+                    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-26969258-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="/static/css/gridipp/js/bootnavbar.js" ></script> 
+    <script>
+        $(function () {
+            $('#main_navbar').bootnavbar();
+        })
+      $('#menutree').filter(function() {
+
+  return $.trim($(this).text()) === ''
+
+}).remove();
+    </script>
+    <script type="text/javascript" charset="utf-8">
+$(function() {
+      $('#selectlang').change(function() {
+            window.location.href = $(this).val();
+      });
+});
+</script>
+
+
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1db41ab3dcf5556',t:'MTc4NDQ4MDE1NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

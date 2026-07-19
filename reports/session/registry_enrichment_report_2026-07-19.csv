@@ -1,0 +1,14 @@
+Download_Method,Automation,Count
+REST_API,Yes,46
+HTTP,No,44
+Manual,Manual,41
+Manual,No,5
+HTTP,Full,4
+API,Yes,3
+REST_API,Full,2
+HTTP,Yes,2
+REPOSITORY,Full,1
+CLI,Full,1
+NCBI_DATASETS_CLI,Full,1
+SRA_TOOLKIT,Full,1
+ENA_API,Full,1

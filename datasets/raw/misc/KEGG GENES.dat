@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KEGG GENES Database</title>
+<link rel="stylesheet" href="/css/kegg25.css">
+<style>
+div.list dl, div.list2 dl {
+  margin-top: 10px;
+}
+div.list dt {
+  width: 100px;
+  margin-left: 20px;
+}
+div.list2 dt {
+  width: 60px;
+  margin-left: 20px;
+}
+button.btn {
+  display: inline-block;
+  padding: 1px 6px;
+  font-size: 11px;
+  color: #039;
+  background: #eee;
+  border-top: solid 1px #999;
+  border-bottom: solid 2px #666;
+  border-left: solid 1px #999;
+  border-right: solid 2px #666;
+  border-radius: 4px;
+}
+</style>
+<script>
+<!--
+function Launcher(formobj,mode) {
+    var p = formobj.text.value;
+    var url;
+
+    p = p.replace( /^\s+/, "" );
+    p = p.replace( /\s+$/, "" );
+    if (p == "") {
+        return false;
+    }
+
+    url = '';
+    if (mode == 0) {
+	url = "/dbget-bin/www_bget?" + p;
+    }
+    else if (mode == 1) {
+	url = "https://www.kegg.jp/ssdb-bin/ssdb_gclust?org_gene=" + p;
+    }
+    else if (mode == 2) {
+	url = "https://www.kegg.jp/ssdb-bin/ssdb_best?org_gene=" + p;
+    }
+    else if (mode == 3) {
+	url = "https://www.kegg.jp/ssdb-bin/ssdb_paralog?org_gene=" + p;
+    }
+    else if (mode == 4) {
+	url = "https://www.kegg.jp/ssdb-bin/ssdb_motif?kid=" + p;
+    }
+
+    if (url) {
+        location.href = url;
+    }
+}
+//-->
+</script>
+</head>
+
+<body>
+
+<div id="topnav" ontouchstart="">
+  <div class="navlist">
+    <a href="/kegg/">KEGG</a>
+  </div>
+  <div class="dropdown">
+    Databases
+    <div class="dropdown-content">
+      <ul>
+        <li><a href="/kegg/pathway.html">Pathway</a></li>
+        <li><a href="/kegg/brite.html">Brite</a></li>
+        <li><a href="/kegg/ko.html">KO</a></li>
+        <li><a href="/kegg/genes.html">Genes</a></li>
+        <li><a href="/kegg/compound/">Chemical</a></li>
+        <li><a href="/kegg/disease/">Disease</a></li>
+        <li><a href="/kegg/drug/">Drug</a></li>
+        <li><a href="/kegg/medicus.html">Medicus</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="dropdown">
+    Tools
+    <div class="dropdown-content">
+      <ul>
+        <li><a href="/kegg/mapper/">Mapper</a></li>
+        <li><a href="/kegg/syntax/">Syntax</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="dropdown">
+    Auto annotation
+    <div class="dropdown-content">
+      <ul>
+        <li><a href="https://www.kegg.jp/blastkoala/">BlastKOALA</a></li>
+        <li><a href="https://www.kegg.jp/ghostkoala/">GhostKOALA</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="navlist">
+    <a href="https://www.kanehisa.jp/">Kanehisa Lab</a>
+  </div>
+</div>
+
+<div id="header">
+  <div class="logo">
+    <a href="/kegg/"><img src="/Fig/kegg128.gif" alt="KEGG icon"></a>
+  </div>
+  <div class="title">
+    <h2 class="txt1">KEGG GENES Database</h2>
+    <h5>Genes and proteins in cellular organisms and viruses</h5>
+  </div>
+</div>
+
+<div id="dbnav" class="bar1">
+  <ul>
+    <li><a href="/kegg/kegg2.html">KEGG2</a></li>
+    <li><a href="/kegg/pathway.html">PATHWAY</a></li>
+    <li><a href="/kegg/brite.html">BRITE</a></li>
+    <li><a href="/kegg/module.html">MODULE</a></li>
+    <li><a href="/kegg/ko.html">KO</a></li>
+    <li><span class="current">GENES</span></li>
+    <li><a href="/kegg/genome/">GENOME</a></li>
+    <li><a href="/kegg/genome/virus.html">Virus</a></li>
+    <li><a href="/kegg/seq/">SeqData</a></li>
+    <li><a href="/kegg/annotation/enzyme.html">Enzyme</a></li>
+  </ul>
+</div>
+
+<div id="content">
+
+<!-- start -->
+
+<div class="searchbox">
+<form method="get" action="/dbget-bin/www_bfind_sub">
+<input type="hidden" name="mode" value="bfind">
+<input type="hidden" name="max_hit" value="1000">
+Search
+<select name="dbkey">
+<option value="kegg">KEGG</option>
+<option value="pathway">PATHWAY</option>
+<option value="brite">BRITE</option>
+<option value="module">MODULE</option>
+<option value="orthology">KO</option>
+<option value="genes" selected="selected">GENES</option>
+<option value="genome">GENOME</option>
+<option value="compound">COMPOUND</option>
+<option value="glycan">GLYCAN</option>
+<option value="reaction">REACTION</option>
+<option value="enzyme">ENZYME</option>
+<option value="network">NETWORK</option>
+<option value="variant">VARIANT</option>
+<option value="disease">DISEASE</option>
+<option value="drug">DRUG</option>
+<option value="dgroup">DGROUP</option>
+</select>
+for
+<input type="search" size="40" name="keywords">
+<input type="submit" value="Go">
+</form>
+</div>
+
+<div class="searchbox">
+  <form name="bfind1" method="get" action="/dbget-bin/www_bfind_sub">
+    <input type="hidden" name="mode" value="bfind">
+    <input type="hidden" name="max_hit" value="1000">
+    <table style="border-collapse:collapse;">
+    <tr><td></td><td><span class="small">organism code</span></td></tr>
+    <tr><td>Search</td><td>
+    &nbsp;<input type="text" name="dbkey" size="6" value="" onkeydown="document.bfind1.species[1].click();">&nbsp;
+    for
+    <input type="search" size="35" name="keywords">
+    <input type="submit" value="Go">
+    </td></tr>
+    </table>
+  </form>
+</div>
+
+<div class="main">
+
+<hr class="frame1">
+
+<h4 class="txt1">GENES Database</h4>
+
+<div class="indent">
+<b>KEGG GENES</b> is a collection of protein-coding and RNA genes in the genomes of cellular organisms and viruses, generated from NCBI RefSeq and GenBank and annotated by KEGG in the form of KO (KEGG Orthology) assignment. The collection is supplemented with a KEGG original collection of functionally characterized proteins from published literature.
+Protein sequences and RNA sequences of all GENES entries are subject to SSDB computation and KO assignment by the KOALA tool (see <a href="/kegg/annotation/ann_stat.html">annotation statistics</a>).
+<br><br>
+<div class="indent">
+<div class="frame0">
+<table>
+  <tr>
+    <td class="center">Category</td>
+    <td class="center">Content</td>
+    <td class="center">Data source</td>
+    <td class="center">Organism<br>code</td>
+    <td class="nowrap">Gene identifier</td>
+    <td class="center">Genome<br>identifier</td>
+  </tr>
+  <tr>
+    <td><a href="/brite/br08611">KEGG organisms</a><br>(Complete genomes)</td>
+    <td>Genes and proteins in cellular organisms</td>
+    <td class="center">RefSeq or<br>GenBank</td>
+    <td class="center">&lt;org&gt;</td>
+    <td class="center">GeneID or<br>Locus_tag</td>
+    <td class="center">T number</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><a href="/brite/br08621">KEGG Viruses</a></td>
+    <td>Genes and proteins in viruses</td>
+    <td rowspan="2" class="center">RefSeq</td>
+    <td class="center">vg</td>
+    <td class="center">GeneID</td>
+    <td class="center" rowspan="2">Taxonomy ID</td>
+  </tr>
+  <tr>
+    <td>Mature peptides in viruses</td>
+    <td class="center">vp</td>
+    <td class="center">GeneID-no</td>
+  </tr>
+  <tr>
+    <td>Addendum</td>
+    <td>Functionally characterized proteins</td>
+    <td class="center">Publication</td>
+    <td class="center">ag</td>
+    <td class="center">ProteinID, etc</td>
+    <td class="center">N/A</td>
+  </tr>
+</table>
+</div>
+<p>
+&lt;org&gt; three- or four-letter organism code for cellular organisms
+</p>
+</div>
+The Addendum category is a PubMed-based collection of protein sequences whose functions are experimentally characterized. They are used to define new KOs that are not covered by sequenced genomes (see <a href="/kegg/ko.html">KO database</a>).
+<br><br>
+The viral peptide (vp) category is a collection of mature peptides processed from genome-encoded polyproteins, which are not usually found as separate entries in the public databases such as NCBI and UniProt. Viral mature peptides appear in KEGG pathway maps and as drug targets and are given KOs.
+<br><br>
+Each GENES entry is identified by the combination of organism code and gene identifier in the form of
+<ul style="list-style:none;">
+<li>org:gene</li>
+</ul>
+such as <a href="/entry/hsa:351">hsa:351</a> for human amyloid beta gene.
+</div>
+
+<br>
+<hr class="frame1">
+
+<h4 class="txt1" id="ssdb">SSDB Database</h4>
+
+<div class="indent">
+All genome pairs in KEGG are subject to SSDB (Sequence Similarity DataBase) computation using the SSEARCH program for both amino acid sequences (protein coding genes) and nucleotide sequences (RNA genes).
+For each gene, an organism-based list of similarity neighbors is generated and displayed in a tabular form, called GFIT table. It shows the best hit sequence in each matching organism, as can be viewed from <button class="btn">GFIT</button> button in the GENES entry page. The collection of GFIT tables is the basis for both manual and automatic annotation of the GENES database.
+Each GENES entry page also contains <button class="btn">Ortholog</button> button for viewing a list of best hit genes in other organisms and <button class="btn">Paralog</button> button for viewing a list of similar genes within the same organism.
+<br><br>
+<span style="color:red;">(Notice)</span> Pairwise genome comparisons used to be performed comprehensively for all genome pairs, but since November 2025 only the "reference genome" is compared against all other genomes. Consequently the GFIT table, as well as the list generated by the Ortholog button, is much shorter for non-reference genomes. The number of reference genomes is being increased. 
+<br><br>
+The following interface may also be used to query against the SSDB database.
+<br>
+</div>
+
+<div class="searchbox">
+  Enter keggid (org:gene) &nbsp;&nbsp; <span class="small">(Example) syn:ssr3451</span>
+  <form name="mode" method="post" enctype="multipart/form-data" action="javascript:Launcher(document.mode,0);">
+    <input type="search" size="20" name="text">
+    <input type="button" value="Entry" onclick="Launcher(document.mode,0);">
+    <input type="button" value="Ortholog" onclick="Launcher(document.mode,2);">
+    <input type="button" value="Paralog" onclick="Launcher(document.mode,3);">
+<!-- <input type="button" value="Gene cluster" onclick="Launcher(document.mode,1);"> -->
+    <input type="button" value="Pfam domain" onclick="Launcher(document.mode,4);">
+  </form>
+</div>
+
+<hr class="frame1">
+
+<h4 class="txt1">Gene Annotation Tools</h4>
+
+<div class="indent">
+The annotation of KEGG GENES involves assignment of KO identifiers (K numbers).
+Internally, this is done using the KOALA/KoAnn and GFIT annotation tools (see: <a href="/kegg/ko.html">KO Database</a>).
+For outside users, the following automatic annotation servers are made available.
+</div>
+
+<div class="list">
+<dl>
+  <dt><a href="https://www.kegg.jp/blastkoala/">BlastKOALA</a></dt>
+  <dd>automatic KO assignment by BLASTP sequence similarity search</dd>
+</dl>
+<dl>
+  <dt><a href="https://www.kegg.jp/ghostkoala/">GhostKOALA</a></dt>
+  <dd>automatic KO assignment by GHOSTX sequence similarity search</dd>
+</dl>
+<dl>
+  <dt><a href="https://www.genome.jp/tools/kofamkoala/">KofamKOALA</a></dt>
+  <dd>automatic KO assignment by HMM profile search</dd>
+</dl>
+</div>
+<div style="clear:both; margin-bottom:10px;"></div>
+
+<div class="indent">
+For a single sequence, the following standard programs may be used to find matching sequences with assigned KOs.
+</div>
+
+<div class="list2">
+<dl>
+  <dt><a href="https://www.genome.jp/tools/blast/">BLAST</a></dt>
+  <dd>sequence similarity search by BLAST</dd>
+</dl>
+<dl>
+  <dt><a href="https://www.genome.jp/tools/fasta/">FASTA</a></dt>
+  <dd>sequence similarity search by FASTA</dd>
+</dl>
+</div>
+<div style="clear:both; margin-bottom:10px;"></div>
+
+<hr class="frame1">
+
+<h4 class="txt1">Gene Identifier Conversion</h4>
+
+<div class="indent">
+KEGG GENES can be retrieved by giving identifiers of outside databases: NCBI-ProteinID (INSDC accession), NCBI-GeneID (Entrez Gene ID) and UniProt accession numbers.
+</div>
+
+<div class="searchbox">
+<form name="bfind" method="get" action="/kegg-bin/www_conv">
+  Search GENES for
+  <select name="dbkey">
+  <option value="ncbi-proteinid" selected="selected">NCBI-ProteinID</option>
+  <option value="ncbi-geneid">NCBI-GeneID</option>
+  <option value="uniprot">UniProt</option>
+  </select>
+  <input type="search" size="20" name="acc">
+  <input type="submit" value="Go">
+</form>
+</div>
+
+<br>
+<hr class="frame1">
+
+<i>Last updated: April 1, 2026</i>
+
+</div>
+
+<!-- end -->
+
+</div>
+
+</body>
+
+</html>

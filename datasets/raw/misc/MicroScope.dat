@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+    <html lang='en'>
+    <head>
+      <meta charset='UTF-8' />
+      <title>Turnstile verification</title>
+      <link rel='preconnect' href='https://challenges.cloudflare.com' />
+      <script src='https://challenges.cloudflare.com/turnstile/v0/api.js'
+       async
+       defer
+      ></script>
+      <script>
+      function onSuccess(token) {
+         const url = new URL(window.location.href);
+          url.searchParams.set('cf_token', token);
+          window.location.href = url.toString(); 
+      }
+      </script>
+    </head>
+    <body>
+        <div
+          class='cf-turnstile'
+          data-sitekey='0x4AAAAAACyFfTW3_KrfR94B'
+          data-theme='light'
+          data-size='normal'
+          data-callback='onSuccess'
+        ></div>
+    </body>
+    </html>

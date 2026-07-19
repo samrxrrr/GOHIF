@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>EPPO Global Database</title>
+<meta name="keywords" content="global database,eppt,eppo,eppocode" />
+<meta name="description" content="EPPO Global Database">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link title="EPPO Global Database" type="application/opensearchdescription+xml" rel="search" href="/opensearch.xml" />
+<link href="/media/css/bootstrap.320.min.css" rel="stylesheet">
+<link href="/media/css/bootstrap-theme.320.min.css" rel="stylesheet">
+<link href="/media/css/font-awesome.min.css" rel="stylesheet" >
+<link href="/media/css/style.css?7" rel="stylesheet">
+<link href="/media/css/green2.css?6" rel="stylesheet">
+<link href="/media/css/custom.css?1" rel="stylesheet">
+<link href="/media/js/tablesorter/2.31.1/css/theme.bootstrap.min.css?2" rel="stylesheet">
+<!--[if lt IE 9]>
+  <script src="/media/js/html5shim.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="/favicon.png">
+</head>
+<body>
+<noscript>
+Your browser doesn't support JavaScript or you have disabled JavaScript.
+Please enable JavaScript, then refresh this page. 
+JavaScript is required on this site.
+</noscript>
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-4">
+        <div class="row">
+          <div class="col-md-4 col-sm-4 col-xs-4 logo"><a href="/"><img src="/media/img/logo.png"></a></div>
+          <div class="col-md-6 col-sm-6 col-xs-3">
+            <h1>EPPO Global Database</h1>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 hidden-print" zstyle="background-color:#A23B3C">
+        <div class="quicksearch">
+          <form method="get" action="/search">
+            <div class="input-group"> <span class="input-group-addon"><i class="fa fa-search"></i></span>
+              <input type="text" class="form-control " placeholder="Search by name or EPPO Code..." value="" name="k" id="quickkw">
+              <span class="input-group-btn">
+              <button class="btn btn-default" type="submit">Go!</button>
+              </span> </div>
+            <div class="pull-right"><a href="/search">advanced search...</a></div>
+            <div class="clearfix visible-xs"></div>
+          </form>
+        </div>
+      </div> 
+      <div class="col-md-3 col-sm-3 col-lg-2 col-sm-offset-1 col-md-offset-1 hidden-print">
+        <div class="list text-center">
+          <div> <i class="fa fa-user"></i> <a href="/user/login">Login</a> </div>
+        <hr />
+          <div> <i class="fa fa-bolt"></i> <a href="/user/register">Register</a> </div> 
+         </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Nav -->
+<div class="navbar bs-docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation"> 
+      <!-- Navigation links starts here -->
+      <ul class="nav navbar-nav">
+        <!-- Main menu -->
+        <li><a href="/">Home</a></li>
+
+        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Standards <b class="caret"></b></a>
+          <ul class="dropdown-menu dropdown-menu-princ">
+            <li><a href="/standards/PP1/">PP1 - Efficacy Evaluation of Plant Protection Products</a></li>
+            <li><a href="/standards/PP2/">PP2 - Good Plant Protection Practice</a></li>
+            <li><a href="/standards/PP3/">PP3 - Environmental Risk Assessment of Plant Protection Products</a></li>
+            <li><a href="/standards/PM1/">PM1 - General Phytosanitary Measures</a></li>
+            <li><a href="/standards/PM3/">PM3 - Phytosanitary Procedures</a></li>
+            <li><a href="/standards/PM4/">PM4 - Production of Healthy Plants for Planting</a></li>
+            <li><a href="/standards/PM5/">PM5 - Pest Risk Analysis</a></li>
+            <li><a href="/standards/PM6/">PM6 - Safe use of Biological Control</a></li>
+            <li><a href="/standards/PM7/">PM7 - Diagnostics</a></li>
+            <li><a href="/standards/PM8/">PM8 - Commodity-specific Phytosanitary Measures</a></li>
+            <li><a href="/standards/PM9/">PM9 - National Regulatory Control Systems</a></li>
+            <li><a href="/standards/PM10/">PM10 - Phytosanitary Treatments</a></li>
+          </ul>
+        </li>
+        <li class="dropdown dropdownmenu-princ"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Photos <b class="caret"></b></a>
+          <ul class="dropdown-menu dropdown-menu-princ">
+            <li><a href="/photos/acari">Acari</a></li>
+            <li><a href="/photos/bacteria">Bacteria</a></li>
+            <li><a href="/photos/chromista">Chromista</a></li>
+            <li><a href="/photos/fungi">Fungi</a></li>
+            <li><a href="/photos/gastropoda">Gastropoda</a></li>
+            <li><a href="/photos/insecta">Insecta</a></li>
+            <li><a href="/photos/nematoda">Nematoda</a></li>
+            <li><a href="/photos/plantae">Plantae</a></li>
+            <li><a href="/photos/rodentia">Rodentia</a></li>
+            <li><a href="/photos/virus">Viruses and viroids</a></li>
+            <li><a class="warn" href="/photos/wanted">Wanted photos</a></li>
+          </ul>
+        </li> 
+        <li><a href="/reporting/">Reporting Service</a></li>
+        <li class="dropdown dropdownmenu-princ"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Explore by <b class="caret"></b></a>
+          <ul class="dropdown-menu dropdown-menu-princ">
+            <li><a href="/country/">Countries</a></li>
+            <li><a href="/rppo/">Regional Plant Protection Organizations / EU / EAEU</a></li>
+            <li><a href="/datasheets/">Data Sheets</a></li>
+            <li><a href="/taxonomy">Taxonomy explorer</a></li>
+            <li><a href="/PPPUse/">PPP uses classification</a></li>
+          </ul>
+        </li>
+         <li><a href="/media/files/general_user-guide.pdf?202410" target="_blank"><i class="fa fa-save"></i> Download user guide</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</div>
+<!-- Nav End --> 
+
+<!-- Content -->
+<div class="content">
+  <div class="container">
+    <div class="contentlist">
+    <div class="row">
+        <div class="col-md-7">
+        	<div class="fedinline" data-fed="index_main"><h4><strong>What is EPPO Global Database?</strong></h4><p>EPPO Global Database is maintained by the Secretariat of the <a href="http://www.eppo.int/" target="_blank">European and Mediterranean Plant Protection Organization (EPPO)</a>. The aim of the database is to provide all pest-specific information that has been produced or collected by EPPO. The database contents are constantly being updated by the EPPO Secretariat.</p><p data-empty="true"><br></p><h5><strong>Current contents:</strong></h5><ul><li><strong>Basic information for more than 98 700 species</strong> of interest to agriculture, forestry and plant protection: plants (cultivated and wild) and pests (including pathogens and invasive alien plants). For each species: scientific names, synonyms, common names in different languages, taxonomic position, and EPPO Codes are given.</li><li><strong>Detailed information for more than 1 900 pest species</strong> that are of regulatory interest (EPPO and EU listed pests, as well as pests regulated in other parts of the world). For each pest: geographical distribution (with a world map), host plants and categorization (quarantine status) are given. Where appropriate, vectors and biological control agents.</li><li><strong>EPPO datasheets and PRA reports.</strong></li><li><strong>EPPO Standards.</strong></li><li><strong>Pictures of plants and pests&nbsp;</strong>(more than 16 000).</li><li><strong>Articles of the EPPO Reporting Service</strong> (since 1974).</li><li><strong>Links to other EPPO databases</strong> (Platform on PRAs, EPPO Q-bank, Platform on communication material)</li><li><strong>EPPO harmonized classification and coding of the uses of plant protection products</strong><strong>&nbsp;(</strong><a href="https://gd.eppo.int/PPPUse/"><strong>tree view</strong></a> | <a href="https://gd.eppo.int/taxon/"><strong>main categories</strong></a><strong>)</strong>&nbsp;</li></ul><p data-empty="true"><br></p><h5><strong>How to cite EPPO Global Database?</strong></h5><p>EPPO (2026) EPPO Global Database. <a href="https://gd.eppo.int">https://gd.eppo.int</a> [accessed date]<br><br></p><h5><strong>Why register to the EPPO Global Database?</strong></h5><p>In order to identify users and contributors to the database, the EPPO Secretariat invites you to register. Registration (free and simple) will also allow you:</p><ul><li>To save your own settings (e.g. language preferences) and search history</li><li>To contribute by proposing photos of plants and pests</li><li>To subscribe to EPPO free Newsletters (EPPO Standards, EPPO Reporting &nbsp;Service, EPPO Codes)</li><li>To use quick and simple online tools (batch queries to the database)</li><li>To request new EPPO Codes to be created (subject to fees)</li></ul></div>        </div>
+        <div class="col-md-5">
+          <div class="main-box">
+          	<div class="fedinline" data-fed="index_shortcut"><h4>How to?</h4><p>- <a href="https://gd.eppo.int/media/files/new_codes_user-guide.pdf" target="new">Request new EPPO Codes</a></p><p>- <a href="https://gd.eppo.int/media/files/photos_user-guide.pdf">Submit photos (plants and pests)</a></p><p>- <a class="fr-file" href="/media/files/online_tools_user-guide.pdf" target="_blank">Use online tools (batch queries)</a></p><p>-&nbsp;<a class="fr-file" href="/media/files/newsletters_user-guide.pdf" target="_blank">Subscribe to EPPO Newsletters</a></p></div>          </div>
+          <br>
+          <div class="main-box">
+            <h4>Latest news</h4>
+            <div class="fedinline" data-fed="index_news"><p>EPPO Reporting Service <a href="https://gd.eppo.int/reporting/Rse-2026-06">no. 6</a> is now available.</p><p><br></p><p>New datasheets are available for:</p><p>- <a href="https://gd.eppo.int/taxon/CERAFC/datasheet">Ceratocystis ficicola</a></p><p>- <a href="https://gd.eppo.int/taxon/CSBHE/datasheet">Crassula helmsii</a></p><p>- <a href="https://gd.eppo.int/taxon/DACLPI/datasheet">Crisicoccus pini</a></p><p>- <a href="https://gd.eppo.int/taxon/DENCVA/datasheet">Dendroctonus valens</a></p><p>- <a href="https://gd.eppo.int/taxon/EPHDV/datasheet">Euphorbia davidii</a><br>- <a href="https://gd.eppo.int/taxon/HERMZ/datasheet">Heracleum mantegazzianum</a></p><p>- <a href="https://gd.eppo.int/taxon/HERPE/datasheet">Heracleum persicum</a><br>- <a href="https://gd.eppo.int/taxon/HERSO/datasheet">Heracleum sosnowskyi&nbsp;</a></p><p>- <a href="https://gd.eppo.int/taxon/HYDRA/datasheet">Hydrocotyle ranunculoides</a></p><p><br></p><p>New world distributions are available for:</p><p>- <a href="https://gd.eppo.int/taxon/HEYGA/distribution">Hedychium gardnerianum</a>&nbsp;</p><p>- <a href="https://gd.eppo.int/taxon/PHYLF/distribution">Physalis longifolia</a><br>- <a href="https://gd.eppo.int/taxon/CHIVMV/distribution">Potyvirus capsivenamaculae</a>&nbsp;</p><table><tbody><tr><td><br></td></tr></tbody></table><p>&nbsp;New pictures have been added for:</p><p>- <a href="https://gd.eppo.int/taxon/AGRLCV/photos">Agrilus convexicollis</a><br>- <a href="https://gd.eppo.int/taxon/AGRLPL/photos">Agrilus planipennis</a><br>- <a href="https://gd.eppo.int/taxon/CRYHMO/photos">Cryphalus morivorus</a></p><p>- <a href="https://gd.eppo.int/taxon/ERTNFU/photos">Erthesina fullo</a></p><p>- <a href="https://gd.eppo.int/taxon/PHYLF/photos">Physalis longifolia</a><br><em><br>The EPPO Secretariat warmly thanks all photographers who have kindly provided their photos. More pictures of plants, pests and diseases are always welcome!</em></p></div>          </div>
+        </div>
+    </div>
+    <div class="row">
+         <div class="col-md-12">
+            <div class="rposts">
+                <div class="row">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="rpost1">
+                            <div class="rimg">
+                                <a href="/taxon/CUGSE"><img src="/media/data/taxon/C/CUGSE/pics/220x130/3577.jpg" alt="" class="img-responsive" /></a>
+                            </div>
+                            <div class="rdetails">
+                               <h5><i>Curculigo seychellensis</i></h5>
+                               <h6>(CUGSE)</h6>
+                               <a href="/taxon/CUGSE" class="btn btn-primary">view more...</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="rpost1">
+                            <div class="rimg">
+                                <a href="/taxon/PRRHNY"><img src="/media/data/taxon/P/PRRHNY/pics/220x130/6169.jpg" alt="" class="img-responsive" /></a>
+                            </div>
+                            <div class="rdetails">
+                               <h5><i>Pyrrhosoma nymphula</i></h5>
+                               <h6>(PRRHNY)</h6>
+                               <a href="/taxon/PRRHNY" class="btn btn-primary">view more...</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="rpost1">
+                            <div class="rimg">
+                                <a href="/taxon/GUIGLA"><img src="/media/data/taxon/G/GUIGLA/pics/220x130/868.jpg" alt="" class="img-responsive" /></a>
+                            </div>
+                            <div class="rdetails">
+                               <h5><i>Neofusicoccum laricinum</i></h5>
+                               <h6>(GUIGLA)</h6>
+                               <a href="/taxon/GUIGLA" class="btn btn-primary">view more...</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="rpost1">
+                            <div class="rimg">
+                                <a href="/taxon/SYMTU"><img src="/media/data/taxon/S/SYMTU/pics/220x130/5882.jpg" alt="" class="img-responsive" /></a>
+                            </div>
+                            <div class="rdetails">
+                               <h5><i>Symphytum tuberosum</i></h5>
+                               <h6>(SYMTU)</h6>
+                               <a href="/taxon/SYMTU" class="btn btn-primary">view more...</a>
+                            </div>
+                        </div>
+                    </div>
+                               </div>
+            </div>
+            <!-- Random taxon --> 
+        </div>
+    </div>
+</div>
+  </div>
+</div>
+<!-- Content end -->
+
+<footer>
+  <div class="container">
+    <div class="row  hidden-print">
+      <div class="col-md-2">
+      <ul>
+      	<li><a href="/contact">Contact EPPO</a></li>
+      </ul>
+      </div>
+      <div class="col-md-2">
+      <ul>
+        <li><a href="https://www.eppo.int" target="new">EPPO Website</a></li>
+      </ul>
+      </div>
+      <div class="col-md-2">
+      <ul>
+        <li><a href="https://data.eppo.int" target="new">EPPO Data Portal</a></li>
+      </ul>
+      </div>
+      <div class="col-md-3">
+      <ul>
+        <li><a href="/taxon/">EPPO Codes categories</a></li>
+      </ul>
+      </div>
+      <div class="col-md-2">
+      <ul>
+        <li><a href="/sitemap">Sitemap</a></li>
+          <li><a target="_blank" href="https://gdpr.eppo.int/">About privacy</a></li>
+      </ul>
+
+      </div>
+
+    </div>
+    <hr/>
+        <div class="row">
+        <div class="col-md-2">
+            <img src="/media/img/eu_flag_100.jpg">
+        </div>
+        <div class="col-md-7" class="text-justify" style="font-size:9px;Line-Height:12px"><br><strong>European Union funding:</strong>
+EPPO has been awarded EU grant agreements for the further development of the EPPO Code system (agreement nb: SANTE/2018/G5/EPPO/SI2.793173 – from 2018-12-11 to 2021-12-10), and for the revision of the EPPO Datasheets (agreement nb: SANTE/2020/G1/EPPO/SI2.823766 from 2020-03-06 to 2024-09-05). The EU Commission is not responsible for any use that may be made of the information from these projects subsequently included in the EPPO Global Database.
+<!-- For a three-year period (2018-12-11 to 2021-12-10), EPPO has been awarded an EU grant for the further development of the EPPO Code system (agreement nb: SANTE/2018/G5/EPPO/SI2.793173). The EU Commission is not responsible for any use that may be made of the information from this project subsequently included in the EPPO Global Database. -->
+        </div>
+      <div class="col-md-3"  style="font-size:9px;Line-Height:12px"><br>
+        EPPO 2026<br>
+		  All Rights Reserved <span class=" hidden-print"><br>
+			EPPO Cloud [www2023p74a]</span>
+      </div>
+    </div>
+  </div>
+</footer>
+<script src="/media/js/jquery-3.1.1.min.js"></script>
+<script src="/media/js/bootstrap.320.min.js"></script>
+<script src="/media/js/ajaxform/jquery.form.min.js"></script>
+<script src="/media/js/ajaxform/jquery.ajaxform.js"></script>
+<script src="/media/js/tablesorter/2.31.1/js/jquery.tablesorter.min.js?2"></script>
+<script src="/media/js/tablesorter/2.31.1/js/jquery.tablesorter.widgets.min.js?2"></script>
+<script src="/media/js/app.js"></script>
+<script type="text/javascript">
+$(window).on('load', function(){
+});
+</script>
+
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://stats.eppo.int/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '3']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- End Matomo Code -->
+
+<script src="//gdpr.eppo.int/inject_disclaimer.php"></script>
+</body>
+</html>

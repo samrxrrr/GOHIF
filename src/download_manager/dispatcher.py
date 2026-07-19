@@ -1,37 +1,41 @@
-"""
-GOHIF Download Dispatcher
-"""
-
-import pandas as pd
+from src.download_manager.adapters.http import HTTPAdapter
+from src.download_manager.adapters.api import APIAdapter
+from src.download_manager.adapters.git import GitAdapter
+from src.download_manager.adapters.ncbi import NCBIAdapter
+from src.download_manager.adapters.sra import SRAAdapter
+from src.download_manager.adapters.manual import ManualAdapter
 
 
 class DownloadDispatcher:
 
+    def __init__(self):
+
+        self.adapters = {
+
+            "http": HTTPAdapter(),
+
+            "api": APIAdapter(),
+
+            "git": GitAdapter(),
+
+            "ncbi": NCBIAdapter(),
+
+            "sra": SRAAdapter(),
+
+            "manual": ManualAdapter(),
+
+            "cli": ManualAdapter()
+
+        }
+
     def dispatch(self, row):
 
-        dataset = row["Dataset_Name"]
+        adapter_name = str(row["Adapter"]).lower()
 
-        method = row["Download_Method"]
+        if adapter_name not in self.adapters:
 
-        if pd.isna(method) or str(method).strip() == "":
-            print(f"[SKIP] {dataset} (manual acquisition)")
-            return None
+            raise ValueError(
+                f"No adapter registered for '{adapter_name}'"
+            )
 
-        method = str(method).strip().upper()
-
-        print(f"[AUTO] {dataset}")
-        print(f"Method : {method}")
-
-        return method
-
-
-if __name__ == "__main__":
-
-    df = pd.read_csv(
-        "metadata/downloads/GOHIF_Download_Manifest.csv"
-    )
-
-    dispatcher = DownloadDispatcher()
-
-    for _, row in df.iterrows():
-        dispatcher.dispatch(row)
+        return self.adapters[adapter_name].download(row)

@@ -1,0 +1,1522 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<title>SILVA: Silva</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+
+<link rel="stylesheet" href="/typo3temp/assets/css/7015c8c4ac5ff815b57530b221005fc6.css?1739974000" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Css/phosphoricons/regular/style.css?1742975148" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Css/d3icons/style.css?1747213916" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Css/digidive.css?1783421007" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Css/main.css?1765980996" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Css/home.css?1756925380" media="all">
+
+
+
+
+
+
+
+</head>
+<body>
+<div id="loader">
+  <span></span>
+</div>
+<div class="page-wrapper">
+  <div class="sticky-alerts"></div>
+  <div class="sidebar-overlay" onclick="digidive.toggleSidebar()"></div>
+
+  <div class="navbar navbar-top">
+    <a href="/" class="navbar-brand ml-20">
+        <img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/silva.svg" alt="SILVA logo">
+    </a>
+
+    <a href="https://hub.dsmz.de/#/" class="navbar-brand ml-auto">
+        <img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/d3.svg" alt="DSMZ Digital Diversity">
+    </a>
+  </div>
+
+  <nav class="navbar navbar-bottom">
+    <button class="btn btn-action active" type="button" onclick="digidive.toggleSidebar(this);"></button>
+    <nav class="navbar-nav">
+      <ul class="breadcrumb m-0">
+        
+      </ul>
+    </nav>
+
+  </nav>
+  <div class="sidebar">
+    <nav class="sidebar-topnav"><ul><li><a href="/contact" class="with-icon"><i class="ph ph-headset"></i>&nbsp;Contact</a></li><li><a href="/documentation" class="with-icon"><i class="ph ph-book"></i>&nbsp;Manual</a></li></ul></nav>
+    <div class="sidebar-menu">
+      <h5 class="title">Release</h5><a href="/documentation/release-1382" class="with-icon"><i class="ph ph-info"></i>&nbsp;Information</a><a href="/current-release" class="with-icon"><i class="ph ph-files"></i>&nbsp;Files</a><a href="/arb-files" class="with-icon"><i class="ph ph-file-arrow-down"></i>&nbsp;ARB files</a><h5 class="title">Tools</h5><a href="/search" class="with-icon"><i class="ph ph-magnifying-glass"></i>&nbsp;Search</a><a href="/browser" class="with-icon"><i class="ph ph-list-magnifying-glass"></i>&nbsp;Browser</a><a href="/testprobe" class="with-icon"><i class="ph ph-rna"></i>&nbsp;TestProbe</a><a href="/testprime" class="with-icon"><i class="ph ph-dna-location"></i>&nbsp;TestPrime</a><a href="/aligner" class="with-icon"><i class="ph ph-git-branch"></i>&nbsp;ACT</a><a href="https://ngs.arb-silva.de" target="ngs.arb-silva.de" class="with-icon" rel="noreferrer"><i class="ph ph-dna"></i>&nbsp;SILVAngs</a><h5 class="title">Download</h5><a href="/download" class="with-icon"><i class="ph ph-download"></i>&nbsp;TaskManager</a><a href="/archive" class="with-icon"><i class="ph ph-archive"></i>&nbsp;Archive</a><h5 class="title">Projects</h5><a href="/projects" class="with-icon"><i class="ph ph-squares-four"></i>&nbsp;Overview</a>
+    </div>
+ </div>
+  <div class="content-wrapper">
+              
+        <div class="content-container">
+          <section class="section hero"
+    style="background-image: url('/fileadmin/_processed_/8/9/csm_7A1566A2-31EC-4547-A77E-52CF4BF24CFE_691cf71a1d.webp'); background-position: right;">
+    <div>
+	
+            <h1 class="text-white" style="max-width:780px;">Welcome to SILVA</h1>
+            <h2 class="text-white" style="max-width:780px;">A comprehensive online resource for quality checked and aligned ribosomal RNA sequence data.</h2>
+        
+    </div>
+</section>
+
+<div id="c4460" class="hero-box ">
+    <div class="row">        
+        
+            <div class="col-12 col-sm-6">
+                
+    
+
+            <div id="c4449" class="frame frame-default frame-type-text frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+  <div class="text-frame"><p>SILVA provides comprehensive, quality checked and regularly updated datasets of aligned <strong>small (16S/18S, SSU)</strong> and <strong>large subunit (23S/28S, LSU)</strong> ribosomal RNA (rRNA) sequences for <strong>all three domains of life</strong> (Bacteria, Archaea and Eukarya).</p>
+<p>For background information <a href="/documentation" class="link link-internal">click here</a>.</p></div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            
+        
+            <div class="col-12 col-sm-6">
+                
+    
+
+            <div id="c4450" class="frame frame-default frame-type-textpic frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+
+    
+        
+
+    
+
+
+
+    
+
+
+                
+
+    <div class="ce-textpic ce-center ce-below">
+        
+
+        
+                <div class="ce-bodytext">
+                    
+                    <p>SILVA is a <a href="https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/" target="_blank" class="link link-external" rel="noreferrer">Global Core Biodata Resource</a> and <a href="https://elixir-europe.org/platforms/data/core-data-resources" target="_blank" class="link link-external" rel="noreferrer">ELIXIR Core Data Resource</a>.</p>
+                </div>
+            
+
+        
+            
+
+    <div class="ce-gallery" data-ce-columns="2" data-ce-images="2">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            <a href="https://globalbiodata.org/what-we-do/global-core-biodata-resources/" target="_blank" rel="noreferrer">
+                
+
+
+	<picture>
+		<source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 375px)">
+		<source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 480px)">
+        <source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 640px)">
+        <source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 768px)">
+        <source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 1024px)">
+		<source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(max-width: 1199px)">
+		<source srcset="/fileadmin/user_upload/GCBR-Logo-RGB.svg" media="(min-width: 1200px)">
+
+		<!---Fallback--->
+		<img class="image-embed-item img-responsive" src="/fileadmin/user_upload/GCBR-Logo-RGB.svg" width="177" height="75" loading="lazy" alt="" />
+	</picture>
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+<figure class="image">
+    
+            <a href="https://elixir-europe.org/platforms/data/core-data-resources" target="_blank" rel="noreferrer">
+                
+
+
+	<picture>
+		<source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 375px)">
+		<source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 480px)">
+        <source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 640px)">
+        <source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 768px)">
+        <source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 1024px)">
+		<source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(max-width: 1199px)">
+		<source srcset="/fileadmin/user_upload/CoreData_Logo.svg" media="(min-width: 1200px)">
+
+		<!---Fallback--->
+		<img class="image-embed-item img-responsive" src="/fileadmin/user_upload/CoreData_Logo.svg" width="101" height="75" loading="lazy" alt="" />
+	</picture>
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+        
+    </div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+            </div>
+            
+                        
+    </div>
+</div>        
+          
+        
+                <section id="c4523" class="section neutral ">
+                    <div class="container">
+                        
+                            
+    
+
+            <div id="c4524" class="frame frame-default frame-type-header frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                SILVA SSU 138.2 update release
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+                                                                       
+                                                            
+                            
+    
+
+            <div id="c4525" class="frame frame-default frame-type-text frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+  <div class="text-frame"><figure class="table"><table class="table striped"><thead><tr><th>&nbsp;</th><th class="text-center"><p class="text-right">SSU Parc</p></th><th class="text-center"><p class="text-right">SSU Ref NR 99</p></th><th class="text-center"><p class="text-right">LSU Parc</p></th><th class="text-center"><p class="text-right">LSU Ref NR 99</p></th></tr></thead><tbody><tr><td>Minimum bases</td><td class="text-center"><p class="text-right">300</p></td><td class="text-center"><p class="text-right">1,200/900</p></td><td class="text-center"><p class="text-right">300</p></td><td class="text-center"><p class="text-right">1,900</p></td></tr><tr><td>Quality filtering</td><td class="text-center"><p class="text-right">basic</p></td><td class="text-center"><p class="text-right">strong</p></td><td class="text-center"><p class="text-right">basic</p></td><td class="text-center"><p class="text-right">strong</p></td></tr><tr><td>Guide Tree</td><td class="text-center"><p class="text-right">no</p></td><td class="text-center"><p class="text-right">yes</p></td><td class="text-center"><p class="text-right">no</p></td><td class="text-center"><p class="text-right">yes</p></td></tr><tr><td>Release date</td><td class="text-center"><p class="text-right">11.07.24</p></td><td class="text-center"><p class="text-right">11.07.24</p></td><td class="text-center"><p class="text-right">11.07.24</p></td><td class="text-center"><p class="text-right">11.07.24</p></td></tr><tr><td>Aligned rRNA sequences</td><td class="text-center"><p class="text-right">9,469,070</p></td><td class="text-center"><p class="text-right">510,495</p></td><td class="text-center"><p class="text-right">1,312,521</p></td><td class="text-center"><p class="text-right">95,279</p></td></tr></tbody></table></figure></div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+                            
+                                  
+                    </div>
+                </section>
+             
+    
+        
+                <section id="c4461" class="section neutral ">
+                    <div class="container">
+                        
+                            
+    
+
+            <div id="c4454" class="frame frame-default frame-type-text frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                SILVA
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+
+  <div class="text-frame"></div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+                                                                       
+                                                            
+                            <div class="tiles">                    
+    
+        
+        <a href="/aligner" title="Alignment, Classification and Tree Service" class="tile tile-link col-md-6 col-lg-4">
+            
+                
+                    <img class="img-responsive img-fluid" src="/fileadmin/graphics_general/main/logos/silva-tree.svg" width="143" height="163" alt="" />              
+                
+            
+             
+                                   
+            <span class="link">Alignment, Classification and Tree Service</span>
+            
+        </a>        
+                                
+    
+        
+        <a href="https://ngs.arb-silva.de/silvangs/" target="_blank" rel="noreferrer" title="Classification for NGS data" class="tile tile-link col-md-6 col-lg-4">
+            
+                
+                    <img class="img-responsive img-fluid" src="/fileadmin/graphics_general/main/logos/silvangs.svg" width="524" height="194" alt="" />              
+                
+            
+             
+                                   
+            <span class="link">Classification for NGS data</span>
+            
+        </a>        
+                                
+    
+        
+        <a href="http://www.arb-silva.de/treeviewer" target="_blank" title="SILVA Tree Viewer" class="tile tile-link col-md-6 col-lg-4">
+            
+                
+                    <img class="img-responsive img-fluid" src="/fileadmin/_processed_/4/1/csm_tree_viewer_104ca3b869.webp" width="876" height="99" alt="" />              
+                
+            
+             
+                                   
+            <span class="link">SILVA Tree Viewer</span>
+            
+        </a>        
+                                
+    
+</div>                            
+                                  
+                    </div>
+                </section>
+             
+    
+        <section id="c4457" class="section section-image section-news" style="background:url(/fileadmin/user_upload/news.jpg) no-repeat; background-size:cover;">
+            <div class="container p-0">               
+                
+                    
+    
+
+            <div id="c4458" class="frame frame-default frame-type-header frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                <a href="/news" class="link text-white">News</a>
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+                   
+                <div class="box mx-0">
+                    <div class="content">
+                        <div class="row">
+                            
+                                
+    
+
+            <div id="c633" class="frame frame-custom-20 frame-type-news_newsliststicky frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+
+
+
+                
+                
+
+    
+    
+
+
+
+
+
+<div class="news">
+	
+	<!--TYPO3SEARCH_end-->
+	
+			<div class="news-list-view list-layout-2" id="news-container-633">
+				
+                        
+                            
+                                
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+
+    <div class="row article articletype-0 topnews" itemscope="itemscope" itemtype="http://schema.org/Article">
+    
+    
+        <div class="news-img-wrap col-md-5">
+            <a title="Survey on high-level taxonomy" href="/news/item/survey-on-high-level-taxonomy">
+            
+                
+                <img class="layzload img-fluid rounded" src="/fileadmin/_processed_/7/3/csm_ChatGPT_Image_22._Juni_2026__15_11_23_0e239dff41.png" width="568" height="303" alt="" />
+                
+                
+                
+            
+            </a>
+        </div>
+            
+    <div class="article-list-text col-md-7">
+        <div class="content">
+            <!-- header -->
+            <div class="header">
+                <!-- date -->
+                <span class="news-list-date text-muted">
+                <time itemprop="datePublished" datetime="22.06.2026">
+                    22.06.2026
+                </time>
+                </span>
+                <h3>
+                    <a title="Survey on high-level taxonomy" class="link" href="/news/item/survey-on-high-level-taxonomy">
+                        <span itemprop="headline">Survey on high-level taxonomy</span>
+                    </a>
+                </h3>
+            </div>
+
+            <!-- teaser -->
+            <div class="teaser-text">
+                
+                
+                    <div itemprop="description"><p>Our colleagues from LPSN ask you to participate in their <a href="https://s.surveylegend.com/s/6aa7" target="_blank" class="link link-external" rel="noreferrer">survey on high-level taxonomy</a>. It is anonymous and will only take a few minutes. Feel free to share the link with your collaborators. We would also welcome feedback from other fields, including virology, mycology, botany, and zoology.</p></div>
+                
+                
+
+            <a class="link more" title="Survey on high-level taxonomy" href="/news/item/survey-on-high-level-taxonomy">
+                Read more
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+
+    </div>
+   
+
+
+
+                            
+                                
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+    
+        <p class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+        
+            <!-- date -->
+            <span class="news-list-date text-muted mr-10">
+            <time itemprop="datePublished" datetime="16.12.2025">
+                16.12.2025
+            </time>
+            </span>
+            <a title="Happy Holidays and a Happy New Year" class="link" href="/news/item/happy-holidays-and-a-happy-new-year">
+                <span itemprop="headline">Happy Holidays and a Happy New Year</span>
+            </a>
+        </p>     
+   
+
+
+
+                            
+                                
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+    
+        <p class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+        
+            <!-- date -->
+            <span class="news-list-date text-muted mr-10">
+            <time itemprop="datePublished" datetime="19.11.2025">
+                19.11.2025
+            </time>
+            </span>
+            <a title="New publication - SILVA in 2026: a global core biodata resource for rRNA within the DSMZ digital diversity" class="link" href="/news/item/new-publication-silva-in-2026-a-global-core-biodata-resource-for-rrna-within-the-dsmz-digital-diversity">
+                <span itemprop="headline">New publication - SILVA in 2026: a global core biodata resource for rRNA within the DSMZ digital diversity</span>
+            </a>
+        </p>     
+   
+
+
+
+                            
+                                
+
+
+<!--
+  =====================
+    Partials/List/Item.html
+-->
+    
+        <p class="article articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article">
+        
+            <!-- date -->
+            <span class="news-list-date text-muted mr-10">
+            <time itemprop="datePublished" datetime="17.11.2025">
+                17.11.2025
+            </time>
+            </span>
+            <a title="Online workshop - SILVA in 2025: New design and upcoming release 144" class="link" href="/news/item/online-workshop-silva-in-2025-new-design-and-upcoming-release-144">
+                <span itemprop="headline">Online workshop - SILVA in 2025: New design and upcoming release 144</span>
+            </a>
+        </p>     
+   
+
+
+
+                            
+                                                    
+					
+			</div>
+		
+	<!--TYPO3SEARCH_begin-->
+
+</div>
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+                                                 
+                        </div>
+                    </div>
+                </div>               
+            </div>
+        </section>
+    
+        
+                <section id="c4469" class="section neutral row">
+                    <div class="container">
+                        
+                            
+    
+
+            <div id="c4520" class="frame frame-default frame-type-header frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Affiliations and collaborations
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+                                                                       
+                                                            
+                            <div class="cols">                    
+    
+        
+        <div id="c4528" class="box content-box default">
+            <h4 class="header">ARB</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="http://www.arb-home.de">
+                                    <img class="box--image" src="/fileadmin/graphics_general/main/logos/arb.svg" width="100" height="100" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p class="text-justify">The software package ARB represents a graphically-oriented, fully-integrated package of cooperating software tools for handling and analysis of sequence information. We use ARB for curation and make our datasets avaliable in ARB format, among others.</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="http://www.arb-home.de" title="Read more" class="link">
+                        
+                                Visit ARB
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+        
+        <div id="c4531" class="box content-box default">
+            <h4 class="header">DSMZ Digital Diversity</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="https://hub.dsmz.de">
+                                    <img class="box--image" src="/fileadmin/graphics_general/main/logos/D3-logo.svg" width="2255" height="598" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p class="text-justify">The Leibniz Institute DSMZ establishes an integrated suite of scientific databases of fundamental relevance for the life sciences. The databases include <a href="https://www.brenda-enzymes.org/" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">BRENDA</a>, <strong>SILVA</strong>, <a href="https://lpsn.dsmz.de/" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">LPSN</a>, <a href="https://bacdive.dsmz.de/" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">BacDive</a> and <a href="https://tygs.dsmz.de/" target="_blank" class="external-link-new-window" title="Opens external link in new window" rel="noreferrer">TYGS</a> which are developed in a highly coordinated manner. The resulting data platform DSMZ Digital Diversity will provide an integrated resource and will allow to link and comprehensively analyse the different types of scientific data from all domains of life sciences.</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="https://hub.dsmz.de" title="Read more" class="link">
+                        
+                                Visit DSMZ Digital Diversity
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+        
+        <div id="c4522" class="box content-box default">
+            <h4 class="header">German Network for Bioinformatics Infrastructure</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="https://www.denbi.de">
+                                    <img class="box--image" src="/fileadmin/graphics_general/main/logos/deNBI_Logo_rgb.svg" width="352" height="91" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p>SILVA is part of the German Network for Bioinformatics Infrastructure de.NBI. Help us to improve SILVA and the network by rating our service in the <a href="https://www.surveymonkey.de/r/denbi-service?sc=db-node&amp;tool=silva" target="_blank" class="link link-external" rel="noreferrer">de.NBI survey</a>.</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="https://www.denbi.de" title="Read more" class="link">
+                        
+                                Visit de.NBI
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+        
+        <div id="c4530" class="box content-box default">
+            <h4 class="header">LPSN TaxMap</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="https://taxmap.dsmz.de">
+                                    <img class="box--image" src="/fileadmin/graphics_general/main/logos/lpsn_logo.svg" width="156" height="127" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p>The List of Prokaryotic names with Standing in Nomenclature (LPSN) is used during curation of the SILVA taxonomy. SILVA adopted the EukMap application as TaxMap to provide a visual version of LPSN’s taxonomic opinion based on validly published and correct names according to the rules of ICNP. It facilitates the navigation of the prokaryotic taxonomy derived from LPSN's taxonomic perspective.&nbsp;</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="https://taxmap.dsmz.de" title="Read more" class="link">
+                        
+                                Visit LPSN TaxMap
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+        
+        <div id="c4529" class="box content-box default">
+            <h4 class="header">RNAcentral</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="https://rnacentral.org/expert-database/silva">
+                                    <img class="box--image" src="/fileadmin/graphics_general/main/logos/rnacentral-expert-database.svg" width="98" height="35" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p>RNAcentral is a free, public resource that offers integrated access to a comprehensive and up-to-date set of non-coding RNA sequences provided by a collaborating group of Expert Databases representing a broad range of organisms and RNA types. SILVA is one of the Expert Databases in the consortium.</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="https://rnacentral.org/expert-database/silva" title="Read more" class="link">
+                        
+                                Visit RNACentral
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+        
+        <div id="c3626" class="box content-box default">
+            <h4 class="header">UniEuk</h4>
+
+            <div class="content">
+                
+                    
+                        
+                                <a href="https://unieuk.net/">
+                                    <img class="box--image" src="/fileadmin/_processed_/e/4/csm_UniEuk_146f8bf200.webp" width="304" height="80" alt="" />
+                                </a>
+                            
+                    
+                
+                
+                    <p>The SILVA team developed the taxonomic curation platform EukMap as part of the UniEuk project, and continues to maintain it. The UniEuk taxonomy for eukaryotes, which focuses primarily on protists is used as a basis for protists in the SILVA taxonomy.</p>
+                
+            </div>
+            
+                <div class="footer">
+                    <a href="https://unieuk.net/" title="Read more" class="link">
+                        
+                                Visit UniEuk
+                            
+                    </a>
+                </div>
+            
+        </div>
+                                
+    
+</div>                            
+                                  
+                    </div>
+                </section>
+             
+    
+        </div>                
+
+  <div class="page-footer">
+    <div class="footer text-center">
+    <div class="w-500 mw-full mx-auto my-20">
+      <h3 class="mt-0">
+        Did not find what you were looking for?      </h3>
+
+      <p>
+        Search within all databases of the
+        <a href="https://hub.dsmz.de/" target="_blank" class="link">
+          DSMZ Digital Diversity
+        </a>
+      </p>
+
+      <form id="d3search" onsubmit="d3searchFunction()">
+        <div class="input-group">
+          <input type="search" name="search" id="hub-search" class="form-control" placeholder="Search across all DSMZ Digital Diversity databases">
+          <div class="input-group-append">
+            <button class="btn"><i class="ph ph-magnifying-glass" aria-hidden="true"></i></button>
+          </div>
+        </div>
+      </form>
+
+      <script>
+        function d3searchFunction() {
+          event.preventDefault();
+          var val = $('#hub-search').val();
+          // url encode the search term
+          var search = encodeURIComponent(val);
+          var action_src = "https://hub.dsmz.de/#/search/" + search;
+          window.open(action_src, '_blank');
+
+        }
+      </script>
+      <div class="">
+        <p class="font-size-12">provided to you by</p>
+        <a href="https://hub.dsmz.de/" target="_blank" title="DSMZ Digital Diversity">
+          <img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/d3.svg" alt="DSMZ Digital Diversity" height="70">
+        </a>
+      </div>
+    </div>
+  </div>
+    <hr>
+    <div class="link-parade">
+	<div class="row">
+		<div class="col-lg-3 col-md-6 col-sm-6">
+			
+				
+    
+
+            <div id="c4475" class="frame frame-default frame-type-menu_subpages frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h3 class="">
+                SILVA
+            </h3>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+
+    
+        <ul>
+            
+                <li>
+                    <a href="/contact" title="Contact">
+                        <span>Contact</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/contact/citation" title="Citation">
+                        <span>Citation</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/contact/team" title="Team">
+                        <span>Team</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/news" title="News Archive">
+                        <span>News Archive</span>
+                    </a>
+                </li>
+            
+        </ul>
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+						
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-6">
+			
+				
+    
+
+            <div id="c4511" class="frame frame-default frame-type-menu_pages frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Tutorials
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+    
+        <ul>
+            
+                <li>
+                    <a href="/documentation/act-tutorial" title="ACT tutorial">
+                        <span>ACT tutorial</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/search-tutorial" title="Search tutorial">
+                        <span>Search tutorial</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/testprime-tutorial" title="TestPrime tutorial">
+                        <span>TestPrime tutorial</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/testprobe-tutorial" title="TestProbe tutorial">
+                        <span>TestProbe tutorial</span>
+                    </a>
+                </li>
+            
+        </ul>
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+			
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-6">
+			
+				
+    
+
+            <div id="c4476" class="frame frame-default frame-type-menu_subpages frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                    
+
+    
+        <header>
+            
+
+    
+            <h3 class="">
+                Documentation
+            </h3>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                
+                
+
+    
+        <ul>
+            
+                <li>
+                    <a href="/documentation/release-1382" title="Current Release">
+                        <span>Current Release</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/classifiers" title="Classifiers">
+                        <span>Classifiers</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/background" title="Background">
+                        <span>Background</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/overview/ssu-ref-nr" title="Ref NR">
+                        <span>Ref NR</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/faqs" title="FAQs">
+                        <span>FAQs</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/silva-taxonomy" title="SILVA taxonomy">
+                        <span>SILVA taxonomy</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/documentation/arb-support" title="ARB support">
+                        <span>ARB support</span>
+                    </a>
+                </li>
+            
+        </ul>
+    
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+			              
+		</div>
+		<div class="col-lg-3 col-md-6 col-sm-6">
+			
+				
+    
+
+            <div id="c4477" class="frame frame-default frame-type-html frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                
+
+    <h3>Social Media</h3>
+<a href="https://bsky.app/profile/arb-silva.bsky.social" target="_blank">
+    <span style="height: 28px; width: 28px; display: inline-block; vertical-align: middle"><svg style="width: 100%; height: 100%; display: inline-block;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 35.25 31.322"><path fill="var(--primary-color)" d="M17.61 13.897c-1.6-3.1-5.94-8.89-9.98-11.74C3.76-.573 2.28-.103 1.32.337.2.847 0 2.567 0 3.577s.55 8.3.92 9.51c1.2 4.02 5.45 5.38 9.37 4.94.2-.03.4-.06.61-.08-.2.03-.41.06-.61.08-5.74.85-10.85 2.94-4.15 10.39 7.36 7.62 10.09-1.63 11.49-6.33 1.4 4.69 3.01 13.61 11.35 6.33 6.27-6.33 1.72-9.54-4.02-10.39-.2-.02-.41-.05-.61-.08.21.03.41.05.61.08 3.92.44 8.18-.92 9.37-4.94.36-1.22.92-8.5.92-9.51s-.2-2.73-1.32-3.24c-.97-.44-2.44-.91-6.31 1.82-4.07 2.86-8.41 8.64-10.01 11.74"/></svg></span>
+  Bluesky
+</a>
+<a href="https://www.linkedin.com/company/dsmzd3" target="_blank">
+    <span class="icon"><i class="ph ph-linkedin-logo"></i></span>
+    LinkedIn (DSMZ Digital Diversity)
+</a>
+<a href="https://x.com/ARB_SILVA" target="_blank">
+    <span class="icon"><i class="ph ph-x-logo"></i></span>
+    Twitter (inactive)
+</a>
+<a href="https://www.arb-silva.de/news/rss.xml">
+    <span class="icon"><i class="ph ph ph-rss"></i></span>
+    RSS Feed
+</a>
+
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+			              
+		</div>		
+	</div>
+</div>
+<hr>
+<div class="logo-parade">
+	
+		
+    
+
+            <div id="c4479" class="frame frame-default frame-type-html frame-layout-0">
+                
+                
+                    
+
+
+
+                
+                
+                
+
+    <div class="logo-parade">
+    <a href="https://www.leibniz-gemeinschaft.de/"><img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/leibniz.svg" width="84" height="62" alt="Leibniz Association"></a>
+    <a href="https://unieuk.net/" target="_blank"><img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/UniEuk_web.png" alt="UniEuk"></a>
+    <a href="https://www.denbi.de/" target="_blank"><img src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Images/denbi.svg" alt="de.NBI"></a>
+  <a href="https://www.denbi.de/elixir-de" target="_blank"><img src="/fileadmin/graphics_general/main/logos/elixir-germany.svg" width="84" height="56" alt="Elixir Core Data Resource"></a>
+    <a href="https://hub.dsmz.de/" target="_blank"><img src="//www.dsmz.de/fileadmin/templates/main/img/logo_en.svg" alt="DSMZ"></a>
+</div>
+
+
+                
+                    
+
+
+
+                
+                
+                    
+
+
+
+                
+            </div>
+
+        
+
+
+	 
+</div>	
+    <hr>
+    <div class="footer">
+      <span>&copy;&nbsp;DSMZ&nbsp;2026</span><a href="/imprint">Imprint</a><a href="/privacy-statement">Privacy Statement</a><a href="/silva-license-information">License</a><a href="/silva-license-information">Terms of use</a><a href="/contact">Contact</a>
+    </div>
+  </div>
+</div>
+</div>
+<script src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/Libraries/jquery.min.js?1614706040"></script>
+<script src="/typo3conf/ext/ff_sitepackage_silva/Resources/Public/JavaScript/digidive.js?1756473749"></script>
+
+<!-- Matomo -->
+    <script type="text/javascript">
+    var _paq = window._paq = window._paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    if (document.domain.endsWith("dsmz.de")) {
+      _paq.push(["setCookieDomain", "*.silva.dsmz.de"]);
+    } else {
+      _paq.push(["setCookieDomain", "*.arb-silva.de"]);
+    }
+    _paq.push(["setDomains", ["*.silva.dsmz.de", "*.arb-silva.de"]]);
+    _paq.push(["enableCrossDomainLinking"]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    _paq.push(['enableHeartBeatTimer']);
+    (function() {
+      var host = window.location.hostname;
+      var u = "//" + host + "/stats/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '20']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+    </script>
+    <!-- End Matomo -->
+</body>
+</html>

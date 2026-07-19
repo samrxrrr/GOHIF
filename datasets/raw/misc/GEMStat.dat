@@ -1,0 +1,1303 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>GEMStat - The global water quality database</title>
+	<meta name="description" content="The Global Freshwater Quality Database GEMStat provides scientifically-sound data and information on the state and trend of global inland water quality." />
+	<link rel="canonical" href="https://gemstat.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="GEMStat - The global freshwater quality database" />
+	<meta property="og:description" content="The Global Freshwater Quality Database GEMStat provides scientifically-sound data and information on the state and trend of global inland water quality." />
+	<meta property="og:url" content="https://gemstat.org/" />
+	<meta property="og:site_name" content="GEMStat" />
+	<meta property="article:modified_time" content="2026-01-06T09:35:19+00:00" />
+	<meta property="og:image" content="https://gemstat.org/wp-content/uploads/2021/09/GEMS-Postkarte.jpg" />
+	<meta property="og:image:width" content="437" />
+	<meta property="og:image:height" content="315" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="GEMStat - The global freshwater quality database" />
+	<meta name="twitter:image" content="https://gemstat.org/wp-content/uploads/2021/09/GEMS-Postkarte.jpg" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/gemstat.org\/","url":"https:\/\/gemstat.org\/","name":"GEMStat - The global water quality database","isPartOf":{"@id":"https:\/\/gemstat.org\/#website"},"about":{"@id":"https:\/\/gemstat.org\/#organization"},"datePublished":"2018-11-07T14:54:03+00:00","dateModified":"2026-01-06T09:35:19+00:00","description":"The Global Freshwater Quality Database GEMStat provides scientifically-sound data and information on the state and trend of global inland water quality.","breadcrumb":{"@id":"https:\/\/gemstat.org\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/gemstat.org\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/gemstat.org\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/gemstat.org\/#website","url":"https:\/\/gemstat.org\/","name":"GEMStat","description":"The global water quality database","publisher":{"@id":"https:\/\/gemstat.org\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/gemstat.org\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/gemstat.org\/#organization","name":"GEMS\/Water Data Centre","url":"https:\/\/gemstat.org\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/gemstat.org\/#\/schema\/logo\/image\/","url":"https:\/\/gemstat.org\/wp-content\/uploads\/2017\/10\/Logo_GEMS_Water_4c-1.png","contentUrl":"https:\/\/gemstat.org\/wp-content\/uploads\/2017\/10\/Logo_GEMS_Water_4c-1.png","width":800,"height":473,"caption":"GEMS\/Water Data Centre"},"image":{"@id":"https:\/\/gemstat.org\/#\/schema\/logo\/image\/"}}]}</script>
+	<meta name="google-site-verification" content="LIWeG7bu4Qf7RMalJRSyKYLaX88eOyCeaflq-SVwt8s" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="GEMStat &raquo; Feed" href="https://gemstat.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GEMStat &raquo; Comments Feed" href="https://gemstat.org/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://gemstat.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgemstat.org%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://gemstat.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgemstat.org%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 1300px;--wp--style--global--wide-size: 1300px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://gemstat.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6' media='all' />
+<link rel='stylesheet' id='salient-social-css' href='https://gemstat.org/wp-content/plugins/salient-social/css/style.css?ver=1.2.6' media='all' />
+<style id="salient-social-inline-css">
+
+  .sharing-default-minimal .nectar-love.loved,
+  body .nectar-social[data-color-override="override"].fixed > a:before, 
+  body .nectar-social[data-color-override="override"].fixed .nectar-social-inner a,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:hover,
+  .nectar-social.vertical[data-color-override="override"] .nectar-social-inner a:hover {
+    background-color: #305da8;
+  }
+  .nectar-social.hover .nectar-love.loved,
+  .nectar-social.hover > .nectar-love-button a:hover,
+  .nectar-social[data-color-override="override"].hover > div a:hover,
+  #single-below-header .nectar-social[data-color-override="override"].hover > div a:hover,
+  .nectar-social[data-color-override="override"].hover .share-btn:hover,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a {
+    border-color: #305da8;
+  }
+  #single-below-header .nectar-social.hover .nectar-love.loved i,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover i,
+  #single-below-header .nectar-social.hover .nectar-love-button a:hover i,
+  .nectar-love:hover i,
+  .hover .nectar-love:hover .total_loves,
+  .nectar-love.loved i,
+  .nectar-social.hover .nectar-love.loved .total_loves,
+  .nectar-social.hover .share-btn:hover, 
+  .nectar-social[data-color-override="override"].hover .nectar-social-inner a:hover,
+  .nectar-social[data-color-override="override"].hover > div:hover span,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) i,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) {
+    color: #305da8;
+  }
+/*# sourceURL=salient-social-inline-css */
+</style>
+<link rel='stylesheet' id='eeb-css-frontend-css' href='https://gemstat.org/wp-content/plugins/email-encoder-bundle/assets/css/style.css?ver=54d4eedc552c499c4a8d6b89c23d3df1' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://gemstat.org/wp-content/themes/salient/css/font-awesome-legacy.min.css?ver=4.7.1' media='all' />
+<link rel='stylesheet' id='salient-grid-system-css' href='https://gemstat.org/wp-content/themes/salient/css/build/grid-system.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='main-styles-css' href='https://gemstat.org/wp-content/themes/salient/css/build/style.css?ver=18.2.0' media='all' />
+<style id="main-styles-inline-css">
+html body[data-header-resize="1"] .container-wrap,
+			html body[data-header-format="left-header"][data-header-resize="0"] .container-wrap,
+			html body[data-header-resize="0"] .container-wrap,
+			body[data-header-format="left-header"][data-header-resize="0"] .container-wrap {
+				padding-top: 0;
+			}
+			.main-content > .row > #breadcrumbs.yoast {
+				padding: 20px 0;
+			}
+/*# sourceURL=main-styles-inline-css */
+</style>
+<link rel='stylesheet' id='nectar-element-wpb-column-border-css' href='https://gemstat.org/wp-content/themes/salient/css/build/elements/element-wpb-column-border.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='nectar-element-recent-posts-css' href='https://gemstat.org/wp-content/themes/salient/css/build/elements/element-recent-posts.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='nectar-cf7-css' href='https://gemstat.org/wp-content/themes/salient/css/build/third-party/cf7.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='nectar-blog-masonry-core-css' href='https://gemstat.org/wp-content/themes/salient/css/build/blog/masonry-core.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='nectar-blog-standard-minimal-css' href='https://gemstat.org/wp-content/themes/salient/css/build/blog/standard-minimal.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='responsive-css' href='https://gemstat.org/wp-content/themes/salient/css/build/responsive.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='skin-original-css' href='https://gemstat.org/wp-content/themes/salient/css/build/skin-original.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='salient-wp-menu-dynamic-css' href='https://gemstat.org/wp-content/uploads/salient/menu-dynamic.css?ver=17330' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://gemstat.org/wp-content/plugins/tablepress/css/build/default.css?ver=3.3.3' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://gemstat.org/wp-content/themes/salient/css/build/plugins/js_composer.css?ver=18.2.0' media='all' />
+<link rel='stylesheet' id='dynamic-css-css' href='https://gemstat.org/wp-content/uploads/salient/salient-dynamic-styles.css?ver=35700' media='all' />
+<style id="dynamic-css-inline-css">
+@media only screen and (min-width:1000px){body #ajax-content-wrap.no-scroll{min-height:calc(100vh - 85px);height:calc(100vh - 85px)!important;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 84px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 84px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header{top:85px;}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 83px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 83px - 32px)!important;}}.admin-bar[class*="page-template-template-no-header"] .wpb_row.vc_row-o-full-height.top-level,.admin-bar[class*="page-template-template-no-header"] .wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 32px);}body[class*="page-template-template-no-header"] .wpb_row.vc_row-o-full-height.top-level,body[class*="page-template-template-no-header"] .wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:100vh;}@media only screen and (max-width:999px){.using-mobile-browser #nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable="on"]) > div{height:calc(100vh - 101px);}.using-mobile-browser .wpb_row.vc_row-o-full-height.top-level,.using-mobile-browser .wpb_row.vc_row-o-full-height.top-level > .col.span_12,[data-permanent-transparent="1"].using-mobile-browser .wpb_row.vc_row-o-full-height.top-level,[data-permanent-transparent="1"].using-mobile-browser .wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 101px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container,#nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable="on"]) > div{height:calc(100vh - 48px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 48px);}body[data-transparent-header="false"] #ajax-content-wrap.no-scroll{min-height:calc(100vh - 48px);height:calc(100vh - 48px);}}#nectar_fullscreen_rows{background-color:transparent;}.flex_gap_desktop_10px> .vc_column-inner > .wpb_wrapper{gap:10px;}.wpb_column > .vc_column-inner > .border-wrap{position:static;pointer-events:none}.wpb_column > .vc_column-inner > .border-wrap >span{position:absolute;z-index:100;}.wpb_column[data-border-style="solid"] > .vc_column-inner > .border-wrap >span{border-style:solid}.wpb_column[data-border-style="dotted"] > .vc_column-inner > .border-wrap >span{border-style:dotted}.wpb_column[data-border-style="dashed"] > .vc_column-inner > .border-wrap >span{border-style:dashed}.wpb_column > .vc_column-inner > .border-wrap >.border-top,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-top:after{width:100%;top:0;left:0;border-color:inherit;}.wpb_column > .vc_column-inner > .border-wrap >.border-bottom,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-bottom:after{width:100%;bottom:0;left:0;border-color:inherit;}.wpb_column > .vc_column-inner > .border-wrap >.border-left,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-left:after{height:100%;top:0;left:0;border-color:inherit;}.wpb_column > .vc_column-inner > .border-wrap >.border-right,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-right:after{height:100%;top:0;right:0;border-color:inherit;}.wpb_column > .vc_column-inner > .border-wrap >.border-right,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-right:after,.wpb_column > .vc_column-inner > .border-wrap >.border-left,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-left:after,.wpb_column > .vc_column-inner > .border-wrap >.border-bottom,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-bottom:after{border-top:none!important}.wpb_column > .vc_column-inner > .border-wrap >.border-left,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-left:after,.wpb_column > .vc_column-inner > .border-wrap >.border-bottom,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-bottom:after,.wpb_column > .vc_column-inner > .border-wrap >.border-top,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-top:after{border-right:none!important}.wpb_column > .vc_column-inner > .border-wrap >.border-right,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-right:after,.wpb_column > .vc_column-inner > .border-wrap >.border-left,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-left:after,.wpb_column > .vc_column-inner > .border-wrap >.border-top,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-top:after{border-bottom:none!important}.wpb_column > .vc_column-inner > .border-wrap >.border-right,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-right:after,.wpb_column > .vc_column-inner > .border-wrap >.border-bottom,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-bottom:after,.wpb_column > .vc_column-inner > .border-wrap >.border-top,.wpb_column[data-border-style*="double"] > .vc_column-inner > .border-wrap >.border-top:after{border-left:none!important}.wpb_column[data-border-radius="3px"],.wpb_column[data-border-radius="3px"] > .vc_column-inner,.wpb_column[data-border-radius="3px"] > .vc_column-inner > .column-link,.wpb_column[data-border-radius="3px"] > .vc_column-inner > .column-bg-overlay-wrap,.wpb_column[data-border-radius="3px"] > .vc_column-inner > .column-image-bg-wrap[data-bg-animation="zoom-out-reveal"],.wpb_column[data-border-radius="3px"] > .vc_column-inner > .column-image-bg-wrap .column-image-bg,.wpb_column[data-border-radius="3px"] > .vc_column-inner > .column-image-bg-wrap[data-n-parallax-bg="true"],.wpb_column[data-border-radius="3px"] > .n-sticky > .vc_column-inner,.wpb_column[data-border-radius="3px"] > .n-sticky > .vc_column-inner > .column-bg-overlay-wrap{border-radius:3px;}.wpb_column[data-border-radius="3px"]{--nectar-radius:3px;}.col.padding-1-percent > .vc_column-inner,.col.padding-1-percent > .n-sticky > .vc_column-inner{padding:calc(600px * 0.01);}@media only screen and (max-width:690px){.col.padding-1-percent > .vc_column-inner,.col.padding-1-percent > .n-sticky > .vc_column-inner{padding:calc(100vw * 0.01);}}@media only screen and (min-width:1000px){.col.padding-1-percent > .vc_column-inner,.col.padding-1-percent > .n-sticky > .vc_column-inner{padding:calc((100vw - 180px) * 0.01);}.column_container:not(.vc_col-sm-12) .col.padding-1-percent > .vc_column-inner{padding:calc((100vw - 180px) * 0.005);}}@media only screen and (min-width:1425px){.col.padding-1-percent > .vc_column-inner{padding:calc(1245px * 0.01);}.column_container:not(.vc_col-sm-12) .col.padding-1-percent > .vc_column-inner{padding:calc(1245px * 0.005);}}.full-width-content .col.padding-1-percent > .vc_column-inner{padding:calc(100vw * 0.01);}@media only screen and (max-width:999px){.full-width-content .col.padding-1-percent > .vc_column-inner{padding:calc(100vw * 0.01);}}@media only screen and (min-width:1000px){.full-width-content .column_container:not(.vc_col-sm-12) .col.padding-1-percent > .vc_column-inner{padding:calc(100vw * 0.005);}}.column-image-bg-wrap[data-bg-pos="center center"] .column-image-bg,.container-wrap .main-content .column-image-bg-wrap[data-bg-pos="center center"] .column-image-bg{background-position:center center;}.wpb_column[data-cfc="true"] h1,.wpb_column[data-cfc="true"] h2,.wpb_column[data-cfc="true"] h3,.wpb_column[data-cfc="true"] h4,.wpb_column[data-cfc="true"] h5,.wpb_column[data-cfc="true"] h6,.wpb_column[data-cfc="true"] p{color:inherit}.nectar_icon_wrap i{vertical-align:middle;top:0;}.nectar_icon_wrap i[class*="nectar-brands"]{display:inline-block;}.wpb_wrapper > .nectar_icon_wrap{margin-bottom:0;}.nectar_icon_wrap i{transition:color .25s ease;}.nectar_icon_wrap path{transition:fill .25s ease;}.nectar_icon_wrap .nectar_icon img.nectar-icon-image{display:block;margin-bottom:0;aspect-ratio:1 / 1;object-fit:contain;}.nectar-pulsate i{display:block;border-radius:200px;background-color:currentColor;position:relative;}.nectar-pulsate i:after{display:block;position:absolute;top:50%;left:50%;content:"";width:100%;height:100%;margin:-50% auto auto -50%;-webkit-transform-origin:50% 50%;transform-origin:50% 50%;border-radius:50%;background-color:currentColor;opacity:1;z-index:11;pointer-events:none;animation:nectar_pulsate 2s cubic-bezier(.2,1,.2,1) infinite;}@keyframes nectar_pulsate{0%{opacity:0.6;transform:scale(1);}100%{opacity:0;transform:scale(3);}}.nectar_icon_wrap[data-style*="default"][data-color*="extra-color-gradient"] .nectar_icon i{border-radius:0!important;text-align:center;}.nectar_icon_wrap[data-style*="default"][data-color*="extra-color-gradient"] .nectar_icon i:before{vertical-align:top;}.nectar_icon_wrap[data-style*="default"][data-color*="extra-color-gradient"] .nectar_icon i[class*="fa-"],.nectar_icon_wrap[data-style*="default"][data-color*="extra-color-gradient"] .nectar_icon i[class^="icon-"]{vertical-align:baseline;}.nectar_icon_wrap[data-padding="20px"] .nectar_icon{padding:20px;}.nectar-button.small{border-radius:2px 2px 2px 2px;font-size:12px;padding:8px 14px;color:#FFF;box-shadow:0 -1px rgba(0,0,0,0.1) inset;}.nectar-button.small.see-through,.nectar-button.small.see-through-2,.nectar-button.small.see-through-3{padding-top:6px;padding-bottom:6px}.nectar-button.small i{font-size:16px;line-height:16px;right:26px}.nectar-button.small i.icon-button-arrow{font-size:16px}.nectar-button.has-icon.small,.nectar-button.tilt.has-icon.small{padding-left:33px;padding-right:33px}.nectar-button.has-icon.small:hover span,.nectar-button.tilt.small.has-icon span,body.material .nectar-button.has-icon.small span{-webkit-transform:translateX(-14px);transform:translateX(-14px)}.nectar-button.small.has-icon:hover i,.nectar-button.small.tilt.has-icon i{-webkit-transform:translateX(10px);transform:translateX(10px);}body.material .nectar-button.small i{font-size:14px;}body.material[data-button-style^="rounded"] .nectar-button.small i{font-size:12px;}.screen-reader-text,.nectar-skip-to-content:not(:focus){border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important;}.row .col img:not([srcset]){width:auto;}.row .col img.img-with-animation.nectar-lazy:not([srcset]){width:100%;}
+/*# sourceURL=dynamic-css-inline-css */
+</style>
+<link rel='stylesheet' id='salient-child-style-css' href='https://gemstat.org/wp-content/themes/salient-child/style.css?ver=18.2.0' media='all' />
+<link rel="stylesheet" type="text/css" href="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=636b10df" media="all">
+<style data-related="n2-ss-4">div#n2-ss-4 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-4 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-4:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-4 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-4 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-4 .n2-ss-slide-backgrounds,div#n2-ss-4 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-4 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-4 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-4 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-4 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-4 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-4.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-4 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-4 .n2-ss-slide{perspective:1500px;}div#n2-ss-4 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-4 .n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-4 .n2-ss-background-animation .n2-ss-slide-background{z-index:auto;}div#n2-ss-4 .n2-bganim-side{position:absolute;left:0;top:0;overflow:hidden;background:RGBA(51,51,51,1);}div#n2-ss-4 .n2-bganim-tile-overlay-colored{z-index:100000;background:RGBA(51,51,51,1);}div#n2-ss-4 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-4 .nextend-arrow img{position:relative;display:block;}div#n2-ss-4 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-4 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-4 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-4 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-4 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-4 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-4 .nextend-arrow-animated > div{position:relative;}div#n2-ss-4 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-4 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-4 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-4 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-4 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-4 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-4 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-4 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-4 .n-uc-1nOevI8FV5lX-inner{background-color:RGBA(255,255,255,0.69);border-radius:5px;}div#n2-ss-4 .n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph{font-family: 'Arial';color: RGBA(0,0,0,0.8);font-size:106.25%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: normal;}div#n2-ss-4 .n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph a, div#n2-ss-4 .n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph a:FOCUS{font-family: 'Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: normal;}div#n2-ss-4 .n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph a:HOVER, div#n2-ss-4 .n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph a:ACTIVE{font-family: 'Arial';color: #1890d7;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: normal;}div#n2-ss-4 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-4 .n-uc-6xqYXy3GwOUU{padding:0px 0px 0px 0px}div#n2-ss-4 .n-uc-sOjShy8nmMyw{padding:0px 0px 0px 0px}div#n2-ss-4 .n-uc-MahhfFQ0fCPr{padding:0px 0px 0px 0px}div#n2-ss-4 .n-uc-eoYZHdqsfiYZ{padding:0px 0px 0px 0px}div#n2-ss-4 .n-uc-82bxcDGDp8G6-inner{padding:20px 30px 20px 30px;justify-content:center}div#n2-ss-4 .n-uc-82bxcDGDp8G6{max-width: 800px}div#n2-ss-4 .n-uc-U66ZPGkhKFwR-inner{padding:10px 10px 10px 10px}div#n2-ss-4 .n-uc-U66ZPGkhKFwR-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-4 .n-uc-U66ZPGkhKFwR-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-4 .n-uc-1nOevI8FV5lX-inner{padding:50px 50px 50px 50px;justify-content:flex-start}div#n2-ss-4 .n-uc-1nOevI8FV5lX{width:100%}div#n2-ss-4 .n-uc-YmVZtwrfgK7C{--margin-bottom:20px;max-width:415px;align-self:var(--ss-fs);}div#n2-ss-4 .n-uc-pxEmOH9jQJNX-inner{padding:10px 10px 10px 10px}div#n2-ss-4 .n-uc-pxEmOH9jQJNX-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-4 .n-uc-pxEmOH9jQJNX-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-4 .n-uc-rmUphLSbKmIO-inner{padding:10px 10px 10px 10px;justify-content:flex-start}div#n2-ss-4 .n-uc-rmUphLSbKmIO{width:100%}div#n2-ss-4 .n-uc-zUsJc3H7KcmV-inner{padding:10px 10px 10px 10px}div#n2-ss-4 .n-uc-zUsJc3H7KcmV-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-4 .n-uc-zUsJc3H7KcmV-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-4 .n-uc-JkUaqh4nWPYe-inner{padding:10px 10px 10px 10px;justify-content:flex-start}div#n2-ss-4 .n-uc-JkUaqh4nWPYe{width:20%}div#n2-ss-4 .n-uc-gpzbzlNamViA-inner{padding:10px 10px 10px 10px;justify-content:flex-start}div#n2-ss-4 .n-uc-gpzbzlNamViA{width:80%}div#n2-ss-4 .n-uc-QloGWBbtc6TX-inner{padding:10px 10px 10px 10px}div#n2-ss-4 .n-uc-QloGWBbtc6TX-inner > .n2-ss-layer-row-inner{width:calc(100% + 21px);margin:-10px;flex-wrap:nowrap;}div#n2-ss-4 .n-uc-QloGWBbtc6TX-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:10px}div#n2-ss-4 .n-uc-NkeIwKBHphgB-inner{padding:10px 10px 10px 10px;justify-content:flex-start}div#n2-ss-4 .n-uc-NkeIwKBHphgB{width:50%}div#n2-ss-4 .n-uc-S20Th8Pr0kvX-inner{padding:10px 10px 10px 10px;justify-content:flex-start}div#n2-ss-4 .n-uc-S20Th8Pr0kvX{width:50%}div#n2-ss-4 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-4 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-4 .n-uc-82bxcDGDp8G6-inner{padding:50px 30px 50px 30px}div#n2-ss-4 .n-uc-82bxcDGDp8G6{max-width: 600px}div#n2-ss-4 .n-uc-U66ZPGkhKFwR-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-4 .n-uc-1nOevI8FV5lX{width:100%}div#n2-ss-4 .n-uc-pxEmOH9jQJNX-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-4 .n-uc-rmUphLSbKmIO{width:100%}div#n2-ss-4 .n-uc-zUsJc3H7KcmV-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-4 .n-uc-JkUaqh4nWPYe{width:20%}div#n2-ss-4 .n-uc-gpzbzlNamViA{width:80%}div#n2-ss-4 .n-uc-QloGWBbtc6TX-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-4 .n-uc-NkeIwKBHphgB{width:50%}div#n2-ss-4 .n-uc-S20Th8Pr0kvX{width:50%}div#n2-ss-4 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-4 .n-uc-82bxcDGDp8G6-inner{padding:20px 30px 20px 30px}div#n2-ss-4 .n-uc-82bxcDGDp8G6{max-width: 320px}div#n2-ss-4 .n-uc-U66ZPGkhKFwR-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-4 .n-uc-1nOevI8FV5lX-inner{padding:50px 25px 50px 25px}div#n2-ss-4 .n-uc-1nOevI8FV5lX{width:calc(100% - 20px)}div#n2-ss-4 .n-uc-pxEmOH9jQJNX-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-4 .n-uc-rmUphLSbKmIO{width:calc(100% - 20px)}div#n2-ss-4 .n-uc-zUsJc3H7KcmV-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-4 .n-uc-JkUaqh4nWPYe{width:calc(100% - 20px)}div#n2-ss-4 .n-uc-gpzbzlNamViA{width:calc(100% - 20px)}div#n2-ss-4 .n-uc-QloGWBbtc6TX-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-4 .n-uc-NkeIwKBHphgB{width:calc(100% - 20px)}div#n2-ss-4 .n-uc-S20Th8Pr0kvX{width:calc(100% - 20px)}div#n2-ss-4 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-4 .nextend-arrow img{width: 16px}}</style>
+<script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);</script><script src="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=636b10df" defer async></script>
+<script src="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=636b10df" defer async></script>
+<script src="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=636b10df" defer async></script>
+<script src="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-backgroundanimation.min.js?ver=636b10df" defer async></script>
+<script src="https://gemstat.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=636b10df" defer async></script>
+<script>_N2.r('documentReady',function(){n2const.prefersReducedMotion=false;_N2.r(["documentReady","smartslider-frontend","smartslider-backgroundanimation","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-4',{"admin":false,"background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":500,"sliderWidth":1200,"sliderHeight":500,"slideWidth":1200,"slideHeight":500},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":500,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":292,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":133,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":5000,"autoplayLoop":1,"allowReStart":0,"reverse":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":{"global":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"color":"RGBA(51,51,51,1)","speed":"normal"},"mainanimation":{"type":"fade","duration":400,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})})});</script><script id="jquery-core-js" src="https://gemstat.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://gemstat.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="eeb-js-frontend-js" src="https://gemstat.org/wp-content/plugins/email-encoder-bundle/assets/js/custom.js?ver=2d37aa1530beb8634b12ca51eeda0b4b"></script>
+<script></script><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gemstat.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.2" />
+<link rel='shortlink' href='https://gemstat.org/' />
+<script type="text/javascript"> var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); </script><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style data-type="vc_custom-css">.icon_boxes .nectar_icon_wrap {
+	background: #305da8;
+	border-radius: 100px;
+	border: solid #fff 2px;
+	padding: 5px;
+}
+
+.slider-header .excerpt {
+	padding: 8px;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	background-color: #b2392a;
+	top: -1px;
+	position: absolute;
+	z-index: 100;
+}
+.slider-header .post-header {
+	display: none;
+}
+.slider-header {
+	position: relative;
+}
+.slider-header .category-maintenance {
+	margin: 0;
+}
+.slider-header .blog-recent {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.header_projects h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+	color: #305da8;
+	background: url("../../wp-content/themes/salient-child/images/icon_projects.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+body .flex-gallery ul.flex-direction-nav {
+	bottom: -40px;
+	top: inherit;
+}
+body .flex-gallery {
+	margin-bottom: 40px !important;
+}
+.icon_boxes {
+	position: relative;
+}
+
+.icon_boxes .vc_column-inner {
+	padding-bottom: 70px;
+}
+
+.icon_boxes .vc_column-inner .vc_column-inner {
+	padding-bottom: 0;
+}
+
+.icon_boxes .nectar-button {
+	position: absolute;
+	bottom: 0;
+	top: inherit;
+}
+.ms-3er-blog .title a {
+	color: #444;
+}</style><link rel="icon" href="https://gemstat.org/wp-content/uploads/2017/10/cropped-gemstat_favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://gemstat.org/wp-content/uploads/2017/10/cropped-gemstat_favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gemstat.org/wp-content/uploads/2017/10/cropped-gemstat_favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://gemstat.org/wp-content/uploads/2017/10/cropped-gemstat_favicon-270x270.png" />
+<style id="wp-custom-css">
+/*
+Füge deinen eigenen CSS-Code nach diesem Kommentar hinter dem abschließenden Schrägstrich ein. 
+
+Klicke auf das Hilfe-Symbol oben, um mehr zu erfahren.
+*/
+
+
+.header_contact h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+    color: #305da8;
+	background: url("../../wp-content/themes/salient-child/images/icon_contact.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+
+.header_gemstat h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+    color: #305da8;
+	background: url("../../wp-content/themes/salient-child/images/icon_gemstat.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+
+.header_data h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+    color: #305da8;
+	background: url("../../../wp-content/themes/salient-child/images/icon_data.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+
+.header_vis h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+    color: #305da8;
+	background: url("../../wp-content/themes/salient-child/images/icon_vis.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+
+.header_news h1 {
+	font-size: 36px;
+	padding: 10px 80px;
+	border-bottom: 2px solid #305da8;
+    color: #305da8;
+	background: url("../../wp-content/themes/salient-child/images/icon_news.png") no-repeat scroll left bottom;
+	min-height: 65px;
+}
+
+.container.main-content li {
+	margin-bottom: 30px;
+}
+.container.main-content li li {
+	margin-bottom: unset;
+}
+.main-content ol ul li {
+	list-style: disc;
+	list-style-position: outside;
+}
+.main-content ol ul ol li {
+	list-style: decimal;
+	list-style-position: outside;
+}
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #305da8 !important;
+    color: #ffffff;
+}
+
+.tabbed .wpb_tabs_nav {
+	margin-bottom: 0 !important;
+}
+
+.ui-tabs-panel {
+	border: solid 2px #E6E6E6;
+	padding: 20px 15px !important;
+}
+
+.blog-recent .meta-category, .blog-recent .post-meta,
+.single #single-below-header .meta-author.vcard.author,
+.archive #single-below-header .meta-author.vcard.author,
+.single-post #single-meta,
+.nectar-love-wrap,
+.meta-author,
+.meta-category,
+body .posts-container article .bottom-line{
+	display: none;
+}
+
+.single-post .meta-date{
+	border: none !important;
+	padding-left: 0 !important;
+	/* border: none !important; */
+}
+
+body[data-ext-responsive="true"].single-post .container-wrap.no-sidebar .post-area {
+	margin: 0 !important;
+}
+
+#footer-widgets {font-size: 12px; line-height: 14px;}
+
+#footer-widgets a {color: #b5b5b5;}
+#footer-outer #footer-widgets a:hover {color: #ffffff !important;}
+#footer-widgets p {padding-bottom: 12px;}
+
+#footer-outer #footer-widgets .widget {
+  margin-bottom: 0;
+}
+
+.entire-meta-link {
+	pointer-events: none;
+}
+
+.wpb_content_element ol .nectar-button {
+	/* color: red !important; */
+	margin-top: 15px;
+}
+
+.container.main-content .blog-recent[data-style*="classic_enhanced"] .inner-wrap {
+	padding: 0 !important;
+}
+
+.wpcf7-form-control-wrap .g-recaptcha {
+	padding-top: 20px;
+}
+
+body .no-margin-bottom {
+	margin-bottom: 0;
+}
+
+body .nectar-icon-list-item {
+	margin-bottom: 15px;
+}
+
+body .col .ms-icon-box .wpb_wrapper {
+	position: inherit;
+}
+
+.mobile .ms-icon-box .wpb_wrapper {
+	position: relative !important;
+}
+
+.mobile .wpb_wrapper .ms-button {
+	position: inherit;
+}
+
+.mobile .ms-icon-box .vc_column-inner {
+	padding-bottom: 0;
+}
+
+.mobile .ms-icon-box .column_container {
+	padding: 30px !important;
+}
+
+.link-description p {
+	color: #bbbbbb;
+	font-size: 0.8em;
+	line-height: 1.1;
+	padding-top: 8px;
+}
+
+body .link-description a {
+	color: #999;
+}
+
+.team-button {
+	background-color: #bbbbbb;
+	color: #ffffff;
+	padding: 5px 10px;
+	margin-left: 10px;
+	border-radius: 3px;
+}
+.team-button:hover {
+	color: #ffffff;
+	background: #305da8;
+}
+
+body nav .current-menu-parent a {
+	background: #597eb9;
+}
+
+body .masonry-blog-item .inner-wrap {
+	-o-box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;	
+	box-shadow: none;
+	border: solid 1px #305da8;
+	border-radius: 3px;
+}
+body article.post .more-link span {
+	background-color: #305da8;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1.3px;
+	font-size: 12px;
+	padding: 8px 14px;
+}
+body article.post .more-link .continue-reading:hover {
+	opacity: 0.87;
+}
+body article.post .content-inner {
+	border-bottom: 1px solid rgba(48,93,168,0.5);
+}
+body[data-footer-reveal="1"][data-footer-reveal-shadow="large"] .container-wrap {
+	box-shadow: 0 27px 25px -2px rgba(0,0,0,0.07)  !important;
+	-webkit-box-shadow: 0 27px 25px -2px rgba(0,0,0,0.07) !important;
+	-moz-box-shadow: 0 27px 25px -2px rgba(0,0,0,0.07) !important;
+}
+#footer-widgets .col_last {
+	border-left: 2px dotted #305da8;
+	padding-left: 15px;
+}
+#footer-outer #footer-widgets p a:hover {
+	color: #305da8 !important;
+	text-decoration: underline;
+}
+body article.post .post-header h2 a:hover {
+	color: #6e8dc2 !important;
+}
+.ms-3er-blog .post-area {
+	margin-bottom: 0;
+}
+.ms-3er-blog .meta-category {
+	display: block;
+	color: #ffffff;
+	margin-top: 10px;
+}
+.ms-3er-blog .meta-category a {
+	background: #305da8;
+	padding: 5px 10px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-weight: bold;
+	transition: all 0.5s;
+}
+body .ms-3er-blog .meta-category a:hover {
+	color: #fff !important;
+	opacity: 0.8;
+}
+.archive .subheader::before {
+	content: "Archive ";
+	visibility: visible;
+}
+.archive .subheader {
+	visibility: hidden;
+}
+body.single article.post .content-inner {
+	border-bottom: none;
+	margin-bottom: 0;
+}
+.download-text p {
+	color: #aaa;
+	font-size: 0.7em;
+	margin-top: -13px;
+}
+@media only screen and (min-width:1000px) {
+.mobile-navi {
+  display: none;
+}
+}
+.mobile-navi a {
+	font-size: 32px !important;
+	line-height: 2em !important;
+	text-transform: uppercase;
+}
+
+
+nav .menu-item-over a {
+  background: #597eb9;
+  transition: all 0.9s;
+}
+
+body #header-outer[data-lhe="default"] #top nav > ul > li > a {
+	padding: 12px 20px;
+  margin-left: 5px;
+}
+
+nav .sf-menu > li ul {
+	padding: 0;
+}
+body #top nav > ul > li > ul > li {
+	transform: none;
+}
+nav .sub-menu li a {
+	padding: 15px;
+}
+</style>
+<style type="text/css" data-type="vc_shortcodes-default-css">.vc_do_custom_heading{margin-bottom:0.625rem;margin-top:0;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1541591767907{margin-top: 5% !important;}.vc_custom_1541579412018{margin-top: 5% !important;}.vc_custom_1563794936551{padding-top: 15px !important;padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1616485209371{padding-top: 15px !important;padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1541582560408{padding-top: 15px !important;padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1541582645627{padding-top: 15px !important;padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1550656064620{margin-top: 5% !important;}.vc_custom_1767626428995{margin-top: 4% !important;}.vc_custom_1767626440755{margin-top: 4% !important;}.vc_custom_1767626390379{margin-top: 4% !important;}.vc_custom_1767626768128{margin-top: 4% !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><link data-pagespeed-no-defer data-nowprocket data-wpacu-skip data-no-optimize data-noptimize rel='stylesheet' id='main-styles-non-critical-css' href='https://gemstat.org/wp-content/themes/salient/css/build/style-non-critical.css?ver=18.2.0' media='all' />
+<link data-pagespeed-no-defer data-nowprocket data-wpacu-skip data-no-optimize data-noptimize rel='stylesheet' id='magnific-css' href='https://gemstat.org/wp-content/themes/salient/css/build/plugins/magnific.css?ver=8.6.0' media='all' />
+<link data-pagespeed-no-defer data-nowprocket data-wpacu-skip data-no-optimize data-noptimize rel='stylesheet' id='nectar-ocm-core-css' href='https://gemstat.org/wp-content/themes/salient/css/build/off-canvas/core.css?ver=18.2.0' media='all' />
+
+</head><body class="home wp-singular page-template-default page page-id-923 wp-theme-salient wp-child-theme-salient-child original wpb-js-composer js-comp-ver-8.7.3 vc_responsive" data-footer-reveal="1" data-footer-reveal-shadow="small" data-header-format="default" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="easeOutCubic" data-cad="750" data-megamenu-width="contained" data-aie="none" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-form-submit="regular" data-is="minimal" data-button-style="default" data-user-account-button="false" data-flex-cols="true" data-col-gap="default" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="off" data-loading-animation="none" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-ext-padding="90" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-cart="false" data-remove-m-parallax="" data-remove-m-video-bgs="" data-m-animate="0" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" >
+	
+	<script type="text/javascript">
+	 (function(window, document) {
+
+		document.documentElement.classList.remove("no-js");
+
+		if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) {
+			document.body.className += " using-mobile-browser mobile ";
+		}
+		if(navigator.userAgent.match(/Mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2) {
+			document.body.className += " using-ios-device ";
+		}
+
+		if( !("ontouchstart" in window) ) {
+
+			var body = document.querySelector("body");
+			var winW = window.innerWidth;
+			var bodyW = body.clientWidth;
+
+			if (winW > bodyW + 4) {
+
+				var vwTestEl = document.createElement("div");
+				vwTestEl.style.position = "absolute";
+				vwTestEl.style.top = "-9999px";
+				vwTestEl.style.width = "100vw";
+				body.appendChild(vwTestEl);
+				var vwWidth = vwTestEl.offsetWidth;
+				body.removeChild(vwTestEl);
+
+				if (vwWidth > bodyW + 4) {
+					body.setAttribute("style", "--scroll-bar-w: " + (winW - bodyW - 4) + "px");
+				} else {
+					body.setAttribute("style", "--scroll-bar-w: 0px");
+				}
+
+			} else {
+				body.setAttribute("style", "--scroll-bar-w: 0px");
+			}
+		}
+
+	 })(window, document);
+   </script><nav aria-label="Skip links" class="nectar-skip-to-content-wrap" data-nosnippet><a href="#ajax-content-wrap" class="nectar-skip-to-content">Skip to main content</a></nav>	
+	<div id="header-space"  data-header-mobile-fixed='1'></div> 
+	
+		<div id="header-outer" data-has-menu="true" data-has-buttons="no" data-header-button_style="default" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#305da8" data-format="default" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="0" data-header-resize="0" data-cart="false" data-transparency-option="0" data-box-shadow="large" data-shrink-num="6" data-using-secondary="0" data-using-logo="1" data-logo-height="45" data-m-logo-height="25" data-padding="20" data-full-width="false" data-condense="false" >
+		
+<div id="search-outer" class="nectar" data-nosnippet>
+	<div id="search">
+		<div class="container">
+			 <div id="search-box">
+				 <div class="inner-wrap">
+					 <div class="col span_12">
+						  <form role="search" action="https://gemstat.org/" method="GET">
+															<input type="text" name="s"  value="Start Typing..." aria-label="Search" data-placeholder="Start Typing..." />
+							
+						
+						<button aria-label="Search" class="search-box__button" type="submit">Search</button>						</form>
+					</div><!--/span_12-->
+				</div><!--/inner-wrap-->
+			 </div><!--/search-box-->
+			 <div id="close"><a href="#" role="button"><span class="screen-reader-text">Close Search</span>
+				<span class="icon-salient-x" aria-hidden="true"></span>				 </a></div>
+		 </div><!--/container-->
+	</div><!--/search-->
+</div><!--/search-outer-->
+
+<header id="top" role="banner" aria-label="Main Menu">
+		<div class="container">
+		<div class="row">
+			<div class="col span_3">
+								<a id="logo" href="https://gemstat.org" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="false" >
+					<img class="stnd skip-lazy default-logo dark-version" width="822" height="188" alt="GEMStat" src="https://gemstat.org/wp-content/uploads/2019/12/gemstat-unep_logo_weiss_2019_45px.png" srcset="https://gemstat.org/wp-content/uploads/2019/12/gemstat-unep_logo_weiss_2019_45px.png 1x, https://gemstat.org/wp-content/uploads/2019/12/gemstat-unep_logo_weiss_2019_90px.png 2x" />				</a>
+							</div><!--/span_3-->
+
+			<div class="col span_9 col_last">
+									<div class="nectar-mobile-only mobile-header"><div class="inner"></div></div>
+													<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right" data-custom-color="false" data-icon-animation="simple-transform">
+						<div> <a href="#slide-out-widget-area" role="button" aria-label="Navigation Menu" aria-expanded="false" class="closed">
+							<span class="screen-reader-text">Menu</span><span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i> </span>						</a></div>
+					</div>
+				
+									<nav aria-label="Main Menu">
+													<ul class="sf-menu">
+								<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item sf-with-ul menu-item-152"><a href="https://gemstat.org/about/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text"><span>About</span></span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu" aria-hidden="true"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1463" class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-1463"><a href="https://gemstat.org/about/"><span class="menu-title-text">About</span></a></li>
+	<li id="menu-item-536" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-536"><a href="https://gemstat.org/about/data-availability/"><span class="menu-title-text">Data availability</span></a></li>
+	<li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-534"><a href="https://gemstat.org/about/metrics-on-usage/"><span class="menu-title-text">Metrics on usage</span></a></li>
+</ul>
+</li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item sf-with-ul menu-item-147"><a href="https://gemstat.org/data-gemstat/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text"><span>Data</span></span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu" aria-hidden="true"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1464" class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-1464"><a href="https://gemstat.org/data-gemstat/"><span class="menu-title-text">Data</span></a></li>
+	<li id="menu-item-537" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-537"><a href="https://gemstat.org/data-gemstat/data-portal/"><span class="menu-title-text">Data portal</span></a></li>
+	<li id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-1952"><a href="https://gemstat.org/data-gemstat/global-water-quality/"><span class="menu-title-text">Water quality indicators</span></a></li>
+	<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-149"><a href="https://gemstat.org/data-gemstat/statistic-reports/"><span class="menu-title-text">Statistic reports</span></a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-148"><a href="https://gemstat.org/data-gemstat/data-submission/"><span class="menu-title-text">Data submission</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item sf-with-ul menu-item-3083"><a href="https://gemstat.org/projects/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text">Projects</span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu" aria-hidden="true"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-3174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children nectar-regular-menu-item menu-item-3174"><a href="https://gemstat.org/archive/projects-current/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text">Current Projects</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3084" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3084"><a href="https://gemstat.org/projects/geo/"><span class="menu-title-text">GEO Aquawatch</span></a></li>
+		<li id="menu-item-3085" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3085"><a href="https://gemstat.org/projects/ogc-wqie/"><span class="menu-title-text">OGC Water Quality Interoperability Experiment</span></a></li>
+		<li id="menu-item-3086" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3086"><a href="https://gemstat.org/projects/sdg632/"><span class="menu-title-text">UN SDG Indicator 6.3.2</span></a></li>
+		<li id="menu-item-3087" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3087"><a href="https://gemstat.org/projects/wwqa/"><span class="menu-title-text">World Water Quality Alliance (WWQA)</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children nectar-regular-menu-item menu-item-3175"><a href="https://gemstat.org/archive/projects-past/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text">Past Projects</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3176" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3176"><a href="https://gemstat.org/projects/globe-wq/"><span class="menu-title-text">GlobeWQ</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3059" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3059"><a href="https://gemstat.org/gemstat-news/"><span class="menu-title-text">News</span></a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item sf-with-ul menu-item-153"><a href="https://gemstat.org/contact/" aria-haspopup="true" aria-expanded="false"><span class="menu-title-text"><span>Contact</span></span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu" aria-hidden="true"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1465" class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-1465"><a href="https://gemstat.org/contact/"><span class="menu-title-text">Contact</span></a></li>
+	<li id="menu-item-355" class="menu-item menu-item-type-custom menu-item-object-custom nectar-regular-menu-item menu-item-355"><a href="https://gemstat.org/contact/#team"><span class="menu-title-text">Team</span></a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-285"><a href="https://gemstat.org/contact/imprint/"><span class="menu-title-text">Imprint</span></a></li>
+	<li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-837"><a href="https://gemstat.org/contact/data-protection-gdpr/"><span class="menu-title-text">Privacy Policy</span></a></li>
+	<li id="menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3003"><a href="https://gemstat.org/contact/declaration-accessibility/"><span class="menu-title-text">Declaration on Accessibility</span></a></li>
+</ul>
+</li>
+							</ul>
+													<ul class="buttons sf-menu" data-user-set-ocm="off"></ul>
+						
+					</nav>
+
+					
+				</div><!--/span_9-->
+
+				
+			</div><!--/row-->
+					</div><!--/container-->
+	</header>		
+	</div>
+		<div id="ajax-content-wrap">
+<div class="container-wrap">
+	<div class="container main-content" role="main">
+		<div class="row">
+			
+		<div id="fws_6a5c7edddac4e"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row top-level full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-content-top slider-header"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="0.8" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+    <div class="row blog-recent columns-1" data-style="default" data-color-scheme="light" data-remove-post-date="" data-remove-post-author="" data-remove-post-comment-number="" data-remove-post-nectar-love="">
+
+      
+    </div><!--/blog-recent-->
+
+  
+	<div class="wpb_raw_code wpb_raw_html wpb_content_element" >
+		<div class="wpb_wrapper">
+			<div><ss3-force-full-width data-overflow-x="body" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore " data-ssid="4" tabindex="0" role="region" aria-label="Slider"><div id="n2-ss-4-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-4" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                    <div class="n2-ss-background-animation n2-ow"></div>
+                                <div class="n2-ss-slider-3 n2-ow">
+
+                    <div class="n2-ss-static-slide n2-ow"><div class="n2-ss-layer n2-ow n-uc-eoYZHdqsfiYZ" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n-uc-82bxcDGDp8G6" data-pm="default" data-sstype="content" data-hasbackground="0"><div class="n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-82bxcDGDp8G6-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-U66ZPGkhKFwR" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-U66ZPGkhKFwR-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-1nOevI8FV5lX" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-1nOevI8FV5lX-inner"><div class="n2-ss-layer n2-ow n-uc-YmVZtwrfgK7C" data-pm="normal" data-sstype="layer"><div class=" n2-ss-item-image-content n2-ss-item-content n2-ow-all"><img decoding="async" id="n2-ss-4item1" alt="" class="skip-lazy" loading="lazy" width="415" height="95" data-skip-lazy="1" src="//gemstat.org/wp-content/uploads/2019/12/Logo_GEMS_Water_4c_2019.png" /></div></div><div class="n2-ss-layer n2-ow n-uc-AQBX21xsv1te" data-pm="normal" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div class=""><p class="n2-font-8e7b0b7aca5ab9b4a5197c557f1c3a7b-paragraph   ">The Global Freshwater Quality Database GEMStat provides scientifically-sound data and information on the state and trend of global inland water quality. As operational part of the GEMS/Water Programme of the United Nations Environment Programme (UNEP), GEMStat is hosted by the GEMS/Water Data Centre (GWDC) within the International Centre for Water Resources and Global Change (ICWRGC) in Koblenz, Germany.</p>
+</div></div></div></div></div></div></div></div></div></div><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-pxEmOH9jQJNX" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="1" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-pxEmOH9jQJNX-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-rmUphLSbKmIO" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-rmUphLSbKmIO-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-zUsJc3H7KcmV" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="1" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-zUsJc3H7KcmV-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-JkUaqh4nWPYe" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-JkUaqh4nWPYe-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-gpzbzlNamViA" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-gpzbzlNamViA-inner"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align n-uc-QloGWBbtc6TX" data-pm="normal" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-QloGWBbtc6TX-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow n-uc-NkeIwKBHphgB" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-NkeIwKBHphgB-inner"></div></div><div class="n2-ss-layer n2-ow n-uc-S20Th8Pr0kvX" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-S20Th8Pr0kvX-inner"></div></div></div></div></div></div></div></div></div></div></div></div><div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//gemstat.org/wp-content/uploads/2020/01/slider_gemstat_fluss.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill" aria-hidden="true"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//gemstat.org/wp-content/uploads/2020/01/slider_gemstat_nilpferde.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill" aria-hidden="true"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//gemstat.org/wp-content/uploads/2020/01/slider_gemstat_quelle.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="12" data-slide-public-id="1" data-title="Slide 3" class="n2-ss-slide n2-ow  n2-ss-slide-12"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Slide 3</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-6xqYXy3GwOUU" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="10" data-slide-public-id="2" aria-hidden="true" data-title="Slide 1" class="n2-ss-slide n2-ow  n2-ss-slide-10"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Slide 1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-sOjShy8nmMyw" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="11" data-slide-public-id="3" aria-hidden="true" data-title="Slide 2" class="n2-ss-slide n2-ow  n2-ss-slide-11"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Slide 2</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-MahhfFQ0fCPr" data-sstype="slide" data-pm="default"></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-4-arrow-previous" role="button" aria-label="Pfeil zurück" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="Pfeil zurück"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-4-arrow-next" role="button" aria-label="Pfeil weiter" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="Pfeil weiter"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></ss3-force-full-width></div>
+		</div>
+	</div>
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7edde5215"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row header_news"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+<div class="wpb_text_column wpb_content_element  vc_custom_1541591767907" >
+	<h1>News</h1>
+</div>
+
+
+
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7edde6a76"  data-column-margin="default" data-midnight="light"  class="wpb_row vc_row-fluid vc_row full-width-section ms-3er-blog"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 light left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+<div class="row">
+
+ <div class="post-area col  span_12 col_last masonry classic  " data-ams="" data-remove-post-date="" data-remove-post-author="" data-remove-post-comment-number="" data-remove-post-nectar-love=""> <div class="posts-container" data-load-animation="none">     
+     
+<article id="post-3203" class="regular masonry-blog-item post-3203 post type-post status-publish format-standard has-post-thumbnail category-data-submission">  
+  
+  <span class="bottom-line"></span>
+  
+  <div class="inner-wrap animated">
+    
+    <div class="post-content classic">
+      
+      <div class="content-inner">
+        
+        <a href="https://gemstat.org/new-data-from-the-russian-federation-2026/"><span class="post-featured-img"><img fetchpriority="high" decoding="async" width="850" height="722" src="https://gemstat.org/wp-content/uploads/2026/07/RUS_2026_data_submission.png" class="attachment-large size-large skip-lazy wp-post-image" alt="" title="" sizes="(min-width: 1600px) 20vw, (min-width: 1300px) 25vw, (min-width: 1000px) 33.3vw, (min-width: 690px) 50vw, 100vw" srcset="https://gemstat.org/wp-content/uploads/2026/07/RUS_2026_data_submission.png 850w, https://gemstat.org/wp-content/uploads/2026/07/RUS_2026_data_submission-300x255.png 300w, https://gemstat.org/wp-content/uploads/2026/07/RUS_2026_data_submission-768x652.png 768w" /></span></a>        
+        <div class="article-content-wrap">
+          
+          <div class="post-header">
+            
+            <h3 class="title"><a href="https://gemstat.org/new-data-from-the-russian-federation-2026/"> New data from the Russian Federation 2026</a></h3>
+            
+            
+<span class="meta-author">
+  <span>By</span> <a href="https://gemstat.org/author/lisniak/" rel="author">lisniak</a></span><span class="meta-category"><a href="https://gemstat.org/archive/data-submission/">Data submission</a></span>            
+          </div><!--/post-header-->
+          
+          <div class="excerpt">A new data submission from the Hydrochemical Institute of the Russian Federation (GHI) has been processed and imported into the GEMStat Water Quality Database. A summary of the newly available...</div><a class="more-link" href="https://gemstat.org/new-data-from-the-russian-federation-2026/"><span class="continue-reading">Read More</span></a>          
+        </div><!--article-content-wrap-->
+        
+      </div><!--/content-inner-->
+      
+      
+<div class="post-meta">
+  
+  <div class="date">
+    3 July 2026  </div>
+  
+  <div class="nectar-love-wrap">
+    <a href="#" class="nectar-love" id="nectar-love-3203" title="Love this"> <i class="icon-salient-heart-2"></i><span class="love-text">Love</span><span class="total_loves"><span class="nectar-love-count">0</span></span></a>  </div>
+  
+</div><!--/post-meta-->      
+    </div><!--/post-content-->
+    
+  </div><!--/inner-wrap-->
+  
+</article>     
+     
+<article id="post-3152" class="regular masonry-blog-item post-3152 post type-post status-publish format-standard category-data-products">  
+  
+  <span class="bottom-line"></span>
+  
+  <div class="inner-wrap animated">
+    
+    <div class="post-content classic">
+      
+      <div class="content-inner">
+        
+        <a href="https://gemstat.org/update-gfqa/"><span class="post-featured-img"></span></a>        
+        <div class="article-content-wrap">
+          
+          <div class="post-header">
+            
+            <h3 class="title"><a href="https://gemstat.org/update-gfqa/"> Update of UNEP GEMS/Water Global Freshwater Quality Archive</a></h3>
+            
+            
+<span class="meta-author">
+  <span>By</span> <a href="https://gemstat.org/author/mheinle/" rel="author">Moritz Heinle</a></span><span class="meta-category"><a href="https://gemstat.org/archive/data-products/">Data products</a></span>            
+          </div><!--/post-header-->
+          
+          <div class="excerpt">The GEMS/Water Data Centre has updated the UNEP GEMS/Water Global Freshwater Quality Archive which is published on Zenodo (https://doi.org/10.5281/zenodo.13881899). The archive is freely available for download, presenting an additional and...</div><a class="more-link" href="https://gemstat.org/update-gfqa/"><span class="continue-reading">Read More</span></a>          
+        </div><!--article-content-wrap-->
+        
+      </div><!--/content-inner-->
+      
+      
+<div class="post-meta">
+  
+  <div class="date">
+    4 February 2026  </div>
+  
+  <div class="nectar-love-wrap">
+    <a href="#" class="nectar-love" id="nectar-love-3152" title="Love this"> <i class="icon-salient-heart-2"></i><span class="love-text">Love</span><span class="total_loves"><span class="nectar-love-count">0</span></span></a>  </div>
+  
+</div><!--/post-meta-->      
+    </div><!--/post-content-->
+    
+  </div><!--/inner-wrap-->
+  
+</article>     
+     
+<article id="post-3047" class="regular masonry-blog-item post-3047 post type-post status-publish format-standard category-data-products">  
+  
+  <span class="bottom-line"></span>
+  
+  <div class="inner-wrap animated">
+    
+    <div class="post-content classic">
+      
+      <div class="content-inner">
+        
+        <a href="https://gemstat.org/arcgis-migration-2025/"><span class="post-featured-img"></span></a>        
+        <div class="article-content-wrap">
+          
+          <div class="post-header">
+            
+            <h3 class="title"><a href="https://gemstat.org/arcgis-migration-2025/"> 21-10-2025: Migration of ArcGIS Services</a></h3>
+            
+            
+<span class="meta-author">
+  <span>By</span> <a href="https://gemstat.org/author/mheinle/" rel="author">Moritz Heinle</a></span><span class="meta-category"><a href="https://gemstat.org/archive/data-products/">Data products</a></span>            
+          </div><!--/post-header-->
+          
+          <div class="excerpt"><p>GEMStat ArcGIS services (Dashboard, Interactive Maps, and Storymaps) have been migrated to a new server. The previous URL&#8217;s will stop working shortly, please find the new addresses below: &nbsp; GEMStat&#8230;</p>
+</div><a class="more-link" href="https://gemstat.org/arcgis-migration-2025/"><span class="continue-reading">Read More</span></a>          
+        </div><!--article-content-wrap-->
+        
+      </div><!--/content-inner-->
+      
+      
+<div class="post-meta">
+  
+  <div class="date">
+    21 October 2025  </div>
+  
+  <div class="nectar-love-wrap">
+    <a href="#" class="nectar-love" id="nectar-love-3047" title="Love this"> <i class="icon-salient-heart-2"></i><span class="love-text">Love</span><span class="total_loves"><span class="nectar-love-count">0</span></span></a>  </div>
+  
+</div><!--/post-meta-->      
+    </div><!--/post-content-->
+    
+  </div><!--/inner-wrap-->
+  
+</article>    
+    </div><!--/posts container-->
+    
+      
+</div><!--/post area-->
+
+  
+
+</div>
+
+<a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-right: 15px; margin-bottom: 15px; "  href="/archive/data-products" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Archive Data products</span><i  class="icon-button-arrow"></i></a><a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-right: 15px; margin-bottom: 15px; "  href="/archive/events" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Archive Events</span><i  class="icon-button-arrow"></i></a><a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-right: 15px; margin-bottom: 15px; "  href="/archive/publications" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Archive Publications</span><i  class="icon-button-arrow"></i></a><a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-right: 15px; margin-bottom: 15px; "  href="/archive/data-submission" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Archive Data submission</span><i  class="icon-button-arrow"></i></a><div class="divider-wrap" data-alignment="default"><div style="height: 60px;" class="divider"></div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7ede071eb"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row header_data"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+<div class="wpb_text_column wpb_content_element  vc_custom_1541579412018" >
+	<h1>Data</h1>
+</div>
+
+
+
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7ede0822b"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row vc_row-o-equal-height vc_row-flex icon_boxes"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305da8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305da8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede148de" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div style=" color: #ffffff;" class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column centered-text no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px " data-cfc="true" data-using-bg="true" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#305da8" data-bg-opacity="0.7" data-hover-bg="#305da8" data-hover-bg-opacity="0.9" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" ><a class="column-link" target="_self" href="https://gemstat.org/data/data-portal/"></a><div class="column-image-bg-wrap column-bg-layer viewport-desktop" data-bg-pos="center center" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="column-image-bg" style=" background-image: url('https://gemstat.org/wp-content/uploads/2019/02/header_data-explorer2.jpg'); "></div></div></div><div class="column-bg-overlay-wrap column-bg-layer" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 0.7; background-color: #305da8;"></div></div>
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap " data-style="default" data-padding="20px" data-color="white" style="margin-top: 30px; margin-bottom: 30px; " >
+		<div class="nectar_icon" ><a href="https://gemstat.org/data/data-portal/" ></a><i style="font-size: 30px; line-height: 30px; height: 30px; width: 30px;" class="fa fa-search"></i></div>
+	</div>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1563794936551" >
+	<h3>Data portal:</h3>
+<p>Explore available water quality data and view statistical visualisations at different spatial scales.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px;"  href="https://gemstat.org/data-gemstat/data-portal/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Data portal</span><i  class="icon-button-arrow"></i></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305da8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305da8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede16d37" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div style=" color: #ffffff;" class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column centered-text no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px " data-cfc="true" data-using-bg="true" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#305da8" data-bg-opacity="0.7" data-hover-bg="#305da8" data-hover-bg-opacity="0.9" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" ><a class="column-link" target="_self" href="https://gemstat.org/data/maps/"></a><div class="column-image-bg-wrap column-bg-layer viewport-desktop" data-bg-pos="center center" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="column-image-bg" style=" background-image: url('https://gemstat.org/wp-content/uploads/2019/02/header-maps.jpg'); "></div></div></div><div class="column-bg-overlay-wrap column-bg-layer" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 0.7; background-color: #305da8;"></div></div>
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap " data-style="default" data-padding="20px" data-color="white" style="margin-top: 30px; margin-bottom: 30px; " >
+		<div class="nectar_icon" ><a href="https://gemstat.org/data/maps/" ></a><i style="font-size: 30px; line-height: 30px; height: 30px; width: 30px;" class="fa fa-map"></i></div>
+	</div>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1616485209371" >
+	<h3>Water quality indicators:</h3>
+<p>Visualise the status of freshwater bodies worldwide by means of water quality classification maps.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px;"  href="https://gemstat.org/data-gemstat/global-water-quality/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Water quality indicators</span><i  class="icon-button-arrow"></i></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7ede18c00"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row vc_row-o-equal-height vc_row-flex icon_boxes"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305da8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305da8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede195f4" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div style=" color: #ffffff;" class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column centered-text no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px " data-cfc="true" data-using-bg="true" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#305da8" data-bg-opacity="0.7" data-hover-bg="#305da8" data-hover-bg-opacity="0.9" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" ><a class="column-link" target="_self" href="https://gemstat.org/data/statistic-reports/"></a><div class="column-image-bg-wrap column-bg-layer viewport-desktop" data-bg-pos="center center" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="column-image-bg" style=" background-image: url('https://gemstat.org/wp-content/uploads/2018/11/header_statistics.jpg'); "></div></div></div><div class="column-bg-overlay-wrap column-bg-layer" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 0.7; background-color: #305da8;"></div></div>
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap " data-style="default" data-padding="20px" data-color="white" style="margin-top: 30px; margin-bottom: 30px; " >
+		<div class="nectar_icon" ><a href="https://gemstat.org/data/statistic-reports/" ></a><i style="font-size: 30px; line-height: 30px; height: 30px; width: 30px;" class="fa fa-list-alt"></i></div>
+	</div>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1541582560408" >
+	<h3>Statistic reports:</h3>
+<p>Retrieve aggregated statistics of GEMStat water quality data, for the spatial coverage and the aggregation level you need.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px;"  href="https://gemstat.org/data-gemstat/statistic-reports/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Statistic Reports</span><i  class="icon-button-arrow"></i></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="rgba(48,93,168,0.5)" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid rgba(48,93,168,0.5);">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede1b01c" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div style=" color: #ffffff;" class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column centered-text no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px " data-cfc="true" data-using-bg="true" data-bg-cover="true" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#305da8" data-bg-opacity="0.7" data-hover-bg="#305da8" data-hover-bg-opacity="0.9" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" ><a class="column-link" target="_self" href="https://gemstat.org/data/data-submission/"></a><div class="column-image-bg-wrap column-bg-layer viewport-desktop" data-bg-pos="center center" data-bg-animation="none" data-bg-overlay="false"><div class="inner-wrap"><div class="column-image-bg" style=" background-image: url('https://gemstat.org/wp-content/uploads/2018/11/header_submission.jpg'); "></div></div></div><div class="column-bg-overlay-wrap column-bg-layer" data-bg-animation="none"><div class="column-bg-overlay" style="opacity: 0.7; background-color: #305da8;"></div></div>
+		<div class="wpb_wrapper">
+			<div class="nectar_icon_wrap " data-style="default" data-padding="20px" data-color="white" style="margin-top: 30px; margin-bottom: 30px; " >
+		<div class="nectar_icon" ><a href="https://gemstat.org/data/data-submission/" ></a><i style="font-size: 30px; line-height: 30px; height: 30px; width: 30px;" class="fa fa-paper-plane"></i></div>
+	</div>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+<div class="wpb_text_column wpb_content_element  vc_custom_1541582645627" >
+	<h3>Data submission:</h3>
+<p>Read our data policy and data submission manuals and learn about how to contribute to GEMStat.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color has-icon  regular-button"  role="button" style="margin-top: 15px; margin-right: 15px; margin-bottom: 15px; margin-left: 15px;"  href="https://gemstat.org/data-gemstat/data-submission/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Data submission</span><i  class="icon-button-arrow"></i></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7ede1ce4c"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row header_projects"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "  data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+			<div class="wpb_wrapper">
+				
+<div class="wpb_text_column wpb_content_element  vc_custom_1550656064620" >
+	<h1>Projects</h1>
+</div>
+
+
+
+
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		<div id="fws_6a5c7ede1dd9e"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row"  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"><div class="inner-wrap row-bg-layer" ><div class="row-bg viewport-desktop"  style=""></div></div></div><div class="row_col_wrap_12 col span_12 dark left">
+	<div  class="vc_col-sm-3 wpb_column column_container vc_column_container col padding-1-percent inherit_tablet inherit_phone flex_gap_desktop_10px "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305da8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305da8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede1e89a" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row vc_row-o-equal-height vc_row-flex vc_row-o-content-middle"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "   data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%" data-max-width-mobile="default" data-shadow="none" data-animation="fade-in"  style="margin-top: 5%; margin-right: 10%; ">
+      <div class="inner">
+        <div class="hover-wrap"> 
+          <div class="hover-wrap-inner">
+            <a href="https://gemstat.org/projects/sdg632/" target="_self" class="">
+              <img decoding="async" class="img-with-animation skip-lazy" data-delay="0" height="104" width="729" data-animation="fade-in" src="https://gemstat.org/wp-content/uploads/2019/02/SDG_Goals.jpg" alt="" srcset="https://gemstat.org/wp-content/uploads/2019/02/SDG_Goals.jpg 729w, https://gemstat.org/wp-content/uploads/2019/02/SDG_Goals-300x43.jpg 300w" sizes="(max-width: 729px) 100vw, 729px" />
+            </a>
+          </div>
+        </div>
+        
+      </div>
+      </div><h3 style="color: #444444;text-align: left" class="vc_custom_heading vc_do_custom_heading vc_custom_1767626428995" ><a href="https://gemstat.org/projects/sdg632/" title="UN SDG Indicator 6.3.2">Monitoring SDG indicator 6.3.2 on ambient water quality</a></h3>
+<div class="wpb_text_column wpb_content_element " >
+	<p>Improving ambient water quality globally is one of the 169 ambitious targets set out in the Agenda 2030 for Sustainable Development (target 6.3). Comprehensive and up-to-date monitoring data on ambient water quality is a prerequisite to provide decision makers with the information they require to ensure the availability and sustainable management of water resources for both human uses and maintaining aquatic ecosystems.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color  regular-button"  role="button" style="margin-top: 15px; "  href="https://gemstat.org/projects/sdg632/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-3 wpb_column column_container vc_column_container col padding-1-percent inherit_tablet inherit_phone "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305DA8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305DA8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede20c38" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row vc_row-o-equal-height vc_row-flex vc_row-o-content-middle"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "   data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%" data-max-width-mobile="default" data-shadow="none" data-animation="fade-in"  style="margin-top: 5%; margin-right: 10%; ">
+      <div class="inner">
+        <div class="hover-wrap"> 
+          <div class="hover-wrap-inner">
+            <a href="https://gemstat.org/projects/geo/" target="_self" class="">
+              <img decoding="async" class="img-with-animation skip-lazy" data-delay="0" height="1215" width="2560" data-animation="fade-in" src="https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-scaled.png" alt="Logo GEO Aquawatch" srcset="https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-scaled.png 2560w, https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-300x142.png 300w, https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-1024x486.png 1024w, https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-768x364.png 768w, https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-1536x729.png 1536w, https://gemstat.org/wp-content/uploads/2025/07/aquawatch_colour_logo_small-2048x972.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
+            </a>
+          </div>
+        </div>
+        
+      </div>
+      </div><h3 style="color: #444444;text-align: left" class="vc_custom_heading vc_do_custom_heading vc_custom_1767626440755" ><a href="https://gemstat.org/projects/geo/" title="GEO Aquawatch">GEO Aquawatch</a></h3>
+<div class="wpb_text_column wpb_content_element " >
+	<p>Earth observation methodology possesses great potential to support water quality monitoring programmes, particularly in remote and inaccessible areas. However, thorough calibration of the associated algorithms is required to ensure reliable observations. GEO Aquawatch is an initiative which aims to establish and develop global applications of water quality data based on earth observation.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color  regular-button"  role="button" style="margin-top: 15px; "  href="https://gemstat.org/projects/geo/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-3 wpb_column column_container vc_column_container col padding-1-percent inherit_tablet inherit_phone "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305DA8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305DA8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede229d3" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row vc_row-o-equal-height vc_row-flex vc_row-o-content-middle"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "   data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap " data-max-width="100%" data-max-width-mobile="default" data-shadow="none" data-animation="fade-in"  style="margin-top: 5%; margin-right: 10%; ">
+      <div class="inner">
+        <div class="hover-wrap"> 
+          <div class="hover-wrap-inner">
+            <a href="https://gemstat.org/projects/ogc-wqie/" target="_self" class="">
+              <img decoding="async" class="img-with-animation skip-lazy" data-delay="0" height="840" width="2560" data-animation="fade-in" src="https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-scaled.png" alt="Logo of the Open Geospatial Consortium" srcset="https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-scaled.png 2560w, https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-300x98.png 300w, https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-1024x336.png 1024w, https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-768x252.png 768w, https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-1536x504.png 1536w, https://gemstat.org/wp-content/uploads/2025/07/Open_Geospatial_Consortium_logo-2048x672.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" />
+            </a>
+          </div>
+        </div>
+        
+      </div>
+      </div><h3 style="color: #444444;text-align: left" class="vc_custom_heading vc_do_custom_heading vc_custom_1767626390379" ><a href="https://gemstat.org/projects/ogc-wqie/" title="OGC Water Quality Interoperability Experiment">OGC Water Quality Interoperability Experiment</a></h3>
+<div class="wpb_text_column wpb_content_element " >
+	<p>Water quality monitoring data are continuously collected in local, national and multinational databases, which need to be linked to provide information on a global scale. The OGC Water Quality Interoperability Experiment is testing the interoperability and connectivity of existing water quality platforms, using a framework developed from the OGC WaterML suite of standards, the OGC SensorThings API and the OGC standard on Observations, Measurements and Sample.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color  regular-button"  role="button" style="margin-top: 15px; "  href="https://gemstat.org/projects/ogc-wqie/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+
+	<div  class="vc_col-sm-3 wpb_column column_container vc_column_container col padding-1-percent inherit_tablet inherit_phone "  data-border-radius="3px" data-border-animation="" data-border-animation-delay="" data-border-width="1px" data-border-style="solid" data-border-color="#305DA8" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" style="border: 1px solid #305DA8;">
+			<div class="wpb_wrapper">
+				<div id="fws_6a5c7ede24899" data-midnight="" data-column-margin="default" class="wpb_row vc_row-fluid vc_row inner_row vc_row-o-equal-height vc_row-flex vc_row-o-content-middle"  style=""><div class="row-bg-wrap"> <div class="row-bg" ></div> </div><div class="row_col_wrap_12_inner col span_12  left">
+	<div  class="vc_col-sm-12 wpb_column column_container vc_column_container col child_column no-extra-padding inherit_tablet inherit_phone flex_gap_desktop_10px "   data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-animation="" data-delay="0" >
+		<div class="vc_column-inner" >
+		<div class="wpb_wrapper">
+			<div class="img-with-aniamtion-wrap  custom-size" data-max-width="100%" data-max-width-mobile="default" data-shadow="none" data-animation="fade-in"  style="margin-top: 5%; margin-right: 10%; ">
+      <div class="inner">
+        <div class="hover-wrap"> 
+          <div class="hover-wrap-inner">
+            <a href="https://gemstat.org/projects/wwqa/" target="_self" class="">
+              <img decoding="async" class="img-with-animation skip-lazy" data-delay="0" height="150" width="150" data-animation="fade-in" src="https://gemstat.org/wp-content/uploads/2025/06/WWQA-Logo-new-e1751032248686-150x150.png" alt="Logo of the World Water Quality Alliance" srcset="https://gemstat.org/wp-content/uploads/2025/06/WWQA-Logo-new-e1751032248686-150x150.png 150w, https://gemstat.org/wp-content/uploads/2025/06/WWQA-Logo-new-e1751032248686-140x140.png 140w, https://gemstat.org/wp-content/uploads/2025/06/WWQA-Logo-new-e1751032248686-100x100.png 100w, https://gemstat.org/wp-content/uploads/2025/06/WWQA-Logo-new-e1751032248686-350x350.png 350w" sizes="(max-width: 150px) 100vw, 150px" />
+            </a>
+          </div>
+        </div>
+        
+      </div>
+      </div><h3 style="color: #444444;text-align: left" class="vc_custom_heading vc_do_custom_heading vc_custom_1767626768128" ><a href="https://gemstat.org/projects/wwqa/" title="World Water Quality Alliance (WWQA)">World Water Quality Alliance</a></h3>
+<div class="wpb_text_column wpb_content_element " >
+	<p>The World Water Quality Alliance (WWQA) is a global multi-stakeholder network. It promotes the recognition of the central role for freshwater quality to increase prosperity and sustainability worldwide. The alliance provides a cooperative platform for water quality assessment and the design of custom-made services driven by demands. Particular attention is given to the involvement of local communities and younger generations.</p>
+</div>
+
+
+
+<a class="nectar-button small regular accent-color  regular-button"  role="button" style="margin-top: 15px; "  href="https://gemstat.org/projects/wwqa/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>READ MORE</span></a>
+		</div> 
+	</div>
+	</div> 
+</div></div>
+			</div> 
+		</div>
+	</div> 
+</div></div>
+		</div>
+	</div>
+	</div>
+
+<div id="footer-outer" data-cols="3" data-custom-color="true" data-disable-copyright="true" data-matching-section-color="true" data-copyright-line="false" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true" data-link-hover="default"role="contentinfo">
+	
+		
+	<div id="footer-widgets" data-has-widgets="true" data-cols="3">
+		
+		<div class="container">
+			
+						
+			<div class="row">
+				
+								
+				<div class="col span_4">
+					<div id="media_image-2" class="widget widget_media_image"><a href="https://www.waterandchange.org/"><img width="255" height="129" src="https://gemstat.org/wp-content/uploads/2022/02/ICWRGC_Logo_2022-255x129-1.png" class="image wp-image-2172  attachment-full size-full" alt="Logo ICWRGC" style="max-width: 100%; height: auto;" decoding="async" /></a></div>					</div>
+					
+											
+						<div class="col span_4">
+							<div id="media_image-4" class="widget widget_media_image"><img width="1119" height="720" src="https://gemstat.org/wp-content/uploads/2023/03/logos_footer_202303.png" class="image wp-image-2304  attachment-full size-full" alt="Logos of the UN Environment programme, GEMS/Water, the German Federal Institute of Hydrology and the German Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection." style="max-width: 100%; height: auto;" decoding="async" srcset="https://gemstat.org/wp-content/uploads/2023/03/logos_footer_202303.png 1119w, https://gemstat.org/wp-content/uploads/2023/03/logos_footer_202303-300x193.png 300w, https://gemstat.org/wp-content/uploads/2023/03/logos_footer_202303-1024x659.png 1024w, https://gemstat.org/wp-content/uploads/2023/03/logos_footer_202303-768x494.png 768w" sizes="(max-width: 1119px) 100vw, 1119px" /></div>								
+							</div>
+							
+												
+						
+													<div class="col span_4">
+								<div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p><a href="https://gemstat.org/">Home</a><br/>
+<a href="/about/">About</a><br/>
+<a href="https://gemstat.org/data/data-portal/">Data portal</a><br/>
+<a href="https://gemstat.org/data/statistic-reports/">Statistic reports</a><br/>
+<a href="https://gemstat.org/data/data-submission/">Data submission</a><br/>
+<a href="https://gemstat.org/news/">News</a><br/>
+	<a href="https://gemstat.org/contact/">Contact</a></p>
+<p>
+<a href="https://gemstat.org/contact/imprint/">Imprint</a><br/>
+<a href="https://gemstat.org/contact/data-protection-gdpr/">Privacy policy</a></br>
+<a href="https://gemstat.org/contact/declaration-accessibility/">Declaration on Accessibility</a></p></div></div>									
+								</div>
+														
+															
+							</div>
+													</div><!--/container-->
+					</div><!--/footer-widgets-->
+					
+						
+</div><!--/footer-outer-->
+
+
+	<div id="slide-out-widget-area-bg" class="slide-out-from-right dark">
+				</div>
+
+		<div id="slide-out-widget-area" role="dialog" aria-modal="true" aria-label="Off Canvas Menu" class="slide-out-from-right" data-dropdown-func="default" data-back-txt="Back">
+
+			<div class="inner-wrap">
+			<div class="inner" data-prepend-menu-mobile="false">
+
+				<a class="slide_out_area_close" href="#"><span class="screen-reader-text">Close Menu</span>
+					<span class="icon-salient-x icon-default-style"></span>				</a>
+
+
+									<div class="off-canvas-menu-container mobile-only" role="navigation">
+
+						
+						<ul class="menu">
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-152"><a href="https://gemstat.org/about/" aria-haspopup="true" aria-expanded="false"><span>About</span></a>
+<ul class="sub-menu">
+	<li class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page menu-item-1463"><a href="https://gemstat.org/about/">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-536"><a href="https://gemstat.org/about/data-availability/">Data availability</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534"><a href="https://gemstat.org/about/metrics-on-usage/">Metrics on usage</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-147"><a href="https://gemstat.org/data-gemstat/" aria-haspopup="true" aria-expanded="false"><span>Data</span></a>
+<ul class="sub-menu">
+	<li class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page menu-item-1464"><a href="https://gemstat.org/data-gemstat/">Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537"><a href="https://gemstat.org/data-gemstat/data-portal/">Data portal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952"><a href="https://gemstat.org/data-gemstat/global-water-quality/">Water quality indicators</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://gemstat.org/data-gemstat/statistic-reports/">Statistic reports</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://gemstat.org/data-gemstat/data-submission/">Data submission</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3083"><a href="https://gemstat.org/projects/" aria-haspopup="true" aria-expanded="false">Projects</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3174"><a href="https://gemstat.org/archive/projects-current/" aria-haspopup="true" aria-expanded="false">Current Projects</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3084"><a href="https://gemstat.org/projects/geo/">GEO Aquawatch</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3085"><a href="https://gemstat.org/projects/ogc-wqie/">OGC Water Quality Interoperability Experiment</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3086"><a href="https://gemstat.org/projects/sdg632/">UN SDG Indicator 6.3.2</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3087"><a href="https://gemstat.org/projects/wwqa/">World Water Quality Alliance (WWQA)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3175"><a href="https://gemstat.org/archive/projects-past/" aria-haspopup="true" aria-expanded="false">Past Projects</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3176"><a href="https://gemstat.org/projects/globe-wq/">GlobeWQ</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3059"><a href="https://gemstat.org/gemstat-news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-153"><a href="https://gemstat.org/contact/" aria-haspopup="true" aria-expanded="false"><span>Contact</span></a>
+<ul class="sub-menu">
+	<li class="mobile-navi menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a href="https://gemstat.org/contact/">Contact</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-355"><a href="https://gemstat.org/contact/#team">Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://gemstat.org/contact/imprint/">Imprint</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="https://gemstat.org/contact/data-protection-gdpr/">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3003"><a href="https://gemstat.org/contact/declaration-accessibility/">Declaration on Accessibility</a></li>
+</ul>
+</li>
+
+						</ul>
+
+						<ul class="menu secondary-header-items">
+													</ul>
+					</div>
+					
+				</div>
+
+				<div class="bottom-meta-wrap"></div><!--/bottom-meta-wrap--></div> <!--/inner-wrap-->
+				</div>
+		
+</div> <!--/ajax-content-wrap-->
+
+	<a id="to-top" aria-label="Back to top" role="button" href="#" class="mobile-disabled"><i role="presentation" class="fa fa-angle-up"></i></a>
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/salient-child/*","/wp-content/themes/salient/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="wpb-modifications"> window.wpbCustomElement = 1; </script><script id="wp-hooks-js" src="https://gemstat.org/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://gemstat.org/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://gemstat.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/gemstat.org\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://gemstat.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6"></script>
+<script id="salient-social-js-extra">
+var nectarLove = {"ajaxurl":"https://gemstat.org/wp-admin/admin-ajax.php","postID":"923","rooturl":"https://gemstat.org","loveNonce":"803aaca50a"};
+//# sourceURL=salient-social-js-extra
+</script>
+<script id="salient-social-js" src="https://gemstat.org/wp-content/plugins/salient-social/js/salient-social.js?ver=1.2.6"></script>
+<script id="jquery-easing-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/jquery.easing.min.js?ver=1.3"></script>
+<script id="nectar_priority-js" src="https://gemstat.org/wp-content/themes/salient/js/build/priority.js?ver=18.2.0"></script>
+<script id="nectar-transit-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/transit.min.js?ver=0.9.9"></script>
+<script id="nectar-waypoints-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/waypoints.js?ver=4.0.2"></script>
+<script id="imagesLoaded-js" src="https://gemstat.org/wp-content/plugins/salient-portfolio/js/third-party/imagesLoaded.min.js?ver=4.1.4"></script>
+<script id="hoverintent-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/hoverintent.min.js?ver=1.9"></script>
+<script id="magnific-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/magnific.js?ver=7.0.1"></script>
+<script id="anime-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/anime.min.js?ver=4.5.1"></script>
+<script id="touchswipe-js" src="https://gemstat.org/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js?ver=3.1.5"></script>
+<script id="flexslider-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/flexslider.min.js?ver=2.1"></script>
+<script id="isotope-js" src="https://gemstat.org/wp-content/plugins/salient-portfolio/js/third-party/isotope.min.js?ver=7.6"></script>
+<script id="nectar-masonry-blog-js" src="https://gemstat.org/wp-content/themes/salient/js/build/elements/nectar-blog.js?ver=18.2.0"></script>
+<script id="superfish-js" src="https://gemstat.org/wp-content/themes/salient/js/build/third-party/superfish.js?ver=1.5.8"></script>
+<script id="nectar-frontend-js-extra">
+var nectarLove = {"ajaxurl":"https://gemstat.org/wp-admin/admin-ajax.php","postID":"923","rooturl":"https://gemstat.org","disqusComments":"false","loveNonce":"803aaca50a","mapApiKey":""};
+var nectarOptions = {"delay_js":"false","smooth_scroll":"false","smooth_scroll_strength":"50","quick_search":"false","react_compat":"disabled","header_entrance":"false","body_border_func":"default","disable_box_roll_mobile":"off","body_border_mobile":"0","dropdown_hover_intent":"default","simplify_ocm_mobile":"0","mobile_header_format":"default","ocm_btn_position":"default","left_header_dropdown_func":"default","ajax_add_to_cart":"0","ocm_remove_ext_menu_items":"remove_images","woo_product_filter_toggle":"0","woo_sidebar_toggles":"true","woo_sticky_sidebar":"0","woo_minimal_product_hover":"default","woo_minimal_product_effect":"default","woo_related_upsell_carousel":"false","woo_product_variable_select":"default","woo_using_cart_addons":"false","view_transitions_effect":""};
+var nectar_front_i18n = {"menu":"Menu","next":"Next","previous":"Previous","close":"Close","slide_of":"Slide %1$s of %2$s","slide":"slide"};
+//# sourceURL=nectar-frontend-js-extra
+</script>
+<script id="nectar-frontend-js" src="https://gemstat.org/wp-content/themes/salient/js/build/init.js?ver=18.2.0"></script>
+<script id="wpb_composer_front_js-js" src="https://gemstat.org/wp-content/plugins/js_composer_salient/assets/js/dist/js_composer_front.min.js?ver=8.7.3"></script>
+<script></script></body>
+</html>
+<!-- Cached by WP-Optimize (gzip) - https://teamupdraft.com/wp-optimize/ - Last modified: 19 July 2026 9:38 (Europe/Berlin UTC:2) -->

@@ -1,0 +1,98 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77085943-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>About :: WheatIS</title>
+        <link href="http://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+        <link href="_css/main.css" rel="stylesheet" type="text/css" media="all" />
+        <meta charset="UTF-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+        <meta name="description" content="Wheat Information System, " />
+        <meta name="keywords" content="wheat" />
+        <meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+        <meta http-equiv="Pragma" content="no-cache" />
+
+        <link rel="icon" type="image/png" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+    </head>
+
+    <body>
+     <ul id="menu">
+        <li class="chosen"><a href="index.php">About</a></li>
+        <li><a href="Collaborators.php">Collaborators</a></li>
+        <li><a href="Search.php">Data Discovery</a></li>
+        <li><a href="DataStandards.php">Data standards</a></li>
+        <li><a href="Tools.php">Tools</a></li>
+    </ul>
+        <h1><a href="/">WheatIS</a></h1>
+        <div id="thepicture" style="color:white"><br>&nbsp&nbsp@ PRATT J.C. / INRA&nbsp;</div>
+
+
+
+        <div id="contentMain"><h2>About</h2>
+
+
+
+<p>This project aims at building an International Wheat Information System, called hereafter WheatIS, to support the wheat research community. The main objective is to provide a single-access web base system to access to the available data resources and bioinformatics tools.
+<p>This project is based on the principles listed below:
+<p>
+<ul>
+<li>Collective building of the WheatIS to better respond to the needs of the international wheat community;</li>
+<li>Incremental implementation to offer rapidly an operational information system;</li>
+<li>Emphasis on Quality Assurance to serve as a framework for an approach with incremental implementation;</li>
+<li>Promotion of an open-access model for data exchange;</li>
+<li>Reliance on a distributed system;</li>
+<li>Use of Virtual Machine and Cloud Computing technologies to facilitate sharing data and tools;</li>
+<li>Promotion of the visibility of each participating platform to contribute to their sustainability.</li>
+</ul>
+
+<p>If you have questions regarding this Wheat Information System project, please contact:<br>
+wheatis-contact <img src="_img/at.jpg" style="width:15px;vertical-align:middle"> wheatis.org
+</p>
+        </div>
+
+	<div style="float:right">
+		<b>Help desk:</b> <font size="1">If you have questions regarding<br>
+		this Wheat Information System project, please contact:</font><br>
+		wheatis-contact <img src="_img/at.jpg" style="width:14px;vertical-align:middle"> wheatis.org
+	</div>
+
+
+
+
+
+        <div id="copyright">
+
+<!--
+		<div style="float:right">
+			<b>Help desk:</b> <font size="1">If you have questions regarding<br>
+			this Wheat Information System project, please contact:</font><br>
+			wheatis-contact <img src="_img/at.jpg" style="width:14px;vertical-align:middle"> wheatis.org
+		</div>
+-->
+
+            If we have missed a link to your site, please contact the 
+            <a href="mailto:philipp.bayer@uwa.edu.au">web admin</a>. 
+	    <!-- Site Meter -->
+	    <img src="http://s30.sitemeter.com/meter.asp?site=s30wheatis" alt="Site Meter" border="0"/>
+	    <!-- Copyright (c)2009 Site Meter -->
+	    <br />
+            The site is supported by funds from the 
+            <a href="http://uwa.edu.au/">University 
+            of Western Australia</a> and the 
+            <a href="http://www.arc.gov.au/">Australian Research Council</a>.
+        </div>
+
+
+    </body>
+</html>
+
