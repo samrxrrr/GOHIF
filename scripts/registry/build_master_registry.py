@@ -6,7 +6,7 @@ from pathlib import Path
 BASE = Path("metadata")
 
 MANIFEST = BASE / "downloads" / "GOHIF_Download_Manifest.csv"
-SPRINT_DIR = BASE / "expansion" / "sprint1"
+EXPANSION = BASE / "expansion"
 OUTPUT = BASE / "registry" / "GOHIF_MASTER_DATASET_REGISTRY.csv"
 
 rows = []
@@ -16,12 +16,12 @@ print("=" * 60)
 print("GOHIF Registry Builder")
 print("=" * 60)
 
-# ----------------------------------------------------------
+# ------------------------------------------------------------
 # Load production manifest
-# ----------------------------------------------------------
+# ------------------------------------------------------------
 
 if not MANIFEST.exists():
-    raise FileNotFoundError(f"Manifest not found: {MANIFEST}")
+    raise FileNotFoundError(f"Cannot find {MANIFEST}")
 
 with MANIFEST.open(newline="", encoding="utf-8") as f:
 
@@ -38,7 +38,6 @@ with MANIFEST.open(newline="", encoding="utf-8") as f:
         )
 
         if dataset_id in seen:
-            print(f"[Duplicate] {dataset_id}")
             continue
 
         seen.add(dataset_id)
@@ -46,87 +45,71 @@ with MANIFEST.open(newline="", encoding="utf-8") as f:
 
 print(f"Loaded production manifest : {len(rows)} datasets")
 
-# ----------------------------------------------------------
-# Merge candidate registries
-# ----------------------------------------------------------
+# ------------------------------------------------------------
+# Merge ALL sprint folders automatically
+# ------------------------------------------------------------
 
-for csv_file in sorted(SPRINT_DIR.glob("*.csv")):
+for sprint in sorted(EXPANSION.glob("sprint*")):
 
-    print(f"Merging {csv_file.name}")
+    print(f"\nProcessing {sprint.name}")
 
-    with csv_file.open(newline="", encoding="utf-8") as f:
+    for csv_file in sorted(sprint.glob("*.csv")):
 
-        reader = csv.DictReader(f)
+        print(f"  -> {csv_file.name}")
 
-        for row in reader:
+        with csv_file.open(newline="", encoding="utf-8") as f:
 
-            candidate_id = row.get("Candidate_ID")
+            reader = csv.DictReader(f)
 
-            if candidate_id in seen:
-                continue
+            for row in reader:
 
-            seen.add(candidate_id)
+                cid = row.get("Candidate_ID")
 
-            candidate = {h: "" for h in production_headers}
+                if not cid:
+                    continue
 
-            candidate["GOHIF_ID"] = candidate_id
-            candidate["Dataset_Name"] = row.get("Dataset_Name", "")
-            candidate["Acronym"] = ""
-            candidate["Dataset_Version"] = "Candidate"
-            candidate["Dataset_Status"] = row.get("Verification_Status", "Pending")
-            candidate["Organization"] = row.get("Provider", "")
-            candidate["Country_Region"] = row.get("Country", "")
-            candidate["Official_Website"] = row.get("Official_URL", "")
-            candidate["License"] = row.get("Access", "")
+                if cid in seen:
+                    continue
 
-            # IMPORTANT
-            candidate["One_Health_Domain"] = "Human Health"
+                seen.add(cid)
 
-            candidate["Evidence_Class"] = ""
-            candidate["Primary_Evidence_Layer"] = ""
-            candidate["Secondary_Evidence_Layers"] = ""
-            candidate["Evidence_Type"] = ""
-            candidate["Tier"] = row.get("Priority", "")
-            candidate["Geographic_Coverage"] = row.get("Scope", "")
-            candidate["Temporal_Coverage"] = ""
-            candidate["Update_Frequency"] = row.get("Update_Frequency", "")
-            candidate["Data_Level"] = ""
-            candidate["Metadata_Quality"] = ""
-            candidate["Findable"] = ""
-            candidate["Accessible"] = ""
-            candidate["Interoperable"] = ""
-            candidate["Reusable"] = ""
-            candidate["FAIR_Maturity"] = ""
-            candidate["Scientific_Strength"] = ""
-            candidate["Scientific_Limitations"] = ""
-            candidate["Provenance"] = ""
-            candidate["GOHIF_Compatibility"] = ""
-            candidate["Coverage_Function"] = ""
-            candidate["Freeze_Status"] = "Candidate"
-            candidate["SRR"] = ""
-            candidate["Decision_ID"] = ""
-            candidate["Review_Date"] = ""
-            candidate["Notes"] = ""
+                candidate = {h: "" for h in production_headers}
 
-            candidate["Download_Method"] = row.get("Download_Method", "")
-            candidate["Automation"] = row.get("API", "")
-            candidate["Download_URL"] = row.get("Official_URL", "")
-            candidate["API_Base"] = ""
-            candidate["FTP_Path"] = ""
-            candidate["Git_Repo"] = ""
-            candidate["CLI_Command"] = ""
-            candidate["Authentication"] = ""
-            candidate["Local_Path"] = ""
-            candidate["Checksum"] = ""
-            candidate["Downloaded"] = "No"
-            candidate["Download_Status"] = row.get("Automation_Status", "Pending")
-            candidate["Download_Date"] = ""
-            candidate["Local_File"] = ""
-            candidate["File_Size_MB"] = ""
-            candidate["SHA256"] = ""
-            candidate["Error_Message"] = ""
+                candidate["GOHIF_ID"] = cid
+                candidate["Dataset_Name"] = row.get("Dataset_Name","")
+                candidate["Dataset_Version"] = "Candidate"
+                candidate["Dataset_Status"] = row.get("Verification_Status","Pending")
+                candidate["Organization"] = row.get("Provider","")
+                candidate["Country_Region"] = row.get("Country","")
+                candidate["Official_Website"] = row.get("Official_URL","")
+                candidate["License"] = row.get("Access","")
 
-            rows.append(candidate)
+                sprint_domain = {
+                    "sprint1": "Human Health",
+                    "sprint2": "Animal Health",
+                    "sprint3": "Environmental Health",
+                    "sprint4": "Food Chain",
+                    "sprint5": "Plant Health",
+                    "sprint6": "Genomics"
+                }
+
+                candidate["One_Health_Domain"] = sprint_domain.get(
+                    sprint.name,
+                    "Unknown"
+                )
+
+                candidate["Tier"] = row.get("Priority","")
+                candidate["Geographic_Coverage"] = row.get("Scope","")
+                candidate["Update_Frequency"] = row.get("Update_Frequency","")
+                candidate["Freeze_Status"] = "Candidate"
+
+                candidate["Download_Method"] = row.get("Download_Method","")
+                candidate["Automation"] = row.get("API","")
+                candidate["Download_URL"] = row.get("Official_URL","")
+                candidate["Downloaded"] = "No"
+                candidate["Download_Status"] = row.get("Automation_Status","Pending")
+
+                rows.append(candidate)
 
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 
@@ -140,10 +123,9 @@ with OUTPUT.open("w", newline="", encoding="utf-8") as f:
 
     writer.writeheader()
 
-    for row in rows:
-        writer.writerow(row)
+    writer.writerows(rows)
 
 print("-" * 60)
-print(f"Master Registry written to : {OUTPUT}")
-print(f"Total datasets : {len(rows)}")
+print(f"Master Registry : {OUTPUT}")
+print(f"Total datasets  : {len(rows)}")
 print("=" * 60)

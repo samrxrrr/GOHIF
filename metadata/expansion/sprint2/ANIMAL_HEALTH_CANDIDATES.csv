@@ -1,0 +1,16 @@
+Candidate_ID,Dataset_Name,Provider,Official_URL,Country,Scope,Access,API,Download_Method,License,Update_Frequency,Priority,Verification_Status,Automation_Status,Reviewer,Notes
+AH-001,WOAH WAHIS,WOAH,https://wahis.woah.org,Global,Animal Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Global animal disease surveillance
+AH-002,FAO EMPRES-i,FAO,https://empres-i.apps.fao.org,Global,Animal Health,Open,Yes,REST_API,Open,Continuous,High,Verified,Pending,,Transboundary animal disease monitoring
+AH-003,NCBI Pathogen Detection,NCBI,https://www.ncbi.nlm.nih.gov/pathogens,Global,Animal Health,Open,Yes,REST_API,Public,Daily,High,Verified,Pending,,AMR pathogen surveillance
+AH-004,USDA National Animal Health Laboratory Network,USDA,https://www.aphis.usda.gov,USA,Animal Health,Open,No,HTTP,Public,Annual,Medium,Verified,Pending,,Veterinary laboratory network
+AH-005,USDA Animal Disease Traceability,USDA,https://www.aphis.usda.gov/traceability,USA,Animal Health,Open,No,HTTP,Public,Annual,Medium,Verified,Pending,,Animal movement records
+AH-006,WOAH Antimicrobial Agent Database,WOAH,https://www.woah.org,Global,Animal Health,Open,No,HTTP,Public,Annual,High,Verified,Pending,,Veterinary antimicrobial use
+AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),EMA,https://www.ema.europa.eu,Europe,Animal Health,Open,No,HTTP,Public,Annual,High,Verified,Pending,,Veterinary antimicrobial consumption
+AH-008,Vet-LIRN,FDA,https://www.fda.gov,USA,Animal Health,Open,No,HTTP,Public,Annual,Medium,Verified,Pending,,Veterinary laboratory investigation
+AH-009,DAD-IS,FAO,https://www.fao.org/dad-is,Global,Animal Health,Open,No,HTTP,Open,Annual,Medium,Verified,Pending,,Domestic animal diversity information
+AH-010,GBADs,GBADs Programme,https://gbadske.org,Global,Animal Health,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Global burden of animal diseases
+AH-011,Animal QTLdb,Iowa State University,https://www.animalgenome.org,Qlobal,Animal Health,Open,No,HTTP,Open,Periodic,Medium,Verified,Pending,,Livestock QTL resource
+AH-012,Animal Genome Database,Alliance Genome Resources,https://www.alliancegenome.org,Global,Animal Health,Open,Yes,REST_API,Open,Continuous,Medium,Verified,Pending,,Animal genomics
+AH-013,FishPathogens.eu,FishPathogens.eu,https://fishpathogens.eu,Europe,Animal Health,Open,No,HTTP,Open,Periodic,Low,Verified,Pending,,Aquaculture pathogens
+AH-014,AquaPathogenX,AquaPathogenX,https://aquapathogenx.org,Global,Animal Health,Open,No,HTTP,Open,Periodic,Low,Verified,Pending,,Aquaculture pathogen database
+AH-015,FAO ASF Situation Reports,FAO,https://www.fao.org,Global,Animal Health,Open,No,HTTP,Open,Monthly,High,Verified,Pending,,African swine fever reports
