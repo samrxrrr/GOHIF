@@ -1,0 +1,18 @@
+Priority,GOHIF_ID,Dataset_Name,Adapter,Tier,Download_Method,Download_URL,API_Base,Local_Path,File_Format,Status
+4,GOHIF-DS-0035,European Nucleotide Archive,http,Tier 1,FTP_HTTP,https://www.ebi.ac.uk/ena,,data/raw/http/GOHIF-DS-0035_European_Nucleotide_Archive.dat,auto,PENDING
+5,GOHIF-DS-0039,ResFinder,git,Tier 1,GIT_HTTP,https://bitbucket.org/genomicepidemiology/resfinder_db,,data/raw/genomics/ResFinder,git,PENDING
+6,AH-008,Vet-LIRN,http,Medium,HTTP,https://www.fda.gov,,data/raw/http/AH-008_Vet-LIRN.dat,auto,PENDING
+7,AH-013,FishPathogens.eu,http,Low,HTTP,https://fishpathogens.eu,,data/raw/http/AH-013_FishPathogens.eu.dat,auto,PENDING
+8,AH-014,AquaPathogenX,http,Low,HTTP,https://aquapathogenx.org,,data/raw/http/AH-014_AquaPathogenX.dat,auto,PENDING
+9,EH-013,AquaMaps,http,Medium,HTTP,https://www.aquamaps.org/downloads/,,data/raw/http/EH-013_AquaMaps.dat,auto,PENDING
+10,FC-002,WHO GEMS/Food,http,High,HTTP,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,,data/raw/http/FC-002_WHO_GEMS_Food.dat,auto,PENDING
+11,FC-004,GenomeTrakr,http,High,HTTP,https://api.data.gov/fda/food/enforcement.json,,data/raw/http/FC-004_GenomeTrakr.dat,auto,PENDING
+12,FC-005,EFSA OpenFoodTox,http,High,HTTP,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,,data/raw/http/FC-005_EFSA_OpenFoodTox.dat,auto,PENDING
+13,FC-008,FoodMicrobionet,http,Medium,HTTP,https://www.foodmicrobionet.org/,,data/raw/http/FC-008_FoodMicrobionet.dat,auto,PENDING
+14,FC-012,INFOSAN,http,High,HTTP,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,,data/raw/http/FC-012_INFOSAN.dat,auto,PENDING
+15,FC-013,USDA Food Safety and Inspection Service Data,http,Medium,HTTP,https://www.fsis.usda.gov/,,data/raw/http/FC-013_USDA_Food_Safety_and_Inspection_Service_Data.dat,auto,PENDING
+16,PH-002,CABI Crop Protection Compendium,http,High,HTTP,https://www.cabi.org/cpc/,,data/raw/http/PH-002_CABI_Crop_Protection_Compendium.dat,auto,PENDING
+17,PH-012,PLAZA Plant Comparative Genomics,http,Medium,HTTP,https://bioinformatics.psb.ugent.be/plaza/,,data/raw/http/PH-012_PLAZA_Plant_Comparative_Genomics.dat,auto,PENDING
+18,PH-014,TAIR,http,High,HTTP,https://www.arabidopsis.org/,,data/raw/http/PH-014_TAIR.dat,auto,PENDING
+19,PH-015,PHI-base,http,High,HTTP,https://www.phi-base.org/,,data/raw/http/PH-015_PHI-base.dat,auto,PENDING
+20,GN-021,RDP,http,Medium,HTTP,https://rdp.cme.msu.edu/,,data/raw/http/GN-021_RDP.dat,auto,PENDING

@@ -1,0 +1,101 @@
+dataset_id,dataset_name,output_file,File_Size,SHA256
+AH-001,WOAH WAHIS,data/raw/api/AH-001_WOAH_WAHIS.dat,,
+AH-002,FAO EMPRES-i,data/raw/api/AH-002_FAO_EMPRES-i.dat,,
+AH-003,NCBI Pathogen Detection,data/raw/api/AH-003_NCBI_Pathogen_Detection.dat,,
+AH-004,USDA National Animal Health Laboratory Network,data/raw/misc/USDA National Animal Health Laboratory Network.dat,91409.0,c400a37967ed574c0be695744122f04e52a0f0d44a9f2c2af716364b15a53dde
+AH-005,USDA Animal Disease Traceability,data/raw/misc/USDA Animal Disease Traceability.dat,109787.0,37b8b465e4be92c741c638079581b33a15c4427bf258bdae6f82cd41671ee8b4
+AH-006,WOAH Antimicrobial Agent Database,data/raw/misc/WOAH Antimicrobial Agent Database.dat,332580.0,dfe15f3c3e5e12aca40d4b86792663ba02d87f57b3f07e93aff74c6f6741ec87
+AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),data/raw/misc/European Surveillance of Veterinary Antimicrobial Consumption (ESVAC).dat,94527.0,3667b9b7bf34ef4c7681ca2bcf1b4677362344e505d420dc12b79d3ecba9ccf1
+AH-009,DAD-IS,data/raw/misc/DAD-IS.dat,60472.0,24b9bf2b5a51f1ae9bd2d24c37de09a9b1053bfcab57f9c194a9cbb52e35bb8a
+AH-010,GBADs,data/raw/api/AH-010_GBADs.dat,,
+AH-011,Animal QTLdb,data/raw/misc/Animal QTLdb.dat,14413.0,d8583e35f43b1cfdd1cb93b0a2369d47ec267c6dbc1dea5a5907c68dd80f0327
+AH-012,Animal Genome Database,data/raw/api/AH-012_Animal_Genome_Database.dat,,
+AH-015,FAO ASF Situation Reports,data/raw/misc/FAO ASF Situation Reports.dat,1177059.0,364cef2cb1c99ecd56d428c1d40656e68c06544cfe1d9522a9c245f501548111
+EH-001,MGnify,data/raw/api/EH-001_MGnify.dat,,
+EH-003,NCBI BioSample,data/raw/api/EH-003_NCBI_BioSample.dat,,
+EH-004,ENA,data/raw/api/EH-004_ENA.dat,,
+EH-005,Earth Microbiome Project,data/raw/misc/Earth Microbiome Project.dat,29527.0,c3849342cafe6857df78ed9f82a4193a42bd94fad31b9bbb352d3597c1970fce
+EH-006,PANGAEA,data/raw/api/EH-006_PANGAEA.dat,,
+EH-008,GEO BON,data/raw/misc/GEO BON.dat,119024.0,c84c2273b8bcb945c5e5a259217ef16b5b28597f6ac101253d1357a5f9fdd29c
+EH-009,Copernicus Climate Data Store,data/raw/api/EH-009_Copernicus_Climate_Data_Store.dat,,
+EH-010,NOAA NCEI,data/raw/api/EH-010_NOAA_NCEI.dat,,
+EH-011,NASA Earthdata,data/raw/api/EH-011_NASA_Earthdata.dat,,
+EH-012,GEMStat,data/raw/misc/GEMStat.dat,137998.0,ed906f1ef2ac0d84d63a8d879a25c4ecf63468af6672710dcad69c7de1afc05d
+EH-014,WorldClim,data/raw/misc/WorldClim.dat,2529.0,be5359479ecba8b70950e68666efc7d4c91a81c9d0eb8fd3aa3df1b0329c589a
+EH-015,SoilGrids,data/raw/api/EH-015_SoilGrids.dat,,
+FC-001,FAOSTAT,data/raw/api/FC-001_FAOSTAT.dat,,
+FC-003,FoodData Central,data/raw/api/FC-003_FoodData_Central.dat,,
+FC-006,FoodEx2,data/raw/misc/FoodEx2.dat,76346.0,78ba7b67fd3ea2844da649912547cfcd987440cce0019ac9269cd6eddc187476
+FC-007,Codex Alimentarius,data/raw/misc/Codex Alimentarius.dat,58007.0,601fdc99a7b82147c7bf3b91472b3b90dfae3c739b86dfc030e41a8113bfd5c7
+FC-009,AGROVOC,data/raw/api/FC-009_AGROVOC.dat,,
+FC-010,RASFF Portal,data/raw/misc/RASFF Portal.dat,104730.0,bc475c71d7e7b75732a40f0264aad289bf1f1c9df5995b918a76be5b2d0648eb
+FC-011,FoodRisk-Labs,data/raw/misc/FoodRisk-Labs.dat,65066.0,bddbea61853841f7e88a8413749b900ecd201b7bdaf9284a9dc8d788df9def0c
+FC-014,OpenFoodFacts,data/raw/api/FC-014_OpenFoodFacts.dat,,
+FC-015,European Food Safety Open Data Portal,data/raw/api/FC-015_European_Food_Safety_Open_Data_Portal.dat,,
+GN-001,GenBank,data/raw/api/GN-001_GenBank.dat,,
+GN-002,DDBJ,data/raw/api/GN-002_DDBJ.dat,,
+GN-003,Ensembl Genomes,data/raw/api/GN-003_Ensembl_Genomes.dat,,
+GN-004,Ensembl Bacteria,data/raw/api/GN-004_Ensembl_Bacteria.dat,,
+GN-005,Ensembl Protists,data/raw/api/GN-005_Ensembl_Protists.dat,,
+GN-006,NCBI Gene,data/raw/api/GN-006_NCBI_Gene.dat,,
+GN-007,InterPro,data/raw/api/GN-007_InterPro.dat,,
+GN-008,Pfam,data/raw/api/GN-008_Pfam.dat,,
+GN-010,SMART,data/raw/misc/SMART.dat,8198.0,ccf8a3835f9090ac7ac1bd1326b21d35fc1980c00675194634cfdf9d85aa20ed
+GN-011,SUPERFAMILY,data/raw/misc/SUPERFAMILY.dat,7520.0,e8b5523668fb6b21695546151d457ff8f4826f9348d9f763e32582e0a674cbc4
+GN-012,COG Database,data/raw/misc/COG Database.dat,42673.0,6d0a42f61aa8a2f075185c53ac96be68717de8d1f0fe39cdaaf4384c9ad0659b
+GN-013,OrthoDB,data/raw/api/GN-013_OrthoDB.dat,,
+GN-014,OMA Browser,data/raw/api/GN-014_OMA_Browser.dat,,
+GN-015,MicroScope,data/raw/misc/MicroScope.dat,789.0,e57fe61ae432f038c6719b5d0b54046b4713a4af7962d9e267079c86e8f6c6dc
+GN-018,KEGG GENES,data/raw/misc/KEGG GENES.dat,12199.0,206bbac15bd55de83e222afffa6d8217bc403f0e36fb62809390a6e2cd4a1d91
+GN-019,GTDB,data/raw/misc/GTDB.dat,47913.0,7efbe9dfbac4a5eecdc12cdbc05a37358ecbdccd0b28f72469a68f1b5493d584
+GN-020,SILVA,data/raw/misc/SILVA.dat,43342.0,28bd77a5b51974915bf905ed35006af17099b15e321c5e56ff57f267ccecf3e3
+GN-022,Open Tree of Life,data/raw/api/GN-022_Open_Tree_of_Life.dat,,
+GN-023,TimeTree,data/raw/misc/TimeTree.dat,61062.0,9cacdf9d1513e5d721f71832c81c3c13ecb13a10308230d2ba166c3059ff93c1
+GN-024,Expression Atlas,data/raw/api/GN-024_Expression_Atlas.dat,,
+GN-025,PRIDE,data/raw/api/GN-025_PRIDE.dat,,
+GN-026,MetaboLights,data/raw/api/GN-026_MetaboLights.dat,,
+GN-027,BioStudies,data/raw/api/GN-027_BioStudies.dat,,
+GN-028,UniProt,data/raw/api/GN-028_UniProt.dat,,
+GN-029,AlphaFold Protein Structure Database,data/raw/api/GN-029_AlphaFold_Protein_Structure_Database.dat,,
+GN-030,PDBe,data/raw/api/GN-030_PDBe.dat,,
+GOHIF-DS-0028,EPPO Global Database,,,
+GOHIF-DS-0029,CABI Crop Protection Compendium,,,
+GOHIF-DS-0030,PHI-base,,,
+GOHIF-DS-0031,FungiDB,,,
+GOHIF-DS-0032,Ensembl Plants,,,
+GOHIF-DS-0033,Gramene,,,
+GOHIF-DS-0034,GenBank Plant Pathogens,,,
+GOHIF-DS-0035,European Nucleotide Archive,,,
+GOHIF-DS-0036,FAOSTAT Crops,,,
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),,,
+GOHIF-DS-0038,CARD,data/raw/misc/CARD.dat,4620455.0,d80520c51ef3bae1098cd00e0c3d1d013e5785f8d8df787dcc5f435927557df9
+GOHIF-DS-0039,ResFinder,,,
+GOHIF-DS-0040,AMRFinderPlus,,,
+GOHIF-DS-0041,MEGARes,data/raw/misc/MEGARes.dat,55162.0,0567df520132f9e07b312f585fcc8c26ba1a29e533460b3b36d05d7dcb7d4c7a
+GOHIF-DS-0042,BacMet,data/raw/misc/BacMet.dat,390211.0,e62756aafc1c653cdd1408fdbf558fd396ce1ef7ad99f2af50b0a6b67d00dd45
+GOHIF-DS-0044,ICEberg,,,
+GOHIF-DS-0045,ISfinder,,,
+GOHIF-DS-0046,RefSeq,,,
+GOHIF-DS-0047,SRA,,,
+GOHIF-DS-0050,BV-BRC,,,
+GOHIF-DS-0051,VFDB,,,
+GOHIF-DS-0052,Pathogenwatch,,,
+HH-001,WHO GLASS,,,
+HH-002,WHO AWaRe,,,
+HH-003,WHO Essential Medicines List,data/raw/misc/WHO Essential Medicines List.dat,121229.0,787499f1973ddf0e4503622aa73269f2790cdfb684599a1f36c4dcc6bb93d469
+HH-004,CDC NHSN AR Option,,,
+HH-005,ECDC Surveillance Atlas,data/raw/api/HH-005_ECDC_Surveillance_Atlas.dat,,
+HH-006,ClinicalTrials.gov,data/raw/api/HH-006_ClinicalTrials.gov.dat,,
+HH-007,GISAID Metadata,data/raw/api/HH-007_GISAID_Metadata.dat,,
+HH-008,Pathogenwatch,data/raw/api/HH-008_Pathogenwatch.dat,,
+HH-009,OpenSAFELY,,,
+HH-010,Vivli,,,
+PH-001,EPPO Global Database,data/raw/misc/EPPO Global Database.dat,18944.0,5cd80c77e4553538354d6c5e8de2685a8486f48e29ba6520af07e0cee1cc8562
+PH-003,IPPC Pest Reports,data/raw/misc/IPPC Pest Reports.dat,101691.0,8eb6c04a31db84edc75e8e86fb699578b341c37d0d72be7a84371d67a92b7507
+PH-004,USDA PLANTS Database,data/raw/misc/USDA PLANTS Database.dat,710.0,7efcec2ceb612761c30057418bf1333531700a704246566a837f83913bd6b95b
+PH-005,GRIN Global,data/raw/misc/GRIN Global.dat,420.0,8d316215e98fb6ca8b007704d210e0cca5878f83f57ddd0e3de572e30a05a86c
+PH-006,Genesys PGR,data/raw/api/PH-006_Genesys_PGR.dat,,
+PH-007,PlantVillage,data/raw/misc/PlantVillage.dat,24484.0,e609048594018cab62f24a9c1d0facf34ada977bcf56b7667c133952aa457e2d
+PH-008,IRRI Rice Knowledge Bank,data/raw/misc/IRRI Rice Knowledge Bank.dat,87090.0,d4b554687bdeafa5eb74e23037694f9f18e1337b4adb19f3bf33f41983afdc56
+PH-009,WheatIS,data/raw/misc/WheatIS.dat,4063.0,4b41f86978c127e6ec39853e109f6d97acb8c01a3f8b8b7693617458043ef170
+PH-013,Sol Genomics Network,data/raw/api/PH-013_Sol_Genomics_Network.dat,,

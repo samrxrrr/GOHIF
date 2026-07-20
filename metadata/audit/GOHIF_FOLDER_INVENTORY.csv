@@ -1,0 +1,15 @@
+Folder,Files,Size_MB
+data/raw/genomics/SRA/FASTQ,2,2017.95
+data/raw/genomics/SRA/SRR390728,26,870.25
+data/raw/genomics/AMRFinderPlus/latest,162,239.42
+data/raw/genomics/AMRFinderPlus/2026-05-15.1,162,239.42
+data/raw/misc,35,7.77
+data/raw/genomics/CARD,1,4.41
+data/raw/api,46,2.69
+data/raw/genomics/RefSeq,1,1.32
+data/raw/genomics/BacMet,1,0.37
+data/raw/environment/MGnify,3,0.14
+data/raw/genomics/MEGARes,1,0.05
+data/raw/environment/ENA,2,0.0
+data/raw/genomics/PLSDB,1,0.0
+data/raw/http,1,0.0

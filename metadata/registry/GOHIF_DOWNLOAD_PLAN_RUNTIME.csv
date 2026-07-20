@@ -1,0 +1,125 @@
+Priority,GOHIF_ID,Dataset_Name,Adapter,Tier,Download_Method,Download_URL,API_Base,Local_Path,File_Format,Status
+1,AH-001,WOAH WAHIS,api,High,REST_API,https://wahis.woah.org,,data/raw/api/AH-001_WOAH_WAHIS.dat,,PENDING
+1,AH-002,FAO EMPRES-i,api,High,REST_API,https://empres-i.apps.fao.org,,data/raw/api/AH-002_FAO_EMPRES-i.dat,,PENDING
+1,AH-003,NCBI Pathogen Detection,api,High,REST_API,https://www.ncbi.nlm.nih.gov/pathogens,,data/raw/api/AH-003_NCBI_Pathogen_Detection.dat,,PENDING
+1,EH-001,MGnify,api,High,REST_API,https://www.ebi.ac.uk/metagenomics/api/v2/,,data/raw/api/EH-001_MGnify.dat,,PENDING
+1,EH-002,NCBI BioProject,api,High,REST_API,https://www.ncbi.nlm.nih.gov/bioproject/,,data/raw/api/EH-002_NCBI_BioProject.dat,,PENDING
+1,EH-003,NCBI BioSample,api,High,REST_API,https://www.ncbi.nlm.nih.gov/biosample/,,data/raw/api/EH-003_NCBI_BioSample.dat,,PENDING
+1,EH-004,ENA,api,High,REST_API,https://www.ebi.ac.uk/ena/portal/api/,,data/raw/api/EH-004_ENA.dat,,PENDING
+1,EH-007,GBIF,api,High,REST_API,https://api.gbif.org/v1/,,data/raw/api/EH-007_GBIF.dat,,PENDING
+1,EH-009,Copernicus Climate Data Store,api,High,API,https://cds.climate.copernicus.eu/,,data/raw/api/EH-009_Copernicus_Climate_Data_Store.dat,,PENDING
+1,EH-010,NOAA NCEI,api,High,REST_API,https://www.ncei.noaa.gov/,,data/raw/api/EH-010_NOAA_NCEI.dat,,PENDING
+1,EH-011,NASA Earthdata,api,High,API,https://www.earthdata.nasa.gov/,,data/raw/api/EH-011_NASA_Earthdata.dat,,PENDING
+1,EH-015,SoilGrids,api,High,REST_API,https://soilgrids.org/,,data/raw/api/EH-015_SoilGrids.dat,,PENDING
+1,FC-001,FAOSTAT,api,High,REST_API,https://www.fao.org/faostat/,,data/raw/api/FC-001_FAOSTAT.dat,,PENDING
+1,FC-003,FoodData Central,api,High,REST_API,https://fdc.nal.usda.gov/,,data/raw/api/FC-003_FoodData_Central.dat,,PENDING
+1,FC-015,European Food Safety Open Data Portal,api,High,REST_API,https://open.efsa.europa.eu/,,data/raw/api/FC-015_European_Food_Safety_Open_Data_Portal.dat,,PENDING
+1,GN-001,GenBank,api,High,REST_API,https://www.ncbi.nlm.nih.gov/genbank/,,data/raw/api/GN-001_GenBank.dat,,PENDING
+1,GN-002,DDBJ,api,High,REST_API,https://www.ddbj.nig.ac.jp/,,data/raw/api/GN-002_DDBJ.dat,,PENDING
+1,GN-003,Ensembl Genomes,api,High,REST_API,https://ensemblgenomes.org/,,data/raw/api/GN-003_Ensembl_Genomes.dat,,PENDING
+1,GN-004,Ensembl Bacteria,api,High,REST_API,https://bacteria.ensembl.org/,,data/raw/api/GN-004_Ensembl_Bacteria.dat,,PENDING
+1,GN-006,NCBI Gene,api,High,REST_API,https://www.ncbi.nlm.nih.gov/gene/,,data/raw/api/GN-006_NCBI_Gene.dat,,PENDING
+1,GN-007,InterPro,api,High,REST_API,https://www.ebi.ac.uk/interpro/,,data/raw/api/GN-007_InterPro.dat,,PENDING
+1,GN-008,Pfam,api,High,REST_API,https://www.ebi.ac.uk/interpro/,,data/raw/api/GN-008_Pfam.dat,,PENDING
+1,GN-009,eggNOG,api,High,REST_API,https://eggnogapi.embl.de/,,data/raw/api/GN-009_eggNOG.dat,,PENDING
+1,GN-013,OrthoDB,api,High,REST_API,https://www.orthodb.org/,,data/raw/api/GN-013_OrthoDB.dat,,PENDING
+1,GN-014,OMA Browser,api,High,REST_API,https://omabrowser.org/,,data/raw/api/GN-014_OMA_Browser.dat,,PENDING
+1,GN-016,Ensembl Compara,api,High,REST_API,https://rest.ensembl.org/,,data/raw/api/GN-016_Ensembl_Compara.dat,,PENDING
+1,GN-024,Expression Atlas,api,High,REST_API,https://www.ebi.ac.uk/gxa/home,,data/raw/api/GN-024_Expression_Atlas.dat,,PENDING
+1,GN-025,PRIDE,api,High,REST_API,https://www.ebi.ac.uk/pride/,,data/raw/api/GN-025_PRIDE.dat,,PENDING
+1,GN-026,MetaboLights,api,High,REST_API,https://www.ebi.ac.uk/metabolights/,,data/raw/api/GN-026_MetaboLights.dat,,PENDING
+1,GN-028,UniProt,api,High,REST_API,https://www.uniprot.org/,,data/raw/api/GN-028_UniProt.dat,,PENDING
+1,GN-029,AlphaFold Protein Structure Database,api,High,REST_API,https://alphafold.ebi.ac.uk/,,data/raw/api/GN-029_AlphaFold_Protein_Structure_Database.dat,,PENDING
+1,GN-030,PDBe,api,High,REST_API,https://www.ebi.ac.uk/pdbe/,,data/raw/api/GN-030_PDBe.dat,,PENDING
+1,GOHIF-DS-0048,ENA,api,Tier 1,ENA_API,https://www.ebi.ac.uk/ena/portal/api/,https://www.ebi.ac.uk/ena/portal/api/,data/raw/environment/ENA/GOHIF-DS-0048_ENA.dat,,PENDING
+1,GOHIF-DS-0049,MGnify,api,Tier 1,REST_API,https://www.ebi.ac.uk/metagenomics/api/v2/,https://www.ebi.ac.uk/metagenomics/api/v2/studies,data/raw/environment/MGnify/GOHIF-DS-0049_MGnify.dat,,PENDING
+1,HH-005,ECDC Surveillance Atlas,api,High,REST_API,https://atlas.ecdc.europa.eu,,data/raw/api/HH-005_ECDC_Surveillance_Atlas.dat,,PENDING
+1,HH-007,GISAID Metadata,api,High,API,https://gisaid.org,,data/raw/api/HH-007_GISAID_Metadata.dat,,PENDING
+1,HH-008,Pathogenwatch,api,High,REST_API,https://pathogen.watch,,data/raw/api/HH-008_Pathogenwatch.dat,,PENDING
+1,PH-006,Genesys PGR,api,High,REST_API,https://www.genesys-pgr.org/,,data/raw/api/PH-006_Genesys_PGR.dat,,PENDING
+1,PH-010,MaizeGDB,api,High,REST_API,https://www.maizegdb.org/,,data/raw/api/PH-010_MaizeGDB.dat,,PENDING
+1,PH-011,Ensembl Plants,api,High,REST_API,https://rest.ensembl.org/,,data/raw/api/PH-011_Ensembl_Plants.dat,,PENDING
+1,PH-013,Sol Genomics Network,api,High,REST_API,https://solgenomics.net/,,data/raw/api/PH-013_Sol_Genomics_Network.dat,,PENDING
+1,GOHIF-DS-0040,AMRFinderPlus,cli,Tier 1,CLI,,,data/raw/genomics/AMRFinderPlus/GOHIF-DS-0040_AMRFinderPlus.dat,,PENDING
+1,GOHIF-DS-0039,ResFinder,git,Tier 1,REPOSITORY,,,data/raw/genomics/ResFinder/GOHIF-DS-0039_ResFinder.dat,,PENDING
+1,AH-006,WOAH Antimicrobial Agent Database,http,High,HTTP,https://www.woah.org,,data/raw/http/AH-006_WOAH_Antimicrobial_Agent_Database.dat,,PENDING
+1,AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),http,High,HTTP,https://www.ema.europa.eu,,data/raw/http/AH-007_European_Surveillance_of_Veterinary_Antimicrobial_Consumption_(ESVAC).dat,,PENDING
+1,AH-015,FAO ASF Situation Reports,http,High,HTTP,https://www.fao.org,,data/raw/http/AH-015_FAO_ASF_Situation_Reports.dat,,PENDING
+1,EH-005,Earth Microbiome Project,http,High,HTTP,https://earthmicrobiome.org/,,data/raw/http/EH-005_Earth_Microbiome_Project.dat,,PENDING
+1,EH-014,WorldClim,http,High,HTTP,https://www.worldclim.org/,,data/raw/http/EH-014_WorldClim.dat,,PENDING
+1,FC-002,WHO GEMS/Food,http,High,HTTP,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,,data/raw/http/FC-002_WHO_GEMS_Food.dat,,PENDING
+1,FC-004,GenomeTrakr,http,High,HTTP,https://api.data.gov/fda/food/enforcement.json,,data/raw/http/FC-004_GenomeTrakr.dat,,PENDING
+1,FC-005,EFSA OpenFoodTox,http,High,HTTP,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,,data/raw/http/FC-005_EFSA_OpenFoodTox.dat,,PENDING
+1,FC-007,Codex Alimentarius,http,High,HTTP,https://www.fao.org/fao-who-codexalimentarius/,,data/raw/http/FC-007_Codex_Alimentarius.dat,,PENDING
+1,FC-010,RASFF Portal,http,High,HTTP,https://webgate.ec.europa.eu/rasff-window/,,data/raw/http/FC-010_RASFF_Portal.dat,,PENDING
+1,FC-012,INFOSAN,http,High,HTTP,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,,data/raw/http/FC-012_INFOSAN.dat,,PENDING
+1,GN-018,KEGG GENES,http,High,HTTP,https://www.kegg.jp/kegg/genes.html,,data/raw/http/GN-018_KEGG_GENES.dat,,PENDING
+1,GN-019,GTDB,http,High,HTTP,https://gtdb.ecogenomic.org/,,data/raw/http/GN-019_GTDB.dat,,PENDING
+1,GN-020,SILVA,http,High,HTTP,https://www.arb-silva.de/,,data/raw/http/GN-020_SILVA.dat,,PENDING
+1,GOHIF-DS-0032,Ensembl Plants,http,Tier 1,,https://rest.ensembl.org/,,data/raw/http/GOHIF-DS-0032_Ensembl_Plants.dat,,PENDING
+1,GOHIF-DS-0038,CARD,http,Tier 1,HTTP,https://card.mcmaster.ca/latest/data,,data/raw/genomics/CARD/GOHIF-DS-0038_CARD.dat,,PENDING
+1,GOHIF-DS-0041,MEGARes,http,Tier 1,HTTP,https://megares.meglab.org/download/megares_v3.00.zip,,data/raw/genomics/MEGARes/GOHIF-DS-0041_MEGARes.dat,,PENDING
+1,GOHIF-DS-0042,BacMet,http,Tier 1,HTTP,http://bacmet.biomedicine.gu.se/download/BacMet2_EXP_database.fasta,,data/raw/genomics/BacMet/GOHIF-DS-0042_BacMet.dat,,PENDING
+1,GOHIF-DS-0043,PLSDB,http,Tier 1,HTTP,https://ccb-microbe.cs.uni-saarland.de/plsdb/plsdb.fna.bz2,,data/raw/genomics/PLSDB/GOHIF-DS-0043_PLSDB.dat,,PENDING
+1,PH-001,EPPO Global Database,http,High,HTTP,https://gd.eppo.int/,,data/raw/http/PH-001_EPPO_Global_Database.dat,,PENDING
+1,PH-002,CABI Crop Protection Compendium,http,High,HTTP,https://www.cabi.org/cpc/,,data/raw/http/PH-002_CABI_Crop_Protection_Compendium.dat,,PENDING
+1,PH-003,IPPC Pest Reports,http,High,HTTP,https://www.ippc.int/,,data/raw/http/PH-003_IPPC_Pest_Reports.dat,,PENDING
+1,PH-005,GRIN Global,http,High,HTTP,https://npgsweb.ars-grin.gov/,,data/raw/http/PH-005_GRIN_Global.dat,,PENDING
+1,PH-007,PlantVillage,http,High,HTTP,https://plantvillage.psu.edu/,,data/raw/http/PH-007_PlantVillage.dat,,PENDING
+1,PH-014,TAIR,http,High,HTTP,https://www.arabidopsis.org/,,data/raw/http/PH-014_TAIR.dat,,PENDING
+1,PH-015,PHI-base,http,High,HTTP,https://www.phi-base.org/,,data/raw/http/PH-015_PHI-base.dat,,PENDING
+1,GOHIF-DS-0028,EPPO Global Database,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0028_EPPO_Global_Database.dat,,PENDING
+1,GOHIF-DS-0029,CABI Crop Protection Compendium,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0029_CABI_Crop_Protection_Compendium.dat,,PENDING
+1,GOHIF-DS-0030,PHI-base,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0030_PHI-base.dat,,PENDING
+1,GOHIF-DS-0031,FungiDB,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0031_FungiDB.dat,,PENDING
+1,GOHIF-DS-0033,Gramene,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0033_Gramene.dat,,PENDING
+1,GOHIF-DS-0034,GenBank Plant Pathogens,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0034_GenBank_Plant_Pathogens.dat,,PENDING
+1,GOHIF-DS-0035,European Nucleotide Archive,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0035_European_Nucleotide_Archive.dat,,PENDING
+1,GOHIF-DS-0045,ISfinder,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0045_ISfinder.dat,,PENDING
+1,GOHIF-DS-0052,Pathogenwatch,manual,Tier 1,,,,data/raw/manual/GOHIF-DS-0052_Pathogenwatch.dat,,PENDING
+1,HH-001,WHO GLASS,manual,High,Manual,https://www.who.int/initiatives/glass,,data/raw/manual/HH-001_WHO_GLASS.dat,,PENDING
+1,HH-002,WHO AWaRe,manual,High,Manual,https://aware.essentialmeds.org,,data/raw/manual/HH-002_WHO_AWaRe.dat,,PENDING
+1,HH-004,CDC NHSN AR Option,manual,High,Manual,https://www.cdc.gov/nhsn/,,data/raw/manual/HH-004_CDC_NHSN_AR_Option.dat,,PENDING
+1,GOHIF-DS-0046,RefSeq,ncbi,Tier 1,NCBI_DATASETS_CLI,,,data/raw/genomics/RefSeq/GOHIF-DS-0046_RefSeq.dat,,PENDING
+1,GOHIF-DS-0047,SRA,sra,Tier 1,SRA_TOOLKIT,,,data/raw/genomics/SRA/GOHIF-DS-0047_SRA.dat,,PENDING
+2,AH-010,GBADs,api,Medium,REST_API,https://gbadske.org,,data/raw/api/AH-010_GBADs.dat,,PENDING
+2,AH-012,Animal Genome Database,api,Medium,REST_API,https://www.alliancegenome.org,,data/raw/api/AH-012_Animal_Genome_Database.dat,,PENDING
+2,EH-006,PANGAEA,api,Medium,REST_API,https://www.pangaea.de/,,data/raw/api/EH-006_PANGAEA.dat,,PENDING
+2,FC-009,AGROVOC,api,Medium,REST_API,https://agrovoc.fao.org/,,data/raw/api/FC-009_AGROVOC.dat,,PENDING
+2,FC-014,OpenFoodFacts,api,Medium,REST_API,https://world.openfoodfacts.org/,,data/raw/api/FC-014_OpenFoodFacts.dat,,PENDING
+2,GN-005,Ensembl Protists,api,Medium,REST_API,https://protists.ensembl.org/,,data/raw/api/GN-005_Ensembl_Protists.dat,,PENDING
+2,GN-022,Open Tree of Life,api,Medium,REST_API,https://tree.opentreeoflife.org/,,data/raw/api/GN-022_Open_Tree_of_Life.dat,,PENDING
+2,GN-027,BioStudies,api,Medium,REST_API,https://www.ebi.ac.uk/biostudies/,,data/raw/api/GN-027_BioStudies.dat,,PENDING
+2,HH-006,ClinicalTrials.gov,api,Medium,REST_API,https://clinicaltrials.gov,,data/raw/api/HH-006_ClinicalTrials.gov.dat,,PENDING
+2,AH-004,USDA National Animal Health Laboratory Network,http,Medium,HTTP,https://www.aphis.usda.gov,,data/raw/http/AH-004_USDA_National_Animal_Health_Laboratory_Network.dat,,PENDING
+2,AH-005,USDA Animal Disease Traceability,http,Medium,HTTP,https://www.aphis.usda.gov/traceability,,data/raw/http/AH-005_USDA_Animal_Disease_Traceability.dat,,PENDING
+2,AH-008,Vet-LIRN,http,Medium,HTTP,https://www.fda.gov,,data/raw/http/AH-008_Vet-LIRN.dat,,PENDING
+2,AH-009,DAD-IS,http,Medium,HTTP,https://www.fao.org/dad-is,,data/raw/http/AH-009_DAD-IS.dat,,PENDING
+2,AH-011,Animal QTLdb,http,Medium,HTTP,https://www.animalgenome.org,,data/raw/http/AH-011_Animal_QTLdb.dat,,PENDING
+2,EH-008,GEO BON,http,Medium,HTTP,https://geobon.org/,,data/raw/http/EH-008_GEO_BON.dat,,PENDING
+2,EH-012,GEMStat,http,Medium,HTTP,https://gemstat.org/,,data/raw/http/EH-012_GEMStat.dat,,PENDING
+2,EH-013,AquaMaps,http,Medium,HTTP,https://www.aquamaps.org/downloads/,,data/raw/http/EH-013_AquaMaps.dat,,PENDING
+2,FC-006,FoodEx2,http,Medium,HTTP,https://www.efsa.europa.eu/en/data/data-standardisation,,data/raw/http/FC-006_FoodEx2.dat,,PENDING
+2,FC-008,FoodMicrobionet,http,Medium,HTTP,https://www.foodmicrobionet.org/,,data/raw/http/FC-008_FoodMicrobionet.dat,,PENDING
+2,FC-011,FoodRisk-Labs,http,Medium,HTTP,https://foodrisklabs.bfr.bund.de/,,data/raw/http/FC-011_FoodRisk-Labs.dat,,PENDING
+2,FC-013,USDA Food Safety and Inspection Service Data,http,Medium,HTTP,https://www.fsis.usda.gov/,,data/raw/http/FC-013_USDA_Food_Safety_and_Inspection_Service_Data.dat,,PENDING
+2,GN-010,SMART,http,Medium,HTTP,https://smart.embl.de/,,data/raw/http/GN-010_SMART.dat,,PENDING
+2,GN-011,SUPERFAMILY,http,Medium,HTTP,https://supfam.org/,,data/raw/http/GN-011_SUPERFAMILY.dat,,PENDING
+2,GN-012,COG Database,http,Medium,HTTP,https://www.ncbi.nlm.nih.gov/research/cog/,,data/raw/http/GN-012_COG_Database.dat,,PENDING
+2,GN-015,MicroScope,http,Medium,HTTP,https://mage.genoscope.cns.fr/,,data/raw/http/GN-015_MicroScope.dat,,PENDING
+2,GN-021,RDP,http,Medium,HTTP,https://rdp.cme.msu.edu/,,data/raw/http/GN-021_RDP.dat,,PENDING
+2,GN-023,TimeTree,http,Medium,HTTP,https://timetree.org/,,data/raw/http/GN-023_TimeTree.dat,,PENDING
+2,HH-003,WHO Essential Medicines List,http,Medium,HTTP,https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines,,data/raw/http/HH-003_WHO_Essential_Medicines_List.dat,,PENDING
+2,PH-004,USDA PLANTS Database,http,Medium,HTTP,https://plants.usda.gov/,,data/raw/http/PH-004_USDA_PLANTS_Database.dat,,PENDING
+2,PH-008,IRRI Rice Knowledge Bank,http,Medium,HTTP,https://www.irri.org/,,data/raw/http/PH-008_IRRI_Rice_Knowledge_Bank.dat,,PENDING
+2,PH-009,WheatIS,http,Medium,HTTP,https://wheatis.org/,,data/raw/http/PH-009_WheatIS.dat,,PENDING
+2,PH-012,PLAZA Plant Comparative Genomics,http,Medium,HTTP,https://bioinformatics.psb.ugent.be/plaza/,,data/raw/http/PH-012_PLAZA_Plant_Comparative_Genomics.dat,,PENDING
+2,GOHIF-DS-0036,FAOSTAT Crops,manual,Tier 2,,,,data/raw/manual/GOHIF-DS-0036_FAOSTAT_Crops.dat,,PENDING
+2,GOHIF-DS-0037,NCBI Pathogen Detection (Plant),manual,Tier 2,,,,data/raw/manual/GOHIF-DS-0037_NCBI_Pathogen_Detection_(Plant).dat,,PENDING
+2,GOHIF-DS-0044,ICEberg,manual,Tier 2,,,,data/raw/manual/GOHIF-DS-0044_ICEberg.dat,,PENDING
+2,GOHIF-DS-0050,BV-BRC,manual,Tier 2,,,,data/raw/manual/GOHIF-DS-0050_BV-BRC.dat,,PENDING
+2,GOHIF-DS-0051,VFDB,manual,Tier 2,,,,data/raw/manual/GOHIF-DS-0051_VFDB.dat,,PENDING
+2,HH-009,OpenSAFELY,manual,Medium,Manual,https://www.opensafely.org,,data/raw/manual/HH-009_OpenSAFELY.dat,,PENDING
+2,HH-010,Vivli,manual,Medium,Manual,https://vivli.org,,data/raw/manual/HH-010_Vivli.dat,,PENDING
+3,AH-013,FishPathogens.eu,http,Low,HTTP,https://fishpathogens.eu,,data/raw/http/AH-013_FishPathogens.eu.dat,,PENDING
+3,AH-014,AquaPathogenX,http,Low,HTTP,https://aquapathogenx.org,,data/raw/http/AH-014_AquaPathogenX.dat,,PENDING

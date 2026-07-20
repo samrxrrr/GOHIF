@@ -7,6 +7,7 @@ from pathlib import Path
 from .base import BaseAdapter
 
 from src.download_manager.api.client import APIClient
+from src.download_manager.providers.registry import ProviderRegistry
 
 
 class APIAdapter(BaseAdapter):
@@ -16,6 +17,7 @@ class APIAdapter(BaseAdapter):
         super().__init__()
 
         self.client = APIClient()
+        self.registry = ProviderRegistry()
 
 
     def connect(self):
@@ -34,7 +36,11 @@ class APIAdapter(BaseAdapter):
 
         dataset_name = dataset.get("Dataset_Name", "Unknown Dataset")
 
-        url = dataset.get("Download_URL")
+        provider = self.registry.resolve(dataset)
+
+        url = provider.endpoint(dataset)
+
+        params = provider.params(dataset)
 
         output_path = dataset.get("Local_Path")
 
@@ -60,7 +66,9 @@ class APIAdapter(BaseAdapter):
 
             output = self.client.download_file(
                 url=url,
-                output_path=output_path
+                output_path=output_path,
+                params=params,
+                headers=provider.headers()
             )
 
             return {

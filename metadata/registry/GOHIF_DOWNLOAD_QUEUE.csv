@@ -1,153 +1,59 @@
-GOHIF_ID,Dataset_Name,Adapter,Download_URL,Download_Status,Downloaded
-GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,api,nan,Pending,No
-GOHIF-DS-0002,ATLAS,api,nan,Pending,No
-GOHIF-DS-0003,EARS-Net,api,nan,Pending,No
-GOHIF-DS-0004,AMRSN,api,nan,Pending,No
-GOHIF-DS-0005,JANIS,api,nan,Pending,No
-GOHIF-DS-0006,UKHSA AMR Surveillance,api,nan,Pending,No
-GOHIF-DS-0007,NARMS,api,nan,Pending,No
-GOHIF-DS-0008,ReLAVRA+,api,nan,Pending,No
-GOHIF-DS-0009,ResistanceMap,api,nan,Pending,No
-GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,api,nan,Pending,No
-GOHIF-DS-0011,WOAH ANIMUSE,api,nan,Pending,No
-GOHIF-DS-0012,WOAH WAHIS,api,nan,Pending,No
-GOHIF-DS-0013,European Surveillance of Veterinary Antimicrobial Consumption,api,nan,Pending,No
-GOHIF-DS-0014,DANMAP,api,nan,Pending,No
-GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,api,nan,Pending,No
-GOHIF-DS-0016,FAOSTAT,api,nan,Pending,No
-GOHIF-DS-0017,FAO InFARM,api,nan,Pending,No
-GOHIF-DS-0018,WHO Tricycle Environmental Component,api,nan,Pending,No
-GOHIF-DS-0019,MGnify,api,nan,Pending,No
-GOHIF-DS-0020,UNEP GEMS/Water,api,nan,Pending,No
-GOHIF-DS-0021,Earth Microbiome Project,api,nan,Pending,No
-GOHIF-DS-0022,NORMAN Network,api,nan,Pending,No
-GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,api,nan,Pending,No
-GOHIF-DS-0024,NARMS Retail Meat Surveillance,api,nan,Pending,No
-GOHIF-DS-0025,EFSA/ECDC Food Component,api,nan,Pending,No
-GOHIF-DS-0026,CIPARS Food Component,api,nan,Pending,No
-GOHIF-DS-0027,GenomeTrakr,api,nan,Pending,No
-GOHIF-DS-0028,EPPO Global Database,api,nan,Pending,No
-GOHIF-DS-0029,CABI Crop Protection Compendium,api,nan,Pending,No
-GOHIF-DS-0030,PHI-base,api,nan,Pending,No
-GOHIF-DS-0031,FungiDB,api,nan,Pending,No
-GOHIF-DS-0032,Ensembl Plants,api,nan,Pending,No
-GOHIF-DS-0033,Gramene,api,nan,Pending,No
-GOHIF-DS-0034,GenBank Plant Pathogens,api,nan,Pending,No
-GOHIF-DS-0035,European Nucleotide Archive,api,nan,Pending,No
-GOHIF-DS-0036,FAOSTAT Crops,api,nan,Pending,No
-GOHIF-DS-0037,NCBI Pathogen Detection (Plant),api,nan,Pending,No
-GOHIF-DS-0038,CARD,api,https://card.mcmaster.ca/latest/data,Success,No
-GOHIF-DS-0039,ResFinder,api,nan,Pending,No
-GOHIF-DS-0040,AMRFinderPlus,api,nan,Pending,No
-GOHIF-DS-0041,MEGARes,api,https://megares.meglab.org/download/megares_v3.00.zip,Success,No
-GOHIF-DS-0042,BacMet,api,http://bacmet.biomedicine.gu.se/download/BacMet2_EXP_database.fasta,Success,No
-GOHIF-DS-0043,PLSDB,api,https://ccb-microbe.cs.uni-saarland.de/plsdb/plsdb.fna.bz2,Failed,No
-GOHIF-DS-0044,ICEberg,api,nan,Pending,No
-GOHIF-DS-0045,ISfinder,api,nan,Pending,No
-GOHIF-DS-0046,RefSeq,api,nan,Pending,No
-GOHIF-DS-0047,SRA,api,nan,Pending,No
-GOHIF-DS-0048,ENA,api,nan,Pending,No
-GOHIF-DS-0049,MGnify,api,nan,Pending,No
-GOHIF-DS-0050,BV-BRC,api,nan,Pending,No
-GOHIF-DS-0051,VFDB,api,nan,Pending,No
-GOHIF-DS-0052,Pathogenwatch,api,nan,Pending,No
-HH-001,WHO GLASS,api,https://www.who.int/initiatives/glass,Pending,No
-HH-002,WHO AWaRe,api,https://aware.essentialmeds.org,Pending,No
-HH-003,WHO Essential Medicines List,api,https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines,Pending,No
-HH-004,CDC NHSN AR Option,api,https://www.cdc.gov/nhsn/,Pending,No
-HH-005,ECDC Surveillance Atlas,api,https://atlas.ecdc.europa.eu,Pending,No
-HH-006,ClinicalTrials.gov,api,https://clinicaltrials.gov,Pending,No
-HH-007,GISAID Metadata,api,https://gisaid.org,Pending,No
-HH-008,Pathogenwatch,api,https://pathogen.watch,Pending,No
-HH-009,OpenSAFELY,api,https://www.opensafely.org,Pending,No
-HH-010,Vivli,api,https://vivli.org,Pending,No
-AH-001,WOAH WAHIS,api,https://wahis.woah.org,Pending,No
-AH-002,FAO EMPRES-i,api,https://empres-i.apps.fao.org,Pending,No
-AH-003,NCBI Pathogen Detection,api,https://www.ncbi.nlm.nih.gov/pathogens,Pending,No
-AH-004,USDA National Animal Health Laboratory Network,api,https://www.aphis.usda.gov,Pending,No
-AH-005,USDA Animal Disease Traceability,api,https://www.aphis.usda.gov/traceability,Pending,No
-AH-006,WOAH Antimicrobial Agent Database,api,https://www.woah.org,Pending,No
-AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),api,https://www.ema.europa.eu,Pending,No
-AH-008,Vet-LIRN,api,https://www.fda.gov,Pending,No
-AH-009,DAD-IS,api,https://www.fao.org/dad-is,Pending,No
-AH-010,GBADs,api,https://gbadske.org,Pending,No
-AH-011,Animal QTLdb,api,https://www.animalgenome.org,Pending,No
-AH-012,Animal Genome Database,api,https://www.alliancegenome.org,Pending,No
-AH-013,FishPathogens.eu,api,https://fishpathogens.eu,Pending,No
-AH-014,AquaPathogenX,api,https://aquapathogenx.org,Pending,No
-AH-015,FAO ASF Situation Reports,api,https://www.fao.org,Pending,No
-EH-001,MGnify,api,https://www.ebi.ac.uk/metagenomics/,Pending,No
-EH-002,NCBI BioProject,api,https://www.ncbi.nlm.nih.gov/bioproject/,Pending,No
-EH-003,NCBI BioSample,api,https://www.ncbi.nlm.nih.gov/biosample/,Pending,No
-EH-004,ENA,api,https://www.ebi.ac.uk/ena/,Pending,No
-EH-005,Earth Microbiome Project,api,https://earthmicrobiome.org/,Pending,No
-EH-006,PANGAEA,api,https://www.pangaea.de/,Pending,No
-EH-007,GBIF,api,https://www.gbif.org/,Pending,No
-EH-008,GEO BON,api,https://geobon.org/,Pending,No
-EH-009,Copernicus Climate Data Store,api,https://cds.climate.copernicus.eu/,Pending,No
-EH-010,NOAA NCEI,api,https://www.ncei.noaa.gov/,Pending,No
-EH-011,NASA Earthdata,api,https://www.earthdata.nasa.gov/,Pending,No
-EH-012,GEMStat,api,https://gemstat.org/,Pending,No
-EH-013,AquaMaps,api,https://www.aquamaps.org/,Pending,No
-EH-014,WorldClim,api,https://www.worldclim.org/,Pending,No
-EH-015,SoilGrids,api,https://soilgrids.org/,Pending,No
-FC-001,FAOSTAT,api,https://www.fao.org/faostat/,Pending,No
-FC-002,WHO GEMS/Food,api,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,Pending,No
-FC-003,FoodData Central,api,https://fdc.nal.usda.gov/,Pending,No
-FC-004,GenomeTrakr,api,https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network,Pending,No
-FC-005,EFSA OpenFoodTox,api,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,Pending,No
-FC-006,FoodEx2,api,https://www.efsa.europa.eu/en/data/data-standardisation,Pending,No
-FC-007,Codex Alimentarius,api,https://www.fao.org/fao-who-codexalimentarius/,Pending,No
-FC-008,FoodMicrobionet,api,https://www.foodmicrobionet.org/,Pending,No
-FC-009,AGROVOC,api,https://agrovoc.fao.org/,Pending,No
-FC-010,RASFF Portal,api,https://webgate.ec.europa.eu/rasff-window/,Pending,No
-FC-011,FoodRisk-Labs,api,https://foodrisklabs.bfr.bund.de/,Pending,No
-FC-012,INFOSAN,api,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,Pending,No
-FC-013,USDA Food Safety and Inspection Service Data,api,https://www.fsis.usda.gov/,Pending,No
-FC-014,OpenFoodFacts,api,https://world.openfoodfacts.org/,Pending,No
-FC-015,European Food Safety Open Data Portal,api,https://open.efsa.europa.eu/,Pending,No
-PH-001,EPPO Global Database,api,https://gd.eppo.int/,Pending,No
-PH-002,CABI Crop Protection Compendium,api,https://www.cabi.org/cpc/,Pending,No
-PH-003,IPPC Pest Reports,api,https://www.ippc.int/,Pending,No
-PH-004,USDA PLANTS Database,api,https://plants.usda.gov/,Pending,No
-PH-005,GRIN Global,api,https://npgsweb.ars-grin.gov/,Pending,No
-PH-006,Genesys PGR,api,https://www.genesys-pgr.org/,Pending,No
-PH-007,PlantVillage,api,https://plantvillage.psu.edu/,Pending,No
-PH-008,IRRI Rice Knowledge Bank,api,https://www.irri.org/,Pending,No
-PH-009,WheatIS,api,https://wheatis.org/,Pending,No
-PH-010,MaizeGDB,api,https://www.maizegdb.org/,Pending,No
-PH-011,Ensembl Plants,api,https://plants.ensembl.org/,Pending,No
-PH-012,PLAZA Plant Comparative Genomics,api,https://bioinformatics.psb.ugent.be/plaza/,Pending,No
-PH-013,Sol Genomics Network,api,https://solgenomics.net/,Pending,No
-PH-014,TAIR,api,https://www.arabidopsis.org/,Pending,No
-PH-015,PHI-base,api,https://www.phi-base.org/,Pending,No
-GN-001,GenBank,api,https://www.ncbi.nlm.nih.gov/genbank/,Pending,No
-GN-002,DDBJ,api,https://www.ddbj.nig.ac.jp/,Pending,No
-GN-003,Ensembl Genomes,api,https://ensemblgenomes.org/,Pending,No
-GN-004,Ensembl Bacteria,api,https://bacteria.ensembl.org/,Pending,No
-GN-005,Ensembl Protists,api,https://protists.ensembl.org/,Pending,No
-GN-006,NCBI Gene,api,https://www.ncbi.nlm.nih.gov/gene/,Pending,No
-GN-007,InterPro,api,https://www.ebi.ac.uk/interpro/,Pending,No
-GN-008,Pfam,api,https://www.ebi.ac.uk/interpro/,Pending,No
-GN-009,eggNOG,api,https://eggnog.embl.de/,Pending,No
-GN-010,SMART,api,https://smart.embl.de/,Pending,No
-GN-011,SUPERFAMILY,api,https://supfam.org/,Pending,No
-GN-012,COG Database,api,https://www.ncbi.nlm.nih.gov/research/cog/,Pending,No
-GN-013,OrthoDB,api,https://www.orthodb.org/,Pending,No
-GN-014,OMA Browser,api,https://omabrowser.org/,Pending,No
-GN-015,MicroScope,api,https://mage.genoscope.cns.fr/,Pending,No
-GN-016,Ensembl Compara,api,https://www.ensembl.org/info/genome/compara/,Pending,No
-GN-017,PANTHER,api,https://www.pantherdb.org/,Pending,No
-GN-018,KEGG GENES,api,https://www.kegg.jp/kegg/genes.html,Pending,No
-GN-019,GTDB,api,https://gtdb.ecogenomic.org/,Pending,No
-GN-020,SILVA,api,https://www.arb-silva.de/,Pending,No
-GN-021,RDP,api,https://rdp.cme.msu.edu/,Pending,No
-GN-022,Open Tree of Life,api,https://tree.opentreeoflife.org/,Pending,No
-GN-023,TimeTree,api,https://timetree.org/,Pending,No
-GN-024,Expression Atlas,api,https://www.ebi.ac.uk/gxa/home,Pending,No
-GN-025,PRIDE,api,https://www.ebi.ac.uk/pride/,Pending,No
-GN-026,MetaboLights,api,https://www.ebi.ac.uk/metabolights/,Pending,No
-GN-027,BioStudies,api,https://www.ebi.ac.uk/biostudies/,Pending,No
-GN-028,UniProt,api,https://www.uniprot.org/,Pending,No
-GN-029,AlphaFold Protein Structure Database,api,https://alphafold.ebi.ac.uk/,Pending,No
-GN-030,PDBe,api,https://www.ebi.ac.uk/pdbe/,Pending,No
+GOHIF_ID,Dataset_Name,Acronym,Dataset_Version,Dataset_Status,Organization,Country_Region,Official_Website,License,One_Health_Domain,Evidence_Class,Primary_Evidence_Layer,Secondary_Evidence_Layers,Evidence_Type,Tier,Geographic_Coverage,Temporal_Coverage,Update_Frequency,Data_Level,Metadata_Quality,Findable,Accessible,Interoperable,Reusable,FAIR_Maturity,Scientific_Strength,Scientific_Limitations,Provenance,GOHIF_Compatibility,Coverage_Function,Freeze_Status,SRR,Decision_ID,Review_Date,Notes,Download_Method,Automation,Download_URL,API_Base,FTP_Path,Git_Repo,CLI_Command,Authentication,Local_Path,Checksum,Downloaded,Download_Status,Download_Date,Local_File,File_Size_MB,SHA256,Error_Message,Present,Files,Size_MB
+GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,GLASS,Current,Accepted,WHO,Global,,Mixed,Human Health,Primary,Global Surveillance,,AMR Surveillance,Tier 1,Global,2015-Present,Annual,National Aggregate,High,Excellent,Good,Excellent,Excellent,High,Global reference AMR surveillance,Aggregated reporting,Primary,Excellent,Global Human AMR Surveillance,Frozen,SRR-HH-001,HH-001,2026-07-16,Core Human Health dataset,MANUAL_WEB,,https://www.who.int/initiatives/glass,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0003,EARS-Net,EARS-Net,Current,Accepted,ECDC,Europe,,Open,Human Health,Primary,Regional Surveillance,,AMR Surveillance,Tier 1,Europe,1998-Present,Annual,National Aggregate,Very High,Excellent,Excellent,Excellent,Excellent,Very High,European benchmark,Regional only,Primary,Excellent,Regional Human AMR,Frozen,SRR-HH-001,HH-003,2026-07-16,,MANUAL_WEB,,https://www.ecdc.europa.eu/en/antimicrobial-resistance/surveillance-and-disease-data/data-ecdc,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0004,AMRSN,AMRSN,Current,Accepted,ICMR,India,,Restricted,Human Health,Primary,National Surveillance,,AMR Surveillance,Tier 1,India,2013-Present,Periodic,National,High,Good,Restricted,Good,Good,Moderate-High,LMIC representation,Restricted access,Primary,Excellent,National Human AMR,Frozen,SRR-HH-001,HH-004,2026-07-16,,MANUAL_WEB,,https://www.who.int/teams/health-product-policy-and-standards/antimicrobial-resistance/amrsn,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0005,JANIS,JANIS,Current,Accepted,Japan MHLW,Japan,,Restricted,Human Health,Primary,National Surveillance,,Hospital Surveillance,Tier 1,Japan,2000s-Present,Annual,Hospital,High,Good,Restricted,Good,Good,High,Hospital surveillance,Restricted access,Primary,Excellent,Hospital AMR,Frozen,SRR-HH-001,HH-005,2026-07-16,,MANUAL_WEB,,https://janis.mhlw.go.jp,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0006,UKHSA AMR Surveillance,UKHSA,Current,Accepted,UKHSA,United Kingdom,,Open,Human Health,Primary,National Surveillance,,AMR Surveillance,Tier 1,United Kingdom,Ongoing,Annual,National,Very High,Excellent,Excellent,Excellent,Excellent,Very High,Integrated national surveillance,Country specific,Primary,Excellent,National Human AMR,Frozen,SRR-HH-001,HH-006,2026-07-16,,MANUAL_WEB,,https://www.gov.uk/government/collections/antimicrobial-resistance-amr-information-and-resources,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0007,NARMS,NARMS,Current,Accepted,CDC/FDA/USDA,United States,,Open,Human Health,Primary,Cross-Domain Surveillance,Animal Health;Food Chain,Integrated Surveillance,Tier 1,United States,1996-Present,Annual,Integrated,Very High,Excellent,Excellent,Excellent,Excellent,Very High,Cross-domain integration,National scope,Primary,Excellent,One Health Integration,Frozen,SRR-HH-001,HH-007,2026-07-16,Cross-domain dataset,MANUAL_WEB,,https://www.cdc.gov/narms,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0008,ReLAVRA+,ReLAVRA+,Current,Accepted,PAHO,Latin America,,Open,Human Health,Primary,Regional Surveillance,,AMR Surveillance,Tier 1,Latin America,Ongoing,Annual,Regional,High,Excellent,Excellent,Excellent,Excellent,High,Regional surveillance,Regional scope,Primary,Excellent,Regional Human AMR,Frozen,SRR-HH-001,HH-008,2026-07-16,,MANUAL_WEB,,https://www.paho.org/en/topics/antimicrobial-resistance,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0009,ResistanceMap,ResistanceMap,Current,Accepted,One Health Trust,Global,,Open,Human Health,Derived,Integrated Evidence,,Evidence Integration,Tier 2,Global,Variable,Periodic,Integrated,High,Excellent,Excellent,Excellent,Excellent,High,Excellent synthesis,Secondary resource,Secondary,Excellent,Derived Evidence,Frozen,SRR-HH-001,HH-009,2026-07-16,Derived evidence,WEB_PORTAL,,https://resistancemap.cddep.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,AMRSNET/RISLNET,Current,Accepted,Africa CDC,Africa,,Mixed,Human Health,Derived,Continental Coordination,,Coordination,Tier 2,Africa,Ongoing,Periodic,Regional,Moderate,Good,Mixed,Good,Good,Moderate,Continental coordination,Emerging framework,Secondary,Good,Capacity Building,Frozen,SRR-HH-001,HH-010,2026-07-16,Supporting evidence,MANUAL_WEB,,https://africacdc.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0011,WOAH ANIMUSE,ANIMUSE,Current,Accepted,World Organisation for Animal Health (WOAH),Global,,Mixed,Animal Health,Primary,Veterinary Antimicrobial Use,,AMU Surveillance,Tier 1,Global,Multi-year,Annual,National Aggregate,High,Excellent,Good,Excellent,Excellent,High,Global veterinary AMU reference,Aggregated reporting,Primary,Excellent,Global Veterinary AMU,Frozen,SRR-AH-001,AH-002,2026-07-16,Core Animal Health dataset,MANUAL_WEB,,https://www.woah.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0012,WOAH WAHIS,WAHIS,Current,Accepted,World Organisation for Animal Health (WOAH),Global,,Mixed,Animal Health,Primary,Animal Disease Surveillance,Population Context,Disease Surveillance,Tier 1,Global,Ongoing,Continuous,National/Event,High,Excellent,Good,Excellent,Excellent,High,Global animal disease surveillance,Not an AMR dataset,Primary,Excellent,Global Disease Surveillance,Frozen,SRR-AH-001,AH-003,2026-07-16,,WEB_PORTAL,,https://wahis.woah.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0014,DANMAP,DANMAP,Current,Accepted,Danish Integrated Antimicrobial Resistance Monitoring and Research Programme,Denmark,,Open,Animal Health,Primary,Animal AMR Surveillance,Veterinary AMU;Food Chain;Human Health,Integrated One Health Surveillance,Tier 1,Denmark,1995-Present,Annual,Integrated,Very High,Excellent,Excellent,Excellent,Excellent,Very High,Gold-standard One Health surveillance,National scope,Primary,Excellent,Integrated One Health Surveillance,Frozen,SRR-AH-001,AH-005,2026-07-16,Reference implementation,MANUAL_WEB,,https://www.danmap.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,CIPARS,Current,Accepted,Public Health Agency of Canada,Canada,,Open,Animal Health,Primary,Animal AMR Surveillance,Veterinary AMU;Food Chain;Human Health,Integrated One Health Surveillance,Tier 1,Canada,Longitudinal,Annual,Integrated,High,Excellent,Good,Excellent,Excellent,High,Integrated national surveillance,National scope,Primary,Excellent,Integrated One Health Surveillance,Frozen,SRR-AH-001,AH-006,2026-07-16,,MANUAL_WEB,,https://www.canada.ca,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0017,FAO InFARM,InFARM,Current,Accepted,Food and Agriculture Organization of the United Nations,Global,,Mixed,Animal Health;Food Chain,Primary,Animal AMR Surveillance,Food Chain,AMR Surveillance Framework,Tier 1,Global,Ongoing,Ongoing,National,High,Excellent,Good,Excellent,Good,High,Global agriculture AMR coordination,Developing framework,Primary,Excellent,Global Food & Agriculture AMR,Frozen,SRR-AH-001,AH-008,2026-07-16,,MANUAL_WEB,,https://www.fao.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0018,WHO Tricycle Environmental Component,Tricycle,Current,Accepted,World Health Organization,Global,,Mixed,Environmental Health,Primary,Environmental AMR Surveillance,,AMR Surveillance,Tier 1,Global,Ongoing,Annual,National Aggregate,High,Excellent,Good,Excellent,Excellent,High,Global environmental AMR surveillance,Limited country participation,Primary,Excellent,Environmental AMR Surveillance,Frozen,SRR-EH-001,EH-001,2026-07-16,Core Environmental Health dataset,MANUAL_WEB,,https://www.who.int,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0020,UNEP GEMS/Water,GEMS/Water,Current,Accepted,United Nations Environment Programme,Global,,Open,Environmental Health,Contextual,Water Quality Monitoring,,Environmental Monitoring,Tier 1,Global,Longitudinal,Periodic,Monitoring Network,High,Excellent,Excellent,Excellent,Excellent,High,Global water quality monitoring,Not AMR-specific,Primary,Excellent,Environmental Context,Frozen,SRR-EH-001,EH-003,2026-07-16,Contextual environmental dataset,WEB_PORTAL,,https://gemstat.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0022,NORMAN Network,NORMAN,Current,Accepted,NORMAN Association,Europe,,Open,Environmental Health,Contextual,Chemical Surveillance,,Environmental Monitoring,Tier 1,Europe,Ongoing,Periodic,Monitoring Network,High,Excellent,Excellent,Excellent,Excellent,High,Chemical contaminant surveillance,Europe-focused,Secondary,Excellent,Chemical Context,Frozen,SRR-EH-001,EH-005,2026-07-16,Supporting environmental evidence,WEB_PORTAL,,https://www.norman-network.com,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,WWEC,Current,Accepted,GOHIF,Global,,Mixed,Environmental Health,Primary,Wastewater Surveillance,,Evidence Collection,Tier 1,Global,Living Collection,Periodic,Curated Repository,High,Excellent,Good,Excellent,Excellent,High,Supports wastewater AMR surveillance,Curated internal resource,Primary,Excellent,Wastewater Surveillance,Frozen,SRR-EH-001,EH-006,2026-07-16,GOHIF curated evidence,MANUAL_WEB,,https://www.epa.gov/water-research,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0024,NARMS Retail Meat Surveillance,NARMS Retail Meat,Current,Accepted,CDC/FDA/USDA,United States,,Open,Food Chain,Primary,Retail Food Surveillance,,AMR Surveillance,Tier 1,United States,2002-Present,Annual,Retail Sampling,Very High,Excellent,Excellent,Excellent,Excellent,Very High,Major foodborne AMR surveillance,United States only,Primary,Excellent,Retail Food AMR,Frozen,SRR-FC-001,FC-001,2026-07-16,Core Food Chain dataset,MANUAL_WEB,,https://www.fda.gov/animal-veterinary/national-antimicrobial-resistance-monitoring-system,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0025,EFSA/ECDC Food Component,EFSA Food,Current,Accepted,EFSA/ECDC,Europe,,Open,Food Chain,Primary,Foodborne AMR Surveillance,,AMR Surveillance,Tier 1,Europe,Ongoing,Annual,Integrated Surveillance,Very High,Excellent,Excellent,Excellent,Excellent,Very High,European food-chain AMR benchmark,Europe-focused,Primary,Excellent,Food Chain Surveillance,Frozen,SRR-FC-001,FC-002,2026-07-16,,WEB_PORTAL,,https://www.efsa.europa.eu/en/data,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0026,CIPARS Food Component,CIPARS Food,Current,Accepted,Public Health Agency of Canada,Canada,,Open,Food Chain,Primary,Integrated Food Surveillance,,Integrated Surveillance,Tier 1,Canada,Ongoing,Annual,Integrated,High,Excellent,Excellent,Excellent,Excellent,High,Integrated Canadian food surveillance,National scope,Primary,Excellent,Food Chain Integration,Frozen,SRR-FC-001,FC-003,2026-07-16,,MANUAL_WEB,,https://inspection.canada.ca/en/food-safety-for-industry/science-and-research/cipars,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0027,GenomeTrakr,GenomeTrakr,Current,Accepted,US FDA,Global,,Open,Food Chain,Primary,Whole Genome Surveillance,,Genomic Surveillance,Tier 1,Global,Ongoing,Continuous,Genome Repository,Very High,Excellent,Excellent,Excellent,Excellent,Very High,Global pathogen genome tracking,Focused on sequenced isolates,Primary,Excellent,Foodborne Genomics,Frozen,SRR-FC-001,FC-004,2026-07-16,Core genomic surveillance dataset,WEB_PORTAL,,https://www.ncbi.nlm.nih.gov/pathogens,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0029,CABI Crop Protection Compendium,,v1.0,Accepted,CABI,International,https://www.cabi.org/cpc/,To be verified,Plant Health,Primary,Plant Health,,Plant Disease Knowledgebase,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,CABI,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://www.cabi.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0030,PHI-base,,v1.0,Accepted,PHI-base Consortium,International,https://www.phi-base.org/,To be verified,Plant Health,Primary,Plant Health,,Host-Pathogen Interactions,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,PHI-base Consortium,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,MANUAL_WEB,,https://www.phi-base.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0031,FungiDB,,v1.0,Accepted,VEuPathDB,International,https://fungidb.org/,To be verified,Plant Health,Primary,Plant Health,,Fungal Pathogen Genomics,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,VEuPathDB,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://fungidb.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0033,Gramene,,v1.0,Accepted,Gramene Consortium,International,https://www.gramene.org/,To be verified,Plant Health,Primary,Plant Health,,Comparative Plant Genomics,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,Gramene Consortium,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://gramene.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0034,GenBank Plant Pathogens,,v1.0,Accepted,NCBI,International,https://www.ncbi.nlm.nih.gov/genbank/,To be verified,Plant Health,Primary,Plant Health,,Sequence Repository,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,NCBI,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,NCBI_QUERY,,https://www.ncbi.nlm.nih.gov/genbank/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0035,European Nucleotide Archive,,v1.0,Accepted,EMBL-EBI,International,https://www.ebi.ac.uk/ena/,To be verified,Plant Health,Primary,Plant Health,,Sequence Repository,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,EMBL-EBI,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,FTP_HTTP,,https://www.ebi.ac.uk/ena,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0036,FAOSTAT Crops,,v1.0,Accepted,FAO,International,https://www.fao.org/faostat/,To be verified,Plant Health,Primary,Plant Health,,Agricultural Statistics,Tier 2,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,FAO,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,FAOSTAT_API,,https://www.fao.org/faostat/en/#data,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),,v1.0,Accepted,NCBI,International,https://www.ncbi.nlm.nih.gov/pathogens/,To be verified,Plant Health,Primary,Plant Health,,Pathogen Surveillance,Tier 2,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,NCBI,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,NCBI_QUERY,,https://www.ncbi.nlm.nih.gov/pathogens/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0039,ResFinder,,v1.0,Accepted,DTU,International,https://cge.food.dtu.dk/services/ResFinder/,To be verified,Genomics,Primary,Genomics & Molecular Evidence,,AMR Gene Database,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,DTU,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,GIT_HTTP,Full,https://bitbucket.org/genomicepidemiology/resfinder_db,,,https://bitbucket.org/genomicepidemiology/resfinder_db.git,,,data/raw/genomics/ResFinder,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0044,ICEberg,,v1.0,Accepted,Shanghai Jiao Tong University,International,http://db-mml.sjtu.edu.cn/ICEberg/,To be verified,Genomics,Primary,Genomics & Molecular Evidence,,Mobile Genetic Elements,Tier 2,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,Shanghai Jiao Tong University,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://db-mml.sjtu.edu.cn/ICEberg,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0045,ISfinder,,v1.0,Accepted,ISfinder Consortium,International,https://www-is.biotoul.fr/,To be verified,Genomics,Primary,Genomics & Molecular Evidence,,Insertion Sequences,Tier 1,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,ISfinder Consortium,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://isfinder.biotoul.fr,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0050,BV-BRC,,v1.0,Accepted,BV-BRC Consortium,International,https://www.bv-brc.org/,To be verified,Genomics,Primary,Genomics & Molecular Evidence,,Pathogen Resource,Tier 2,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,BV-BRC Consortium,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://www.bv-brc.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GOHIF-DS-0051,VFDB,,v1.0,Accepted,Zhejiang University,International,http://www.mgc.ac.cn/VFs/,To be verified,Genomics,Primary,Genomics & Molecular Evidence,,Virulence Factors,Tier 2,Global,Current,Variable,Repository,High,Yes,Yes,Pending,Pending,Under Assessment,High-quality curated resource,To be documented,Zhejiang University,High,Evidence Integration,Pending,,,2026-07-19,Phase 3 migration,WEB_PORTAL,,https://www.mgc.ac.cn/VFs,,,,,,,,No,PENDING,,,,,,False,0,0.0
+HH-001,WHO GLASS,,Candidate,Pending,WHO,Global,https://www.who.int/initiatives/glass,Open,Human Health,,,,,High,Global,,Annual,,,,,,,,,,,,,Candidate,,,,,Manual,No,https://www.who.int/initiatives/glass,,,,,,,,No,PENDING,,,,,,False,0,0.0
+HH-002,WHO AWaRe,,Candidate,Pending,WHO,Global,https://aware.essentialmeds.org,Open,Human Health,,,,,High,Global,,Periodic,,,,,,,,,,,,,Candidate,,,,,Manual,No,https://aware.essentialmeds.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+HH-004,CDC NHSN AR Option,,Candidate,Pending,CDC,USA,https://www.cdc.gov/nhsn/,Restricted,Human Health,,,,,High,National,,Annual,,,,,,,,,,,,,Candidate,,,,,Manual,No,https://www.cdc.gov/nhsn/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+HH-009,OpenSAFELY,,Candidate,Pending,OpenSAFELY,UK,https://www.opensafely.org,Restricted,Human Health,,,,,Medium,National,,Continuous,,,,,,,,,,,,,Candidate,,,,,Manual,No,https://www.opensafely.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+HH-010,Vivli,,Candidate,Pending,Vivli,Global,https://vivli.org,Restricted,Human Health,,,,,Medium,Global,,Continuous,,,,,,,,,,,,,Candidate,,,,,Manual,No,https://vivli.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+AH-008,Vet-LIRN,,Candidate,Verified,FDA,USA,https://www.fda.gov,Open,Animal Health,,,,,Medium,Animal Health,,Annual,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.fda.gov,,,,,,,,No,PENDING,,,,,,False,0,0.0
+AH-013,FishPathogens.eu,,Candidate,Verified,FishPathogens.eu,Europe,https://fishpathogens.eu,Open,Animal Health,,,,,Low,Animal Health,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://fishpathogens.eu,,,,,,,,No,PENDING,,,,,,False,0,0.0
+AH-014,AquaPathogenX,,Candidate,Verified,AquaPathogenX,Global,https://aquapathogenx.org,Open,Animal Health,,,,,Low,Animal Health,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://aquapathogenx.org,,,,,,,,No,PENDING,,,,,,False,0,0.0
+EH-013,AquaMaps,,Candidate,Verified,AquaMaps,Global,https://www.aquamaps.org/,Open,Environmental Health,,,,,Medium,Environmental Health,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.aquamaps.org/downloads/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-002,WHO GEMS/Food,,Candidate,Verified,WHO,Global,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,Open,Food Chain,,,,,High,Food Chain,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-004,GenomeTrakr,,Candidate,Verified,FDA,USA,https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network,Open,Food Chain,,,,,High,Food Chain,,Continuous,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://api.data.gov/fda/food/enforcement.json,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-005,EFSA OpenFoodTox,,Candidate,Verified,EFSA,Europe,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,Open,Food Chain,,,,,High,Food Chain,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-008,FoodMicrobionet,,Candidate,Verified,University of Turin,Global,https://www.foodmicrobionet.org/,Open,Food Chain,,,,,Medium,Food Chain,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.foodmicrobionet.org/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-012,INFOSAN,,Candidate,Verified,WHO/FAO,Global,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,Open,Food Chain,,,,,High,Food Chain,,Continuous,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,,,,,,,,No,PENDING,,,,,,False,0,0.0
+FC-013,USDA Food Safety and Inspection Service Data,,Candidate,Verified,USDA FSIS,USA,https://www.fsis.usda.gov/,Open,Food Chain,,,,,Medium,Food Chain,,Continuous,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.fsis.usda.gov/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+PH-002,CABI Crop Protection Compendium,,Candidate,Verified,CABI,Global,https://www.cabi.org/cpc/,Restricted,Plant Health,,,,,High,Plant Health,,Continuous,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.cabi.org/cpc/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+PH-010,MaizeGDB,,Candidate,Verified,MaizeGDB,Global,https://www.maizegdb.org/,Open,Plant Health,,,,,High,Plant Health,,Continuous,,,,,,,,,,,,,Candidate,,,,,REST_API,Yes,https://www.maizegdb.org/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+PH-012,PLAZA Plant Comparative Genomics,,Candidate,Verified,VIB,Global,https://bioinformatics.psb.ugent.be/plaza/,Open,Plant Health,,,,,Medium,Plant Health,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://bioinformatics.psb.ugent.be/plaza/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+PH-014,TAIR,,Candidate,Verified,The Arabidopsis Information Resource,Global,https://www.arabidopsis.org/,Open,Plant Health,,,,,High,Plant Health,,Continuous,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.arabidopsis.org/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+PH-015,PHI-base,,Candidate,Verified,PHI-base Consortium,Global,https://www.phi-base.org/,Open,Plant Health,,,,,High,Plant Health,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://www.phi-base.org/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GN-009,eggNOG,,Candidate,Verified,EMBL-EBI,Global,https://eggnog.embl.de/,Open,Genomics,,,,,High,Genomics,,Continuous,,,,,,,,,,,,,Candidate,,,,,REST_API,Yes,https://eggnogapi.embl.de/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GN-017,PANTHER,,Candidate,Verified,USC,Global,https://www.pantherdb.org/,Open,Genomics,,,,,High,Genomics,,Continuous,,,,,,,,,,,,,Candidate,,,,,REST_API,Yes,https://pantherdb.org/services/oai/pantherdb/,,,,,,,,No,PENDING,,,,,,False,0,0.0
+GN-021,RDP,,Candidate,Verified,Michigan State University,Global,https://rdp.cme.msu.edu/,Open,Genomics,,,,,Medium,Genomics,,Periodic,,,,,,,,,,,,,Candidate,,,,,HTTP,No,https://rdp.cme.msu.edu/,,,,,,,,No,PENDING,,,,,,False,0,0.0

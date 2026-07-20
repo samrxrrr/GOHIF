@@ -1,0 +1,59 @@
+GOHIF_ID,Dataset_Name,Files,Size_MB,Largest_File,Present
+GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,0,0.0,,False
+GOHIF-DS-0003,EARS-Net,0,0.0,,False
+GOHIF-DS-0004,AMRSN,0,0.0,,False
+GOHIF-DS-0005,JANIS,0,0.0,,False
+GOHIF-DS-0006,UKHSA AMR Surveillance,0,0.0,,False
+GOHIF-DS-0007,NARMS,0,0.0,,False
+GOHIF-DS-0008,ReLAVRA+,0,0.0,,False
+GOHIF-DS-0009,ResistanceMap,0,0.0,,False
+GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,0,0.0,,False
+GOHIF-DS-0011,WOAH ANIMUSE,0,0.0,,False
+GOHIF-DS-0012,WOAH WAHIS,0,0.0,,False
+GOHIF-DS-0014,DANMAP,0,0.0,,False
+GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,0,0.0,,False
+GOHIF-DS-0017,FAO InFARM,0,0.0,,False
+GOHIF-DS-0018,WHO Tricycle Environmental Component,0,0.0,,False
+GOHIF-DS-0020,UNEP GEMS/Water,0,0.0,,False
+GOHIF-DS-0022,NORMAN Network,0,0.0,,False
+GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,0,0.0,,False
+GOHIF-DS-0024,NARMS Retail Meat Surveillance,0,0.0,,False
+GOHIF-DS-0025,EFSA/ECDC Food Component,0,0.0,,False
+GOHIF-DS-0026,CIPARS Food Component,0,0.0,,False
+GOHIF-DS-0027,GenomeTrakr,0,0.0,,False
+GOHIF-DS-0029,CABI Crop Protection Compendium,0,0.0,,False
+GOHIF-DS-0030,PHI-base,0,0.0,,False
+GOHIF-DS-0031,FungiDB,0,0.0,,False
+GOHIF-DS-0033,Gramene,0,0.0,,False
+GOHIF-DS-0034,GenBank Plant Pathogens,0,0.0,,False
+GOHIF-DS-0035,European Nucleotide Archive,0,0.0,,False
+GOHIF-DS-0036,FAOSTAT Crops,0,0.0,,False
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),0,0.0,,False
+GOHIF-DS-0039,ResFinder,0,0.0,,False
+GOHIF-DS-0044,ICEberg,0,0.0,,False
+GOHIF-DS-0045,ISfinder,0,0.0,,False
+GOHIF-DS-0050,BV-BRC,0,0.0,,False
+GOHIF-DS-0051,VFDB,0,0.0,,False
+HH-001,WHO GLASS,0,0.0,,False
+HH-002,WHO AWaRe,0,0.0,,False
+HH-004,CDC NHSN AR Option,0,0.0,,False
+HH-009,OpenSAFELY,0,0.0,,False
+HH-010,Vivli,0,0.0,,False
+AH-008,Vet-LIRN,0,0.0,,False
+AH-013,FishPathogens.eu,0,0.0,,False
+AH-014,AquaPathogenX,0,0.0,,False
+EH-013,AquaMaps,0,0.0,,False
+FC-002,WHO GEMS/Food,0,0.0,,False
+FC-004,GenomeTrakr,0,0.0,,False
+FC-005,EFSA OpenFoodTox,0,0.0,,False
+FC-008,FoodMicrobionet,0,0.0,,False
+FC-012,INFOSAN,0,0.0,,False
+FC-013,USDA Food Safety and Inspection Service Data,0,0.0,,False
+PH-002,CABI Crop Protection Compendium,0,0.0,,False
+PH-010,MaizeGDB,0,0.0,,False
+PH-012,PLAZA Plant Comparative Genomics,0,0.0,,False
+PH-014,TAIR,0,0.0,,False
+PH-015,PHI-base,0,0.0,,False
+GN-009,eggNOG,0,0.0,,False
+GN-017,PANTHER,0,0.0,,False
+GN-021,RDP,0,0.0,,False

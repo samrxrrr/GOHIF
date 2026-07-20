@@ -1,0 +1,14 @@
+Priority,GOHIF_ID,Dataset_Name,Adapter,Tier,Download_Method,Download_URL,API_Base,Local_Path,File_Format,Status
+1,GOHIF-DS-0039,ResFinder,git,Tier 1,GIT_HTTP,https://bitbucket.org/genomicepidemiology/resfinder_db,,data/raw/genomics/ResFinder,,PENDING
+1,GOHIF-DS-0029,CABI Crop Protection Compendium,manual,Tier 1,WEB_PORTAL,https://www.cabi.org,,data/raw/manual/GOHIF-DS-0029_CABI_Crop_Protection_Compendium.dat,,PENDING
+1,GOHIF-DS-0030,PHI-base,manual,Tier 1,MANUAL_WEB,https://www.phi-base.org,,data/raw/manual/GOHIF-DS-0030_PHI-base.dat,,PENDING
+1,GOHIF-DS-0031,FungiDB,manual,Tier 1,WEB_PORTAL,https://fungidb.org,,data/raw/manual/GOHIF-DS-0031_FungiDB.dat,,PENDING
+1,GOHIF-DS-0033,Gramene,manual,Tier 1,WEB_PORTAL,https://gramene.org,,data/raw/manual/GOHIF-DS-0033_Gramene.dat,,PENDING
+1,GOHIF-DS-0034,GenBank Plant Pathogens,manual,Tier 1,NCBI_QUERY,https://www.ncbi.nlm.nih.gov/genbank/,,data/raw/manual/GOHIF-DS-0034_GenBank_Plant_Pathogens.dat,,PENDING
+1,GOHIF-DS-0035,European Nucleotide Archive,manual,Tier 1,FTP_HTTP,https://www.ebi.ac.uk/ena,,data/raw/manual/GOHIF-DS-0035_European_Nucleotide_Archive.dat,,PENDING
+1,GOHIF-DS-0045,ISfinder,manual,Tier 1,WEB_PORTAL,https://isfinder.biotoul.fr,,data/raw/manual/GOHIF-DS-0045_ISfinder.dat,,PENDING
+2,GOHIF-DS-0036,FAOSTAT Crops,manual,Tier 2,FAOSTAT_API,https://www.fao.org/faostat/en/#data,,data/raw/manual/GOHIF-DS-0036_FAOSTAT_Crops.dat,,PENDING
+2,GOHIF-DS-0037,NCBI Pathogen Detection (Plant),manual,Tier 2,NCBI_QUERY,https://www.ncbi.nlm.nih.gov/pathogens/,,data/raw/manual/GOHIF-DS-0037_NCBI_Pathogen_Detection_(Plant).dat,,PENDING
+2,GOHIF-DS-0044,ICEberg,manual,Tier 2,WEB_PORTAL,https://db-mml.sjtu.edu.cn/ICEberg,,data/raw/manual/GOHIF-DS-0044_ICEberg.dat,,PENDING
+2,GOHIF-DS-0050,BV-BRC,manual,Tier 2,WEB_PORTAL,https://www.bv-brc.org,,data/raw/manual/GOHIF-DS-0050_BV-BRC.dat,,PENDING
+2,GOHIF-DS-0051,VFDB,manual,Tier 2,WEB_PORTAL,https://www.mgc.ac.cn/VFs,,data/raw/manual/GOHIF-DS-0051_VFDB.dat,,PENDING

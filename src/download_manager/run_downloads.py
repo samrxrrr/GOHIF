@@ -13,7 +13,14 @@ from src.download_manager.executor import DownloadExecutor
 from src.download_manager.planner import DownloadPlanner
 
 
-PLAN_FILE = Path("metadata/registry/GOHIF_DOWNLOAD_PLAN.csv")
+import os
+
+PLAN_FILE = Path(
+    os.environ.get(
+        "GOHIF_PLAN",
+        "metadata/registry/GOHIF_DOWNLOAD_PLAN.csv"
+    )
+)
 RESULT_FILE = Path("metadata/registry/GOHIF_DOWNLOAD_RESULTS.csv")
 RAW_DATA_DIR = Path("data/raw")
 

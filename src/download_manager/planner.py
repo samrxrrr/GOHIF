@@ -58,7 +58,7 @@ class DownloadPlanner:
 
         for _, row in df.iterrows():
 
-            if self._yes(row.get("Downloaded")):
+            if self._yes(row.get("Download_URL", "")):
                 continue
 
             if str(row.get("Freeze_Status", "")).strip().lower() == "frozen":

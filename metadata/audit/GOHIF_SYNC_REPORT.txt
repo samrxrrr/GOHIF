@@ -1,0 +1,7 @@
+GOHIF Synchronization Report
+============================================================
+
+Total datasets : 152
+Downloaded     : 94
+Pending        : 58
+Completion (%) : 61.84

@@ -1,126 +1,18 @@
 success,dataset_id,dataset_name,output_file,message,Timestamp,File_Size,SHA256
-True,AH-001,WOAH WAHIS,data/raw/api/AH-001_WOAH_WAHIS.dat,Download completed.,,,
-True,AH-002,FAO EMPRES-i,data/raw/api/AH-002_FAO_EMPRES-i.dat,Download completed.,,,
-True,AH-003,NCBI Pathogen Detection,data/raw/api/AH-003_NCBI_Pathogen_Detection.dat,Download completed.,,,
-True,EH-001,MGnify,data/raw/api/EH-001_MGnify.dat,Download completed.,,,
-False,EH-002,NCBI BioProject,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",,,
-True,EH-003,NCBI BioSample,data/raw/api/EH-003_NCBI_BioSample.dat,Download completed.,,,
-True,EH-004,ENA,data/raw/api/EH-004_ENA.dat,Download completed.,,,
-False,EH-007,GBIF,,403 Client Error: Forbidden for url: https://www.gbif.org/,,,
-True,EH-009,Copernicus Climate Data Store,data/raw/api/EH-009_Copernicus_Climate_Data_Store.dat,Download completed.,,,
-True,EH-010,NOAA NCEI,data/raw/api/EH-010_NOAA_NCEI.dat,Download completed.,,,
-True,EH-011,NASA Earthdata,data/raw/api/EH-011_NASA_Earthdata.dat,Download completed.,,,
-True,EH-015,SoilGrids,data/raw/api/EH-015_SoilGrids.dat,Download completed.,,,
-True,FC-001,FAOSTAT,data/raw/api/FC-001_FAOSTAT.dat,Download completed.,,,
-True,FC-003,FoodData Central,data/raw/api/FC-003_FoodData_Central.dat,Download completed.,,,
-True,FC-015,European Food Safety Open Data Portal,data/raw/api/FC-015_European_Food_Safety_Open_Data_Portal.dat,Download completed.,,,
-True,GN-001,GenBank,data/raw/api/GN-001_GenBank.dat,Download completed.,,,
-True,GN-002,DDBJ,data/raw/api/GN-002_DDBJ.dat,Download completed.,,,
-True,GN-003,Ensembl Genomes,data/raw/api/GN-003_Ensembl_Genomes.dat,Download completed.,,,
-True,GN-004,Ensembl Bacteria,data/raw/api/GN-004_Ensembl_Bacteria.dat,Download completed.,,,
-True,GN-006,NCBI Gene,data/raw/api/GN-006_NCBI_Gene.dat,Download completed.,,,
-True,GN-007,InterPro,data/raw/api/GN-007_InterPro.dat,Download completed.,,,
-True,GN-008,Pfam,data/raw/api/GN-008_Pfam.dat,Download completed.,,,
-False,GN-009,eggNOG,,"HTTPSConnectionPool(host='eggnog.embl.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1010)')))",,,
-True,GN-013,OrthoDB,data/raw/api/GN-013_OrthoDB.dat,Download completed.,,,
-True,GN-014,OMA Browser,data/raw/api/GN-014_OMA_Browser.dat,Download completed.,,,
-False,GN-016,Ensembl Compara,,504 Server Error: Gateway Time-out for url: https://www.ensembl.org/info/genome/compara/,,,
-False,GN-017,PANTHER,,403 Client Error: Forbidden for url: https://www.pantherdb.org/,,,
-True,GN-024,Expression Atlas,data/raw/api/GN-024_Expression_Atlas.dat,Download completed.,,,
-True,GN-025,PRIDE,data/raw/api/GN-025_PRIDE.dat,Download completed.,,,
-True,GN-026,MetaboLights,data/raw/api/GN-026_MetaboLights.dat,Download completed.,,,
-True,GN-028,UniProt,data/raw/api/GN-028_UniProt.dat,Download completed.,,,
-True,GN-029,AlphaFold Protein Structure Database,data/raw/api/GN-029_AlphaFold_Protein_Structure_Database.dat,Download completed.,,,
-True,GN-030,PDBe,data/raw/api/GN-030_PDBe.dat,Download completed.,,,
-False,GOHIF-DS-0048,ENA,,Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?,,,
-False,GOHIF-DS-0049,MGnify,,Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?,,,
-True,HH-005,ECDC Surveillance Atlas,data/raw/api/HH-005_ECDC_Surveillance_Atlas.dat,Download completed.,,,
-True,HH-007,GISAID Metadata,data/raw/api/HH-007_GISAID_Metadata.dat,Download completed.,,,
-True,HH-008,Pathogenwatch,data/raw/api/HH-008_Pathogenwatch.dat,Download completed.,,,
-True,PH-006,Genesys PGR,data/raw/api/PH-006_Genesys_PGR.dat,Download completed.,,,
-False,PH-010,MaizeGDB,,403 Client Error: Forbidden for url: https://www.maizegdb.org/,,,
-False,PH-011,Ensembl Plants,,504 Server Error: Gateway Time-out for url: https://plants.ensembl.org/,,,
-True,PH-013,Sol Genomics Network,data/raw/api/PH-013_Sol_Genomics_Network.dat,Download completed.,,,
-True,GOHIF-DS-0040,AMRFinderPlus,,Manual download required,2026-07-20T07:44:34,,
-True,GOHIF-DS-0039,ResFinder,,Git adapter reached (dry run),2026-07-20T07:44:34,,
-True,AH-006,WOAH Antimicrobial Agent Database,data/raw/misc/WOAH Antimicrobial Agent Database.dat,Downloaded successfully,2026-07-20T07:44:34,332580,dfe15f3c3e5e12aca40d4b86792663ba02d87f57b3f07e93aff74c6f6741ec87
-True,AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),data/raw/misc/European Surveillance of Veterinary Antimicrobial Consumption (ESVAC).dat,Downloaded successfully,2026-07-20T07:44:34,94527,3667b9b7bf34ef4c7681ca2bcf1b4677362344e505d420dc12b79d3ecba9ccf1
-True,AH-015,FAO ASF Situation Reports,data/raw/misc/FAO ASF Situation Reports.dat,Downloaded successfully,2026-07-20T07:44:35,1177059,364cef2cb1c99ecd56d428c1d40656e68c06544cfe1d9522a9c245f501548111
-True,EH-005,Earth Microbiome Project,data/raw/misc/Earth Microbiome Project.dat,Downloaded successfully,2026-07-20T07:44:37,29527,c3849342cafe6857df78ed9f82a4193a42bd94fad31b9bbb352d3597c1970fce
-True,EH-014,WorldClim,data/raw/misc/WorldClim.dat,Downloaded successfully,2026-07-20T07:44:38,2529,be5359479ecba8b70950e68666efc7d4c91a81c9d0eb8fd3aa3df1b0329c589a
-False,FC-002,WHO GEMS/Food,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,2026-07-20T07:44:38,,
-False,FC-004,GenomeTrakr,,HTTP Error: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html,2026-07-20T07:44:38,,
-False,FC-005,EFSA OpenFoodTox,,HTTP Error: 404 Client Error: Not Found for url: https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,2026-07-20T07:44:39,,
-True,FC-007,Codex Alimentarius,data/raw/misc/Codex Alimentarius.dat,Downloaded successfully,2026-07-20T07:44:40,58007,601fdc99a7b82147c7bf3b91472b3b90dfae3c739b86dfc030e41a8113bfd5c7
-True,FC-010,RASFF Portal,data/raw/misc/RASFF Portal.dat,Downloaded successfully,2026-07-20T07:44:41,104730,bc475c71d7e7b75732a40f0264aad289bf1f1c9df5995b918a76be5b2d0648eb
-False,FC-012,INFOSAN,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,2026-07-20T07:44:41,,
-True,GN-018,KEGG GENES,data/raw/misc/KEGG GENES.dat,Downloaded successfully,2026-07-20T07:44:42,12199,206bbac15bd55de83e222afffa6d8217bc403f0e36fb62809390a6e2cd4a1d91
-True,GN-019,GTDB,data/raw/misc/GTDB.dat,Downloaded successfully,2026-07-20T07:44:43,47913,7efbe9dfbac4a5eecdc12cdbc05a37358ecbdccd0b28f72469a68f1b5493d584
-True,GN-020,SILVA,data/raw/misc/SILVA.dat,Downloaded successfully,2026-07-20T07:44:44,43342,28bd77a5b51974915bf905ed35006af17099b15e321c5e56ff57f267ccecf3e3
-True,GOHIF-DS-0038,CARD,data/raw/misc/CARD.dat,Downloaded successfully,2026-07-20T07:44:47,4620455,d80520c51ef3bae1098cd00e0c3d1d013e5785f8d8df787dcc5f435927557df9
-True,GOHIF-DS-0041,MEGARes,data/raw/misc/MEGARes.dat,Downloaded successfully,2026-07-20T07:44:49,55162,0567df520132f9e07b312f585fcc8c26ba1a29e533460b3b36d05d7dcb7d4c7a
-True,GOHIF-DS-0042,BacMet,data/raw/misc/BacMet.dat,Downloaded successfully,2026-07-20T07:44:51,390211,e62756aafc1c653cdd1408fdbf558fd396ce1ef7ad99f2af50b0a6b67d00dd45
-False,GOHIF-DS-0043,PLSDB,,HTTP Error: 404 Client Error: Not Found for url: https://ccb-microbe.cs.uni-saarland.de/plsdb2025/plsdb.fna.bz2,2026-07-20T07:44:53,,
-True,PH-001,EPPO Global Database,data/raw/misc/EPPO Global Database.dat,Downloaded successfully,2026-07-20T07:44:54,18944,5cd80c77e4553538354d6c5e8de2685a8486f48e29ba6520af07e0cee1cc8562
-False,PH-002,CABI Crop Protection Compendium,,HTTP Error: 403 Client Error: Forbidden for url: https://cabidigitallibrary.org/product/qc,2026-07-20T07:44:54,,
-True,PH-003,IPPC Pest Reports,data/raw/misc/IPPC Pest Reports.dat,Downloaded successfully,2026-07-20T07:44:56,101691,8eb6c04a31db84edc75e8e86fb699578b341c37d0d72be7a84371d67a92b7507
-True,PH-005,GRIN Global,data/raw/misc/GRIN Global.dat,Downloaded successfully,2026-07-20T07:44:58,420,8d316215e98fb6ca8b007704d210e0cca5878f83f57ddd0e3de572e30a05a86c
-True,PH-007,PlantVillage,data/raw/misc/PlantVillage.dat,Downloaded successfully,2026-07-20T07:44:59,24484,e609048594018cab62f24a9c1d0facf34ada977bcf56b7667c133952aa457e2d
-False,PH-014,TAIR,,HTTP Error: 403 Client Error: Forbidden for url: https://www.arabidopsis.org/,2026-07-20T07:45:00,,
-False,PH-015,PHI-base,,"Connection Error: HTTPSConnectionPool(host='www.phi-base.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",2026-07-20T07:45:14,,
-True,GOHIF-DS-0028,EPPO Global Database,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0029,CABI Crop Protection Compendium,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0030,PHI-base,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0031,FungiDB,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0032,Ensembl Plants,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0033,Gramene,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0034,GenBank Plant Pathogens,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0035,European Nucleotide Archive,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0045,ISfinder,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0052,Pathogenwatch,,Manual download required,2026-07-20T07:45:14,,
-True,HH-001,WHO GLASS,,Manual download required,2026-07-20T07:45:14,,
-True,HH-002,WHO AWaRe,,Manual download required,2026-07-20T07:45:14,,
-True,HH-004,CDC NHSN AR Option,,Manual download required,2026-07-20T07:45:14,,
-True,GOHIF-DS-0046,RefSeq,,NCBI adapter reached (dry run),2026-07-20T07:45:14,,
-True,GOHIF-DS-0047,SRA,,SRA adapter reached (dry run),2026-07-20T07:45:14,,
-True,AH-010,GBADs,data/raw/api/AH-010_GBADs.dat,Download completed.,,,
-True,AH-012,Animal Genome Database,data/raw/api/AH-012_Animal_Genome_Database.dat,Download completed.,,,
-True,EH-006,PANGAEA,data/raw/api/EH-006_PANGAEA.dat,Download completed.,,,
-True,FC-009,AGROVOC,data/raw/api/FC-009_AGROVOC.dat,Download completed.,,,
-True,FC-014,OpenFoodFacts,data/raw/api/FC-014_OpenFoodFacts.dat,Download completed.,,,
-True,GN-005,Ensembl Protists,data/raw/api/GN-005_Ensembl_Protists.dat,Download completed.,,,
-True,GN-022,Open Tree of Life,data/raw/api/GN-022_Open_Tree_of_Life.dat,Download completed.,,,
-True,GN-027,BioStudies,data/raw/api/GN-027_BioStudies.dat,Download completed.,,,
-True,HH-006,ClinicalTrials.gov,data/raw/api/HH-006_ClinicalTrials.gov.dat,Download completed.,,,
-True,AH-004,USDA National Animal Health Laboratory Network,data/raw/misc/USDA National Animal Health Laboratory Network.dat,Downloaded successfully,2026-07-20T07:45:27,91409,c400a37967ed574c0be695744122f04e52a0f0d44a9f2c2af716364b15a53dde
-True,AH-005,USDA Animal Disease Traceability,data/raw/misc/USDA Animal Disease Traceability.dat,Downloaded successfully,2026-07-20T07:45:29,109787,37b8b465e4be92c741c638079581b33a15c4427bf258bdae6f82cd41671ee8b4
-False,AH-008,Vet-LIRN,,HTTP Error: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html,2026-07-20T07:45:29,,
-True,AH-009,DAD-IS,data/raw/misc/DAD-IS.dat,Downloaded successfully,2026-07-20T07:45:29,60472,24b9bf2b5a51f1ae9bd2d24c37de09a9b1053bfcab57f9c194a9cbb52e35bb8a
-True,AH-011,Animal QTLdb,data/raw/misc/Animal QTLdb.dat,Downloaded successfully,2026-07-20T07:45:31,14413,d8583e35f43b1cfdd1cb93b0a2369d47ec267c6dbc1dea5a5907c68dd80f0327
-True,EH-008,GEO BON,data/raw/misc/GEO BON.dat,Downloaded successfully,2026-07-20T07:45:33,119024,c84c2273b8bcb945c5e5a259217ef16b5b28597f6ac101253d1357a5f9fdd29c
-True,EH-012,GEMStat,data/raw/misc/GEMStat.dat,Downloaded successfully,2026-07-20T07:45:34,137998,ed906f1ef2ac0d84d63a8d879a25c4ecf63468af6672710dcad69c7de1afc05d
-False,EH-013,AquaMaps,,HTTP Error: 403 Client Error: Forbidden for url: https://www.aquamaps.org/,2026-07-20T07:45:35,,
-True,FC-006,FoodEx2,data/raw/misc/FoodEx2.dat,Downloaded successfully,2026-07-20T07:45:36,76346,78ba7b67fd3ea2844da649912547cfcd987440cce0019ac9269cd6eddc187476
-False,FC-008,FoodMicrobionet,,"Connection Error: HTTPSConnectionPool(host='www.foodmicrobionet.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.foodmicrobionet.org', port=443): Failed to resolve 'www.foodmicrobionet.org' ([Errno -2] Name or service not known)""))",2026-07-20T07:45:48,,
-True,FC-011,FoodRisk-Labs,data/raw/misc/FoodRisk-Labs.dat,Downloaded successfully,2026-07-20T07:46:50,65066,bddbea61853841f7e88a8413749b900ecd201b7bdaf9284a9dc8d788df9def0c
-False,FC-013,USDA Food Safety and Inspection Service Data,,HTTP Error: 403 Client Error: Forbidden for url: https://www.fsis.usda.gov/,2026-07-20T07:46:50,,
-True,GN-010,SMART,data/raw/misc/SMART.dat,Downloaded successfully,2026-07-20T07:46:53,8198,ccf8a3835f9090ac7ac1bd1326b21d35fc1980c00675194634cfdf9d85aa20ed
-True,GN-011,SUPERFAMILY,data/raw/misc/SUPERFAMILY.dat,Downloaded successfully,2026-07-20T07:47:05,7520,e8b5523668fb6b21695546151d457ff8f4826f9348d9f763e32582e0a674cbc4
-True,GN-012,COG Database,data/raw/misc/COG Database.dat,Downloaded successfully,2026-07-20T07:47:07,42673,6d0a42f61aa8a2f075185c53ac96be68717de8d1f0fe39cdaaf4384c9ad0659b
-True,GN-015,MicroScope,data/raw/misc/MicroScope.dat,Downloaded successfully,2026-07-20T07:47:08,789,e57fe61ae432f038c6719b5d0b54046b4713a4af7962d9e267079c86e8f6c6dc
-False,GN-021,RDP,,"Connection Error: HTTPSConnectionPool(host='rdp.cme.msu.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rdp.cme.msu.edu', port=443) at 0x7e287bfc2750>, 'Connection to rdp.cme.msu.edu timed out. (connect timeout=60)'))",2026-07-20T07:51:21,,
-True,GN-023,TimeTree,data/raw/misc/TimeTree.dat,Downloaded successfully,2026-07-20T07:51:21,61062,9cacdf9d1513e5d721f71832c81c3c13ecb13a10308230d2ba166c3059ff93c1
-True,HH-003,WHO Essential Medicines List,data/raw/misc/WHO Essential Medicines List.dat,Downloaded successfully,2026-07-20T07:51:21,121229,787499f1973ddf0e4503622aa73269f2790cdfb684599a1f36c4dcc6bb93d469
-True,PH-004,USDA PLANTS Database,data/raw/misc/USDA PLANTS Database.dat,Downloaded successfully,2026-07-20T07:51:24,710,7efcec2ceb612761c30057418bf1333531700a704246566a837f83913bd6b95b
-True,PH-008,IRRI Rice Knowledge Bank,data/raw/misc/IRRI Rice Knowledge Bank.dat,Downloaded successfully,2026-07-20T07:51:24,87090,d4b554687bdeafa5eb74e23037694f9f18e1337b4adb19f3bf33f41983afdc56
-True,PH-009,WheatIS,data/raw/misc/WheatIS.dat,Downloaded successfully,2026-07-20T07:51:25,4063,4b41f86978c127e6ec39853e109f6d97acb8c01a3f8b8b7693617458043ef170
-False,PH-012,PLAZA Plant Comparative Genomics,,"Connection Error: HTTPSConnectionPool(host='bioinformatics.psb.ugent.be', port=443): Max retries exceeded with url: /plaza/ (Caused by NameResolutionError(""HTTPSConnection(host='bioinformatics.psb.ugent.be', port=443): Failed to resolve 'bioinformatics.psb.ugent.be' ([Errno -3] Temporary failure in name resolution)""))",2026-07-20T07:52:00,,
-True,GOHIF-DS-0036,FAOSTAT Crops,,Manual download required,2026-07-20T07:52:00,,
-True,GOHIF-DS-0037,NCBI Pathogen Detection (Plant),,Manual download required,2026-07-20T07:52:00,,
-True,GOHIF-DS-0044,ICEberg,,Manual download required,2026-07-20T07:52:00,,
-True,GOHIF-DS-0050,BV-BRC,,Manual download required,2026-07-20T07:52:00,,
-True,GOHIF-DS-0051,VFDB,,Manual download required,2026-07-20T07:52:00,,
-True,HH-009,OpenSAFELY,,Manual download required,2026-07-20T07:52:00,,
-True,HH-010,Vivli,,Manual download required,2026-07-20T07:52:00,,
-False,AH-013,FishPathogens.eu,,HTTP Error: 403 Client Error: Forbidden for url: https://fishpathogens.eu/,2026-07-20T07:52:01,,
-False,AH-014,AquaPathogenX,,"Connection Error: HTTPSConnectionPool(host='aquapathogenx.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='aquapathogenx.org', port=443): Failed to resolve 'aquapathogenx.org' ([Errno -2] Name or service not known)""))",2026-07-20T07:52:13,,
+True,GOHIF-DS-0035,European Nucleotide Archive,data/raw/misc/European Nucleotide Archive.dat,Downloaded successfully,2026-07-20T16:15:45,12665,78561d8edc470f31731c88b64279c0fc965eb3795875c94fde6fc8b61c566f47
+True,GOHIF-DS-0039,ResFinder,,Git adapter reached (dry run),2026-07-20T16:15:45,,
+False,AH-008,Vet-LIRN,,HTTP Error: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html,2026-07-20T16:15:45,,
+False,AH-013,FishPathogens.eu,,HTTP Error: 403 Client Error: Forbidden for url: https://fishpathogens.eu/,2026-07-20T16:15:45,,
+False,AH-014,AquaPathogenX,,"Connection Error: HTTPSConnectionPool(host='aquapathogenx.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='aquapathogenx.org', port=443): Failed to resolve 'aquapathogenx.org' ([Errno -2] Name or service not known)""))",2026-07-20T16:15:59,,
+False,EH-013,AquaMaps,,HTTP Error: 403 Client Error: Forbidden for url: https://www.aquamaps.org/downloads/,2026-07-20T16:16:00,,
+False,FC-002,WHO GEMS/Food,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,2026-07-20T16:16:00,,
+False,FC-004,GenomeTrakr,,HTTP Error: 404 Client Error: Not Found for url: https://api.data.gov/fda/food/enforcement.json,2026-07-20T16:16:01,,
+False,FC-005,EFSA OpenFoodTox,,HTTP Error: 404 Client Error: Not Found for url: https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,2026-07-20T16:16:03,,
+False,FC-008,FoodMicrobionet,,"Connection Error: HTTPSConnectionPool(host='www.foodmicrobionet.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.foodmicrobionet.org', port=443): Failed to resolve 'www.foodmicrobionet.org' ([Errno -2] Name or service not known)""))",2026-07-20T16:16:15,,
+False,FC-012,INFOSAN,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,2026-07-20T16:16:15,,
+False,FC-013,USDA Food Safety and Inspection Service Data,,HTTP Error: 403 Client Error: Forbidden for url: https://www.fsis.usda.gov/,2026-07-20T16:16:15,,
+False,PH-002,CABI Crop Protection Compendium,,HTTP Error: 403 Client Error: Forbidden for url: https://cabidigitallibrary.org/product/qc,2026-07-20T16:16:16,,
+False,PH-012,PLAZA Plant Comparative Genomics,,HTTP Error: 403 Client Error: Forbidden for url: https://www.vandepoelelab.be/plaza/,2026-07-20T16:16:17,,
+False,PH-014,TAIR,,HTTP Error: 403 Client Error: Forbidden for url: https://www.arabidopsis.org/,2026-07-20T16:16:18,,
+False,PH-015,PHI-base,,"Connection Error: HTTPSConnectionPool(host='www.phi-base.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",2026-07-20T16:16:32,,
+False,GN-021,RDP,,"Connection Error: HTTPSConnectionPool(host='rdp.cme.msu.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rdp.cme.msu.edu', port=443) at 0x7afb751c5af0>, 'Connection to rdp.cme.msu.edu timed out. (connect timeout=60)'))",2026-07-20T16:20:52,,

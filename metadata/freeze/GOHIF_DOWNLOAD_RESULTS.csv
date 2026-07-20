@@ -1,0 +1,18 @@
+success,dataset_id,dataset_name,output_file,message,Timestamp,File_Size,SHA256
+True,GOHIF-DS-0035,European Nucleotide Archive,data/raw/misc/European Nucleotide Archive.dat,Downloaded successfully,2026-07-20T16:15:45,12665,78561d8edc470f31731c88b64279c0fc965eb3795875c94fde6fc8b61c566f47
+True,GOHIF-DS-0039,ResFinder,,Git adapter reached (dry run),2026-07-20T16:15:45,,
+False,AH-008,Vet-LIRN,,HTTP Error: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html,2026-07-20T16:15:45,,
+False,AH-013,FishPathogens.eu,,HTTP Error: 403 Client Error: Forbidden for url: https://fishpathogens.eu/,2026-07-20T16:15:45,,
+False,AH-014,AquaPathogenX,,"Connection Error: HTTPSConnectionPool(host='aquapathogenx.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='aquapathogenx.org', port=443): Failed to resolve 'aquapathogenx.org' ([Errno -2] Name or service not known)""))",2026-07-20T16:15:59,,
+False,EH-013,AquaMaps,,HTTP Error: 403 Client Error: Forbidden for url: https://www.aquamaps.org/downloads/,2026-07-20T16:16:00,,
+False,FC-002,WHO GEMS/Food,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,2026-07-20T16:16:00,,
+False,FC-004,GenomeTrakr,,HTTP Error: 404 Client Error: Not Found for url: https://api.data.gov/fda/food/enforcement.json,2026-07-20T16:16:01,,
+False,FC-005,EFSA OpenFoodTox,,HTTP Error: 404 Client Error: Not Found for url: https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,2026-07-20T16:16:03,,
+False,FC-008,FoodMicrobionet,,"Connection Error: HTTPSConnectionPool(host='www.foodmicrobionet.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='www.foodmicrobionet.org', port=443): Failed to resolve 'www.foodmicrobionet.org' ([Errno -2] Name or service not known)""))",2026-07-20T16:16:15,,
+False,FC-012,INFOSAN,,HTTP Error: 404 Client Error: Not Found for url: https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,2026-07-20T16:16:15,,
+False,FC-013,USDA Food Safety and Inspection Service Data,,HTTP Error: 403 Client Error: Forbidden for url: https://www.fsis.usda.gov/,2026-07-20T16:16:15,,
+False,PH-002,CABI Crop Protection Compendium,,HTTP Error: 403 Client Error: Forbidden for url: https://cabidigitallibrary.org/product/qc,2026-07-20T16:16:16,,
+False,PH-012,PLAZA Plant Comparative Genomics,,HTTP Error: 403 Client Error: Forbidden for url: https://www.vandepoelelab.be/plaza/,2026-07-20T16:16:17,,
+False,PH-014,TAIR,,HTTP Error: 403 Client Error: Forbidden for url: https://www.arabidopsis.org/,2026-07-20T16:16:18,,
+False,PH-015,PHI-base,,"Connection Error: HTTPSConnectionPool(host='www.phi-base.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",2026-07-20T16:16:32,,
+False,GN-021,RDP,,"Connection Error: HTTPSConnectionPool(host='rdp.cme.msu.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rdp.cme.msu.edu', port=443) at 0x7afb751c5af0>, 'Connection to rdp.cme.msu.edu timed out. (connect timeout=60)'))",2026-07-20T16:20:52,,

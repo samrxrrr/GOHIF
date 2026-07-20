@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Optional
 
 import requests
+from pathlib import Path
 
 
 class APIClient:
@@ -127,57 +128,43 @@ class APIClient:
         return response
 
 
+    
     def download_file(
         self,
-        url: str,
-        output_path: str,
-        chunk_size: int = 8192,
-    ) -> Path:
-
+        url,
+        output_path,
+        params=None,
+        headers=None,
+    ):
         """
-        Download a file using streaming.
+        Download a file or API response to disk.
         """
 
-        output = Path(output_path)
-
-        output.parent.mkdir(
-
-            parents=True,
-
-            exist_ok=True,
-
+        response = self.session.get(
+            url,
+            params=params,
+            headers=headers,
+            timeout=self.timeout,
+            verify=self.verify_ssl,
+            allow_redirects=True,
+            stream=True,
         )
 
-        with self.session.get(
+        response.raise_for_status()
 
-            url,
+        output = Path(output_path)
+        output.parent.mkdir(parents=True, exist_ok=True)
 
-            stream=True,
-
-            timeout=self.timeout,
-
-            verify=self.verify_ssl,
-
-        ) as response:
-
-            response.raise_for_status()
-
-            with open(output, "wb") as handle:
-
-                for chunk in response.iter_content(
-
-                    chunk_size=chunk_size
-
-                ):
-
-                    if chunk:
-
-                        handle.write(chunk)
+        with open(output, "wb") as handle:
+            for chunk in response.iter_content(chunk_size=8192):
+                if chunk:
+                    handle.write(chunk)
 
         return output
 
 
     @staticmethod
+
     def to_json(
         response: requests.Response,
     ):

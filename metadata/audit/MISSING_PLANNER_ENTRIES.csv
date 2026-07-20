@@ -1,0 +1,23 @@
+GOHIF_ID,Dataset_Name,Download_Method,Download_URL,Status,Issues,Suggested_URL,Suggested_Method,Repair_Status
+GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.who.int/initiatives/glass,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0003,EARS-Net,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.ecdc.europa.eu/en/antimicrobial-resistance/surveillance-and-disease-data/data-ecdc,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0004,AMRSN,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.who.int/teams/health-product-policy-and-standards/antimicrobial-resistance/amrsn,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0005,JANIS,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://janis.mhlw.go.jp,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0006,UKHSA AMR Surveillance,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.gov.uk/government/collections/antimicrobial-resistance-amr-information-and-resources,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0007,NARMS,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.cdc.gov/narms,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0008,ReLAVRA+,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.paho.org/en/topics/antimicrobial-resistance,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0009,ResistanceMap,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://resistancemap.cddep.org,WEB_PORTAL,AUTO_REPAIRED
+GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://africacdc.org,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0011,WOAH ANIMUSE,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.woah.org,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0012,WOAH WAHIS,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://wahis.woah.org,WEB_PORTAL,AUTO_REPAIRED
+GOHIF-DS-0014,DANMAP,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.danmap.org,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.canada.ca,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0017,FAO InFARM,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.fao.org,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0018,WHO Tricycle Environmental Component,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.who.int,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0020,UNEP GEMS/Water,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://gemstat.org,WEB_PORTAL,AUTO_REPAIRED
+GOHIF-DS-0022,NORMAN Network,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.norman-network.com,WEB_PORTAL,AUTO_REPAIRED
+GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.epa.gov/water-research,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0024,NARMS Retail Meat Surveillance,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.fda.gov/animal-veterinary/national-antimicrobial-resistance-monitoring-system,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0025,EFSA/ECDC Food Component,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://www.efsa.europa.eu/en/data,WEB_PORTAL,AUTO_REPAIRED
+GOHIF-DS-0026,CIPARS Food Component,,,REPAIR_REQUIRED,MISSING_URL;MISSING_METHOD,https://inspection.canada.ca/en/food-safety-for-industry/science-and-research/cipars,MANUAL_WEB,AUTO_REPAIRED
+GOHIF-DS-0027,GenomeTrakr,,https://api.data.gov/fda/food/enforcement.json,REPAIR_REQUIRED,MISSING_METHOD,https://www.ncbi.nlm.nih.gov/pathogens,WEB_PORTAL,AUTO_REPAIRED

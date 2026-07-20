@@ -1,0 +1,153 @@
+GOHIF_ID,Dataset_Name,Files_Found,Size_MB,Present
+GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,0,0.0,False
+GOHIF-DS-0002,ATLAS,0,0.0,False
+GOHIF-DS-0003,EARS-Net,0,0.0,False
+GOHIF-DS-0004,AMRSN,0,0.0,False
+GOHIF-DS-0005,JANIS,0,0.0,False
+GOHIF-DS-0006,UKHSA AMR Surveillance,0,0.0,False
+GOHIF-DS-0007,NARMS,0,0.0,False
+GOHIF-DS-0008,ReLAVRA+,0,0.0,False
+GOHIF-DS-0009,ResistanceMap,0,0.0,False
+GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,0,0.0,False
+GOHIF-DS-0011,WOAH ANIMUSE,0,0.0,False
+GOHIF-DS-0012,WOAH WAHIS,0,0.0,False
+GOHIF-DS-0013,European Surveillance of Veterinary Antimicrobial Consumption,0,0.0,False
+GOHIF-DS-0014,DANMAP,0,0.0,False
+GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,0,0.0,False
+GOHIF-DS-0016,FAOSTAT,0,0.0,False
+GOHIF-DS-0017,FAO InFARM,0,0.0,False
+GOHIF-DS-0018,WHO Tricycle Environmental Component,0,0.0,False
+GOHIF-DS-0019,MGnify,0,0.0,False
+GOHIF-DS-0020,UNEP GEMS/Water,0,0.0,False
+GOHIF-DS-0021,Earth Microbiome Project,0,0.0,False
+GOHIF-DS-0022,NORMAN Network,0,0.0,False
+GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,0,0.0,False
+GOHIF-DS-0024,NARMS Retail Meat Surveillance,0,0.0,False
+GOHIF-DS-0025,EFSA/ECDC Food Component,0,0.0,False
+GOHIF-DS-0026,CIPARS Food Component,0,0.0,False
+GOHIF-DS-0027,GenomeTrakr,0,0.0,False
+GOHIF-DS-0028,EPPO Global Database,0,0.0,False
+GOHIF-DS-0029,CABI Crop Protection Compendium,0,0.0,False
+GOHIF-DS-0030,PHI-base,0,0.0,False
+GOHIF-DS-0031,FungiDB,0,0.0,False
+GOHIF-DS-0032,Ensembl Plants,1,0.0,True
+GOHIF-DS-0033,Gramene,0,0.0,False
+GOHIF-DS-0034,GenBank Plant Pathogens,0,0.0,False
+GOHIF-DS-0035,European Nucleotide Archive,0,0.0,False
+GOHIF-DS-0036,FAOSTAT Crops,0,0.0,False
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),0,0.0,False
+GOHIF-DS-0038,CARD,0,0.0,False
+GOHIF-DS-0039,ResFinder,0,0.0,False
+GOHIF-DS-0040,AMRFinderPlus,0,0.0,False
+GOHIF-DS-0041,MEGARes,0,0.0,False
+GOHIF-DS-0042,BacMet,0,0.0,False
+GOHIF-DS-0043,PLSDB,0,0.0,False
+GOHIF-DS-0044,ICEberg,0,0.0,False
+GOHIF-DS-0045,ISfinder,0,0.0,False
+GOHIF-DS-0046,RefSeq,0,0.0,False
+GOHIF-DS-0047,SRA,0,0.0,False
+GOHIF-DS-0048,ENA,1,0.0,True
+GOHIF-DS-0049,MGnify,1,0.03,True
+GOHIF-DS-0050,BV-BRC,0,0.0,False
+GOHIF-DS-0051,VFDB,0,0.0,False
+GOHIF-DS-0052,Pathogenwatch,0,0.0,False
+HH-001,WHO GLASS,0,0.0,False
+HH-002,WHO AWaRe,0,0.0,False
+HH-003,WHO Essential Medicines List,0,0.0,False
+HH-004,CDC NHSN AR Option,0,0.0,False
+HH-005,ECDC Surveillance Atlas,1,0.03,True
+HH-006,ClinicalTrials.gov,1,0.09,True
+HH-007,GISAID Metadata,1,0.06,True
+HH-008,Pathogenwatch,1,0.03,True
+HH-009,OpenSAFELY,0,0.0,False
+HH-010,Vivli,0,0.0,False
+AH-001,WOAH WAHIS,1,0.09,True
+AH-002,FAO EMPRES-i,1,0.0,True
+AH-003,NCBI Pathogen Detection,1,0.03,True
+AH-004,USDA National Animal Health Laboratory Network,0,0.0,False
+AH-005,USDA Animal Disease Traceability,0,0.0,False
+AH-006,WOAH Antimicrobial Agent Database,0,0.0,False
+AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),0,0.0,False
+AH-008,Vet-LIRN,0,0.0,False
+AH-009,DAD-IS,0,0.0,False
+AH-010,GBADs,1,0.01,True
+AH-011,Animal QTLdb,0,0.0,False
+AH-012,Animal Genome Database,1,0.0,True
+AH-013,FishPathogens.eu,0,0.0,False
+AH-014,AquaPathogenX,0,0.0,False
+AH-015,FAO ASF Situation Reports,0,0.0,False
+EH-001,MGnify,1,0.03,True
+EH-002,NCBI BioProject,1,0.03,True
+EH-003,NCBI BioSample,1,0.03,True
+EH-004,ENA,1,0.0,True
+EH-005,Earth Microbiome Project,0,0.0,False
+EH-006,PANGAEA,1,0.07,True
+EH-007,GBIF,1,0.0,True
+EH-008,GEO BON,0,0.0,False
+EH-009,Copernicus Climate Data Store,1,0.06,True
+EH-010,NOAA NCEI,1,0.03,True
+EH-011,NASA Earthdata,1,0.17,True
+EH-012,GEMStat,0,0.0,False
+EH-013,AquaMaps,0,0.0,False
+EH-014,WorldClim,0,0.0,False
+EH-015,SoilGrids,1,0.0,True
+FC-001,FAOSTAT,1,0.0,True
+FC-002,WHO GEMS/Food,0,0.0,False
+FC-003,FoodData Central,1,0.12,True
+FC-004,GenomeTrakr,0,0.0,False
+FC-005,EFSA OpenFoodTox,0,0.0,False
+FC-006,FoodEx2,0,0.0,False
+FC-007,Codex Alimentarius,0,0.0,False
+FC-008,FoodMicrobionet,0,0.0,False
+FC-009,AGROVOC,1,0.02,True
+FC-010,RASFF Portal,0,0.0,False
+FC-011,FoodRisk-Labs,0,0.0,False
+FC-012,INFOSAN,0,0.0,False
+FC-013,USDA Food Safety and Inspection Service Data,0,0.0,False
+FC-014,OpenFoodFacts,1,0.77,True
+FC-015,European Food Safety Open Data Portal,1,0.0,True
+PH-001,EPPO Global Database,0,0.0,False
+PH-002,CABI Crop Protection Compendium,0,0.0,False
+PH-003,IPPC Pest Reports,0,0.0,False
+PH-004,USDA PLANTS Database,0,0.0,False
+PH-005,GRIN Global,0,0.0,False
+PH-006,Genesys PGR,1,0.34,True
+PH-007,PlantVillage,0,0.0,False
+PH-008,IRRI Rice Knowledge Bank,0,0.0,False
+PH-009,WheatIS,0,0.0,False
+PH-010,MaizeGDB,0,0.0,False
+PH-011,Ensembl Plants,1,0.0,True
+PH-012,PLAZA Plant Comparative Genomics,0,0.0,False
+PH-013,Sol Genomics Network,1,0.1,True
+PH-014,TAIR,0,0.0,False
+PH-015,PHI-base,0,0.0,False
+GN-001,GenBank,1,0.04,True
+GN-002,DDBJ,1,0.01,True
+GN-003,Ensembl Genomes,1,0.0,True
+GN-004,Ensembl Bacteria,1,0.0,True
+GN-005,Ensembl Protists,1,0.0,True
+GN-006,NCBI Gene,1,0.04,True
+GN-007,InterPro,1,0.02,True
+GN-008,Pfam,1,0.02,True
+GN-009,eggNOG,0,0.0,False
+GN-010,SMART,0,0.0,False
+GN-011,SUPERFAMILY,0,0.0,False
+GN-012,COG Database,0,0.0,False
+GN-013,OrthoDB,1,0.01,True
+GN-014,OMA Browser,1,0.07,True
+GN-015,MicroScope,0,0.0,False
+GN-016,Ensembl Compara,1,0.0,True
+GN-017,PANTHER,0,0.0,False
+GN-018,KEGG GENES,0,0.0,False
+GN-019,GTDB,0,0.0,False
+GN-020,SILVA,0,0.0,False
+GN-021,RDP,0,0.0,False
+GN-022,Open Tree of Life,1,0.06,True
+GN-023,TimeTree,0,0.0,False
+GN-024,Expression Atlas,1,0.04,True
+GN-025,PRIDE,1,0.01,True
+GN-026,MetaboLights,1,0.0,True
+GN-027,BioStudies,1,0.02,True
+GN-028,UniProt,1,0.01,True
+GN-029,AlphaFold Protein Structure Database,1,0.11,True
+GN-030,PDBe,1,0.12,True
