@@ -1,0 +1,24 @@
+Field_Name,Data_Type,Required,Description
+Object_ID,string,YES,Globally unique object identifier
+Object_Type,string,YES,Logical object type (FILE BLAST_DATABASE HMMER_DATABASE etc)
+File_Class,string,YES,Classification assigned during Phase 3
+Dataset_Domain,string,NO,Human Animal Environment Food Plant Knowledge
+Source_Database,string,NO,Originating database or repository
+Filename,string,YES,Primary object name
+Relative_Path,string,NO,Relative location inside GOHIF
+Extension,string,NO,Primary file extension
+File_Size_MB,float,NO,Physical size in MB
+Component_Count,integer,NO,Number of component files
+Sequence_Count,integer,NO,Number of biological sequences
+Read_Count,integer,NO,FASTQ read count
+Total_Bases,integer,NO,Total nucleotide or amino acid length
+Average_Length,float,NO,Average sequence or read length
+Rows,integer,NO,Tabular row count
+Columns,integer,NO,Tabular column count
+JSON_Type,string,NO,Top-level JSON object type
+Top_Level_Items,integer,NO,JSON top-level element count
+SHA256,string,NO,SHA256 checksum
+Validation_Status,string,YES,Validation result
+Parser_Name,string,YES,Responsible parser
+Parser_Version,string,YES,Parser version
+Created_UTC,string,YES,Metadata creation timestamp

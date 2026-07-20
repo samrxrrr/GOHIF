@@ -1,0 +1,153 @@
+Dataset_ID,Dataset_Name,Domain,Source,Repository,Status,Downloaded,Relative_Path,Version,License,Citation,Created_UTC
+GOHIF-DS-0001,Global Antimicrobial Resistance and Use Surveillance System,Human Health,WHO,,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.260752
+GOHIF-DS-0002,ATLAS,Human Health,Pfizer,,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.260848
+GOHIF-DS-0003,EARS-Net,Human Health,ECDC,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.260912
+GOHIF-DS-0004,AMRSN,Human Health,ICMR,,Accepted,False,,Current,Restricted,Primary,2026-07-20T16:47:28.260953
+GOHIF-DS-0005,JANIS,Human Health,Japan MHLW,,Accepted,False,,Current,Restricted,Primary,2026-07-20T16:47:28.261022
+GOHIF-DS-0006,UKHSA AMR Surveillance,Human Health,UKHSA,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261060
+GOHIF-DS-0007,NARMS,Human Health,CDC/FDA/USDA,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261107
+GOHIF-DS-0008,ReLAVRA+,Human Health,PAHO,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261141
+GOHIF-DS-0009,ResistanceMap,Human Health,One Health Trust,,Accepted,False,,Current,Open,Secondary,2026-07-20T16:47:28.261204
+GOHIF-DS-0010,Africa CDC AMR Surveillance Initiatives,Human Health,Africa CDC,,Accepted,False,,Current,Mixed,Secondary,2026-07-20T16:47:28.261259
+GOHIF-DS-0011,WOAH ANIMUSE,Animal Health,World Organisation for Animal Health (WOAH),,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.261301
+GOHIF-DS-0012,WOAH WAHIS,Animal Health,World Organisation for Animal Health (WOAH),,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.261336
+GOHIF-DS-0013,European Surveillance of Veterinary Antimicrobial Consumption,Animal Health,European Medicines Agency,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261370
+GOHIF-DS-0014,DANMAP,Animal Health,Danish Integrated Antimicrobial Resistance Monitoring and Research Programme,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261403
+GOHIF-DS-0015,Canadian Integrated Program for Antimicrobial Resistance Surveillance,Animal Health,Public Health Agency of Canada,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261436
+GOHIF-DS-0016,FAOSTAT,Animal Health,Food and Agriculture Organization of the United Nations,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261468
+GOHIF-DS-0017,FAO InFARM,Animal Health;Food Chain,Food and Agriculture Organization of the United Nations,,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.261500
+GOHIF-DS-0018,WHO Tricycle Environmental Component,Environmental Health,World Health Organization,,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.261533
+GOHIF-DS-0019,MGnify,Environmental Health,EMBL-EBI,,Accepted,False,environment/MGnify,Current,Open,Primary,2026-07-20T16:47:28.261569
+GOHIF-DS-0020,UNEP GEMS/Water,Environmental Health,United Nations Environment Programme,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261609
+GOHIF-DS-0021,Earth Microbiome Project,Environmental Health,Earth Microbiome Project Consortium,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261642
+GOHIF-DS-0022,NORMAN Network,Environmental Health,NORMAN Association,,Accepted,False,,Current,Open,Secondary,2026-07-20T16:47:28.261674
+GOHIF-DS-0023,Curated Wastewater Treatment Evidence Collection,Environmental Health,GOHIF,,Accepted,False,,Current,Mixed,Primary,2026-07-20T16:47:28.261705
+GOHIF-DS-0024,NARMS Retail Meat Surveillance,Food Chain,CDC/FDA/USDA,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261757
+GOHIF-DS-0025,EFSA/ECDC Food Component,Food Chain,EFSA/ECDC,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261789
+GOHIF-DS-0026,CIPARS Food Component,Food Chain,Public Health Agency of Canada,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261822
+GOHIF-DS-0027,GenomeTrakr,Food Chain,US FDA,,Accepted,False,,Current,Open,Primary,2026-07-20T16:47:28.261856
+GOHIF-DS-0028,EPPO Global Database,Plant Health,EPPO,https://gd.eppo.int/,Accepted,True,,v1.0,To be verified,EPPO,2026-07-20T16:47:28.261912
+GOHIF-DS-0029,CABI Crop Protection Compendium,Plant Health,CABI,https://www.cabi.org/cpc/,Accepted,True,,v1.0,To be verified,CABI,2026-07-20T16:47:28.261944
+GOHIF-DS-0030,PHI-base,Plant Health,PHI-base Consortium,https://www.phi-base.org/,Accepted,True,,v1.0,To be verified,PHI-base Consortium,2026-07-20T16:47:28.261983
+GOHIF-DS-0031,FungiDB,Plant Health,VEuPathDB,https://fungidb.org/,Accepted,True,,v1.0,To be verified,VEuPathDB,2026-07-20T16:47:28.262016
+GOHIF-DS-0032,Ensembl Plants,Plant Health,EMBL-EBI,https://plants.ensembl.org/,Accepted,True,,v1.0,To be verified,EMBL-EBI,2026-07-20T16:47:28.262049
+GOHIF-DS-0033,Gramene,Plant Health,Gramene Consortium,https://www.gramene.org/,Accepted,True,,v1.0,To be verified,Gramene Consortium,2026-07-20T16:47:28.262081
+GOHIF-DS-0034,GenBank Plant Pathogens,Plant Health,NCBI,https://www.ncbi.nlm.nih.gov/genbank/,Accepted,True,,v1.0,To be verified,NCBI,2026-07-20T16:47:28.262113
+GOHIF-DS-0035,European Nucleotide Archive,Plant Health,EMBL-EBI,https://www.ebi.ac.uk/ena/,Accepted,True,,v1.0,To be verified,EMBL-EBI,2026-07-20T16:47:28.262144
+GOHIF-DS-0036,FAOSTAT Crops,Plant Health,FAO,https://www.fao.org/faostat/,Accepted,True,,v1.0,To be verified,FAO,2026-07-20T16:47:28.262205
+GOHIF-DS-0037,NCBI Pathogen Detection (Plant),Plant Health,NCBI,https://www.ncbi.nlm.nih.gov/pathogens/,Accepted,True,,v1.0,To be verified,NCBI,2026-07-20T16:47:28.262249
+GOHIF-DS-0038,CARD,Genomics,McMaster University,https://card.mcmaster.ca/,Accepted,True,genomics/CARD,v1.0,To be verified,McMaster University,2026-07-20T16:47:28.262286
+GOHIF-DS-0039,ResFinder,Genomics,DTU,https://cge.food.dtu.dk/services/ResFinder/,Accepted,True,genomics/ResFinder,v1.0,To be verified,DTU,2026-07-20T16:47:28.262322
+GOHIF-DS-0040,AMRFinderPlus,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/,Accepted,True,genomics/AMRFinderPlus,v1.0,To be verified,NCBI,2026-07-20T16:47:28.262363
+GOHIF-DS-0041,MEGARes,Genomics,University of Maryland,https://megares.meglab.org/,Accepted,True,genomics/MEGARes,v1.0,To be verified,University of Maryland,2026-07-20T16:47:28.262399
+GOHIF-DS-0042,BacMet,Genomics,Gothenburg University,http://bacmet.biomedicine.gu.se/,Accepted,True,genomics/BacMet,v1.0,To be verified,Gothenburg University,2026-07-20T16:47:28.262432
+GOHIF-DS-0043,PLSDB,Genomics,ETH Zurich,https://ccb-microbe.cs.uni-saarland.de/plsdb/,Accepted,False,genomics/PLSDB,v1.0,To be verified,ETH Zurich,2026-07-20T16:47:28.262466
+GOHIF-DS-0044,ICEberg,Genomics,Shanghai Jiao Tong University,http://db-mml.sjtu.edu.cn/ICEberg/,Accepted,True,,v1.0,To be verified,Shanghai Jiao Tong University,2026-07-20T16:47:28.262509
+GOHIF-DS-0045,ISfinder,Genomics,ISfinder Consortium,https://www-is.biotoul.fr/,Accepted,True,,v1.0,To be verified,ISfinder Consortium,2026-07-20T16:47:28.262560
+GOHIF-DS-0046,RefSeq,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/refseq/,Accepted,True,genomics/RefSeq,v1.0,To be verified,NCBI,2026-07-20T16:47:28.262600
+GOHIF-DS-0047,SRA,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/sra,Accepted,True,genomics/SRA,v1.0,To be verified,NCBI,2026-07-20T16:47:28.262636
+GOHIF-DS-0048,ENA,Genomics,EMBL-EBI,https://www.ebi.ac.uk/ena/,Accepted,True,environment/ENA,v1.0,To be verified,EMBL-EBI,2026-07-20T16:47:28.262670
+GOHIF-DS-0049,MGnify,Genomics,EMBL-EBI,https://www.ebi.ac.uk/metagenomics/,Accepted,True,environment/MGnify,v1.0,To be verified,EMBL-EBI,2026-07-20T16:47:28.262703
+GOHIF-DS-0050,BV-BRC,Genomics,BV-BRC Consortium,https://www.bv-brc.org/,Accepted,True,,v1.0,To be verified,BV-BRC Consortium,2026-07-20T16:47:28.262743
+GOHIF-DS-0051,VFDB,Genomics,Zhejiang University,http://www.mgc.ac.cn/VFs/,Accepted,True,,v1.0,To be verified,Zhejiang University,2026-07-20T16:47:28.262775
+GOHIF-DS-0052,Pathogenwatch,Genomics,Wellcome Sanger Institute,https://pathogen.watch/,Accepted,True,,v1.0,To be verified,Wellcome Sanger Institute,2026-07-20T16:47:28.262807
+HH-001,WHO GLASS,Human Health,WHO,https://www.who.int/initiatives/glass,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.262839
+HH-002,WHO AWaRe,Human Health,WHO,https://aware.essentialmeds.org,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.262871
+HH-003,WHO Essential Medicines List,Human Health,WHO,https://www.who.int/groups/expert-committee-on-selection-and-use-of-essential-medicines,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.262902
+HH-004,CDC NHSN AR Option,Human Health,CDC,https://www.cdc.gov/nhsn/,Pending,True,,Candidate,Restricted,,2026-07-20T16:47:28.262934
+HH-005,ECDC Surveillance Atlas,Human Health,ECDC,https://atlas.ecdc.europa.eu,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.262965
+HH-006,ClinicalTrials.gov,Human Health,NIH,https://clinicaltrials.gov,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.262998
+HH-007,GISAID Metadata,Human Health,GISAID,https://gisaid.org,Pending,True,,Candidate,Restricted,,2026-07-20T16:47:28.263031
+HH-008,Pathogenwatch,Human Health,Pathogenwatch,https://pathogen.watch,Pending,True,,Candidate,Open,,2026-07-20T16:47:28.263068
+HH-009,OpenSAFELY,Human Health,OpenSAFELY,https://www.opensafely.org,Pending,True,,Candidate,Restricted,,2026-07-20T16:47:28.263100
+HH-010,Vivli,Human Health,Vivli,https://vivli.org,Pending,True,,Candidate,Restricted,,2026-07-20T16:47:28.263130
+AH-001,WOAH WAHIS,Animal Health,WOAH,https://wahis.woah.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263161
+AH-002,FAO EMPRES-i,Animal Health,FAO,https://empres-i.apps.fao.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263194
+AH-003,NCBI Pathogen Detection,Animal Health,NCBI,https://www.ncbi.nlm.nih.gov/pathogens,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263226
+AH-004,USDA National Animal Health Laboratory Network,Animal Health,USDA,https://www.aphis.usda.gov,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263258
+AH-005,USDA Animal Disease Traceability,Animal Health,USDA,https://www.aphis.usda.gov/traceability,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263289
+AH-006,WOAH Antimicrobial Agent Database,Animal Health,WOAH,https://www.woah.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263321
+AH-007,European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),Animal Health,EMA,https://www.ema.europa.eu,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263354
+AH-008,Vet-LIRN,Animal Health,FDA,https://www.fda.gov,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.263408
+AH-009,DAD-IS,Animal Health,FAO,https://www.fao.org/dad-is,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263459
+AH-010,GBADs,Animal Health,GBADs Programme,https://gbadske.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263492
+AH-011,Animal QTLdb,Animal Health,Iowa State University,https://www.animalgenome.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263539
+AH-012,Animal Genome Database,Animal Health,Alliance Genome Resources,https://www.alliancegenome.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263596
+AH-013,FishPathogens.eu,Animal Health,FishPathogens.eu,https://fishpathogens.eu,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.263645
+AH-014,AquaPathogenX,Animal Health,AquaPathogenX,https://aquapathogenx.org,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.263692
+AH-015,FAO ASF Situation Reports,Animal Health,FAO,https://www.fao.org,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263736
+EH-001,MGnify,Environmental Health,EMBL-EBI,https://www.ebi.ac.uk/metagenomics/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263768
+EH-002,NCBI BioProject,Environmental Health,NCBI,https://www.ncbi.nlm.nih.gov/bioproject/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263799
+EH-003,NCBI BioSample,Environmental Health,NCBI,https://www.ncbi.nlm.nih.gov/biosample/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263842
+EH-004,ENA,Environmental Health,EMBL-EBI,https://www.ebi.ac.uk/ena/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263899
+EH-005,Earth Microbiome Project,Environmental Health,EMP,https://earthmicrobiome.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263930
+EH-006,PANGAEA,Environmental Health,AWI,https://www.pangaea.de/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263961
+EH-007,GBIF,Environmental Health,GBIF,https://www.gbif.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.263991
+EH-008,GEO BON,Environmental Health,GEO BON,https://geobon.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264022
+EH-009,Copernicus Climate Data Store,Environmental Health,ECMWF,https://cds.climate.copernicus.eu/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264052
+EH-010,NOAA NCEI,Environmental Health,NOAA,https://www.ncei.noaa.gov/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264089
+EH-011,NASA Earthdata,Environmental Health,NASA,https://www.earthdata.nasa.gov/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264147
+EH-012,GEMStat,Environmental Health,UNEP,https://gemstat.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264186
+EH-013,AquaMaps,Environmental Health,AquaMaps,https://www.aquamaps.org/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264227
+EH-014,WorldClim,Environmental Health,WorldClim,https://www.worldclim.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264261
+EH-015,SoilGrids,Environmental Health,ISRIC,https://soilgrids.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264294
+FC-001,FAOSTAT,Food Chain,FAO,https://www.fao.org/faostat/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264328
+FC-002,WHO GEMS/Food,Food Chain,WHO,https://www.who.int/teams/environment-climate-change-and-health/chemical-safety-and-health/gems-food,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264360
+FC-003,FoodData Central,Food Chain,USDA,https://fdc.nal.usda.gov/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264392
+FC-004,GenomeTrakr,Food Chain,FDA,https://www.fda.gov/food/whole-genome-sequencing-wgs-program/genometrakr-network,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264423
+FC-005,EFSA OpenFoodTox,Food Chain,EFSA,https://www.efsa.europa.eu/en/data-report/chemical-hazards-data,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264456
+FC-006,FoodEx2,Food Chain,EFSA,https://www.efsa.europa.eu/en/data/data-standardisation,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264486
+FC-007,Codex Alimentarius,Food Chain,FAO/WHO,https://www.fao.org/fao-who-codexalimentarius/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264541
+FC-008,FoodMicrobionet,Food Chain,University of Turin,https://www.foodmicrobionet.org/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264579
+FC-009,AGROVOC,Food Chain,FAO,https://agrovoc.fao.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264610
+FC-010,RASFF Portal,Food Chain,European Commission,https://webgate.ec.europa.eu/rasff-window/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264642
+FC-011,FoodRisk-Labs,Food Chain,FoodRisk-Labs,https://foodrisklabs.bfr.bund.de/,To_Verify,True,,Candidate,Open,,2026-07-20T16:47:28.264673
+FC-012,INFOSAN,Food Chain,WHO/FAO,https://www.who.int/teams/environment-climate-change-and-health/food-safety/infosan,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264704
+FC-013,USDA Food Safety and Inspection Service Data,Food Chain,USDA FSIS,https://www.fsis.usda.gov/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.264741
+FC-014,OpenFoodFacts,Food Chain,OpenFoodFacts,https://world.openfoodfacts.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264775
+FC-015,European Food Safety Open Data Portal,Food Chain,EFSA,https://open.efsa.europa.eu/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264808
+PH-001,EPPO Global Database,Plant Health,EPPO,https://gd.eppo.int/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264839
+PH-002,CABI Crop Protection Compendium,Plant Health,CABI,https://www.cabi.org/cpc/,Verified,False,,Candidate,Restricted,,2026-07-20T16:47:28.264871
+PH-003,IPPC Pest Reports,Plant Health,IPPC,https://www.ippc.int/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264909
+PH-004,USDA PLANTS Database,Plant Health,USDA,https://plants.usda.gov/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264942
+PH-005,GRIN Global,Plant Health,USDA,https://npgsweb.ars-grin.gov/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.264974
+PH-006,Genesys PGR,Plant Health,Genesys,https://www.genesys-pgr.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265007
+PH-007,PlantVillage,Plant Health,Penn State University,https://plantvillage.psu.edu/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265038
+PH-008,IRRI Rice Knowledge Bank,Plant Health,IRRI,https://www.irri.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265071
+PH-009,WheatIS,Plant Health,Wheat Initiative,https://wheatis.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265102
+PH-010,MaizeGDB,Plant Health,MaizeGDB,https://www.maizegdb.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265133
+PH-011,Ensembl Plants,Plant Health,EMBL-EBI,https://plants.ensembl.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265164
+PH-012,PLAZA Plant Comparative Genomics,Plant Health,VIB,https://bioinformatics.psb.ugent.be/plaza/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.265194
+PH-013,Sol Genomics Network,Plant Health,SGN,https://solgenomics.net/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265233
+PH-014,TAIR,Plant Health,The Arabidopsis Information Resource,https://www.arabidopsis.org/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.265267
+PH-015,PHI-base,Plant Health,PHI-base Consortium,https://www.phi-base.org/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.265299
+GN-001,GenBank,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/genbank/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265330
+GN-002,DDBJ,Genomics,DDBJ Center,https://www.ddbj.nig.ac.jp/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265360
+GN-003,Ensembl Genomes,Genomics,EMBL-EBI,https://ensemblgenomes.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265391
+GN-004,Ensembl Bacteria,Genomics,EMBL-EBI,https://bacteria.ensembl.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265421
+GN-005,Ensembl Protists,Genomics,EMBL-EBI,https://protists.ensembl.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265452
+GN-006,NCBI Gene,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/gene/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265482
+GN-007,InterPro,Genomics,EMBL-EBI,https://www.ebi.ac.uk/interpro/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265512
+GN-008,Pfam,Genomics,EMBL-EBI,https://www.ebi.ac.uk/interpro/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265549
+GN-009,eggNOG,Genomics,EMBL-EBI,https://eggnog.embl.de/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265580
+GN-010,SMART,Genomics,EMBL,https://smart.embl.de/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265611
+GN-011,SUPERFAMILY,Genomics,University of Bristol,https://supfam.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265642
+GN-012,COG Database,Genomics,NCBI,https://www.ncbi.nlm.nih.gov/research/cog/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265672
+GN-013,OrthoDB,Genomics,University of Geneva,https://www.orthodb.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265703
+GN-014,OMA Browser,Genomics,SIB,https://omabrowser.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265733
+GN-015,MicroScope,Genomics,Genoscope,https://mage.genoscope.cns.fr/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265763
+GN-016,Ensembl Compara,Genomics,EMBL-EBI,https://www.ensembl.org/info/genome/compara/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265799
+GN-017,PANTHER,Genomics,USC,https://www.pantherdb.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265831
+GN-018,KEGG GENES,Genomics,KEGG,https://www.kegg.jp/kegg/genes.html,Verified,True,,Candidate,Restricted,,2026-07-20T16:47:28.265867
+GN-019,GTDB,Genomics,GTDB Consortium,https://gtdb.ecogenomic.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265898
+GN-020,SILVA,Genomics,ARB-SILVA,https://www.arb-silva.de/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265929
+GN-021,RDP,Genomics,Michigan State University,https://rdp.cme.msu.edu/,Verified,False,,Candidate,Open,,2026-07-20T16:47:28.265959
+GN-022,Open Tree of Life,Genomics,OpenTree,https://tree.opentreeoflife.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.265989
+GN-023,TimeTree,Genomics,Temple University,https://timetree.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266019
+GN-024,Expression Atlas,Genomics,EMBL-EBI,https://www.ebi.ac.uk/gxa/home,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266066
+GN-025,PRIDE,Genomics,EMBL-EBI,https://www.ebi.ac.uk/pride/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266111
+GN-026,MetaboLights,Genomics,EMBL-EBI,https://www.ebi.ac.uk/metabolights/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266147
+GN-027,BioStudies,Genomics,EMBL-EBI,https://www.ebi.ac.uk/biostudies/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266180
+GN-028,UniProt,Genomics,UniProt Consortium,https://www.uniprot.org/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266219
+GN-029,AlphaFold Protein Structure Database,Genomics,DeepMind & EMBL-EBI,https://alphafold.ebi.ac.uk/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266252
+GN-030,PDBe,Genomics,EMBL-EBI,https://www.ebi.ac.uk/pdbe/,Verified,True,,Candidate,Open,,2026-07-20T16:47:28.266282
