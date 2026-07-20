@@ -115,20 +115,20 @@ A.hovr:hover { text-shadow:4px 5px 1px #ffa,4px -5px 1px #ffa,-4px 5px 1px #ffa,
  <div id="wowslider-container1">
    <div class="ws_images" style='z-index:50'>
     <ul>
-     <li><a href="/NRSP8/bigdata"><img src="/icons/banners/5_DATA.png" alt="data" title="Double click slide for info" id="data"></a></li>
-<li><a href="/NRSP8/?tab=abo"><img src="/icons/banners/1_nrsp8.png" alt="scienc" title="Double click slide for info" id="scienc"></a></li>
-<li><a href="/RCN/"><img src="/icons/banners/3_RCNa.png" alt="RCN" title="Double click slide for info" id="RCN"></a></li>
+     <li><a href="/NRSP8/?tab=abo"><img src="/icons/banners/1_nrsp8.png" alt="scienc" title="Double click slide for info" id="scienc"></a></li>
 <li><a href="/NRSP8/?tab=str"><img src="/icons/banners/4_NRSP8.png" alt="nrsp8" title="Double click slide for info" id="nrsp8b"></a></li>
+<li><a href="/NRSP8/bigdata"><img src="/icons/banners/5_DATA.png" alt="data" title="Double click slide for info" id="data"></a></li>
+<li><a href="/RCN/"><img src="/icons/banners/3_RCNa.png" alt="RCN" title="Double click slide for info" id="RCN"></a></li>
 
 	 </ul>
    </div>
 
    <div class="ws_bullets">
       <div>
-       <a href="#" title="DATA"><span><img src="/icons/banners/5_DATAs.png" alt="" /></span></a>
-<a href="#" title="NRSP8 science"><span><img src="/icons/banners/1_nrsp8s.png" alt="" /></span></a>
-<a href="#" title="RCN people"><span><img src="/icons/banners/3_RCNs.png" alt="" /></span></a>
+       <a href="#" title="NRSP8 science"><span><img src="/icons/banners/1_nrsp8s.png" alt="" /></span></a>
 <a href="#" title="NRSP8 people"><span><img src="/icons/banners/4_NRSP8s.png" alt="" /></span></a>
+<a href="#" title="DATA"><span><img src="/icons/banners/5_DATAs.png" alt="" /></span></a>
+<a href="#" title="RCN people"><span><img src="/icons/banners/3_RCNs.png" alt="" /></span></a>
 
      </div>
    </div>	
@@ -164,9 +164,9 @@ A.hovr:hover { text-shadow:4px 5px 1px #ffa,4px -5px 1px #ffa,-4px 5px 1px #ffa,
 <fieldset class='inlblk'>
 <legend class='hd'>Communications</legend>
 <LI class='a'><B>AnGenMap</B> <a href="/community/angenmap">Listserv</a>
-<span class='SN'><span class='inv'>18</span> new mails</span></LI>
+<span class='SN'><span class='inv'>17</span> new mails</span></LI>
 <LI class='a'><a href="/community/angenmap/dir.php">AGRC Directory</a>
-<span class='SN'><span class='inv'>5,718</span> members</span></LI>
+<span class='SN'><span class='inv'>5,720</span> members</span></LI>
 <LI class='a'><a href="/NRSP8/?tab=cal">Community Calendar</a>
 <span class='SN' style='font-family:arial narrow;letter-spacing:0.05em'>( 2026, 2027 )</span><img src='/icons/newest.gif'>
 </LI>

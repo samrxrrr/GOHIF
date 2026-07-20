@@ -2143,85 +2143,85 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="navbar-nav justify-content-between">
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_fb650607-1e75-43eb-84c4-9f0e9d060c89" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_9812c9b6-4aee-4215-8c36-9dd81e8a34ee" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			About FAO
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_fb650607-1e75-43eb-84c4-9f0e9d060c89">
-			<div class="container" id="navbarDropdownContent-1_fb650607-1e75-43eb-84c4-9f0e9d060c89">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_9812c9b6-4aee-4215-8c36-9dd81e8a34ee">
+			<div class="container" id="navbarDropdownContent-1_9812c9b6-4aee-4215-8c36-9dd81e8a34ee">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_b0a62701-6618-4ca7-968d-0427848c333c" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_1d120f4a-4395-4b28-b5f6-06f69833d6e7" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			News
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_b0a62701-6618-4ca7-968d-0427848c333c">
-			<div class="container" id="navbarDropdownContent-1_b0a62701-6618-4ca7-968d-0427848c333c">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_1d120f4a-4395-4b28-b5f6-06f69833d6e7">
+			<div class="container" id="navbarDropdownContent-1_1d120f4a-4395-4b28-b5f6-06f69833d6e7">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_fbf5d432-5ea5-4047-a163-0418ddad11d6" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_030382c7-3c1b-42ba-9939-7f723864af23" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			Multimedia
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_fbf5d432-5ea5-4047-a163-0418ddad11d6">
-			<div class="container" id="navbarDropdownContent-1_fbf5d432-5ea5-4047-a163-0418ddad11d6">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_030382c7-3c1b-42ba-9939-7f723864af23">
+			<div class="container" id="navbarDropdownContent-1_030382c7-3c1b-42ba-9939-7f723864af23">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_bd22d065-dfb4-4338-8b8b-0c29292223aa" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_c3883418-0737-4317-b135-0ccd1d62740a" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			Main topics
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_bd22d065-dfb4-4338-8b8b-0c29292223aa">
-			<div class="container" id="navbarDropdownContent-1_bd22d065-dfb4-4338-8b8b-0c29292223aa">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_c3883418-0737-4317-b135-0ccd1d62740a">
+			<div class="container" id="navbarDropdownContent-1_c3883418-0737-4317-b135-0ccd1d62740a">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_808c39df-b08a-4f7f-8b24-542452cbb4f4" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_688f6129-ba20-44bb-8fcd-f524d2afae38" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			Statistics
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_808c39df-b08a-4f7f-8b24-542452cbb4f4">
-			<div class="container" id="navbarDropdownContent-1_808c39df-b08a-4f7f-8b24-542452cbb4f4">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_688f6129-ba20-44bb-8fcd-f524d2afae38">
+			<div class="container" id="navbarDropdownContent-1_688f6129-ba20-44bb-8fcd-f524d2afae38">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_96f83305-ee30-48e1-99c4-4fe25f734e7a" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_32456705-55fd-4dad-b28c-ad09a66cde46" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			Members
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_96f83305-ee30-48e1-99c4-4fe25f734e7a">
-			<div class="container" id="navbarDropdownContent-1_96f83305-ee30-48e1-99c4-4fe25f734e7a">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_32456705-55fd-4dad-b28c-ad09a66cde46">
+			<div class="container" id="navbarDropdownContent-1_32456705-55fd-4dad-b28c-ad09a66cde46">
 				Loading...
 			</div>
 		</div>
 	</li>
 	<li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_9fe887c1-a98d-4e05-bbda-6340fde4beec" role="button"
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1_5da15637-2f8e-4963-93f1-d00cd4771a6a" role="button"
 		   data-bs-toggle="dropdown"
 		   aria-haspopup="true" aria-expanded="false">
 			Publications
 		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_9fe887c1-a98d-4e05-bbda-6340fde4beec">
-			<div class="container" id="navbarDropdownContent-1_9fe887c1-a98d-4e05-bbda-6340fde4beec">
+		<div class="dropdown-menu" aria-labelledby="navbarDropdown-1_5da15637-2f8e-4963-93f1-d00cd4771a6a">
+			<div class="container" id="navbarDropdownContent-1_5da15637-2f8e-4963-93f1-d00cd4771a6a">
 				Loading...
 			</div>
 		</div>
@@ -2235,7 +2235,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script type="text/javascript">
 	(function ($)
 	{
-		var containerIds = "navbarDropdownContent-1_fb650607-1e75-43eb-84c4-9f0e9d060c89;navbarDropdownContent-1_b0a62701-6618-4ca7-968d-0427848c333c;navbarDropdownContent-1_fbf5d432-5ea5-4047-a163-0418ddad11d6;navbarDropdownContent-1_bd22d065-dfb4-4338-8b8b-0c29292223aa;navbarDropdownContent-1_808c39df-b08a-4f7f-8b24-542452cbb4f4;navbarDropdownContent-1_96f83305-ee30-48e1-99c4-4fe25f734e7a;navbarDropdownContent-1_9fe887c1-a98d-4e05-bbda-6340fde4beec".split(";");
+		var containerIds = "navbarDropdownContent-1_9812c9b6-4aee-4215-8c36-9dd81e8a34ee;navbarDropdownContent-1_1d120f4a-4395-4b28-b5f6-06f69833d6e7;navbarDropdownContent-1_030382c7-3c1b-42ba-9939-7f723864af23;navbarDropdownContent-1_c3883418-0737-4317-b135-0ccd1d62740a;navbarDropdownContent-1_688f6129-ba20-44bb-8fcd-f524d2afae38;navbarDropdownContent-1_32456705-55fd-4dad-b28c-ad09a66cde46;navbarDropdownContent-1_5da15637-2f8e-4963-93f1-d00cd4771a6a".split(";");
 		var urls = "/corporatepage/about-fao;/corporatepage/media;/corporatepage/multimedia;/corporatepage/main-topics;/corporatepage/statistics;/corporatepage/member-countries;/corporatepage/publications".split(";");
 
 		function loadAllContents()
@@ -2609,13 +2609,13 @@ Interactive: The interconnected world of agrifood systems                    </h
 
 <div class="card border-0  ">
         <div class="card-image ratio ratio-3x2">
-            <img src='https://www.fao.org/media/images/homepagelibraries/social-media/fb13072026.png?sfvrsn=5ad66b2d_1' alt='' loading="lazy" />
+            <img src='https://www.fao.org/media/images/homepagelibraries/data/fb20072026.png?sfvrsn=3b3cc266_1' alt='' loading="lazy" />
         </div>
 
     <div class="card-body">
             <h6 class="title-category">Facebook</h6>
         <h5 class="card-title">
-                <a href="https://www.facebook.com/reel/2964226653911254" class="title-link title-link stretched-link" target="_blank">El Ni&#241;o is here and agriculture is on alert</a>
+                <a href="https://fb.watch/It2fQEdFui/" class="title-link title-link stretched-link" target="_blank">How sustainable water management can help reduce drought risks and impacts</a>
         </h5>
 
             </div>
@@ -2626,13 +2626,13 @@ Interactive: The interconnected world of agrifood systems                    </h
 
 <div class="card border-0  ">
         <div class="card-image ratio ratio-3x2">
-            <img src='https://www.fao.org/media/images/homepagelibraries/social-media/x12072026.png?sfvrsn=a7af60fe_1' alt='' loading="lazy" />
+            <img src='https://www.fao.org/media/images/homepagelibraries/social-media/x-8-12-25.jpg?sfvrsn=bab6bc05_1' alt='' loading="lazy" />
         </div>
 
     <div class="card-body">
             <h6 class="title-category">X</h6>
         <h5 class="card-title">
-                <a href="https://x.com/FAO/status/2075474416100614450?s=20" class="title-link title-link stretched-link" target="_blank">Protecting rangelands means healthier ecosystems</a>
+                <a href="https://x.com/FAO/status/2077573455499718801?s=20" class="title-link title-link stretched-link" target="_blank">Avian influenza is a global threat to animals, people and food security</a>
         </h5>
 
             </div>
@@ -2643,13 +2643,13 @@ Interactive: The interconnected world of agrifood systems                    </h
 
 <div class="card border-0  ">
         <div class="card-image ratio ratio-3x2">
-            <img src='https://www.fao.org/media/images/homepagelibraries/social-media/insta-6-7-26.png?sfvrsn=9d895fad_2' alt='' loading="lazy" />
+            <img src='https://www.fao.org/media/images/homepagelibraries/social-media/insta20072026.png?sfvrsn=c256f56f_1' alt='' loading="lazy" />
         </div>
 
     <div class="card-body">
             <h6 class="title-category">Instagram</h6>
         <h5 class="card-title">
-                <a href="https://www.instagram.com/reel/Dak1SMdgbLD/?utm_source=ig_web_copy_link&amp;igsh=NTc4MTIwNjQ2YQ==" class="title-link title-link stretched-link" target="_blank">Investing in women farmers means investing in communities</a>
+                <a href="https://www.instagram.com/p/Daxy8fMCOBi/?utm_source=ig_web_copy_link&amp;igsh=NTc4MTIwNjQ2YQ==" class="title-link title-link stretched-link" target="_blank">Wildfires are getting bigger, faster and harder to stop</a>
         </h5>
 
             </div>

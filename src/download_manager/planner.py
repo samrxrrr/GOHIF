@@ -1,4 +1,11 @@
+"""
+GOHIF Download Planner
+
+Builds the download execution plan from the master registry.
+"""
+
 from pathlib import Path
+
 import pandas as pd
 
 from src.registry.loader import RegistryLoader
@@ -18,7 +25,7 @@ class DownloadPlanner:
             "yes",
             "true",
             "completed",
-            "downloaded"
+            "downloaded",
         )
 
     @staticmethod
@@ -27,9 +34,8 @@ class DownloadPlanner:
         tier = str(tier).strip().upper()
 
         mapping = {
-
-            "HIGH": 1,
             "CRITICAL": 1,
+            "HIGH": 1,
             "T1": 1,
             "TIER 1": 1,
 
@@ -39,8 +45,7 @@ class DownloadPlanner:
 
             "LOW": 3,
             "T3": 3,
-            "TIER 3": 3
-
+            "TIER 3": 3,
         }
 
         return mapping.get(tier, 4)
@@ -63,9 +68,9 @@ class DownloadPlanner:
 
                 "Priority": self._priority(row.get("Tier")),
 
-                "GOHIF_ID": row["GOHIF_ID"],
+                "GOHIF_ID": row.get("GOHIF_ID"),
 
-                "Dataset_Name": row["Dataset_Name"],
+                "Dataset_Name": row.get("Dataset_Name"),
 
                 "Adapter": AdapterResolver.resolve(row),
 
@@ -75,8 +80,13 @@ class DownloadPlanner:
 
                 "Download_URL": row.get("Download_URL", ""),
 
-                "Status": "PENDING"
+                "API_Base": row.get("API_Base", ""),
 
+                "Local_Path": row.get("Local_Path", ""),
+
+                "File_Format": row.get("File_Format", ""),
+
+                "Status": "PENDING",
             })
 
         plan = pd.DataFrame(rows)
@@ -85,18 +95,18 @@ class DownloadPlanner:
             by=[
                 "Priority",
                 "Adapter",
-                "GOHIF_ID"
+                "GOHIF_ID",
             ]
         ).reset_index(drop=True)
 
         OUTPUT.parent.mkdir(
             parents=True,
-            exist_ok=True
+            exist_ok=True,
         )
 
         plan.to_csv(
             OUTPUT,
-            index=False
+            index=False,
         )
 
         return plan

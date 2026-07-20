@@ -1,3 +1,7 @@
+"""
+GOHIF Base Download Adapter
+"""
+
 from pathlib import Path
 from datetime import datetime
 import hashlib
@@ -8,14 +12,23 @@ class BaseAdapter:
 
     def __init__(self):
 
-        self.root = Path("datasets/raw")
-        self.root.mkdir(parents=True, exist_ok=True)
+        self.root = Path("data/raw")
 
-        self.logger = logging.getLogger(self.__class__.__name__)
+        self.root.mkdir(
+            parents=True,
+            exist_ok=True
+        )
+
+        self.logger = logging.getLogger(
+            self.__class__.__name__
+        )
 
     @staticmethod
     def timestamp():
-        return datetime.now().isoformat(timespec="seconds")
+
+        return datetime.now().isoformat(
+            timespec="seconds"
+        )
 
     @staticmethod
     def sha256(filepath):
@@ -42,18 +55,23 @@ class BaseAdapter:
 
     def dataset_directory(self, row):
 
-        domain = str(row.get("Domain", "misc")).strip()
+        domain = str(
+            row.get("Domain", "misc")
+        ).strip()
 
         domain = (
             domain.lower()
-                  .replace("&", "and")
-                  .replace("/", "_")
-                  .replace(" ", "_")
+            .replace("&", "and")
+            .replace("/", "_")
+            .replace(" ", "_")
         )
 
         folder = self.root / domain
 
-        folder.mkdir(parents=True, exist_ok=True)
+        folder.mkdir(
+            parents=True,
+            exist_ok=True
+        )
 
         return folder
 
@@ -67,17 +85,23 @@ class BaseAdapter:
 
         record = {
 
-            "GOHIF_ID": row["GOHIF_ID"],
+            "success": success,
 
-            "Dataset_Name": row["Dataset_Name"],
+            "dataset_id": row.get(
+                "GOHIF_ID",
+                ""
+            ),
+
+            "dataset_name": row.get(
+                "Dataset_Name",
+                ""
+            ),
+
+            "output_file": "",
+
+            "message": message,
 
             "Timestamp": self.timestamp(),
-
-            "Success": success,
-
-            "Message": message,
-
-            "Local_Path": "",
 
             "File_Size": "",
 
@@ -85,12 +109,19 @@ class BaseAdapter:
 
         }
 
-        if filepath is not None and Path(filepath).exists():
+        if (
+            filepath is not None
+            and Path(filepath).exists()
+        ):
 
-            record["Local_Path"] = str(filepath)
+            record["output_file"] = str(filepath)
 
-            record["File_Size"] = self.filesize(filepath)
+            record["File_Size"] = self.filesize(
+                filepath
+            )
 
-            record["SHA256"] = self.sha256(filepath)
+            record["SHA256"] = self.sha256(
+                filepath
+            )
 
         return record

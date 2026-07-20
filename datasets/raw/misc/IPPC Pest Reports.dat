@@ -371,7 +371,7 @@
 <div class="utilities d-inline-block pull-right"> <!-- d-flex justify-content-end -->
     
     <form action=""  method="POST" enctype="multipart/form-data"  class="form-inline d-inline-block" >
-    <input type="hidden" name="csrfmiddlewaretoken" value="dCRcHWenRnSv3tqDsgkTQcuU7ldiFwCtwCXqEi3POmv7GOzKDSuTxovag2Q8oJPZ">
+    <input type="hidden" name="csrfmiddlewaretoken" value="pLr4Ry8ZCbzZ66SvaTf1xJWbFIBFOZRS5WZ9BIXeq98Wsu8FFsomXmNC8iejkcx2">
     <select data-placeholder="Language" class="form-control d-inline-block btn btn-primary"  id="selectlanguage">
       <option>Language</option>
       
@@ -3148,5 +3148,5 @@ $(function() {
 </script>
 
 
-    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1db41ab3dcf5556',t:'MTc4NDQ4MDE1NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1e045dedf6d4700',t:'MTc4NDUzMjc1Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>

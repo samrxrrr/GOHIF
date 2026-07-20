@@ -1,18 +1,107 @@
-from src.download_manager.adapters.base import BaseAdapter
+"""
+GOHIF Production REST API Adapter
+"""
+
+from pathlib import Path
+
+from .base import BaseAdapter
+
+from src.download_manager.api.client import APIClient
 
 
 class APIAdapter(BaseAdapter):
 
-    def download(self, row):
+    def __init__(self):
 
-        print(f"[API ] {row['Dataset_Name']}")
+        super().__init__()
 
-        return self.result(
+        self.client = APIClient()
 
-            success=True,
 
-            row=row,
+    def connect(self):
 
-            message="API adapter reached (dry run)"
+        return True
 
-        )
+    def download(
+        self,
+        dataset: dict,
+    ) -> dict:
+        """
+        Download a dataset using the GOHIF API client.
+        """
+
+        dataset_id = dataset.get("GOHIF_ID", "UNKNOWN")
+
+        dataset_name = dataset.get("Dataset_Name", "Unknown Dataset")
+
+        url = dataset.get("Download_URL")
+
+        output_path = dataset.get("Local_Path")
+
+        if not url:
+
+            return {
+                "success": False,
+                "dataset_id": dataset_id,
+                "dataset_name": dataset_name,
+                "message": "Download_URL is missing."
+            }
+
+        if not output_path:
+
+            return {
+                "success": False,
+                "dataset_id": dataset_id,
+                "dataset_name": dataset_name,
+                "message": "Local_Path is missing."
+            }
+
+        try:
+
+            output = self.client.download_file(
+                url=url,
+                output_path=output_path
+            )
+
+            return {
+                "success": True,
+                "dataset_id": dataset_id,
+                "dataset_name": dataset_name,
+                "output_file": str(output),
+                "message": "Download completed."
+            }
+
+        except Exception as exc:
+
+            return {
+                "success": False,
+                "dataset_id": dataset_id,
+                "dataset_name": dataset_name,
+                "message": str(exc)
+            }
+
+    def close(self):
+
+        """
+        Close the API client session.
+        """
+
+        self.client.close()
+
+if __name__ == "__main__":
+
+    adapter = APIAdapter()
+
+    print("=" * 70)
+    print("GOHIF API ADAPTER")
+    print("=" * 70)
+
+    print()
+
+    print("Connection:", adapter.connect())
+
+    adapter.close()
+
+    print()
+
+    print("API Adapter initialized successfully.")

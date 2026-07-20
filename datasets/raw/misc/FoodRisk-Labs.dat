@@ -447,7 +447,7 @@ var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand chil
 </script>
 <script src="https://foodrisklabs.bfr.bund.de/wp-content/themes/twentyfifteen/js/functions.js" id="twentyfifteen-script-js" defer data-wp-strategy="defer"></script>
 <script id="wpstg-global-js-extra">
-var wpstg = {"nonce":"48cbb118b3"};
+var wpstg = {"nonce":"eff9321262"};
 </script>
 <script src="https://foodrisklabs.bfr.bund.de/wp-content/plugins/wp-staging/assets/js/dist/wpstg-blank-loader.min.js" id="wpstg-global-js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foodrisklabs.bfr.bund.de/xmlrpc.php?rsd" />

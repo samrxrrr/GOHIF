@@ -249,9 +249,9 @@
 <div class="form-group sf-search-input-wrapper" role="search">
     <div class="srchaction-wrapper">
         <span class="srchaction">
-            <i id="069a4f3f-221b-470b-bcc6-3e39d7009786" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+            <i id="ef84888e-f9bb-42aa-a11e-4caedef0e3c5" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
         </span>
-        <input type="search" title="Search input" placeholder="Search" id="edc9020b-b021-4d40-adde-801b20adf7fc" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+        <input type="search" title="Search input" placeholder="Search" id="992a1dbd-b747-464f-8a09-e70467d098ec" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
     </div>
     
     <!--Toggle search:start-->
@@ -271,8 +271,8 @@
 <input type="hidden" data-sf-role="language" value="en" />
 <input type="hidden" data-sf-role="siteId" value="15210d59-ad60-47ff-a542-7ed76645f0c7" />
 <input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
-<input type="hidden" data-sf-role="searchTextBoxId" value='#edc9020b-b021-4d40-adde-801b20adf7fc' />
-<input type="hidden" data-sf-role="searchButtonId" value='#069a4f3f-221b-470b-bcc6-3e39d7009786' />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#992a1dbd-b747-464f-8a09-e70467d098ec' />
+<input type="hidden" data-sf-role="searchButtonId" value='#ef84888e-f9bb-42aa-a11e-4caedef0e3c5' />
 </div>
 
 
@@ -342,7 +342,7 @@
     <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="64bbcb7536ab4640a225596371cc2fcc" role="navigation">
+<nav id="70d521c2405342578e029bfe369a28b3" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/" target="_self">Home</a></li>
     </ul>
@@ -363,7 +363,7 @@
     <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="a53331768a8f4dfa9fc8de39a348249d" role="navigation">
+<nav id="817b9280d705433087f80632370d26b9" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/mega-menu/health-topics" target="_self">Health Topics</a></li>
     </ul>
@@ -390,7 +390,7 @@
      <div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<div class="main-navigation--wrapper" id="57a9f6536afa403ca97f9ae2c95588dd" role="navigation">
+<div class="main-navigation--wrapper" id="4f057b632ad74c17b6468ae2b8d4466b" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -438,7 +438,7 @@
      <div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
 
 
-<div class="main-navigation--wrapper" id="e244d219529d4932bd1513527c79006a" role="navigation">
+<div class="main-navigation--wrapper" id="86fe2a636ff14665bbaac7a7f6222098" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -490,7 +490,7 @@
     <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="be6696f0b0f5471aa21435505339d1b5" role="navigation">
+<nav id="c2aa6103776a49c4bc9ca7ca9b71e5da" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/mega-menu/countries" target="_self">Countries</a></li>
     </ul>
@@ -517,7 +517,7 @@
      <div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<div class="main-navigation--wrapper" id="81ff5e52142543e49003111a358c2283" role="navigation">
+<div class="main-navigation--wrapper" id="3d577fd1ba53484b809d79a6c70c0669" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -562,7 +562,7 @@
      <div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
 
 
-<div class="main-navigation--wrapper" id="b89e5e045adb4d4db1eacfb63e30e44b" role="navigation">
+<div class="main-navigation--wrapper" id="2c8ff8e3144f4af3910b47dfb5ade4ef" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -610,7 +610,7 @@
     <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="2c9ad1c3fccd4f0480afdf59dc45010e" role="navigation">
+<nav id="a1ee67f8dcc44476a2e59c2ca6da0980" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/news-room" target="_self">Newsroom</a></li>
     </ul>
@@ -627,7 +627,7 @@
     <div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
 
 
-<div class="main-navigation--wrapper" id="b063d3a1eace4dd1ac4f5e93ff78a01e" role="navigation">
+<div class="main-navigation--wrapper" id="dcd99000de484002bdce91ee31fe868d" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -734,7 +734,7 @@
     <div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="ff6af2dfd8634aa395a250589ac2df0e" role="navigation">
+<nav id="a51c88e2c2264d7e8e06690e0ae640c5" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/mega-menu/emergencies" target="_self">Emergencies</a></li>
     </ul>
@@ -751,7 +751,7 @@
     <div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
 
 
-<div class="main-navigation--wrapper" id="f721fa8de1c040c58eee4bc0bc0ca7b5" role="navigation">
+<div class="main-navigation--wrapper" id="aac8b7e9fdcd42ee8ff3a07e0a88828d" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -795,7 +795,7 @@
      <div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<div class="main-navigation--wrapper" id="5e9bb5e7e92044c88a7e391dba5f87cb" role="navigation">
+<div class="main-navigation--wrapper" id="ed78dd99cb344ba7a93ce5c2ab0e8f6b" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -831,7 +831,7 @@
      <div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
 
 
-<div class="main-navigation--wrapper" id="0fb6f6a96a4e4daca339c82e34e76061" role="navigation">
+<div class="main-navigation--wrapper" id="0bd22fc682294e16a40976ee35e563bb" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -895,7 +895,7 @@
     <div id="Navigation_T75121FDA215_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="2d751bf49b884dd6bddba82463dfe0e8" role="navigation">
+<nav id="32bb0544c6a54a3e95dc7e3d181f2e01" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/mega-menu/data" target="_self">Data</a></li>
     </ul>
@@ -912,7 +912,7 @@
     <div id="Navigation_T75121FDA217_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
 
 
-<div class="main-navigation--wrapper" id="9bd3b5fbfbb54357a088b5ee9be40c6b" role="navigation">
+<div class="main-navigation--wrapper" id="49fb24d11d494dddb575cb51fda50f9b" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -948,7 +948,7 @@
      <div id="Navigation_T75121FDA217_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<div class="main-navigation--wrapper" id="54dcce22b2dd41ff9add5734aff7773d" role="navigation">
+<div class="main-navigation--wrapper" id="0f51ec6285704acbb7af276f46ff8eed" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -984,7 +984,7 @@
      <div id="Navigation_T75121FDA217_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
 
 
-<div class="main-navigation--wrapper" id="89a0a2faae5c4fd8a6a650cdf26b3d2b" role="navigation">
+<div class="main-navigation--wrapper" id="b226b530cf8547bbb3565f6322e9c65d" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1032,7 +1032,7 @@
      <div id="Navigation_T75121FDA217_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
 
 
-<div class="main-navigation--wrapper" id="842d741996d74c918230e0fe8671a493" role="navigation">
+<div class="main-navigation--wrapper" id="2e0ddfbf78414563b1bd693e93b5e789" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1066,7 +1066,7 @@
     <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
 
 
-<nav id="9dc8630192d84300abf0a2ab2c37a5cd" role="navigation">
+<nav id="63f8246394a24cb9bcbd5fb108d9be13" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/mega-menu/about-us" target="_self">About WHO</a></li>
     </ul>
@@ -1083,7 +1083,7 @@
     <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
 
 
-<div class="main-navigation--wrapper" id="ae249dc8c9ac46e184a6738abdabae27" role="navigation">
+<div class="main-navigation--wrapper" id="e22e3052bf1849529fbd1f197a122a8f" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1127,7 +1127,7 @@
      <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<div class="main-navigation--wrapper" id="78df52f9f2974f03a947839446b531fd" role="navigation">
+<div class="main-navigation--wrapper" id="6466ce622c464b4094c55b05cb63b58b" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1163,7 +1163,7 @@
      <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
 
 
-<div class="main-navigation--wrapper" id="b10385c6f9a440a0a3bbe13d505a6a2f" role="navigation">
+<div class="main-navigation--wrapper" id="59aef098aa0440a19e6cd8729567511a" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1189,7 +1189,7 @@
 
 
 
-<div class="main-navigation--wrapper" id="feb522e092b246d99672efc41fcb7da5" role="navigation">
+<div class="main-navigation--wrapper" id="0dbccdcb59b04ce590017accf8532ed9" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1229,7 +1229,7 @@
      <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
 
 
-<div class="main-navigation--wrapper" id="c45b921d53104e14910e538632f08d2d" role="navigation">
+<div class="main-navigation--wrapper" id="9d5dc2ebbfe147d98707ba30463db823" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -1314,7 +1314,7 @@
                 <div class="card-media--item">
                     <div class="card-media-primary">
 
-                            <div id="26bd1d20fe894ceaa5a59e6414b85836" class="item--title">Applications to the 25th Expert Committee on Selection and Use of Essential Medicines, 2025</div>
+                            <div id="a2dbea7fcc4241b9b36a6b7758dcdc75" class="item--title">Applications to the 25th Expert Committee on Selection and Use of Essential Medicines, 2025</div>
 
                         <div class="item--subtitle"></div>
                     </div>
@@ -1695,7 +1695,7 @@
                 <div class="card-media--item">
                     <div class="card-media-primary">
 
-                            <div id="2d5344cd65d0475aa84f51b79e28f67d" class="item--title">WHO Electronic EML</div>
+                            <div id="730eb90438f84205b0382fb805b94710" class="item--title">WHO Electronic EML</div>
 
                         <div class="item--subtitle"></div>
                     </div>
@@ -1722,7 +1722,7 @@
                 <div class="card-media--item">
                     <div class="card-media-primary">
 
-                            <div id="1cb4367fe24a4378b421b1a9e740c863" class="item--title">AWaRe antibiotics</div>
+                            <div id="ac9b423050654de0ab65736ca67f280d" class="item--title">AWaRe antibiotics</div>
 
                         <div class="item--subtitle"></div>
                     </div>
@@ -1749,7 +1749,7 @@
                 <div class="card-media--item">
                     <div class="card-media-primary">
 
-                            <div id="0deee735cb54453b9069331acd54e453" class="item--title">Global EMLs</div>
+                            <div id="3849a461fa234e59ac9cb34d644d7141" class="item--title">Global EMLs</div>
 
                         <div class="item--subtitle"></div>
                     </div>
@@ -2100,7 +2100,7 @@
     <div id="Footer_T75121FDA252_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
 
 
-<div class="main-navigation--wrapper" id="ef21d5108f6647bb96453e67e96556eb" role="navigation">
+<div class="main-navigation--wrapper" id="1e0901cdcedd467da4fc24b5b72434e5" role="navigation">
 
     <ul class="main-navigation navVertical">
     <li class="">
@@ -2200,7 +2200,7 @@
     <div id="Footer_T75121FDA252_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
 
 
-<nav id="c4af77eb63f9449c873855d2aa6fb8ef" role="navigation">
+<nav id="2e290df9792f4b6686d8111017e42e19" role="navigation">
     <ul class="main-navigation">
     <li class=""><a href="/about/contact-us" target="_self">Contact us</a></li>
     </ul>
