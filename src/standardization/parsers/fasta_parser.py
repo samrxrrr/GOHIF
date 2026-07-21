@@ -1,46 +1,75 @@
 """
 GOHIF FASTA Parser
-Phase 6 - Scientific Metadata Enrichment
-Version 2.2
+Scientific Metadata Enrichment
+Modular Refactor Version 3.0
 """
 
 from pathlib import Path
 
 from src.standardization.base_parser import BaseParser
 
+from src.standardization.common.metadata_builder import build_metadata
+
+from src.standardization.common.sequence_utils import (
+    DNA_ALPHABET,
+    RNA_ALPHABET,
+    PROTEIN_ALPHABET,
+    infer_molecule_type,
+    gc_content,
+    base_counts,
+    ambiguous_count,
+)
+
+from src.standardization.common.statistics import (
+    summary_statistics,
+    n50,
+    n90,
+    coefficient_of_variation,
+)
+
+from src.standardization.common.validators import (
+    validate_fasta_structure,
+    validation_status,
+)
+
 
 class FASTAParser(BaseParser):
 
-    DNA_ALPHABET = set("ACGTN")
+    PARSER_NAME = "FASTAParser"
+    PARSER_VERSION = "3.0"
 
-    RNA_ALPHABET = set("ACGUN")
-
-    PROTEIN_ALPHABET = set(
-        "ABCDEFGHIKLMNPQRSTVWXYZ*"
-    )
+    SUPPORTED_EXTENSIONS = {
+        ".fa",
+        ".fasta",
+        ".faa",
+        ".fna",
+    }
 
     def detect(self, path):
 
-        return Path(path).suffix.lower() in [
-
-            ".fa",
-            ".fasta",
-            ".faa",
-            ".fna"
-
-        ]
+        return (
+            Path(path).suffix.lower()
+            in self.SUPPORTED_EXTENSIONS
+        )
 
     def read_fasta(self, path):
+        """
+        Streaming FASTA reader.
+
+        Yields
+        ------
+        tuple
+            (header, sequence)
+        """
 
         header = None
-
         sequence = []
 
         with open(
             path,
             "r",
             encoding="utf-8",
-            errors="ignore"
+            errors="ignore",
         ) as handle:
 
             for line in handle:
@@ -54,10 +83,12 @@ class FASTAParser(BaseParser):
 
                     if header is not None:
 
-                        yield header, "".join(sequence)
+                        yield (
+                            header,
+                            "".join(sequence),
+                        )
 
                     header = line[1:].strip()
-
                     sequence = []
 
                 else:
@@ -66,35 +97,36 @@ class FASTAParser(BaseParser):
 
         if header is not None:
 
-            yield header, "".join(sequence)
+            yield (
+                header,
+                "".join(sequence),
+            )
 
-    def infer_molecule_type(self, sequence):
+    @staticmethod
+    def _invalid_character_count(
+        sequence,
+        molecule_type,
+    ):
 
-        seq = sequence.upper()
+        sequence = sequence.upper()
 
-        chars = set(seq)
+        if molecule_type in (
+            "DNA",
+            "RNA",
+        ):
 
-        if chars <= self.DNA_ALPHABET:
-            return "DNA"
+            valid = (
+                DNA_ALPHABET
+                | RNA_ALPHABET
+            )
 
-        if chars <= self.RNA_ALPHABET:
-            return "RNA"
+        else:
 
-        return "PROTEIN"
+            valid = PROTEIN_ALPHABET
 
-    def gc_content(self, sequence):
-
-        seq = sequence.upper()
-
-        if len(seq) == 0:
-
-            return 0.0
-
-        gc = seq.count("G") + seq.count("C")
-
-        return round(
-            gc * 100 / len(seq),
-            2
+        return sum(
+            character not in valid
+            for character in sequence
         )
 
     def extract_metadata(self, path):
@@ -102,81 +134,69 @@ class FASTAParser(BaseParser):
         path = Path(path)
 
         sequence_count = 0
-
         total_length = 0
 
-        min_length = None
-
-        max_length = 0
-
         first_header = None
-
         shortest_header = None
-
         longest_header = None
 
+        shortest_length = None
+        longest_length = 0
+
         duplicate_headers = 0
-
         empty_sequences = 0
-
         ambiguous_characters = 0
-
         invalid_characters = 0
-
-        gc_total = 0
 
         seen_headers = set()
 
+        lengths = []
+
         molecule_counts = {
-
             "DNA": 0,
-
             "RNA": 0,
-
-            "PROTEIN": 0
-
+            "PROTEIN": 0,
         }
 
-        total_a = 0
+        nucleotide_gc_values = []
 
-        total_c = 0
+        totals = {
+            "A": 0,
+            "C": 0,
+            "G": 0,
+            "T": 0,
+            "U": 0,
+            "N": 0,
+        }
 
-        total_g = 0
-
-        total_t = 0
-
-        total_u = 0
-
-        total_n = 0
-
-        for header, sequence in self.read_fasta(path):
+        for header, sequence in self.read_fasta(
+            path
+        ):
 
             sequence = sequence.upper()
 
             length = len(sequence)
 
             sequence_count += 1
-
             total_length += length
 
-            if min_length is None:
-
-                min_length = length
-                shortest_header = header
-
-            elif length < min_length:
-
-                min_length = length
-                shortest_header = header
-
-            if length > max_length:
-
-                max_length = length
-                longest_header = header
+            lengths.append(length)
 
             if first_header is None:
-
                 first_header = header
+
+            if (
+                shortest_length is None
+                or length < shortest_length
+            ):
+
+                shortest_length = length
+                shortest_header = header
+
+            if length > longest_length:
+
+                longest_length = length
+                longest_header = header
 
             if header in seen_headers:
 
@@ -188,140 +208,98 @@ class FASTAParser(BaseParser):
 
                 empty_sequences += 1
 
-            molecule = self.infer_molecule_type(sequence)
+            molecule = infer_molecule_type(
+                sequence
+            )
 
             molecule_counts[molecule] += 1
 
-            total_a += sequence.count("A")
-            total_c += sequence.count("C")
-            total_g += sequence.count("G")
-            total_t += sequence.count("T")
-            total_u += sequence.count("U")
-            total_n += sequence.count("N")
+            counts = base_counts(sequence)
 
-            if molecule in ("DNA", "RNA"):
+            for base in totals:
 
-                gc_total += self.gc_content(sequence)
+                totals[base] += counts[base]
 
-                valid = self.DNA_ALPHABET | self.RNA_ALPHABET
-
-            else:
-
-                valid = self.PROTEIN_ALPHABET
-
-            for char in sequence:
-
-                if char not in valid:
-
-                    invalid_characters += 1
-
-            if molecule == "DNA":
-
-                ambiguous_characters += sequence.count("N")
-
-            elif molecule == "RNA":
-
-                ambiguous_characters += sequence.count("N")
-
-            else:
-
-                ambiguous_characters += sequence.count("X")
-
-        if sequence_count:
-
-            average_length = round(
-                total_length / sequence_count,
-                2
+            ambiguous_characters += (
+                ambiguous_count(sequence)
             )
 
-        else:
+            invalid_characters += (
+                self._invalid_character_count(
+                    sequence,
+                    molecule,
+                )
+            )
 
-            average_length = 0
+            if molecule in (
+                "DNA",
+                "RNA",
+            ):
 
-        dna_rna_sequences = (
+                nucleotide_gc_values.append(
+                    gc_content(sequence)
+                )
 
-            molecule_counts["DNA"] +
-            molecule_counts["RNA"]
-
+        stats = summary_statistics(
+            lengths
         )
 
-        if dna_rna_sequences:
+        if nucleotide_gc_values:
 
             average_gc = round(
-
-                gc_total /
-                dna_rna_sequences,
-
-                2
-
+                sum(nucleotide_gc_values)
+                / len(nucleotide_gc_values),
+                2,
             )
 
         else:
 
             average_gc = 0
 
+        gc_count = (
+            totals["G"]
+            + totals["C"]
+        )
+
+        at_count = (
+            totals["A"]
+            + totals["T"]
+            + totals["U"]
+        )
+
         if total_length:
 
-            gc_count = total_g + total_c
-
-            at_count = total_a + total_t + total_u
-
-            gc_percent = round(
-
-                gc_count * 100 /
-                total_length,
-
-                2
-
+            overall_gc = round(
+                gc_count
+                * 100
+                / total_length,
+                2,
             )
 
-            at_percent = round(
-
-                at_count * 100 /
-                total_length,
-
-                2
-
+            overall_at = round(
+                at_count
+                * 100
+                / total_length,
+                2,
             )
 
         else:
 
-            gc_count = 0
+            overall_gc = 0
+            overall_at = 0
 
-            at_count = 0
+        if sequence_count:
 
-            gc_percent = 0
+            dominant_type = max(
+                molecule_counts,
+                key=molecule_counts.get,
+            )
 
-            at_percent = 0
+        else:
 
-        dominant_type = max(
+            dominant_type = "UNKNOWN"
 
-            molecule_counts,
-
-            key=molecule_counts.get
-
-        )
-
-        dominant_type = max(
-
-            molecule_counts,
-
-            key=molecule_counts.get
-
-        )
-        metadata = {
-
-            "Filename":
-                path.name,
-
-            "Extension":
-                path.suffix.lower(),
-
-            "File_Size_MB":
-                round(
-                    path.stat().st_size / 1024 / 1024,
-                    6
-                ),
+        scientific_metadata = {
 
             "Sequence_Count":
                 sequence_count,
@@ -330,13 +308,32 @@ class FASTAParser(BaseParser):
                 total_length,
 
             "Min_Length":
-                min_length,
+                stats["Minimum"],
 
             "Max_Length":
-                max_length,
+                stats["Maximum"],
 
             "Average_Length":
-                average_length,
+                stats["Mean"],
+
+            "Median_Length":
+                stats["Median"],
+
+            "Length_Standard_Deviation":
+                stats[
+                    "Standard_Deviation"
+                ],
+
+            "Length_CV_Percent":
+                coefficient_of_variation(
+                    lengths
+                ),
+
+            "N50":
+                n50(lengths),
+
+            "N90":
+                n90(lengths),
 
             "First_Header":
                 first_header,
@@ -350,14 +347,25 @@ class FASTAParser(BaseParser):
             "Molecule_Type":
                 dominant_type,
 
+            "DNA_Sequence_Count":
+                molecule_counts["DNA"],
+
+            "RNA_Sequence_Count":
+                molecule_counts["RNA"],
+
+            "Protein_Sequence_Count":
+                molecule_counts[
+                    "PROTEIN"
+                ],
+
             "Average_GC_Content":
                 average_gc,
 
             "Overall_GC_Content":
-                gc_percent,
+                overall_gc,
 
             "Overall_AT_Content":
-                at_percent,
+                overall_at,
 
             "GC_Count":
                 gc_count,
@@ -366,22 +374,22 @@ class FASTAParser(BaseParser):
                 at_count,
 
             "A_Count":
-                total_a,
+                totals["A"],
 
             "C_Count":
-                total_c,
+                totals["C"],
 
             "G_Count":
-                total_g,
+                totals["G"],
 
             "T_Count":
-                total_t,
+                totals["T"],
 
             "U_Count":
-                total_u,
+                totals["U"],
 
             "N_Count":
-                total_n,
+                totals["N"],
 
             "Duplicate_Headers":
                 duplicate_headers,
@@ -394,31 +402,38 @@ class FASTAParser(BaseParser):
 
             "Invalid_Characters":
                 invalid_characters,
-
-            "SHA256":
-                self.sha256(path),
-
-            "Validation_Status":
-                "VALID",
-
-            "Parser_Name":
-                "FASTAParser",
-
-            "Parser_Version":
-                "2.2"
-
         }
 
-        return metadata
+        valid = validate_fasta_structure(
+            path
+        )
+
+        return build_metadata(
+            path=path,
+            parser_name=self.PARSER_NAME,
+            parser_version=self.PARSER_VERSION,
+            scientific_metadata=scientific_metadata,
+            validation_status=validation_status(
+                valid
+            ),
+        )
 
     def validate(self, path):
 
-        return True
+        return validate_fasta_structure(
+            path
+        )
 
-    def standardize(self, path, output_dir):
+    def standardize(
+        self,
+        path,
+        output_dir,
+    ):
 
         return path
 
     def summarize(self, path):
 
-        return self.extract_metadata(path)
+        return self.extract_metadata(
+            path
+        )
