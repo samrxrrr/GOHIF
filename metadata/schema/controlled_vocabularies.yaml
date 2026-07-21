@@ -1,0 +1,27 @@
+Sequence_Type:
+  - DNA
+  - RNA
+  - Protein
+
+Domain:
+  - Human
+  - Animal
+  - Environment
+  - Food
+  - Plant
+
+Validation_Status:
+  - VALID
+  - INVALID_JSON
+  - EMPTY_FILE
+  - EMPTY_TABLE
+  - PARSE_ERROR
+  - READ_ERROR
+  - ENCODING_ERROR
+  - FILE_NOT_FOUND
+
+Evidence_Level:
+  - Experimental
+  - Clinical
+  - Computational
+  - Literature

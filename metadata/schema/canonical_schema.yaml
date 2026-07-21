@@ -1,0 +1,51 @@
+version: 1.0
+
+identity:
+  - Dataset_ID
+  - Dataset_Name
+  - Dataset_Version
+  - Dataset_Type
+  - Dataset_Category
+
+provenance:
+  - Source_Database
+  - Original_URL
+  - Download_Date
+  - License
+  - Citation
+  - DOI
+  - Publisher
+
+biological:
+  - Organism
+  - Taxonomy_ID
+  - Gene
+  - Protein
+  - Sequence_Type
+  - Molecule_Type
+
+amr:
+  - Antibiotic
+  - Drug_Class
+  - Resistance_Gene
+  - Resistance_Mechanism
+  - Evidence_Level
+
+technical:
+  - File_Class
+  - Extension
+  - Parser_Name
+  - Parser_Version
+  - SHA256
+
+quality:
+  - Validation_Status
+  - Completeness
+  - Consistency
+  - Quality_Score
+
+fair:
+  - Accessible
+  - Interoperable
+  - Reusable
+  - Machine_Readable

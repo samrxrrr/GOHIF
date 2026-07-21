@@ -1,0 +1,16 @@
+Filename: Dataset_Name
+SHA256: SHA256
+File_Class: Dataset_Type
+Extension: Extension
+Parser_Name: Parser_Name
+Parser_Version: Parser_Version
+Validation_Status: Validation_Status
+
+Rows: Record_Count
+Columns: Attribute_Count
+
+Sequence_Count: Record_Count
+Read_Count: Record_Count
+
+Molecule_Type: Molecule_Type
+HMMER_Component: Database_Component

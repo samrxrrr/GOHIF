@@ -1,0 +1,134 @@
+Parser_Dataset,Registry_Dataset_ID,Registry_Dataset_Name,Confidence,Status
+GN-030_PDBe,GN-030,PDBe,1,REVIEW
+AH-001_WOAH_WAHIS,,,0,UNMATCHED
+AH-002_FAO_EMPRES-i,,,0,UNMATCHED
+AH-003_NCBI_Pathogen_Detection,,,0,UNMATCHED
+AH-010_GBADs,,,0,UNMATCHED
+AH-012_Animal_Genome_Database,,,0,UNMATCHED
+EH-001_MGnify,,,0,UNMATCHED
+EH-002_NCBI_BioProject,,,0,UNMATCHED
+EH-003_NCBI_BioSample,,,0,UNMATCHED
+EH-004_ENA,,,0,UNMATCHED
+EH-006_PANGAEA,,,0,UNMATCHED
+EH-007_GBIF,,,0,UNMATCHED
+EH-009_Copernicus_Climate_Data_Store,,,0,UNMATCHED
+EH-010_NOAA_NCEI,,,0,UNMATCHED
+EH-011_NASA_Earthdata,,,0,UNMATCHED
+EH-015_SoilGrids,,,0,UNMATCHED
+FC-001_FAOSTAT,,,0,UNMATCHED
+FC-003_FoodData_Central,,,0,UNMATCHED
+FC-009_AGROVOC,,,0,UNMATCHED
+FC-014_OpenFoodFacts,,,0,UNMATCHED
+FC-015_European_Food_Safety_Open_Data_Portal,,,0,UNMATCHED
+GN-001_GenBank,,,0,UNMATCHED
+GN-002_DDBJ,,,0,UNMATCHED
+GN-003_Ensembl_Genomes,,,0,UNMATCHED
+GN-004_Ensembl_Bacteria,,,0,UNMATCHED
+GN-005_Ensembl_Protists,,,0,UNMATCHED
+GN-006_NCBI_Gene,,,0,UNMATCHED
+GN-007_InterPro,,,0,UNMATCHED
+GN-008_Pfam,,,0,UNMATCHED
+GN-013_OrthoDB,,,0,UNMATCHED
+GN-014_OMA_Browser,,,0,UNMATCHED
+GN-016_Ensembl_Compara,,,0,UNMATCHED
+GN-022_Open_Tree_of_Life,,,0,UNMATCHED
+GN-024_Expression_Atlas,,,0,UNMATCHED
+GN-025_PRIDE,,,0,UNMATCHED
+GN-026_MetaboLights,,,0,UNMATCHED
+GN-027_BioStudies,,,0,UNMATCHED
+GN-028_UniProt,,,0,UNMATCHED
+GN-029_AlphaFold_Protein_Structure_Database,,,0,UNMATCHED
+HH-005_ECDC_Surveillance_Atlas,,,0,UNMATCHED
+HH-006_ClinicalTrials.gov,,,0,UNMATCHED
+HH-007_GISAID_Metadata,,,0,UNMATCHED
+HH-008_Pathogenwatch,,,0,UNMATCHED
+PH-006_Genesys_PGR,,,0,UNMATCHED
+PH-011_Ensembl_Plants,,,0,UNMATCHED
+PH-013_Sol_Genomics_Network,,,0,UNMATCHED
+GOHIF-DS-0048_ENA,,,0,UNMATCHED
+test.json,,,0,UNMATCHED
+GOHIF-DS-0049_MGnify,,,0,UNMATCHED
+api_root.json,,,0,UNMATCHED
+openapi.json,,,0,UNMATCHED
+AMR.LIB.h3f,,,0,UNMATCHED
+AMR.LIB.h3i,,,0,UNMATCHED
+AMR.LIB.h3m,,,0,UNMATCHED
+AMR.LIB.h3p,,,0,UNMATCHED
+AMRProt-mutation.tsv,,,0,UNMATCHED
+AMRProt-suppress.tsv,,,0,UNMATCHED
+AMRProt-susceptible.fa,,,0,UNMATCHED
+AMRProt-susceptible.tsv,,,0,UNMATCHED
+AMRProt.fa,,,0,UNMATCHED
+AMR_CDS.fa,,,0,UNMATCHED
+AMR_DNA-Acinetobacter_baumannii.fa,,,0,UNMATCHED
+AMR_DNA-Acinetobacter_baumannii.tsv,,,0,UNMATCHED
+AMR_DNA-Bordetella_pertussis.fa,,,0,UNMATCHED
+AMR_DNA-Bordetella_pertussis.tsv,,,0,UNMATCHED
+AMR_DNA-Campylobacter.fa,,,0,UNMATCHED
+AMR_DNA-Campylobacter.tsv,,,0,UNMATCHED
+AMR_DNA-Clostridioides_difficile.fa,,,0,UNMATCHED
+AMR_DNA-Clostridioides_difficile.tsv,,,0,UNMATCHED
+AMR_DNA-Enterococcus_faecalis.fa,,,0,UNMATCHED
+AMR_DNA-Enterococcus_faecalis.tsv,,,0,UNMATCHED
+AMR_DNA-Enterococcus_faecium.fa,,,0,UNMATCHED
+AMR_DNA-Enterococcus_faecium.tsv,,,0,UNMATCHED
+AMR_DNA-Escherichia.fa,,,0,UNMATCHED
+AMR_DNA-Escherichia.tsv,,,0,UNMATCHED
+AMR_DNA-Klebsiella_oxytoca.fa,,,0,UNMATCHED
+AMR_DNA-Klebsiella_oxytoca.tsv,,,0,UNMATCHED
+AMR_DNA-Klebsiella_pneumoniae.fa,,,0,UNMATCHED
+AMR_DNA-Klebsiella_pneumoniae.tsv,,,0,UNMATCHED
+AMR_DNA-Neisseria_gonorrhoeae.fa,,,0,UNMATCHED
+AMR_DNA-Neisseria_gonorrhoeae.tsv,,,0,UNMATCHED
+AMR_DNA-Salmonella.fa,,,0,UNMATCHED
+AMR_DNA-Salmonella.tsv,,,0,UNMATCHED
+AMR_DNA-Staphylococcus_aureus.fa,,,0,UNMATCHED
+AMR_DNA-Staphylococcus_aureus.tsv,,,0,UNMATCHED
+AMR_DNA-Streptococcus_pneumoniae.fa,,,0,UNMATCHED
+AMR_DNA-Streptococcus_pneumoniae.tsv,,,0,UNMATCHED
+fam.tsv,,,0,UNMATCHED
+taxgroup.tsv,,,0,UNMATCHED
+BacMet2_EXP_database.fasta,,,0,UNMATCHED
+card_data.tar.bz2,,,0,UNMATCHED
+megares_v3.00.zip,,,0,UNMATCHED
+plsdb.fna.bz2,,,0,UNMATCHED
+GCF_000005845.2.zip,,,0,UNMATCHED
+SRR390728_1.fastq,,,0,UNMATCHED
+SRR390728_2.fastq,,,0,UNMATCHED
+GOHIF-DS-0032_Ensembl_Plants,,,0,UNMATCHED
+Animal QTLdb,,,0,UNMATCHED
+BacMet,,,0,UNMATCHED
+CARD,,,0,UNMATCHED
+COG Database,,,0,UNMATCHED
+Codex Alimentarius,,,0,UNMATCHED
+DAD-IS,,,0,UNMATCHED
+EPPO Global Database,,,0,UNMATCHED
+Earth Microbiome Project,,,0,UNMATCHED
+Ensembl Plants,,,0,UNMATCHED
+European Nucleotide Archive,,,0,UNMATCHED
+European Surveillance of Veterinary Antimicrobial Consumption (ESVAC),,,0,UNMATCHED
+FAO ASF Situation Reports,,,0,UNMATCHED
+FoodEx2,,,0,UNMATCHED
+FoodRisk-Labs,,,0,UNMATCHED
+GEMStat,,,0,UNMATCHED
+GEO BON,,,0,UNMATCHED
+GRIN Global,,,0,UNMATCHED
+GTDB,,,0,UNMATCHED
+IPPC Pest Reports,,,0,UNMATCHED
+IRRI Rice Knowledge Bank,,,0,UNMATCHED
+KEGG GENES,,,0,UNMATCHED
+MEGARes,,,0,UNMATCHED
+MicroScope,,,0,UNMATCHED
+PlantVillage,,,0,UNMATCHED
+RASFF Portal,,,0,UNMATCHED
+SILVA,,,0,UNMATCHED
+SMART,,,0,UNMATCHED
+SUPERFAMILY,,,0,UNMATCHED
+TimeTree,,,0,UNMATCHED
+USDA Animal Disease Traceability,,,0,UNMATCHED
+USDA National Animal Health Laboratory Network,,,0,UNMATCHED
+USDA PLANTS Database,,,0,UNMATCHED
+WHO Essential Medicines List,,,0,UNMATCHED
+WOAH Antimicrobial Agent Database,,,0,UNMATCHED
+WheatIS,,,0,UNMATCHED
+WorldClim,,,0,UNMATCHED

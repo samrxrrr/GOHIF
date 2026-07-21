@@ -1,0 +1,134 @@
+Dataset_Name,Parser_Name,Validation_Status,Canonical_Fields,Populated,Completeness_Percent
+AH-001_WOAH_WAHIS.dat,,VALID,36,5,13.89
+AH-002_FAO_EMPRES-i.dat,,VALID,36,5,13.89
+AH-003_NCBI_Pathogen_Detection.dat,,VALID,36,5,13.89
+AH-010_GBADs.dat,,VALID,36,5,13.89
+AH-012_Animal_Genome_Database.dat,,VALID,36,5,13.89
+EH-001_MGnify.dat,,VALID,36,5,13.89
+EH-002_NCBI_BioProject.dat,,VALID,36,5,13.89
+EH-003_NCBI_BioSample.dat,,VALID,36,5,13.89
+EH-004_ENA.dat,,VALID,36,5,13.89
+EH-006_PANGAEA.dat,,VALID,36,5,13.89
+EH-007_GBIF.dat,,VALID,36,5,13.89
+EH-009_Copernicus_Climate_Data_Store.dat,,VALID,36,5,13.89
+EH-010_NOAA_NCEI.dat,,VALID,36,5,13.89
+EH-011_NASA_Earthdata.dat,,VALID,36,5,13.89
+EH-015_SoilGrids.dat,,VALID,36,5,13.89
+FC-001_FAOSTAT.dat,,VALID,36,5,13.89
+FC-003_FoodData_Central.dat,,VALID,36,5,13.89
+FC-009_AGROVOC.dat,,VALID,36,5,13.89
+FC-014_OpenFoodFacts.dat,,VALID,36,5,13.89
+FC-015_European_Food_Safety_Open_Data_Portal.dat,,VALID,36,5,13.89
+GN-001_GenBank.dat,,VALID,36,5,13.89
+GN-002_DDBJ.dat,,VALID,36,5,13.89
+GN-003_Ensembl_Genomes.dat,,VALID,36,5,13.89
+GN-004_Ensembl_Bacteria.dat,,VALID,36,5,13.89
+GN-005_Ensembl_Protists.dat,,VALID,36,5,13.89
+GN-006_NCBI_Gene.dat,,VALID,36,5,13.89
+GN-007_InterPro.dat,,VALID,36,5,13.89
+GN-008_Pfam.dat,,VALID,36,5,13.89
+GN-013_OrthoDB.dat,,VALID,36,5,13.89
+GN-014_OMA_Browser.dat,,VALID,36,5,13.89
+GN-016_Ensembl_Compara.dat,,VALID,36,5,13.89
+GN-022_Open_Tree_of_Life.dat,,VALID,36,5,13.89
+GN-024_Expression_Atlas.dat,,VALID,36,5,13.89
+GN-025_PRIDE.dat,,VALID,36,5,13.89
+GN-026_MetaboLights.dat,,VALID,36,5,13.89
+GN-027_BioStudies.dat,,VALID,36,5,13.89
+GN-028_UniProt.dat,,VALID,36,5,13.89
+GN-029_AlphaFold_Protein_Structure_Database.dat,,VALID,36,5,13.89
+GN-030_PDBe.dat,,VALID,36,5,13.89
+HH-005_ECDC_Surveillance_Atlas.dat,,VALID,36,5,13.89
+HH-006_ClinicalTrials.gov.dat,,VALID,36,5,13.89
+HH-007_GISAID_Metadata.dat,,VALID,36,5,13.89
+HH-008_Pathogenwatch.dat,,VALID,36,5,13.89
+PH-006_Genesys_PGR.dat,,VALID,36,5,13.89
+PH-011_Ensembl_Plants.dat,,VALID,36,5,13.89
+PH-013_Sol_Genomics_Network.dat,,VALID,36,5,13.89
+GOHIF-DS-0048_ENA.dat,,VALID,36,5,13.89
+test.json,JSONParser,INVALID_JSON,36,7,19.44
+GOHIF-DS-0049_MGnify.dat,,VALID,36,5,13.89
+api_root.json,JSONParser,INVALID_JSON,36,7,19.44
+openapi.json,JSONParser,VALID,36,7,19.44
+AMR.LIB.h3f,HMMERParser,VALID,36,7,19.44
+AMR.LIB.h3i,HMMERParser,VALID,36,7,19.44
+AMR.LIB.h3m,HMMERParser,VALID,36,7,19.44
+AMR.LIB.h3p,HMMERParser,VALID,36,7,19.44
+AMRProt-mutation.tsv,TabularParser,VALID,36,7,19.44
+AMRProt-suppress.tsv,TabularParser,VALID,36,7,19.44
+AMRProt-susceptible.fa,FASTAParser,VALID,36,8,22.22
+AMRProt-susceptible.tsv,TabularParser,VALID,36,7,19.44
+AMRProt.fa,FASTAParser,VALID,36,8,22.22
+AMR_CDS.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Acinetobacter_baumannii.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Acinetobacter_baumannii.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Bordetella_pertussis.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Bordetella_pertussis.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Campylobacter.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Campylobacter.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Clostridioides_difficile.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Clostridioides_difficile.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Enterococcus_faecalis.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Enterococcus_faecalis.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Enterococcus_faecium.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Enterococcus_faecium.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Escherichia.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Escherichia.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Klebsiella_oxytoca.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Klebsiella_oxytoca.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Klebsiella_pneumoniae.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Klebsiella_pneumoniae.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Neisseria_gonorrhoeae.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Neisseria_gonorrhoeae.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Salmonella.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Salmonella.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Staphylococcus_aureus.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Staphylococcus_aureus.tsv,TabularParser,VALID,36,7,19.44
+AMR_DNA-Streptococcus_pneumoniae.fa,FASTAParser,VALID,36,8,22.22
+AMR_DNA-Streptococcus_pneumoniae.tsv,TabularParser,VALID,36,7,19.44
+fam.tsv,TabularParser,VALID,36,7,19.44
+taxgroup.tsv,TabularParser,VALID,36,7,19.44
+BacMet2_EXP_database.fasta,FASTAParser,VALID,36,8,22.22
+card_data.tar.bz2,ArchiveParser,VALID,36,7,19.44
+megares_v3.00.zip,ArchiveParser,VALID,36,7,19.44
+plsdb.fna.bz2,ArchiveParser,VALID,36,7,19.44
+GCF_000005845.2.zip,ArchiveParser,VALID,36,7,19.44
+SRR390728_1.fastq,FASTQParser,VALID,36,7,19.44
+SRR390728_2.fastq,FASTQParser,VALID,36,7,19.44
+GOHIF-DS-0032_Ensembl_Plants.dat,,VALID,36,5,13.89
+Animal QTLdb.dat,,VALID,36,5,13.89
+BacMet.dat,,VALID,36,5,13.89
+CARD.dat,,VALID,36,5,13.89
+COG Database.dat,,VALID,36,5,13.89
+Codex Alimentarius.dat,,VALID,36,5,13.89
+DAD-IS.dat,,VALID,36,5,13.89
+EPPO Global Database.dat,,VALID,36,5,13.89
+Earth Microbiome Project.dat,,VALID,36,5,13.89
+Ensembl Plants.dat,,VALID,36,5,13.89
+European Nucleotide Archive.dat,,VALID,36,5,13.89
+European Surveillance of Veterinary Antimicrobial Consumption (ESVAC).dat,,VALID,36,5,13.89
+FAO ASF Situation Reports.dat,,VALID,36,5,13.89
+FoodEx2.dat,,VALID,36,5,13.89
+FoodRisk-Labs.dat,,VALID,36,5,13.89
+GEMStat.dat,,VALID,36,5,13.89
+GEO BON.dat,,VALID,36,5,13.89
+GRIN Global.dat,,VALID,36,5,13.89
+GTDB.dat,,VALID,36,5,13.89
+IPPC Pest Reports.dat,,VALID,36,5,13.89
+IRRI Rice Knowledge Bank.dat,,VALID,36,5,13.89
+KEGG GENES.dat,,VALID,36,5,13.89
+MEGARes.dat,,VALID,36,5,13.89
+MicroScope.dat,,VALID,36,5,13.89
+PlantVillage.dat,,VALID,36,5,13.89
+RASFF Portal.dat,,VALID,36,5,13.89
+SILVA.dat,,VALID,36,5,13.89
+SMART.dat,,VALID,36,5,13.89
+SUPERFAMILY.dat,,VALID,36,5,13.89
+TimeTree.dat,,VALID,36,5,13.89
+USDA Animal Disease Traceability.dat,,VALID,36,5,13.89
+USDA National Animal Health Laboratory Network.dat,,VALID,36,5,13.89
+USDA PLANTS Database.dat,,VALID,36,5,13.89
+WHO Essential Medicines List.dat,,VALID,36,5,13.89
+WOAH Antimicrobial Agent Database.dat,,VALID,36,5,13.89
+WheatIS.dat,,VALID,36,5,13.89
+WorldClim.dat,,VALID,36,5,13.89
