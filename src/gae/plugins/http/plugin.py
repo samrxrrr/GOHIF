@@ -1,7 +1,10 @@
+from __future__ import annotations
+
 from pathlib import Path
 
 import aiohttp
 
+from gae.download.checksum import verify_checksum
 from gae.interfaces.plugin import AcquisitionPlugin
 
 
@@ -12,10 +15,10 @@ class HTTPPlugin(AcquisitionPlugin):
         return "http"
 
     async def prepare(self, manifest):
-        pass
+        return None
 
     async def authenticate(self):
-        pass
+        return None
 
     async def acquire(self, manifest, destination: Path):
 
@@ -25,27 +28,24 @@ class HTTPPlugin(AcquisitionPlugin):
 
                 response.raise_for_status()
 
-                with open(destination, "wb") as f:
+                with destination.open("wb") as output:
 
-                    while True:
-
-                        chunk = await response.content.read(1024 * 1024)
-
-                        if not chunk:
-                            break
-
-                        f.write(chunk)
+                    async for chunk in response.content.iter_chunked(1024 * 1024):
+                        output.write(chunk)
 
         return destination
 
-    async def verify(self, downloaded_file):
+    async def verify(self, downloaded_file: Path):
+
         return downloaded_file.exists()
 
-    async def metadata(self, downloaded_file):
+    async def metadata(self, downloaded_file: Path):
 
-        return {
-            "size": downloaded_file.stat().st_size
+        metadata = {
+            "size": downloaded_file.stat().st_size,
         }
 
+        return metadata
+
     async def cleanup(self):
-        pass
+        return None

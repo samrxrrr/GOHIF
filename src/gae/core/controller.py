@@ -1,35 +1,36 @@
+from __future__ import annotations
+
 from pathlib import Path
+from datetime import datetime
 
 from gae.core.application import load_manifest
+from gae.core.database import Database
 from gae.core.logger import setup_logger
+from gae.download.checksum import calculate_checksum
 from gae.registry.plugin_registry import PluginRegistry
 
 
 class Controller:
 
     def __init__(self, registry: PluginRegistry):
+
         self.registry = registry
+
         self.logger = setup_logger()
+
+        self.database = Database()
 
     async def run(self, manifest_path: Path):
 
-        self.logger.info(f"Loading manifest: {manifest_path}")
+        started = datetime.utcnow()
 
         manifest = load_manifest(manifest_path)
 
-        self.logger.info(
-            f"Dataset: {manifest.dataset.name}"
-        )
-
-        plugin_cls = self.registry.get(
+        plugin_class = self.registry.get(
             manifest.download.method
         )
 
-        plugin = plugin_cls()
-
-        self.logger.info(
-            f"Plugin selected: {plugin.name}"
-        )
+        plugin = plugin_class()
 
         await plugin.prepare(manifest)
 
@@ -50,10 +51,6 @@ class Controller:
             exist_ok=True,
         )
 
-        self.logger.info(
-            f"Downloading to: {destination}"
-        )
-
         downloaded = await plugin.acquire(
             manifest,
             destination,
@@ -63,12 +60,40 @@ class Controller:
 
         metadata = await plugin.metadata(downloaded)
 
-        await plugin.cleanup()
+        sha256 = calculate_checksum(
+            downloaded,
+            "sha256",
+        )
 
-        self.logger.info("Download completed")
+        finished = datetime.utcnow()
+
+        duration = (
+            finished - started
+        ).total_seconds()
+
+        self.database.insert(
+            (
+                manifest.dataset.id,
+                manifest.dataset.name,
+                manifest.dataset.version,
+                plugin.name,
+                str(manifest.download.url),
+                str(downloaded),
+                metadata["size"],
+                sha256,
+                "SUCCESS" if verified else "FAILED",
+                started.isoformat(),
+                finished.isoformat(),
+                duration,
+                "",
+            )
+        )
+
+        self.database.close()
 
         return {
             "success": verified,
             "file": str(downloaded),
             "metadata": metadata,
+            "sha256": sha256,
         }
