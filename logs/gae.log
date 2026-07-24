@@ -1,0 +1,5 @@
+2026-07-24 10:18:03,721 | INFO | Loading manifest: manifests/examples/http_test.yaml
+2026-07-24 10:18:03,726 | INFO | Dataset: Python Gitignore
+2026-07-24 10:18:03,726 | INFO | Plugin selected: http
+2026-07-24 10:18:03,727 | INFO | Downloading to: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/testing/Python.gitignore
+2026-07-24 10:18:03,771 | INFO | Download completed

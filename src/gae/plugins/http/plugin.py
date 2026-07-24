@@ -21,7 +21,7 @@ class HTTPPlugin(AcquisitionPlugin):
 
         async with aiohttp.ClientSession() as session:
 
-            async with session.get(str(manifest.url)) as response:
+            async with session.get(str(manifest.download.url)) as response:
 
                 response.raise_for_status()
 

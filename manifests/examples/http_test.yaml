@@ -1,0 +1,27 @@
+dataset:
+
+  id: TEST001
+
+  name: Python Gitignore
+
+  domain: testing
+
+  version: "1.0"
+
+  description: Simple connectivity test
+
+  license: MIT
+
+download:
+
+  method: http
+
+  url: https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/testing
+
+  filename: Python.gitignore
+
+checksum: null
