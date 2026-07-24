@@ -1,0 +1,23 @@
+dataset:
+
+  id: TEST003
+
+  name: Git Gitignore
+
+  domain: testing
+
+  version: "1.0"
+
+download:
+
+  method: http
+
+  url: https://raw.githubusercontent.com/github/gitignore/main/Global/Linux.gitignore
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/testing_parallel
+
+  filename: Linux.gitignore
+
+checksum: null
