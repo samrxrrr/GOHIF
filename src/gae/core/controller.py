@@ -3,6 +3,8 @@ from __future__ import annotations
 from pathlib import Path
 from datetime import datetime
 
+from gae.acquisition.job import AcquisitionJob
+from gae.acquisition.manager import AcquisitionManager
 from gae.core.application import load_manifest
 from gae.core.database import Database
 from gae.core.logger import setup_logger
@@ -15,10 +17,9 @@ class Controller:
     def __init__(self, registry: PluginRegistry):
 
         self.registry = registry
-
         self.logger = setup_logger()
-
         self.database = Database()
+        self.manager = AcquisitionManager()
 
     async def run(self, manifest_path: Path):
 
@@ -26,15 +27,11 @@ class Controller:
 
         manifest = load_manifest(manifest_path)
 
-        plugin_class = self.registry.get(
+        plugin_cls = self.registry.get(
             manifest.download.method
         )
 
-        plugin = plugin_class()
-
-        await plugin.prepare(manifest)
-
-        await plugin.authenticate()
+        plugin = plugin_cls()
 
         filename = (
             manifest.storage.filename
@@ -51,14 +48,19 @@ class Controller:
             exist_ok=True,
         )
 
-        downloaded = await plugin.acquire(
-            manifest,
-            destination,
+        job = AcquisitionJob(
+            dataset_id=manifest.dataset.id,
+            dataset_name=manifest.dataset.name,
+            plugin=plugin.name,
+            source_url=str(manifest.download.url),
+            destination=destination,
         )
 
-        verified = await plugin.verify(downloaded)
-
-        metadata = await plugin.metadata(downloaded)
+        downloaded, verified, metadata = await self.manager.execute(
+            job=job,
+            plugin=plugin,
+            manifest=manifest,
+        )
 
         sha256 = calculate_checksum(
             downloaded,
@@ -81,17 +83,19 @@ class Controller:
                 str(downloaded),
                 metadata["size"],
                 sha256,
-                "SUCCESS" if verified else "FAILED",
+                job.status,
                 started.isoformat(),
                 finished.isoformat(),
                 duration,
-                "",
+                job.error or "",
             )
         )
 
         self.database.close()
 
         return {
+            "job_id": job.job_id,
+            "status": job.status,
             "success": verified,
             "file": str(downloaded),
             "metadata": metadata,
