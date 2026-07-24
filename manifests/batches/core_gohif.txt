@@ -1,0 +1,3 @@
+manifests/gohif/faostat_production.yaml
+manifests/gohif/python_gitignore.yaml
+manifests/gohif/git_gitignore.yaml
