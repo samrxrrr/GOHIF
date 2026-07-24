@@ -1,0 +1,4 @@
+dataset_id,manifest,domain,priority,enabled
+GOHIF_FAOSTAT_001,manifests/gohif/faostat_production.yaml,food,1,true
+TEST002,manifests/gohif/python_gitignore.yaml,testing,2,true
+TEST003,manifests/gohif/git_gitignore.yaml,testing,2,true
