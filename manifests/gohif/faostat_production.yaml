@@ -1,0 +1,27 @@
+dataset:
+
+  id: GOHIF_FAOSTAT_001
+
+  name: FAOSTAT Production Crops and Livestock
+
+  domain: food
+
+  version: "2026"
+
+  description: FAOSTAT Production Crops and Livestock Dataset
+
+  license: FAOSTAT
+
+download:
+
+  method: http
+
+  url: https://fenixservices.fao.org/faostat/static/bulkdownloads/Production_Crops_Livestock_E_All_Data_(Normalized).zip
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/food/faostat/raw
+
+  filename: Production_Crops_Livestock.zip
+
+checksum: null
