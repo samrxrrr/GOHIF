@@ -7,6 +7,7 @@ from pathlib import Path
 from gae.executor.parallel import ParallelExecutor
 from gae.registry.plugin_registry import PluginRegistry
 from gae.plugins.http.plugin import HTTPPlugin
+from gae.plugins.ftp.plugin import FTPPlugin
 
 
 async def main():
@@ -16,6 +17,11 @@ async def main():
     registry.register(
         "http",
         HTTPPlugin,
+    )
+
+    registry.register(
+        "ftp",
+        FTPPlugin,
     )
 
     manifests = [
