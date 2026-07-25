@@ -1,0 +1,23 @@
+dataset:
+
+  id: FIGSHARE001
+
+  name: Figshare Example
+
+  domain: testing
+
+  version: "1"
+
+download:
+
+  method: figshare
+
+  record_id: "9782777"
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/figshare
+
+  filename: figshare_example.file
+
+checksum: null
