@@ -1,0 +1,12 @@
+Name,Type,Extension,Size,SHA256,Columns,SampleRows,Sequences,Keys,File
+FoodBalanceSheets.zip,zip,.zip,54840802,26200855ed5da3d0805e34219124e241d0e0bc6959d0995ebc77a10dd84cbaf1,,,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets.zip
+FoodBalanceSheets_E_All_Data_(Normalized).csv,csv,.csv,633057019,2834e1012daaebf4e4f8195fa86ce9063d1c81fdd9d7c04cbf0aba758ccfa020,14,500,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_All_Data_(Normalized).csv
+FoodBalanceSheets_E_AreaCodes.csv,csv,.csv,9468,496ca6b2a4ec25e917fba12b67f7768a9538000993494cb10e8e9731ee17c710,3,426,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_AreaCodes.csv
+FoodBalanceSheets_E_Elements.csv,csv,.csv,552,ac009d54c7d90bdfda2f2d4ed47d0e6fd0a959fad28ffc18a5f435f16bdbf42f,2,21,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_Elements.csv
+FoodBalanceSheets_E_Flags.csv,csv,.csv,115,491ff165b06d9c208e92133fd85abf9614ef44cfa0124c34927e33d0ce5d6923,2,3,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_Flags.csv
+FoodBalanceSheets_E_ItemCodes.csv,csv,.csv,28,3599a809f38cef6d3018598c13b61dcb8cb46606bd7b6627d44c4ac954e44054,3,0,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_ItemCodes.csv
+TP53.json,json,.json,869335,452b62f11172605b76fc7a8edb9b617fbdff7e52693d04520a3d70d2ccc16839,,,,17,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Proteins/UniProt/TP53.json
+countries.json,json,.json,113590,d29d57f8adf954c5e2a1520a02fb2c7b45575d8db3bd327a9dff47d66914231c,,,,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Socioeconomic/WorldBank/countries.json
+covid.json,json,.json,74556,e4f65c29abab6ba214c55340bb13505dbb35756da9e60cdbc615b5a88a97ffda,,,,6,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Knowledge/EuropePMC/covid.json
+ecoli_k12.fasta,fasta,.fasta,4719094,c41a4207c8916ba6138460d129ce5604cb307d40b7d56207878a9e731a418074,,,1,0,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Genomics/ENA/ecoli_k12.fasta
+institutions.json,json,.json,5918949,b00438b3aac609e67c988939493143989b2506b50bb27b4c742d516f25e6fd64,,,,3,/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Knowledge/OpenAlex/institutions.json
