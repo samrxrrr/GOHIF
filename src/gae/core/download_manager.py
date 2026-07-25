@@ -1,11 +1,11 @@
 from __future__ import annotations
 
-import shutil
 from pathlib import Path
 
 import requests
 
 from gae.cache.cache import DownloadCache
+from gae.config.settings import settings
 
 
 class DownloadManager:
@@ -13,7 +13,7 @@ class DownloadManager:
     def __init__(self):
 
         self.cache = DownloadCache(
-            Path.home() / ".gae_cache"
+            settings.cache_directory
         )
 
     def download(self, url: str, destination: Path):
@@ -25,7 +25,7 @@ class DownloadManager:
 
         if self.cache.exists(url):
 
-            print("[CACHE] Using cached copy")
+            print("[CACHE] HIT")
 
             self.cache.restore(
                 url,
@@ -37,7 +37,8 @@ class DownloadManager:
         response = requests.get(
             url,
             stream=True,
-            timeout=300,
+            timeout=settings.timeout,
+            verify=settings.verify_ssl,
         )
 
         response.raise_for_status()
@@ -45,11 +46,10 @@ class DownloadManager:
         with open(destination, "wb") as output:
 
             for chunk in response.iter_content(
-                1024 * 1024
+                settings.chunk_size
             ):
 
                 if chunk:
-
                     output.write(chunk)
 
         self.cache.store(
@@ -57,6 +57,6 @@ class DownloadManager:
             destination,
         )
 
-        print("[CACHE] Stored download")
+        print("[CACHE] STORED")
 
         return destination
