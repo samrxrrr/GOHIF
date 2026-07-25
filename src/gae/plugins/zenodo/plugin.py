@@ -26,24 +26,40 @@ class ZenodoPlugin(AcquisitionPlugin):
             exist_ok=True,
         )
 
-        record = manifest.download.record_id
+        record_id = manifest.download.record_id
 
-        api = f"https://zenodo.org/api/records/{record}"
+        api = f"https://zenodo.org/api/records/{record_id}"
 
-        metadata = requests.get(api).json()
+        response = requests.get(api, timeout=60)
+        response.raise_for_status()
 
-        file_url = metadata["files"][0]["links"]["self"]
+        metadata = response.json()
 
-        r = requests.get(file_url)
+        files = metadata.get("files", [])
 
-        destination.write_bytes(r.content)
+        if not files:
+            raise RuntimeError("No downloadable files found.")
+
+        file_url = files[0]["links"]["self"]
+
+        r = requests.get(file_url, stream=True, timeout=300)
+        r.raise_for_status()
+
+        with open(destination, "wb") as output:
+
+            for chunk in r.iter_content(1024 * 1024):
+
+                if chunk:
+                    output.write(chunk)
 
         return destination
 
     async def verify(self, downloaded_file):
+
         return downloaded_file.exists()
 
     async def metadata(self, downloaded_file):
+
         return {
             "size": downloaded_file.stat().st_size
         }

@@ -1,0 +1,23 @@
+dataset:
+
+  id: ZENODO001
+
+  name: Zenodo Example Dataset
+
+  domain: testing
+
+  version: "1"
+
+download:
+
+  method: zenodo
+
+  record_id: "7759648"
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/zenodo
+
+  filename: example.file
+
+checksum: null
