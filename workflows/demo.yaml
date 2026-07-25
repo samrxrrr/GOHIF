@@ -1,0 +1,11 @@
+name: GOHIF Demonstration
+
+manifests:
+
+  - manifests/gohif/faostat_production.yaml
+
+  - manifests/ncbi/ecoli_16s.yaml
+
+  - manifests/ena/ecoli.yaml
+
+  - manifests/rest/httpbin.yaml
