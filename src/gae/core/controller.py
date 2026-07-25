@@ -9,6 +9,7 @@ from gae.core.application import load_manifest
 from gae.core.database import Database
 from gae.core.logger import setup_logger
 from gae.download.checksum import calculate_checksum
+from gae.postprocess.postprocessor import PostProcessor
 from gae.registry.plugin_registry import PluginRegistry
 
 
@@ -20,6 +21,7 @@ class Controller:
         self.logger = setup_logger()
         self.database = Database()
         self.manager = AcquisitionManager()
+        self.postprocessor = PostProcessor()
 
     async def run(self, manifest_path: Path):
 
@@ -92,6 +94,11 @@ class Controller:
         )
 
         self.database.close()
+
+        post = self.postprocessor.process(
+            downloaded,
+            manifest.checksum,
+        )
 
         return {
             "job_id": job.job_id,
