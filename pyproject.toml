@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gohif-gae"
+version = "1.0.0"
+description = "GOHIF Generic Acquisition Engine"
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    {name = "Mohd Sameer"}
+]
+
+license = {text = "MIT"}
+
+keywords = [
+    "bioinformatics",
+    "one-health",
+    "dataset",
+    "acquisition",
+    "gohif"
+]
+
+dependencies = [
+    "requests",
+    "pydantic",
+    "PyYAML"
+]
+
+[project.scripts]
+gae = "gae.cli.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gae"]
