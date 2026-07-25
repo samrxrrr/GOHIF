@@ -1,19 +1,11 @@
 from gae.registry.plugin_registry import PluginRegistry
-
-from gae.plugins.http.plugin import HTTPPlugin
-from gae.plugins.ftp.plugin import FTPPlugin
-from gae.plugins.ncbi.plugin import NCBIPlugin
-from gae.plugins.ena.plugin import ENAPlugin
+from gae.core.plugin_loader import discover_plugins
 
 
 def bootstrap():
 
     registry = PluginRegistry()
 
-    registry.register("http", HTTPPlugin)
-    registry.register("https", HTTPPlugin)
-    registry.register("ftp", FTPPlugin)
-    registry.register("ncbi", NCBIPlugin)
-    registry.register("ena", ENAPlugin)
+    discover_plugins(registry)
 
     return registry
