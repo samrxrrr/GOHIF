@@ -1,0 +1,23 @@
+dataset:
+
+  id: REST001
+
+  name: REST Test
+
+  domain: testing
+
+  version: "1"
+
+download:
+
+  method: rest
+
+  url: https://httpbin.org/json
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/rest
+
+  filename: httpbin.json
+
+checksum: null
