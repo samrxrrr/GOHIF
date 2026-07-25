@@ -11,7 +11,7 @@ from gae.interfaces.plugin import AcquisitionPlugin
 class HTTPPlugin(AcquisitionPlugin):
 
     @property
-    def name(self) -> str:
+    def name(self):
         return "http"
 
     async def prepare(self, manifest):
@@ -21,45 +21,55 @@ class HTTPPlugin(AcquisitionPlugin):
         return None
 
     @retry_policy()
-    async def acquire(
-        self,
-        manifest,
-        destination: Path,
-    ):
+    async def acquire(self, manifest, destination: Path):
 
-        timeout = aiohttp.ClientTimeout(
-            total=300,
+        destination.parent.mkdir(
+            parents=True,
+            exist_ok=True,
         )
 
+        downloaded = 0
+
+        headers = {}
+
+        mode = "wb"
+
+        if destination.exists():
+
+            downloaded = destination.stat().st_size
+
+            if downloaded > 0:
+                headers["Range"] = f"bytes={downloaded}-"
+                mode = "ab"
+
+        timeout = aiohttp.ClientTimeout(total=None)
+
         async with aiohttp.ClientSession(
-            timeout=timeout,
+            timeout=timeout
         ) as session:
 
             async with session.get(
-                str(manifest.download.url)
+                str(manifest.download.url),
+                headers=headers,
             ) as response:
 
-                response.raise_for_status()
+                if response.status not in (200,206):
+                    response.raise_for_status()
 
-                with destination.open("wb") as output:
+                with open(destination,mode) as output:
 
                     async for chunk in response.content.iter_chunked(
-                        1024 * 1024
+                        1024*1024
                     ):
                         output.write(chunk)
 
         return destination
 
-    async def verify(
-        self,
-        downloaded_file: Path,
-    ):
+    async def verify(self, downloaded_file):
+
         return downloaded_file.exists()
 
-    async def metadata(
-        self,
-        downloaded_file: Path,
-    ):
+    async def metadata(self, downloaded_file):
 
         return {
             "size": downloaded_file.stat().st_size
