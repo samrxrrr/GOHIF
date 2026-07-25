@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import Literal
 
-from pydantic import BaseModel, HttpUrl, Field
+from pydantic import BaseModel, HttpUrl
 
 
 class Checksum(BaseModel):
@@ -11,6 +11,7 @@ class Checksum(BaseModel):
 
 
 class Download(BaseModel):
+
     method: Literal[
         "http",
         "https",
@@ -28,7 +29,23 @@ class Download(BaseModel):
         "browser",
     ]
 
-    url: HttpUrl
+    # Generic URL-based protocols
+    url: HttpUrl | None = None
+
+    # NCBI / ENA / SRA / GEO
+    database: str | None = None
+    accession: str | None = None
+
+    # NCBI Entrez
+    email: str | None = None
+    api_key: str | None = None
+
+    # Kaggle
+    dataset: str | None = None
+
+    # Zenodo / Figshare
+    doi: str | None = None
+    record_id: str | None = None
 
 
 class Storage(BaseModel):

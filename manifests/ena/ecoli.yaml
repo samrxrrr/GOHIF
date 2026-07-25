@@ -1,0 +1,23 @@
+dataset:
+
+  id: ENA0001
+
+  name: Escherichia coli K-12
+
+  domain: genomics
+
+  version: "1"
+
+download:
+
+  method: ena
+
+  accession: U00096.3
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/genomics/ena
+
+  filename: ecoli_k12.fasta
+
+checksum: null
