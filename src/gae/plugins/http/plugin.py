@@ -29,9 +29,7 @@ class HTTPPlugin(AcquisitionPlugin):
         )
 
         downloaded = 0
-
         headers = {}
-
         mode = "wb"
 
         if destination.exists():
@@ -39,6 +37,7 @@ class HTTPPlugin(AcquisitionPlugin):
             downloaded = destination.stat().st_size
 
             if downloaded > 0:
+
                 headers["Range"] = f"bytes={downloaded}-"
                 mode = "ab"
 
@@ -53,13 +52,25 @@ class HTTPPlugin(AcquisitionPlugin):
                 headers=headers,
             ) as response:
 
-                if response.status not in (200,206):
-                    response.raise_for_status()
+                ################################################################
+                # FILE ALREADY COMPLETE
+                ################################################################
+                if response.status == 416:
+                    return destination
 
-                with open(destination,mode) as output:
+                ################################################################
+                # SERVER DOES NOT SUPPORT RANGE
+                ################################################################
+                if response.status == 200 and mode == "ab":
+
+                    mode = "wb"
+
+                response.raise_for_status()
+
+                with open(destination, mode) as output:
 
                     async for chunk in response.content.iter_chunked(
-                        1024*1024
+                        1024 * 1024
                     ):
                         output.write(chunk)
 
