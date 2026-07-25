@@ -1,0 +1,27 @@
+dataset:
+
+  id: NCBI_0001
+
+  name: Escherichia coli 16S rRNA
+
+  domain: genomics
+
+  version: "1"
+
+download:
+
+  method: ncbi
+
+  database: nucleotide
+
+  accession: NR_024570
+
+  email: your_email@example.com
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATASETS/genomics/ncbi
+
+  filename: ecoli_16S.fasta
+
+checksum: null

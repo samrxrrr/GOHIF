@@ -10,6 +10,7 @@ anyio==4.14.2
 ast_serialize==0.6.0
 attrs==26.1.0
 beautifulsoup4==4.15.0
+biopython==1.87
 black==26.5.1
 boto3==1.43.55
 botocore==1.43.55

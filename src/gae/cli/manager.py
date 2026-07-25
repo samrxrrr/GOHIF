@@ -5,6 +5,7 @@ import asyncio
 from gae.manager.download_manager import DownloadManager
 from gae.plugins.http.plugin import HTTPPlugin
 from gae.plugins.ftp.plugin import FTPPlugin
+from gae.plugins.ncbi.plugin import NCBIPlugin
 from gae.registry.plugin_registry import PluginRegistry
 
 
@@ -20,6 +21,11 @@ async def main():
     registry.register(
         "ftp",
         FTPPlugin,
+    )
+
+    registry.register(
+        "ncbi",
+        NCBIPlugin,
     )
 
     manager=DownloadManager(

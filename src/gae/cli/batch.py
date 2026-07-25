@@ -8,6 +8,7 @@ from gae.executor.parallel import ParallelExecutor
 from gae.registry.plugin_registry import PluginRegistry
 from gae.plugins.http.plugin import HTTPPlugin
 from gae.plugins.ftp.plugin import FTPPlugin
+from gae.plugins.ncbi.plugin import NCBIPlugin
 
 
 async def main():
@@ -45,6 +46,11 @@ async def main():
     registry.register(
         "ftp",
         FTPPlugin,
+    )
+
+    registry.register(
+        "ncbi",
+        NCBIPlugin,
     )
 
     executor = ParallelExecutor(

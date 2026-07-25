@@ -5,6 +5,7 @@ import asyncio
 from gae.executor.parallel import ParallelExecutor
 from gae.plugins.http.plugin import HTTPPlugin
 from gae.plugins.ftp.plugin import FTPPlugin
+from gae.plugins.ncbi.plugin import NCBIPlugin
 from gae.registry.dataset_registry import DatasetRegistry
 from gae.registry.plugin_registry import PluginRegistry
 
@@ -21,6 +22,11 @@ async def main():
     registry.register(
         "ftp",
         FTPPlugin,
+    )
+
+    registry.register(
+        "ncbi",
+        NCBIPlugin,
     )
 
     datasets = DatasetRegistry(
