@@ -1,0 +1,12 @@
+FAOSTAT
+WorldBank
+OpenAlex
+EuropePMC
+UniProt
+ENA
+NCBI
+GBIF
+Ensembl
+ChEMBL
+Crossref
+Wikidata

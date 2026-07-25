@@ -1,0 +1,23 @@
+dataset:
+
+  id: OPENALEX_INSTITUTIONS
+
+  name: OpenAlex Institutions
+
+  domain: Knowledge
+
+  version: latest
+
+download:
+
+  method: rest
+
+  url: https://api.openalex.org/institutions?per-page=200
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Knowledge/OpenAlex
+
+  filename: institutions.json
+
+checksum: null

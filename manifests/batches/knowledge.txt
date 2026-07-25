@@ -1,0 +1,2 @@
+manifests/knowledge/openalex_institutions.yaml
+manifests/literature/europepmc_covid.yaml

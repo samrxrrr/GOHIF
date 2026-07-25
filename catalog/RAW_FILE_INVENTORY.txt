@@ -1,0 +1,16 @@
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets.zip
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets_E_All_Data_(Normalized).csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets_E_AreaCodes.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets_E_Elements.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets_E_Flags.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/FoodBalanceSheets_E_ItemCodes.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_All_Data_(Normalized).csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_AreaCodes.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_Elements.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_Flags.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT/extracted/FoodBalanceSheets_E_ItemCodes.csv
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Genomics/ENA/ecoli_k12.fasta
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Knowledge/EuropePMC/covid.json
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Knowledge/OpenAlex/institutions.json
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Proteins/UniProt/TP53.json
+/home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Socioeconomic/WorldBank/countries.json

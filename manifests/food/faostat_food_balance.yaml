@@ -1,0 +1,23 @@
+dataset:
+
+  id: FAOSTAT_FOOD_BALANCE
+
+  name: FAOSTAT Food Balance Sheets
+
+  domain: Food
+
+  version: "latest"
+
+download:
+
+  method: http
+
+  url: https://fenixservices.fao.org/faostat/static/bulkdownloads/FoodBalanceSheets_E_All_Data_(Normalized).zip
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Food/FAOSTAT
+
+  filename: FoodBalanceSheets.zip
+
+checksum: null

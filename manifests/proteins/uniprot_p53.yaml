@@ -1,0 +1,23 @@
+dataset:
+
+  id: UNIPROT_P53
+
+  name: Human TP53
+
+  domain: Proteins
+
+  version: latest
+
+download:
+
+  method: rest
+
+  url: https://rest.uniprot.org/uniprotkb/P04637.json
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Proteins/UniProt
+
+  filename: TP53.json
+
+checksum: null

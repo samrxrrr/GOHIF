@@ -1,0 +1,1 @@
+manifests/proteins/uniprot_p53.yaml

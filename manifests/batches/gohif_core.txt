@@ -1,0 +1,6 @@
+manifests/food/faostat_food_balance.yaml
+manifests/socioeconomic/worldbank_countries.yaml
+manifests/knowledge/openalex_institutions.yaml
+manifests/literature/europepmc_covid.yaml
+manifests/proteins/uniprot_p53.yaml
+manifests/genomics/ena_ecoli.yaml

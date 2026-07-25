@@ -1,0 +1,7 @@
+Dataset_ID,Domain,Provider,Manifest,Status,Version,License
+FAOSTAT_FOOD_BALANCE,Food,FAOSTAT,manifests/food/faostat_food_balance.yaml,DOWNLOADED,LATEST,OPEN
+WB_COUNTRIES,Socioeconomic,WorldBank,manifests/socioeconomic/worldbank_countries.yaml,DOWNLOADED,LATEST,OPEN
+OPENALEX_INSTITUTIONS,Knowledge,OpenAlex,manifests/knowledge/openalex_institutions.yaml,DOWNLOADED,LATEST,CC-BY
+EUROPEPMC_COVID,Knowledge,EuropePMC,manifests/literature/europepmc_covid.yaml,DOWNLOADED,LATEST,OPEN
+UNIPROT_P53,Proteins,UniProt,manifests/proteins/uniprot_p53.yaml,DOWNLOADED,LATEST,CC-BY
+ENA_ECOLI,Genomics,ENA,manifests/genomics/ena_ecoli.yaml,DOWNLOADED,LATEST,OPEN

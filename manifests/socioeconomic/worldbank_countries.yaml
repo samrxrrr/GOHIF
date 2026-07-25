@@ -1,0 +1,23 @@
+dataset:
+
+  id: WB_COUNTRIES
+
+  name: World Bank Countries
+
+  domain: Socioeconomic
+
+  version: latest
+
+download:
+
+  method: rest
+
+  url: https://api.worldbank.org/v2/country?format=json&per_page=400
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Socioeconomic/WorldBank
+
+  filename: countries.json
+
+checksum: null

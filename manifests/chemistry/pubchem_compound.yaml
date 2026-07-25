@@ -1,0 +1,23 @@
+dataset:
+
+  id: PUBCHEM_COMPOUND
+
+  name: PubChem Compound
+
+  domain: Chemistry
+
+  version: latest
+
+download:
+
+  method: rest
+
+  url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2244/JSON
+
+storage:
+
+  output_directory: /home/samrxrr/GoogleDrive/GOHIF_DATA/00_RAW/Chemistry/PubChem
+
+  filename: aspirin.json
+
+checksum: null
