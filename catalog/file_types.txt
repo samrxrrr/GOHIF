@@ -1,0 +1,437 @@
+data/raw/Human/WHO-MHP-HPS-EML-2023.04-eng.xlsx: Microsoft Excel 2007+
+data/raw/Human/WHO-MHP-HPS-EML-2023.02-eng.pdf: PDF document, version 1.7 (zip deflate encoded)
+data/raw/Human/9789240108127-eng.pdf: PDF document, version 1.7 (zip deflate encoded)
+data/raw/Human/ESPAUR-report-2024-to-2025-private-prescribing-update.pdf: PDF document, version 1.6 (zip deflate encoded)
+data/raw/Human/2023-AR-Report-508.pdf: PDF document, version 1.7, 31 page(s)
+data/raw/Human/studies.json: Unicode text, UTF-8 text, with very long lines (16596)
+data/raw/Human/ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf: PDF document, version 1.6 (zip deflate encoded)
+data/raw/Human/WHO-MHP-HPS-EML-2023 (1).02-eng.pdf: PDF document, version 1.7 (zip deflate encoded)
+data/raw/Human/abx_export.xlsx: Microsoft Excel 2007+
+data/raw/Human/AMRSN_annual_report_2020.mht: news or mail, ASCII text, with very long lines (62971), with CRLF, LF line terminators
+data/raw/Human/desktop.ini: data
+data/raw/Environmental/wc2.1_2.5m_tmin.zip: Zip archive data, at least v2.0 to extract, compression method=deflate
+data/raw/Environmental/ANSWER DCT_ARG AIR_individual data.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/ANSWER DCT_ARG Water_individual data_v2.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/ANSWER DCT_ARB Water_individual data_v2.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/B09585-eng.pdf: PDF document, version 1.7
+data/raw/Environmental/ANSWER DCT_ARB plant crop_individual data.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/AMRSN_annual_report_2020.mht: news or mail, ASCII text, with very long lines (62971), with CRLF, LF line terminators
+data/raw/Environmental/ANSWER DCT_ARB AIR_individual data.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/ANSWER DCT_ARG plant crop_individual data_v2.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/wc2.1_5m_tmin.zip: Zip archive data, at least v2.0 to extract, compression method=deflate
+data/raw/Environmental/wc2.1_10m_tmin.zip: Zip archive data, at least v2.0 to extract, compression method=deflate
+data/raw/Environmental/ANSWER DCT_ARG Soil_individual data_v2.xlsx: Microsoft Excel 2007+
+data/raw/Environmental/desktop.ini: data
+data/raw/Animal/en-woah-amu-report-2025-final.pdf: PDF document, version 1.4
+data/raw/Animal/countries-data-antibiotic-livestock.zip: Zip archive data, at least v2.0 to extract, compression method=deflate
+data/raw/Animal/vetlirn_sra_runinfo.csv: empty
+data/raw/Animal/aquapathogenx_template.zip: HTML document, ASCII text
+data/raw/Animal/cattle_qtldb.txt: HTML document, ASCII text, with very long lines (557)
+data/raw/Animal/woah_amu_8th_report.pdf: HTML document, ASCII text, with CRLF line terminators
+data/raw/Animal/asf_situation_report_65.pdf: HTML document, ASCII text, with CRLF line terminators
+data/raw/Animal/adt_rule_qa.pdf: HTML document, Unicode text, UTF-8 text, with very long lines (9063)
+data/raw/Animal/cipars_2018_findings.pdf: HTML document, Unicode text, UTF-8 text, with very long lines (1962), with CRLF, LF line terminators
+data/raw/Animal/esvac_owid.zip: CSV ASCII text
+data/raw/Animal/faostat_QCL_normalized.zip: HTML document, ASCII text, with CRLF line terminators
+data/raw/Animal/WOAH_WAHIS.ReportRetriever-main.zip: Zip archive data, at least v1.0 to extract, compression method=store
+data/raw/Animal/danmap_2023.pdf: PDF document, version 1.5
+data/raw/Animal/tmp_export_livestock_1784994695977.csv: CSV Unicode text, UTF-8 text
+data/raw/Animal/desktop.ini: data
+data/raw/Food/FDC_SR_Legacy.zip: empty
+data/raw/Food/FAOSTAT_Crops_Livestock.zip: empty
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/agricultural_samples.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/.~lock.food_nutrient.csv#: ASCII text, with no line terminators
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/Download API Field Descriptions.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_nutrient.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/sample_food.csv: ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/lab_method_nutrient.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/market_acquisition.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_attribute_type.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/nutrient.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/sub_sample_food.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_component.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/measure_unit.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_portion.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/input_food.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/foundation_food.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_protein_conversion_factor.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_category.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_nutrient_conversion_factor.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/lab_method.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/lab_method_code.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/acquisition_samples.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_attribute.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_calorie_conversion_factor.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/food_update_log_entry.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/sub_sample_result.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/result.txt: ASCII text
+data/raw/Food/FoodData_Central_foundation_food_csv_2024-04-18/desktop.ini: data
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/Download API Field Descriptions.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/measure_unit.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/nutrient_incoming_name.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/nutrient.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/microbe.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/food_attribute_type.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/branded_food.csv: CSV Unicode text, UTF-8 text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/food.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/food_attribute.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/food_nutrient.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/food_update_log_entry.csv: CSV ASCII text
+data/raw/Food/FoodData_Central_branded_food_csv_2024-04-18/desktop.ini: data
+data/raw/Food/FoodEx2_record.html: HTML document, Unicode text, UTF-8 text, with very long lines (20683)
+data/raw/Food/Codex_CXC61_AMR_Code_of_Practice.pdf: HTML document, Unicode text, UTF-8 text, with very long lines (27868), with CRLF, LF line terminators
+data/raw/Food/FoodEx2_catalogues.zip: empty
+data/raw/Food/OpenFoodToxTX22809_2023.xlsx: Microsoft Excel 2007+
+data/raw/Food/OFT3.0_export_repository.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/WIMB_utils.R: C source, ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/make_distplot.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/get_FMBN.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/update_r_citations.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/utils.R: C source, ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/get_function_dependencies.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/make_dotplot.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/source/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/where_is_my_bug.Rmd: exported SGML document, Unicode text, UTF-8 text, with very long lines (796)
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_folder/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/lactobacillaceae_type_strains_1_5.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/lb_ts_seqs.rds: gzip compressed data, from Unix, original size modulo 2^32 1096755
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/lactob_type_16S_aligned.fasta: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/lactob_type_16S.fasta: ASCII text, with very long lines (1583), with CRLF line terminators
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/ts_metadata_small.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/type_strains_16S_tree_kmer/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/ref_seq_analysis/lactobacillaceae_metadata_w_outg.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/ref_seq_analysis/make_seq_df.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/ref_seq_analysis/lb_ts_seqs.rds: gzip compressed data, from Unix, original size modulo 2^32 1096755
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/ref_seq_analysis/lactobacillaceae_ref_seqs_1_2.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/ref_seq_analysis/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/where_is_my_bug/where_is_my_bug_v1_5_Lactobacillaceae.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/where_is_my_bug/where_is_my_bug_v1_5_2_Lactobacillaceae.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/where_is_my_bug/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/lactobacillaceae_metadata_w_outg.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/lb_ts_seqs.rds: gzip compressed data, from Unix, original size modulo 2^32 1079727
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/pooled_edges_sample_study.rds: gzip compressed data, from Unix, original size modulo 2^32 7361022
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/pooled_edges_sample_study_fenv.rds: gzip compressed data, from Unix, original size modulo 2^32 723235
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/wimb_lactobacillaceae_ASV_v1_2_1.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/Lb_SILVA_genus_species_mdata.RDS: gzip compressed data, from Unix, original size modulo 2^32 10666133
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/Lactobacillaceae_ref_seqs_list.Rdata: gzip compressed data, from Unix, original size modulo 2^32 19456501
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/WIMB_ASV/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/data/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 43061969
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/data/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 11920673
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/data/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 46955622
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/data/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/sporeformers.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/where_is_my_bug_v1_5_sporeformers.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/sporeformers/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_lacto/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/FMBN/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 66554029
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/FMBN/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/R/make_dotplot.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/R/utils.R: C source, ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/R/make_distplot.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/R/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/rsconnect/shinyapps.io/ep142/wimb_app.dcf: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/rsconnect/shinyapps.io/ep142/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/rsconnect/shinyapps.io/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/rsconnect/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/explanation.md: Unicode text, UTF-8 text, with very long lines (460)
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/app.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/wimb_app/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/runWIMB.R: ASCII text
+data/raw/Food/FoodMicrobionet/WIMB/WIMB_app_folder/desktop.ini: data
+data/raw/Food/FoodMicrobionet/WIMB/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/config: ASCII text
+data/raw/Food/FoodMicrobionet/.git/HEAD: ASCII text
+data/raw/Food/FoodMicrobionet/.git/index: Git index, version 2, 272 entries
+data/raw/Food/FoodMicrobionet/.git/description: ASCII text
+data/raw/Food/FoodMicrobionet/.git/packed-refs: ASCII text
+data/raw/Food/FoodMicrobionet/.git/info/exclude: ASCII text
+data/raw/Food/FoodMicrobionet/.git/info/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/objects/pack/pack-9d2bdebde5d6d5936b78ad9ebb7390279f4c400a.idx: Git pack index, version 2
+data/raw/Food/FoodMicrobionet/.git/objects/pack/pack-9d2bdebde5d6d5936b78ad9ebb7390279f4c400a.rev: data
+data/raw/Food/FoodMicrobionet/.git/objects/pack/pack-9d2bdebde5d6d5936b78ad9ebb7390279f4c400a.pack: Git pack, version 2, 1225 objects
+data/raw/Food/FoodMicrobionet/.git/objects/pack/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/objects/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/refs/remotes/origin/HEAD: ASCII text
+data/raw/Food/FoodMicrobionet/.git/refs/remotes/origin/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/refs/remotes/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/refs/heads/master: ASCII text
+data/raw/Food/FoodMicrobionet/.git/refs/heads/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/refs/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/hooks/commit-msg.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/applypatch-msg.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-applypatch.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/sendemail-validate.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/update.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/prepare-commit-msg.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/push-to-checkout.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/fsmonitor-watchman.sample: Perl script text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-push.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-rebase.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/post-update.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-merge-commit.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-commit.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/pre-receive.sample: POSIX shell script, ASCII text executable
+data/raw/Food/FoodMicrobionet/.git/hooks/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/logs/refs/heads/master: ASCII text
+data/raw/Food/FoodMicrobionet/.git/logs/refs/heads/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/logs/refs/remotes/origin/HEAD: ASCII text
+data/raw/Food/FoodMicrobionet/.git/logs/refs/remotes/origin/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/logs/refs/remotes/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/logs/refs/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/logs/HEAD: ASCII text
+data/raw/Food/FoodMicrobionet/.git/logs/desktop.ini: data
+data/raw/Food/FoodMicrobionet/.git/desktop.ini: data
+data/raw/Food/FoodMicrobionet/LICENSE: ASCII text
+data/raw/Food/FoodMicrobionet/README.html: HTML document, ASCII text, with very long lines (64706)
+data/raw/Food/FoodMicrobionet/README.md: ASCII text, with very long lines (938)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/FMBN/FMBN.rds: gzip compressed data, from Unix, original size modulo 2^32 40669828
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/FMBN/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 42888566
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/FMBN/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/FMBNstats_v2_1.Rmd: Unicode text, UTF-8 text, with very long lines (893)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/FMBNstats_v2_1.html: HTML document, Unicode text, UTF-8 text, with very long lines (64489)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/R_lists_4_2_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/images/FMBNtables_4_2_1.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, orientation=upper-left, xresolution=74, yresolution=82, resolutionunit=2], baseline, precision 8, 720x540, components 3
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Primers.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Version_history.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Abstracts.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/FoodEx2exp.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Samples.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Edges.txt: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/Taxa.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/Excel_files_4_2_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/FoodMicrobionet_tablespecs_v4_2_1.md: Unicode text, UTF-8 text, with very long lines (926)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/FoodMicrobionet_tablespecs_v4_2_1.html: HTML document, ASCII text, with very long lines (64679)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_5_1_2_tablespecs/media/media/image1.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, orientation=upper-left, xresolution=74, yresolution=82, resolutionunit=2], baseline, precision 8, 720x540, components 3
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_5_1_2_tablespecs/media/media/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_5_1_2_tablespecs/media/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_5_1_2_tablespecs/FMBN5_1_tablespecs_v_1_0.md: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_5_1_2_tablespecs/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Version_history.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/FoodEx2exp.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Abstracts.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Primers.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Samples_F.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Edges_F.txt: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Edges_B.txt: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Samples_B.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/Taxa.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Excel_text_files_v5_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBNstats_v3_1_2.Rmd: Unicode text, UTF-8 text, with very long lines (1204)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 56414424
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 22877977
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 66554029
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Primers.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/FoodEx2exp.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Version_history.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Edges.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Taxa.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/Samples.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/Excel_files_4_2/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/images/image001_4_2.png: PNG image data, 720 x 540, 8-bit/color RGB, non-interlaced
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/images/image001.png: TIFF image data, big-endian
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/FMBN/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 39559630
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/FMBN/FMBN.rds: gzip compressed data, from Unix, original size modulo 2^32 37815777
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/FMBN/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/FMBNstats_v2_1.Rmd: Unicode text, UTF-8 text, with very long lines (893)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/FMBNstats_v2_1.html: HTML document, Unicode text, UTF-8 text, with very long lines (64489)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/R_lists_4_2/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/FoodMicrobionet_tablespecs_v4_2.html: HTML document, ASCII text, with very long lines (64681)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/FoodMicrobionet_tablespecs_v4_2.md: Unicode text, UTF-8 text, with very long lines (926)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/.Rhistory: empty
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_2/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/FMBN/FMBN.rds: gzip compressed data, from Unix, original size modulo 2^32 32935015
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/FMBN/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 34315687
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/FMBN/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/FMBNstats_v2.Rmd: Unicode text, UTF-8 text, with very long lines (893)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/ide_depth.R: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/R_lists_4_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/FoodEx2exp.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/Primers.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/Edges.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/Samples.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/Taxa.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/Excel_files_4_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/images/image001_4_2.png: PNG image data, 720 x 540, 8-bit/color RGB, non-interlaced
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/images/image001.png: TIFF image data, big-endian
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/FoodMicrobionet_tablespecs.md: Unicode text, UTF-8 text, with very long lines (1118)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/FoodMicrobionet_tablespecs.html: HTML document, ASCII text, with very long lines (64572)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_4_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/.DS_Store: Apple Desktop Services Store
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/FoodEx2exp.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Version_history.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Primers.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Studies.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Abstracts.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Samples_F.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Edges_F.txt: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Edges_B.txt: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Samples_B.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/Taxa.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/Excel_text_files_v5/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN5tablespecsv0_1/fmbnlogo.png: PNG image data, 59 x 59, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN5tablespecsv0_1/fmbnstructure.jpeg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 513x385, components 3
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN5tablespecsv0_1/FMBN5tablespecsv1_0.html: HTML document, ASCII text, with very long lines (64693)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN5tablespecsv0_1/FMBN5tablespecsv1_0.md: Unicode text, UTF-8 text, with very long lines (928)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN5tablespecsv0_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 53323940
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/.Rhistory: ASCII text
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBNstats_v3_1_2.Rmd: Unicode text, UTF-8 text, with very long lines (1204)
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 19860725
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/FMBN_plus.rds: gzip compressed data, from Unix, original size modulo 2^32 61523620
+data/raw/Food/FoodMicrobionet/the_real_thing/FMBN_5/desktop.ini: data
+data/raw/Food/FoodMicrobionet/the_real_thing/desktop.ini: data
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/support/species_lookup.txt: ISO-8859 text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/support/desktop.ini: data
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/merge_phyloseq_objs_v1_3.R: ASCII text
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/SRP132735_ps.rds: gzip compressed data, from Unix, original size modulo 2^32 683338
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/fruitvegFMBN2_physeq.Rdata: gzip compressed data, from Unix, original size modulo 2^32 6769439
+data/raw/Food/FoodMicrobionet/merge_phyloseq_objs/desktop.ini: data
+data/raw/Food/FoodMicrobionet/dada2_pipeline/bioconductor_pip_v7_4_19_1225_ITS.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/dada2_pipeline/bioconductor_pip_ITS_functions.R: ASCII text
+data/raw/Food/FoodMicrobionet/dada2_pipeline/bioconductor_pip_v0_4_18_26S.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/dada2_pipeline/primer_pairs_bacteria.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/dada2_pipeline/SILVA_bad-taxa.txt: ASCII text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/dada2_pipeline/bioconductor_pip_v7_2_18_0226_16S.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/dada2_pipeline/primer_pairs_fungi.txt: Non-ISO extended-ASCII text, with very long lines (792), with CRLF line terminators
+data/raw/Food/FoodMicrobionet/dada2_pipeline/desktop.ini: data
+data/raw/Food/FoodMicrobionet/miscellaneous/convert_to_microbiome_analyst/convert_to_microbiome_analyst.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/convert_to_microbiome_analyst/otutable.txt: ASCII text, with very long lines (440)
+data/raw/Food/FoodMicrobionet/miscellaneous/convert_to_microbiome_analyst/sampletable.txt: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/convert_to_microbiome_analyst/tax_table.txt: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/convert_to_microbiome_analyst/desktop.ini: data
+data/raw/Food/FoodMicrobionet/miscellaneous/MAN_inference_analysis_v2_1.ipynb: Unicode text, UTF-8 text, with very long lines (835)
+data/raw/Food/FoodMicrobionet/miscellaneous/run_ShinyFMBN_from_GitHub.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/filter_my_taxa_function_1_4.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/tree_plots_LSv2.RData: gzip compressed data, from Unix, original size modulo 2^32 11380969
+data/raw/Food/FoodMicrobionet/miscellaneous/README.md: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/make_seq_df.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/pc_prevab.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/PERFect_functions.R: ASCII text
+data/raw/Food/FoodMicrobionet/miscellaneous/desktop.ini: data
+data/raw/Food/FoodMicrobionet/import_in_FMBN/Import_in_FMBN_v4_1_11.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/import_in_FMBN/support/species_lookup.txt: ISO-8859 text, with CRLF line terminators
+data/raw/Food/FoodMicrobionet/import_in_FMBN/support/desktop.ini: data
+data/raw/Food/FoodMicrobionet/import_in_FMBN/taxa_in_fmbn.xlsx: Microsoft Excel 2007+
+data/raw/Food/FoodMicrobionet/import_in_FMBN/desktop.ini: data
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/bigdata_part1_v8_3_1024_ITS.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/bigdata_part1_v7_2_0924_16S.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/bigdata_part2_v6_13_0226_16S.R: ASCII text
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/getHeader_1_4_041024.R: ASCII text
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/bigdata_part2_v7_2_0126_ITS.R: ASCII text
+data/raw/Food/FoodMicrobionet/dada2_pipeline_big_data/desktop.ini: data
+data/raw/Food/FoodMicrobionet/FMBNanalyzer/FMBNanalyzer_3.2.Rmd: Unicode text, UTF-8 text, with very long lines (586)
+data/raw/Food/FoodMicrobionet/FMBNanalyzer/FMBNanalyzer_v_2_3_1.R: ASCII text
+data/raw/Food/FoodMicrobionet/FMBNanalyzer/Seafood_Genus_expcode_agg.RDS: gzip compressed data, from Unix, original size modulo 2^32 3022199
+data/raw/Food/FoodMicrobionet/FMBNanalyzer/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/www/FMBN3_1_small.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 96x96, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=6, PhotometricInterpretation=RGB, orientation=upper-left, xresolution=86, yresolution=94, resolutionunit=2], baseline, precision 8, 1022x821, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/www/FMBN_structure_5_0.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, orientation=upper-left, xresolution=74, yresolution=82, resolutionunit=2], baseline, precision 8, 720x540, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/www/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/data/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 19860725
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/data/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 53323940
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/data/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/DESCRIPTION.txt: ASCII text, with CR line terminators
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/app.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/README.md: Unicode text, UTF-8 text, with very long lines (460)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBN_3/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/barplot.png: PNG image data, 1122 x 777, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/aggregatetab.png: PNG image data, 1794 x 853, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/exploretab.png: PNG image data, 1437 x 845, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/boxplot.png: PNG image data, 1121 x 795, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/installpackages.png: PNG image data, 797 x 528, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/stoptheapp.png: PNG image data, 935 x 407, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/saveOptions_tab.png: PNG image data, 1649 x 199, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/exporttab.png: PNG image data, 1800 x 860, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/filtertab.png: PNG image data, 1429 x 776, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/runfrompane.png: PNG image data, 938 x 557, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/otutable.png: PNG image data, 1109 x 755, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/prevabplot.png: PNG image data, 1111 x 784, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/runshinyFMBN.png: PNG image data, 923 x 550, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/prevalencetable.png: PNG image data, 1108 x 669, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/welcome_tab.png: PNG image data, 1256 x 557, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/launchapp.png: PNG image data, 1504 x 1162, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBNManual.html: HTML document, Unicode text, UTF-8 text, with very long lines (64553)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/ShinyFMBNManual.Rmd: Unicode text, UTF-8 text, with very long lines (1314)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/runShinyFMBN_3.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3_1/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/stoptheapp.png: PNG image data, 935 x 407, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/runshinyFMBN.png: PNG image data, 923 x 550, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/saveOptions_tab.png: PNG image data, 1649 x 199, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/barplot.png: PNG image data, 1122 x 777, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/exploretab.png: PNG image data, 1437 x 845, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/boxplot.png: PNG image data, 1121 x 795, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/runfrompane.png: PNG image data, 938 x 557, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/installpackages.png: PNG image data, 797 x 528, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/filtertab.png: PNG image data, 1429 x 776, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/aggregatetab.png: PNG image data, 1794 x 853, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/prevalencetable.png: PNG image data, 1108 x 669, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/prevabplot.png: PNG image data, 1111 x 784, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/otutable.png: PNG image data, 1109 x 755, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/exporttab.png: PNG image data, 1800 x 860, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/welcome_tab.png: PNG image data, 1256 x 557, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/launchapp.png: PNG image data, 1504 x 1162, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/data/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 47838367
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/data/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 16567617
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/data/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/www/FMBN_structure_5_0.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, orientation=upper-left, xresolution=74, yresolution=82, resolutionunit=2], baseline, precision 8, 720x540, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/www/FMBN3_1_small.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 96x96, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=6, PhotometricInterpretation=RGB, orientation=upper-left, xresolution=86, yresolution=94, resolutionunit=2], baseline, precision 8, 1022x821, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/www/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/app.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/DESCRIPTION.txt: ASCII text, with CR line terminators
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/README.md: Unicode text, UTF-8 text, with very long lines (460)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/.Rhistory: ASCII text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBN_3/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBNManual.html: HTML document, Unicode text, UTF-8 text, with very long lines (64553)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/runShinyFMBN_3.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/.Rhistory: ASCII text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/.RData: gzip compressed data, from Unix, original size modulo 2^32 2572
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/ShinyFMBNManual.Rmd: Unicode text, UTF-8 text, with very long lines (1314)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_3/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/data/FMBN_B.rds: gzip compressed data, from Unix, original size modulo 2^32 56414424
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/data/FMBN_F.rds: gzip compressed data, from Unix, original size modulo 2^32 22877977
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/data/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/about_panel_copyright.md: ASCII text, with very long lines (462)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/FMBN_structure_5_0.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=5, orientation=upper-left, xresolution=74, yresolution=82, resolutionunit=2], baseline, precision 8, 720x540, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/FMBN3_1_small.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 96x96, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=6, PhotometricInterpretation=RGB, orientation=upper-left, xresolution=86, yresolution=94, resolutionunit=2], baseline, precision 8, 1022x821, components 3
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/about_panel.md: ASCII text, with very long lines (307)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/welcome_panel.md: ASCII text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/www/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/DESCRIPTION.txt: ASCII text, with CR line terminators
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/README.md: Unicode text, UTF-8 text, with very long lines (460)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/app.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBN_4/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/exporttab.png: PNG image data, 1864 x 631, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/installpackages.png: PNG image data, 797 x 528, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/stoptheapp.png: PNG image data, 935 x 407, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/runfrompane.png: PNG image data, 938 x 557, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/runshinyFMBN.png: PNG image data, 923 x 550, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/otutable.png: PNG image data, 1251 x 838, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/prevalencetable.png: PNG image data, 1247 x 704, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/exploretab.png: PNG image data, 1437 x 845, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/welcome_tab.png: PNG image data, 3760 x 1742, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/filtertab.png: PNG image data, 1429 x 776, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/saveOptions_tab.png: PNG image data, 1649 x 199, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/boxplot.png: PNG image data, 1255 x 741, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/aggregatetab.png: PNG image data, 1794 x 853, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/barplot.png: PNG image data, 1256 x 751, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/prevabplot.png: PNG image data, 1249 x 813, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/launchapp.png: PNG image data, 1504 x 1162, 8-bit/color RGBA, non-interlaced
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/images/desktop.ini: data
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/runShinyFMBN_4.R: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBNManual_v4_gh.md: Unicode text, UTF-8 text
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBNManual_v4.Rmd: Unicode text, UTF-8 text, with very long lines (1315)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/ShinyFMBNManual_v4.html: HTML document, Unicode text, UTF-8 text, with very long lines (64553)
+data/raw/Food/FoodMicrobionet/shiny_apps/shiny_FMBN_4_light/desktop.ini: data

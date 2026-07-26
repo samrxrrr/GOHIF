@@ -1,0 +1,30 @@
+-rwxrwxrwx 0 root root 115K Jul 25 14:35 data/raw/Human/WHO-MHP-HPS-EML-2023.04-eng.xlsx
+-rwxrwxrwx 0 root root 905K Jul 25 14:43 data/raw/Human/WHO-MHP-HPS-EML-2023.02-eng.pdf
+-rwxrwxrwx 0 root root 1.8M Jul 25 14:45 data/raw/Human/9789240108127-eng.pdf
+-rwxrwxrwx 0 root root 11M Jul 25 14:45 data/raw/Human/ESPAUR-report-2024-to-2025-private-prescribing-update.pdf
+-rwxrwxrwx 0 root root 903K Jul 25 14:46 data/raw/Human/2023-AR-Report-508.pdf
+-rwxrwxrwx 0 root root 1.4M Jul 25 14:47 data/raw/Human/studies.json
+-rwxrwxrwx 0 root root 11M Jul 26 07:20 data/raw/Human/ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf
+-rwxrwxrwx 0 root root 905K Jul 26 07:20 data/raw/Human/WHO-MHP-HPS-EML-2023 (1).02-eng.pdf
+-rwxrwxrwx 0 root root 17K Jul 26 07:20 data/raw/Human/abx_export.xlsx
+-rwxrwxrwx 0 root root 1.4M Jul 26 07:20 data/raw/Human/AMRSN_annual_report_2020.mht
+-rwxrwxrwx 0 root root 246 Jul 26 07:31 data/raw/Human/desktop.ini
+-rwxrwxrwx 0 root root 430M Jul 26 07:26 data/raw/Environmental/wc2.1_2.5m_tmin.zip
+-rwxrwxrwx 0 root root 2.8M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARG AIR_individual data.xlsx
+-rwxrwxrwx 0 root root 5.7M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARG Water_individual data_v2.xlsx
+-rwxrwxrwx 0 root root 4.4M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARB Water_individual data_v2.xlsx
+-rwxrwxrwx 0 root root 2.7M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx
+-rwxrwxrwx 0 root root 1.2M Jul 26 07:25 data/raw/Environmental/B09585-eng.pdf
+-rwxrwxrwx 0 root root 2.4M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARB plant crop_individual data.xlsx
+-rwxrwxrwx 0 root root 1.4M Jul 26 07:24 data/raw/Environmental/AMRSN_annual_report_2020.mht
+-rwxrwxrwx 0 root root 2.1M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARB AIR_individual data.xlsx
+-rwxrwxrwx 0 root root 2.7M Jul 26 07:25 data/raw/Environmental/ANSWER DCT_ARG plant crop_individual data_v2.xlsx
+-rwxrwxrwx 0 root root 123M Jul 26 07:25 data/raw/Environmental/wc2.1_5m_tmin.zip
+-rwxrwxrwx 0 root root 36M Jul 26 07:25 data/raw/Environmental/wc2.1_10m_tmin.zip
+-rwxrwxrwx 0 root root 2.6M Jul 26 07:24 data/raw/Environmental/ANSWER DCT_ARG Soil_individual data_v2.xlsx
+-rwxrwxrwx 0 root root 246 Jul 26 07:31 data/raw/Environmental/desktop.ini
+-rwxrwxrwx 0 root root 1.4M Jul 25 14:26 data/raw/Animal/en-woah-amu-report-2025-final.pdf
+-rwxrwxrwx 0 root root 2.7K Jul 25 14:26 data/raw/Animal/countries-data-antibiotic-livestock.zip
+-rwxrwxrwx 0 root root 0 Jul 25 15:12 data/raw/Animal/vetlirn_sra_runinfo.csv
+-rwxrwxrwx 0 root root 919 Jul 25 15:17 data/raw/Animal/aquapathogenx_template.zip
+-rwxrwxrwx 0 root root 7.1K Jul 25 15:17 data/raw/Animal/cattle_qtldb.txt
