@@ -1,0 +1,6 @@
+pathogen,integrated_target_score,amr_gene,resistance_mechanism_x,amr_risk_score,gene,protein,drug_class,resistance_mechanism_y,source,confidence
+Salmonella,85.74740555940166,,,85.74740555940166,,,,,,
+Escherichia coli,39.98700995805421,,,39.98700995805421,,,,,,
+Influenza virus,18.213734322244854,,,18.213734322244854,,,,,,
+Mycobacterium tuberculosis,18.20204390651563,,,18.20204390651563,,,,,,
+SARS-CoV-2,4.5500082508250825,,,4.5500082508250825,,,,,,
