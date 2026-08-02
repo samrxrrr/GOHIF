@@ -1,0 +1,11 @@
+compound,pubchem_cid,pathogen,GOHIF_drug_score_v2,molecular_weight,logP,TPSA,HBA,HBD,rotatable_bonds,lipinski_pass,veber_pass,ghose_pass,egan_pass,muegge_pass,GI_absorption,BBB_permeability,Pgp_substrate,CYP1A2,CYP2C9,CYP2C19,CYP2D6,CYP3A4,bioavailability_score,synthetic_accessibility,PAINS_alerts,Brenk_alerts
+Avibactam,9835049,Salmonella,45.56445277970083,,,,,,,,,,,,,,,,,,,,,,,
+Isoniazid,3767,Salmonella,45.17280277970083,,,,,,,,,,,,,,,,,,,,,,,
+Clavulanic acid,5280980,Salmonella,45.12905277970083,,,,,,,,,,,,,,,,,,,,,,,
+Colistin,5311054,Salmonella,44.96315277970083,,,,,,,,,,,,,,,,,,,,,,,
+EDTA,6049,Salmonella,44.90260277970083,,,,,,,,,,,,,,,,,,,,,,,
+Avibactam,9835049,Escherichia coli,22.628254979027105,,,,,,,,,,,,,,,,,,,,,,,
+Clavulanic acid,5280980,Escherichia coli,22.365054979027104,,,,,,,,,,,,,,,,,,,,,,,
+EDTA,6049,Escherichia coli,22.354904979027104,,,,,,,,,,,,,,,,,,,,,,,
+Isoniazid,3767,Escherichia coli,22.229604979027105,,,,,,,,,,,,,,,,,,,,,,,
+Colistin,5311054,Escherichia coli,22.194254979027104,,,,,,,,,,,,,,,,,,,,,,,

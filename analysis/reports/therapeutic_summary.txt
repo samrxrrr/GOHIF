@@ -1,0 +1,107 @@
+================================================================================
+GOHIF THERAPEUTIC INTELLIGENCE REPORT
+================================================================================
+
+Total therapeutic candidates: 10
+
+TOP 10 CANDIDATES
+--------------------------------------------------------------------------------
+
+Rank: 1
+Pathogen: Salmonella
+Compound: Avibactam
+Docking affinity: -5.545 kcal/mol
+GOHIF Score: 45.564
+Confidence: Very High
+Recommendation:
+Strong docking affinity; High AMR priority; Multiple protein-ligand interactions
+
+
+Rank: 2
+Pathogen: Salmonella
+Compound: Isoniazid
+Docking affinity: -4.426 kcal/mol
+GOHIF Score: 45.173
+Confidence: Very High
+Recommendation:
+Moderate docking affinity; High AMR priority; Multiple protein-ligand interactions
+
+
+Rank: 3
+Pathogen: Salmonella
+Compound: Clavulanic acid
+Docking affinity: -4.301 kcal/mol
+GOHIF Score: 45.129
+Confidence: Very High
+Recommendation:
+Moderate docking affinity; High AMR priority; Multiple protein-ligand interactions
+
+
+Rank: 4
+Pathogen: Salmonella
+Compound: Colistin
+Docking affinity: -3.827 kcal/mol
+GOHIF Score: 44.963
+Confidence: Very High
+Recommendation:
+High AMR priority; Multiple protein-ligand interactions
+
+
+Rank: 5
+Pathogen: Salmonella
+Compound: EDTA
+Docking affinity: -3.654 kcal/mol
+GOHIF Score: 44.903
+Confidence: Very High
+Recommendation:
+High AMR priority; Multiple protein-ligand interactions
+
+
+Rank: 6
+Pathogen: Escherichia coli
+Compound: Avibactam
+Docking affinity: -5.385 kcal/mol
+GOHIF Score: 22.628
+Confidence: Moderate
+Recommendation:
+Strong docking affinity; Relevant AMR target; Multiple protein-ligand interactions
+
+
+Rank: 7
+Pathogen: Escherichia coli
+Compound: Clavulanic acid
+Docking affinity: -4.633 kcal/mol
+GOHIF Score: 22.365
+Confidence: Moderate
+Recommendation:
+Moderate docking affinity; Relevant AMR target; Multiple protein-ligand interactions
+
+
+Rank: 8
+Pathogen: Escherichia coli
+Compound: EDTA
+Docking affinity: -4.604 kcal/mol
+GOHIF Score: 22.355
+Confidence: Moderate
+Recommendation:
+Moderate docking affinity; Relevant AMR target; Multiple protein-ligand interactions
+
+
+Rank: 9
+Pathogen: Escherichia coli
+Compound: Isoniazid
+Docking affinity: -4.246 kcal/mol
+GOHIF Score: 22.230
+Confidence: Moderate
+Recommendation:
+Moderate docking affinity; Relevant AMR target; Multiple protein-ligand interactions
+
+
+Rank: 10
+Pathogen: Escherichia coli
+Compound: Colistin
+Docking affinity: -4.145 kcal/mol
+GOHIF Score: 22.194
+Confidence: Moderate
+Recommendation:
+Moderate docking affinity; Relevant AMR target; Multiple protein-ligand interactions
