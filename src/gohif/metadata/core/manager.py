@@ -2,60 +2,83 @@ from pathlib import Path
 import csv
 import json
 
-from src.gohif.metadata.extractors.csv_extractor import CSVExtractor
 from src.gohif.metadata.extractors.generic_extractor import GenericExtractor
+from src.gohif.metadata.extractors.csv_extractor import CSVExtractor
 
 ROOT = Path("/mnt/g/My Drive/DATASETS")
-MANIFEST = ROOT / "_registry" / "dataset_manifest.csv"
-OUTPUT = ROOT / "_metadata"
 
-OUTPUT.mkdir(exist_ok=True)
+CATALOG = ROOT / "_registry" / "dataset_catalog.csv"
 
-extractors = [
+OUTPUT_DIR = ROOT / "_metadata"
+OUTPUT_DIR.mkdir(exist_ok=True)
 
-    CSVExtractor(),
 
-    GenericExtractor(),
+def choose_extractor(path: Path):
+    suffix = path.suffix.lower()
 
-]
+    if suffix == ".csv":
+        return CSVExtractor()
 
-with open(MANIFEST, newline="", encoding="utf-8") as f:
+    return GenericExtractor()
+
+
+with open(CATALOG, newline="", encoding="utf-8") as f:
 
     reader = csv.DictReader(f)
 
     for row in reader:
 
-        folder = ROOT / row["primary_path"]
+        dataset_id = row["dataset_id"]
 
-        metadata = []
+        dataset_path = ROOT / row["dataset_path"]
 
-        for file in folder.rglob("*"):
+        metadata = {
+            "dataset_id": dataset_id,
+            "dataset_name": row["dataset_name"],
+            "domain": row["domain"],
+            "dataset_type": row["dataset_type"],
+            "dataset_path": str(dataset_path),
+            "files": []
+        }
 
-            if not file.is_file():
-                continue
+        if dataset_path.is_file():
 
-            for ext in extractors:
+            extractor = choose_extractor(dataset_path)
 
-                if ext.supports(str(file)):
+            metadata["files"].append(
+                extractor.extract(dataset_path)
+            )
 
-                    metadata.append(ext.extract(file))
+        elif dataset_path.is_dir():
 
-                    break
+            for file in dataset_path.rglob("*"):
 
-        outfile = OUTPUT / f'{row["dataset_id"]}.json'
+                if not file.is_file():
+                    continue
 
-        with open(outfile, "w", encoding="utf-8") as out:
+                if file.name.lower() == "desktop.ini":
+                    continue
 
-            json.dump({
+                if ".git" in file.parts:
+                    continue
 
-                "dataset_id": row["dataset_id"],
+                extractor = choose_extractor(file)
 
-                "dataset_name": row["dataset_name"],
+                try:
+                    metadata["files"].append(
+                        extractor.extract(file)
+                    )
+                except Exception as e:
+                    metadata["files"].append(
+                        {
+                            "file": str(file),
+                            "error": str(e)
+                        }
+                    )
 
-                "domain": row["domain"],
+        out = OUTPUT_DIR / f"{dataset_id}.json"
 
-                "files": metadata
+        with open(out, "w", encoding="utf-8") as fp:
+            json.dump(metadata, fp, indent=2)
 
-            }, out, indent=2)
-
-        print("Finished", row["dataset_id"])
+        print(f"Finished {dataset_id}")
