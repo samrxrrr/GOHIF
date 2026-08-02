@@ -1,0 +1,8 @@
+entity,bootstrap_frequency,bootstrap_probability
+Salmonella,616,0.616
+Escherichia coli,253,0.253
+COVID-19,61,0.061
+Tuberculosis,60,0.06
+Influenza virus,4,0.004
+Homo sapiens,4,0.004
+Cancer,2,0.002

@@ -1,0 +1,6 @@
+pathogen,domains,domain_list
+pathogen::Escherichia coli,0,
+pathogen::Influenza virus,0,
+pathogen::Mycobacterium tuberculosis,0,
+pathogen::SARS-CoV-2,0,
+pathogen::Salmonella,0,

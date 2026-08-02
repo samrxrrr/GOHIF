@@ -1,0 +1,11 @@
+entity,cross_links,redundancy
+Cancer,4,3
+Escherichia coli,7,6
+Influenza virus,4,3
+Mycobacterium tuberculosis,2,1
+Salmonella,9,8
+Salmonella;COVID-19,0,-1
+Tuberculosis;COVID-19,0,-1
+Tuberculosis;Escherichia coli,0,-1
+Tuberculosis;Escherichia coli;Escherichia coli,0,-1
+Tuberculosis;Salmonella;Salmonella;Salmonella;COVID-19,0,-1

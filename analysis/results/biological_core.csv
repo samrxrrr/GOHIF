@@ -1,0 +1,18 @@
+node,k_core
+species::Homo sapiens,5
+disease::Tuberculosis,5
+disease::Malaria,5
+disease::Influenza virus,5
+disease::Cancer,5
+disease::COVID-19,5
+pathogen::Influenza virus,5
+pathogen::Salmonella,3
+pathogen::Escherichia coli,3
+pathogen::Mycobacterium tuberculosis,3
+gene::EGFR,2
+pathogen::SARS-CoV-2,2
+species::Gallus gallus,1
+disease::Covid-19,1
+disease::covid-19,1
+species::Rattus norvegicus,1
+species::Bos taurus,1

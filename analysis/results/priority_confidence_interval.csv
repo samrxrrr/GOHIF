@@ -1,0 +1,18 @@
+entity,priority,lower,upper
+Salmonella,20,18.0,22.0
+Escherichia coli,15,13.5,16.5
+COVID-19,12,10.8,13.200000000000001
+Tuberculosis,12,10.8,13.200000000000001
+Homo sapiens,10,9.0,11.0
+Influenza virus,10,9.0,11.0
+Cancer,10,9.0,11.0
+Influenza virus,10,9.0,11.0
+Mycobacterium tuberculosis,6,5.4,6.6000000000000005
+Malaria,5,4.5,5.5
+SARS-CoV-2,2,1.8,2.2
+EGFR,2,1.8,2.2
+Gallus gallus,1,0.9,1.1
+Covid-19,1,0.9,1.1
+covid-19,1,0.9,1.1
+Rattus norvegicus,1,0.9,1.1
+Bos taurus,1,0.9,1.1

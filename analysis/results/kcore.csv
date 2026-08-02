@@ -1,0 +1,105 @@
+node,k_core
+domain::Human,5
+species::Homo sapiens,5
+GOHIF_DS_0059,5
+disease::Tuberculosis,5
+disease::Malaria,5
+disease::Influenza virus,5
+disease::Cancer,5
+disease::COVID-19,5
+GOHIF_DS_0062,5
+pathogen::Influenza virus,5
+GOHIF_DS_0057,5
+GOHIF_DS_0008,5
+GOHIF_DS_0060,5
+GOHIF_DS_0061,5
+GOHIF_DS_0063,3
+pathogen::Salmonella,3
+pathogen::Escherichia coli,3
+GOHIF_DS_0056,3
+pathogen::Mycobacterium tuberculosis,3
+provider::World Health Organization,3
+GOHIF_DS_0028,2
+gene::EGFR,2
+GOHIF_DS_0064,2
+GOHIF_DS_0065,2
+GOHIF_DS_0024,2
+GOHIF_DS_0046,2
+GOHIF_DS_0011,2
+GOHIF_DS_0045,2
+GOHIF_DS_0058,2
+GOHIF_DS_0032,2
+GOHIF_DS_0044,2
+provider::Food and Agriculture Organization,2
+GOHIF_DS_0001,2
+domain::Food,2
+pathogen::SARS-CoV-2,2
+domain::Animal,2
+domain::Plant,1
+GOHIF_DS_0069,1
+domain::Environmental,1
+GOHIF_DS_0017,1
+GOHIF_DS_0018,1
+GOHIF_DS_0021,1
+domain::Genome,1
+GOHIF_DS_0072,1
+GOHIF_DS_0054,1
+species::Gallus gallus,1
+GOHIF_DS_0077,1
+GOHIF_DS_0037,1
+disease::Covid-19,1
+disease::covid-19,1
+GOHIF_DS_0009,1
+GOHIF_DS_0075,1
+GOHIF_DS_0004,1
+GOHIF_DS_0013,1
+provider::National Center for Biotechnology Information,1
+GOHIF_DS_0049,1
+GOHIF_DS_0048,1
+GOHIF_DS_0007,1
+GOHIF_DS_0026,1
+GOHIF_DS_0070,1
+GOHIF_DS_0033,1
+GOHIF_DS_0052,1
+GOHIF_DS_0002,1
+GOHIF_DS_0016,1
+GOHIF_DS_0039,1
+GOHIF_DS_0012,1
+GOHIF_DS_0014,1
+GOHIF_DS_0019,1
+GOHIF_DS_0041,1
+GOHIF_DS_0029,1
+GOHIF_DS_0023,1
+GOHIF_DS_0015,1
+GOHIF_DS_0006,1
+GOHIF_DS_0043,1
+GOHIF_DS_0076,1
+GOHIF_DS_0073,1
+GOHIF_DS_0031,1
+GOHIF_DS_0047,1
+GOHIF_DS_0067,1
+GOHIF_DS_0042,1
+GOHIF_DS_0051,1
+GOHIF_DS_0036,1
+GOHIF_DS_0010,1
+GOHIF_DS_0038,1
+GOHIF_DS_0053,1
+GOHIF_DS_0020,1
+GOHIF_DS_0030,1
+GOHIF_DS_0022,1
+GOHIF_DS_0068,1
+GOHIF_DS_0066,1
+GOHIF_DS_0071,1
+GOHIF_DS_0027,1
+GOHIF_DS_0025,1
+GOHIF_DS_0035,1
+GOHIF_DS_0074,1
+GOHIF_DS_0050,1
+GOHIF_DS_0034,1
+provider::U.S. Food and Drug Administration,1
+species::Rattus norvegicus,1
+GOHIF_DS_0055,1
+GOHIF_DS_0003,1
+GOHIF_DS_0040,1
+GOHIF_DS_0005,1
+species::Bos taurus,1

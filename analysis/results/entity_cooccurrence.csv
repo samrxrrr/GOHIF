@@ -1,0 +1,62 @@
+entity1,entity2,cooccurrence
+COVID-19,Tuberculosis,6
+COVID-19,Influenza,5
+Cancer,Tuberculosis,5
+Cancer,Influenza,5
+COVID-19,Cancer,5
+Malaria,Tuberculosis,5
+COVID-19,Malaria,5
+COVID-19,Homo sapiens,5
+Homo sapiens,Tuberculosis,5
+Homo sapiens,Malaria,5
+Influenza,Tuberculosis,5
+Escherichia coli,Salmonella,4
+Cancer,Homo sapiens,4
+Homo sapiens,Influenza,4
+Influenza,Malaria,4
+Cancer,Malaria,4
+Escherichia coli,Mycobacterium tuberculosis,3
+Cancer,Escherichia coli,3
+Escherichia coli,Influenza,3
+Cancer,Salmonella,3
+Cancer,Mycobacterium tuberculosis,3
+Salmonella,Tuberculosis,3
+Mycobacterium tuberculosis,Tuberculosis,3
+Mycobacterium tuberculosis,Salmonella,3
+Influenza,Salmonella,3
+Escherichia coli,Tuberculosis,3
+COVID-19,Escherichia coli,3
+COVID-19,Mycobacterium tuberculosis,3
+COVID-19,Salmonella,3
+Influenza,Mycobacterium tuberculosis,3
+Escherichia coli,Homo sapiens,3
+COVID-19,SARS-CoV-2,2
+COVID-19,Influenza virus,2
+Cancer,SARS-CoV-2,2
+Escherichia coli,Influenza virus,2
+Escherichia coli,Malaria,2
+Cancer,Influenza virus,2
+Escherichia coli,SARS-CoV-2,2
+Homo sapiens,Influenza virus,2
+Homo sapiens,SARS-CoV-2,2
+Homo sapiens,Mycobacterium tuberculosis,2
+Homo sapiens,Salmonella,2
+Influenza,Influenza virus,2
+Influenza,SARS-CoV-2,2
+Influenza virus,Malaria,2
+Influenza virus,Mycobacterium tuberculosis,2
+Influenza virus,SARS-CoV-2,2
+Influenza virus,Salmonella,2
+Influenza virus,Tuberculosis,2
+Malaria,Mycobacterium tuberculosis,2
+Malaria,SARS-CoV-2,2
+Malaria,Salmonella,2
+Mycobacterium tuberculosis,SARS-CoV-2,2
+SARS-CoV-2,Salmonella,2
+SARS-CoV-2,Tuberculosis,2
+COVID-19,EGFR,2
+Cancer,EGFR,2
+EGFR,Homo sapiens,2
+EGFR,Influenza,2
+EGFR,Malaria,2
+EGFR,Tuberculosis,2

@@ -1,0 +1,5 @@
+domain_a,Animal,Environmental,Food,Human
+Animal,0,2,0,16
+Environmental,0,0,0,2
+Food,1,1,0,1
+Human,9,3,1,0

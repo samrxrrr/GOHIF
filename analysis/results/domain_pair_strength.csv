@@ -1,0 +1,10 @@
+domain_a,domain_b,connections,shared_entities
+Animal,Human,4,16
+Human,Animal,2,9
+Human,Environmental,2,3
+Animal,Environmental,1,2
+Environmental,Human,1,2
+Food,Environmental,1,1
+Food,Animal,1,1
+Food,Human,1,1
+Human,Food,1,1

@@ -1,0 +1,9 @@
+entity,type,n_domains,domain_signature,datasets
+Salmonella,pathogens,4,Animal → Environmental → Food → Human,5
+Escherichia coli,pathogens,3,Animal → Environmental → Human,5
+COVID-19,diseases,2,Animal → Human,6
+Tuberculosis,diseases,2,Animal → Human,6
+Cancer,diseases,2,Animal → Human,5
+Influenza,diseases,2,Animal → Human,5
+Influenza,pathogens,2,Animal → Human,5
+Mycobacterium tuberculosis,pathogens,2,Animal → Human,3

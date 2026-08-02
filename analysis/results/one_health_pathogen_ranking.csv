@@ -1,0 +1,13 @@
+entity_type,entity,dataset_count,domain_count,domains,datasets,one_health_score
+pathogens,Salmonella,5,4,Animal;Environmental;Food;Human,GOHIF_DS_0008;GOHIF_DS_0024;GOHIF_DS_0028;GOHIF_DS_0059;GOHIF_DS_0060,20
+pathogens,Escherichia coli,5,3,Animal;Environmental;Human,GOHIF_DS_0008;GOHIF_DS_0024;GOHIF_DS_0056;GOHIF_DS_0059;GOHIF_DS_0060,15
+diseases,COVID-19,6,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0057;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,12
+diseases,Tuberculosis,6,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0057;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,12
+diseases,Cancer,5,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,10
+diseases,Influenza,5,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,10
+pathogens,Influenza,5,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,10
+pathogens,Mycobacterium tuberculosis,3,2,Animal;Human,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060,6
+diseases,Malaria,5,1,Human,GOHIF_DS_0057;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,5
+diseases,Influenza virus,2,1,Human,GOHIF_DS_0059;GOHIF_DS_0060,2
+pathogens,Influenza virus,2,1,Human,GOHIF_DS_0059;GOHIF_DS_0060,2
+pathogens,SARS-CoV-2,2,1,Human,GOHIF_DS_0059;GOHIF_DS_0060,2

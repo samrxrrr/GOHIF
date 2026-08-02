@@ -1,0 +1,15 @@
+entity,type,domains,datasets,bridge_score
+Salmonella,pathogens,4,5,20
+Escherichia coli,pathogens,3,5,15
+COVID-19,diseases,2,6,12
+Tuberculosis,diseases,2,6,12
+Cancer,diseases,2,5,10
+Influenza,diseases,2,5,10
+Homo sapiens,species,1,10,10
+Influenza,pathogens,2,5,10
+Mycobacterium tuberculosis,pathogens,2,3,6
+Malaria,diseases,1,5,5
+Influenza virus,diseases,1,2,2
+EGFR,genes,1,2,2
+Influenza virus,pathogens,1,2,2
+SARS-CoV-2,pathogens,1,2,2

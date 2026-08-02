@@ -1,0 +1,8 @@
+entity,bootstrap_frequency,bootstrap_probability,stability
+Salmonella,616,0.616,Very High
+Escherichia coli,253,0.253,High
+COVID-19,61,0.061,Moderate
+Tuberculosis,60,0.06,Moderate
+Influenza virus,4,0.004,Low
+Homo sapiens,4,0.004,Low
+Cancer,2,0.002,Low

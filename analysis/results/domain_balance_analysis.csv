@@ -1,0 +1,15 @@
+entity,entity_type,domains,datasets,datasets_per_domain
+COVID-19,diseases,2,6,3.0
+Cancer,diseases,2,5,2.5
+Influenza,diseases,2,5,2.5
+Influenza virus,diseases,1,2,2.0
+Malaria,diseases,1,5,5.0
+Tuberculosis,diseases,2,6,3.0
+EGFR,genes,1,2,2.0
+Escherichia coli,pathogens,3,5,1.67
+Influenza,pathogens,2,5,2.5
+Influenza virus,pathogens,1,2,2.0
+Mycobacterium tuberculosis,pathogens,2,3,1.5
+SARS-CoV-2,pathogens,1,2,2.0
+Salmonella,pathogens,4,5,1.25
+Homo sapiens,species,1,10,10.0

@@ -1,0 +1,7 @@
+domain,degree
+domain::Genome,4
+domain::Human,10
+domain::Plant,12
+domain::Environmental,13
+domain::Animal,14
+domain::Food,24

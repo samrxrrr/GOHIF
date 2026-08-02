@@ -1,0 +1,15 @@
+entity,entity_type,Animal,Food,Environmental,Human,coverage_score,coverage_percent
+Salmonella,pathogens,1,1,1,1,4,100.0
+Escherichia coli,pathogens,1,0,1,1,3,75.0
+COVID-19,diseases,1,0,0,1,2,50.0
+Cancer,diseases,1,0,0,1,2,50.0
+Influenza,diseases,1,0,0,1,2,50.0
+Influenza,pathogens,1,0,0,1,2,50.0
+Mycobacterium tuberculosis,pathogens,1,0,0,1,2,50.0
+Tuberculosis,diseases,1,0,0,1,2,50.0
+EGFR,genes,0,0,0,1,1,25.0
+Homo sapiens,species,0,0,0,1,1,25.0
+Influenza virus,diseases,0,0,0,1,1,25.0
+Influenza virus,pathogens,0,0,0,1,1,25.0
+Malaria,diseases,0,0,0,1,1,25.0
+SARS-CoV-2,pathogens,0,0,0,1,1,25.0

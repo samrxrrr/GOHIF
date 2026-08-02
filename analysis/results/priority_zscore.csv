@@ -1,0 +1,18 @@
+entity_type,entity,frequency,domains,priority_score,domain_list,priority_z
+pathogens,Salmonella,5,4,20,Animal;Environmental;Food;Human,2.2092683010428544
+pathogens,Escherichia coli,5,3,15,Animal;Environmental;Human,1.3595497237186795
+diseases,COVID-19,6,2,12,Animal;Human,0.8497185773241748
+diseases,Tuberculosis,6,2,12,Animal;Human,0.8497185773241748
+species,Homo sapiens,10,1,10,Human,0.5098311463945049
+pathogens,Influenza virus,5,2,10,Animal;Human,0.5098311463945049
+diseases,Cancer,5,2,10,Animal;Human,0.5098311463945049
+diseases,Influenza virus,5,2,10,Animal;Human,0.5098311463945049
+pathogens,Mycobacterium tuberculosis,3,2,6,Animal;Human,-0.16994371546483494
+diseases,Malaria,5,1,5,Human,-0.3398874309296699
+pathogens,SARS-CoV-2,2,1,2,Human,-0.8497185773241748
+genes,EGFR,2,1,2,Human,-0.8497185773241748
+species,Gallus gallus,1,1,1,Animal,-1.0196622927890098
+diseases,Covid-19,1,1,1,Animal,-1.0196622927890098
+diseases,covid-19,1,1,1,Animal,-1.0196622927890098
+species,Rattus norvegicus,1,1,1,Food,-1.0196622927890098
+species,Bos taurus,1,1,1,Animal,-1.0196622927890098

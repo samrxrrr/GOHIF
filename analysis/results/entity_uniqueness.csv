@@ -1,0 +1,18 @@
+entity,cross_links,unique
+Salmonella,9,False
+Escherichia coli,7,False
+COVID-19,5,False
+Tuberculosis,5,False
+Homo sapiens,0,True
+Influenza virus,4,False
+Cancer,4,False
+Influenza virus,4,False
+Mycobacterium tuberculosis,2,False
+Malaria,0,True
+SARS-CoV-2,0,True
+EGFR,0,True
+Gallus gallus,0,True
+Covid-19,0,True
+covid-19,0,True
+Rattus norvegicus,0,True
+Bos taurus,0,True

@@ -1,0 +1,10 @@
+entity_type,entity,frequency,domains,priority_score,domain_list
+species,Homo sapiens,10,1,10,Human
+diseases,Malaria,5,1,5,Human
+pathogens,SARS-CoV-2,2,1,2,Human
+genes,EGFR,2,1,2,Human
+species,Gallus gallus,1,1,1,Animal
+diseases,Covid-19,1,1,1,Animal
+diseases,covid-19,1,1,1,Animal
+species,Rattus norvegicus,1,1,1,Food
+species,Bos taurus,1,1,1,Animal

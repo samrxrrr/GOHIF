@@ -1,0 +1,105 @@
+node,degree,category
+domain::Food,24,domain
+domain::Animal,14,domain
+domain::Environmental,13,domain
+domain::Plant,12,domain
+GOHIF_DS_0008,12,Dataset
+GOHIF_DS_0059,12,Dataset
+GOHIF_DS_0060,12,Dataset
+species::Homo sapiens,10,species
+GOHIF_DS_0062,10,Dataset
+domain::Human,10,domain
+GOHIF_DS_0061,10,Dataset
+disease::COVID-19,6,disease
+disease::Tuberculosis,6,disease
+pathogen::Influenza virus,5,pathogen
+pathogen::Salmonella,5,pathogen
+disease::Cancer,5,disease
+disease::Influenza virus,5,disease
+pathogen::Escherichia coli,5,pathogen
+GOHIF_DS_0057,5,Dataset
+disease::Malaria,5,disease
+provider::Food and Agriculture Organization,5,provider
+domain::Genome,4,domain
+provider::World Health Organization,4,provider
+GOHIF_DS_0063,3,Dataset
+GOHIF_DS_0056,3,Dataset
+pathogen::Mycobacterium tuberculosis,3,pathogen
+GOHIF_DS_0034,3,Dataset
+GOHIF_DS_0024,3,Dataset
+GOHIF_DS_0028,2,Dataset
+GOHIF_DS_0065,2,Dataset
+GOHIF_DS_0001,2,Dataset
+GOHIF_DS_0045,2,Dataset
+GOHIF_DS_0011,2,Dataset
+GOHIF_DS_0046,2,Dataset
+pathogen::SARS-CoV-2,2,pathogen
+GOHIF_DS_0032,2,Dataset
+GOHIF_DS_0005,2,Dataset
+GOHIF_DS_0058,2,Dataset
+gene::EGFR,2,gene
+GOHIF_DS_0064,2,Dataset
+GOHIF_DS_0013,2,Dataset
+GOHIF_DS_0044,2,Dataset
+GOHIF_DS_0018,1,Dataset
+GOHIF_DS_0072,1,Dataset
+disease::covid-19,1,disease
+GOHIF_DS_0021,1,Dataset
+GOHIF_DS_0054,1,Dataset
+GOHIF_DS_0037,1,Dataset
+disease::Covid-19,1,disease
+GOHIF_DS_0017,1,Dataset
+GOHIF_DS_0009,1,Dataset
+GOHIF_DS_0075,1,Dataset
+GOHIF_DS_0069,1,Dataset
+species::Gallus gallus,1,species
+GOHIF_DS_0077,1,Dataset
+provider::National Center for Biotechnology Information,1,provider
+GOHIF_DS_0048,1,Dataset
+GOHIF_DS_0007,1,Dataset
+GOHIF_DS_0026,1,Dataset
+GOHIF_DS_0070,1,Dataset
+GOHIF_DS_0033,1,Dataset
+GOHIF_DS_0052,1,Dataset
+GOHIF_DS_0002,1,Dataset
+GOHIF_DS_0016,1,Dataset
+GOHIF_DS_0039,1,Dataset
+GOHIF_DS_0012,1,Dataset
+GOHIF_DS_0014,1,Dataset
+GOHIF_DS_0015,1,Dataset
+GOHIF_DS_0004,1,Dataset
+GOHIF_DS_0029,1,Dataset
+GOHIF_DS_0023,1,Dataset
+GOHIF_DS_0049,1,Dataset
+GOHIF_DS_0006,1,Dataset
+GOHIF_DS_0043,1,Dataset
+GOHIF_DS_0076,1,Dataset
+GOHIF_DS_0041,1,Dataset
+GOHIF_DS_0019,1,Dataset
+GOHIF_DS_0047,1,Dataset
+GOHIF_DS_0031,1,Dataset
+GOHIF_DS_0073,1,Dataset
+GOHIF_DS_0051,1,Dataset
+GOHIF_DS_0036,1,Dataset
+GOHIF_DS_0010,1,Dataset
+GOHIF_DS_0038,1,Dataset
+GOHIF_DS_0053,1,Dataset
+GOHIF_DS_0020,1,Dataset
+GOHIF_DS_0067,1,Dataset
+GOHIF_DS_0042,1,Dataset
+GOHIF_DS_0022,1,Dataset
+GOHIF_DS_0030,1,Dataset
+GOHIF_DS_0068,1,Dataset
+GOHIF_DS_0066,1,Dataset
+GOHIF_DS_0025,1,Dataset
+GOHIF_DS_0035,1,Dataset
+GOHIF_DS_0071,1,Dataset
+GOHIF_DS_0027,1,Dataset
+GOHIF_DS_0050,1,Dataset
+GOHIF_DS_0074,1,Dataset
+species::Rattus norvegicus,1,species
+provider::U.S. Food and Drug Administration,1,provider
+GOHIF_DS_0055,1,Dataset
+GOHIF_DS_0003,1,Dataset
+GOHIF_DS_0040,1,Dataset
+species::Bos taurus,1,species

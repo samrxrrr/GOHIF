@@ -1,0 +1,18 @@
+entity_type,entity,frequency,domains,priority_score,domain_list
+pathogens,Salmonella,5,4,20,Animal;Environmental;Food;Human
+pathogens,Escherichia coli,5,3,15,Animal;Environmental;Human
+diseases,COVID-19,6,2,12,Animal;Human
+diseases,Tuberculosis,6,2,12,Animal;Human
+species,Homo sapiens,10,1,10,Human
+pathogens,Influenza virus,5,2,10,Animal;Human
+diseases,Cancer,5,2,10,Animal;Human
+diseases,Influenza virus,5,2,10,Animal;Human
+pathogens,Mycobacterium tuberculosis,3,2,6,Animal;Human
+diseases,Malaria,5,1,5,Human
+pathogens,SARS-CoV-2,2,1,2,Human
+genes,EGFR,2,1,2,Human
+species,Gallus gallus,1,1,1,Animal
+diseases,Covid-19,1,1,1,Animal
+diseases,covid-19,1,1,1,Animal
+species,Rattus norvegicus,1,1,1,Food
+species,Bos taurus,1,1,1,Animal
