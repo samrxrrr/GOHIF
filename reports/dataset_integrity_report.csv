@@ -1,0 +1,78 @@
+dataset_id,dataset_name,status,dataset_type,file_count,size_bytes
+GOHIF_DS_0001,WOAH_WAHIS.ReportRetriever-main.zip,VALID,file,1,15194
+GOHIF_DS_0002,adt_rule_qa.pdf,VALID,file,1,60685
+GOHIF_DS_0003,aquapathogenx_template.zip,VALID,file,1,919
+GOHIF_DS_0004,asf_situation_report_65.pdf,VALID,file,1,146
+GOHIF_DS_0005,cattle_qtldb.txt,VALID,file,1,7270
+GOHIF_DS_0006,cipars_2018_findings.pdf,VALID,file,1,10100
+GOHIF_DS_0007,countries-data-antibiotic-livestock.zip,VALID,file,1,2670
+GOHIF_DS_0008,danmap_2023.pdf,VALID,file,1,14557538
+GOHIF_DS_0009,en-woah-amu-report-2025-final.pdf,VALID,file,1,1458901
+GOHIF_DS_0010,esvac_owid.zip,VALID,file,1,9997
+GOHIF_DS_0011,faostat_QCL_normalized.zip,VALID,file,1,167
+GOHIF_DS_0012,tmp_export_livestock_1784994695977.csv,VALID,file,1,13037982
+GOHIF_DS_0013,vetlirn_sra_runinfo.csv,EMPTY,file,1,0
+GOHIF_DS_0014,woah_amu_8th_report.pdf,VALID,file,1,146
+GOHIF_DS_0015,AMRSN_annual_report_2020.mht,VALID,file,1,1419828
+GOHIF_DS_0016,ANSWER DCT_ARB AIR_individual data.xlsx,VALID,file,1,2122035
+GOHIF_DS_0017,ANSWER DCT_ARB Water_individual data_v2.xlsx,VALID,file,1,4513765
+GOHIF_DS_0018,ANSWER DCT_ARB plant crop_individual data.xlsx,VALID,file,1,2487588
+GOHIF_DS_0019,ANSWER DCT_ARG AIR_individual data.xlsx,VALID,file,1,2845728
+GOHIF_DS_0020,ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx,VALID,file,1,2732703
+GOHIF_DS_0021,ANSWER DCT_ARG Soil_individual data_v2.xlsx,VALID,file,1,2720452
+GOHIF_DS_0022,ANSWER DCT_ARG Water_individual data_v2.xlsx,VALID,file,1,5886860
+GOHIF_DS_0023,ANSWER DCT_ARG plant crop_individual data_v2.xlsx,VALID,file,1,2805011
+GOHIF_DS_0024,B09585-eng.pdf,VALID,file,1,1214653
+GOHIF_DS_0025,wc2.1_10m_tmin.zip,VALID,file,1,37605037
+GOHIF_DS_0026,wc2.1_2.5m_tmin.zip,VALID,file,1,450776085
+GOHIF_DS_0027,wc2.1_5m_tmin.zip,VALID,file,1,128562254
+GOHIF_DS_0028,ACN_Annual_Report_2023.pdf,VALID,file,1,307987
+GOHIF_DS_0029,CIPARS_2021_Annual_Report.pdf,VALID,file,1,19263
+GOHIF_DS_0030,Codex_CXC61_AMR_Code_of_Practice.pdf,VALID,file,1,46244
+GOHIF_DS_0031,EFSA_Zoonoses_Data_Collection.html,VALID,file,1,84638
+GOHIF_DS_0032,FAOSTAT_Crops_Livestock.zip,EMPTY,file,1,0
+GOHIF_DS_0033,FDA_iRISK_5.0.html,VALID,file,1,13162
+GOHIF_DS_0034,FDC_SR_Legacy.zip,EMPTY,file,1,0
+GOHIF_DS_0035,FMBN_5_1_2_mindata.zip,VALID,file,1,273922877
+GOHIF_DS_0036,FoodEx2_catalogues.zip,EMPTY,file,1,0
+GOHIF_DS_0037,FoodEx2_record.html,VALID,file,1,105751
+GOHIF_DS_0038,INFOSAN_Activity_Report_2020_2021.pdf,VALID,file,1,755
+GOHIF_DS_0039,INFOSAN_Members_Guide_2020.pdf,VALID,file,1,755
+GOHIF_DS_0040,NARMS_NOW.html,VALID,file,1,35648
+GOHIF_DS_0041,OFT3.0_export_repository.xlsx,VALID,file,1,22595502
+GOHIF_DS_0042,OpenFoodToxTX22809_2023.xlsx,VALID,file,1,12330464
+GOHIF_DS_0043,RASFF_reports.html,VALID,file,1,146434
+GOHIF_DS_0044,agrovoc_core.nt.gz,EMPTY,file,1,0
+GOHIF_DS_0045,agrovoc_core.nt.zip,EMPTY,file,1,0
+GOHIF_DS_0046,agrovoc_releases.html,VALID,file,1,24271
+GOHIF_DS_0047,en.openfoodfacts.org.products.csv.gz,VALID,file,1,1275171186
+GOHIF_DS_0048,FoodData_Central_branded_food_csv_2024-04-18,VALID,directory,12,2991193997
+GOHIF_DS_0049,FoodData_Central_foundation_food_csv_2024-04-18,VALID,directory,28,43976496
+GOHIF_DS_0050,FoodMicrobionet,VALID,directory,391,850587507
+GOHIF_DS_0051,FoodMicrobionet_data,VALID,directory,2,273923123
+GOHIF_DS_0052,Antibiotic_resistance_gene.fa.txt,VALID,file,1,2979571
+GOHIF_DS_0053,CVM-NARMS-HACCP-1997-2005.xlsx,VALID,file,1,11718433
+GOHIF_DS_0054,VFDB_setB_pro.fas.gz,VALID,file,1,5644656
+GOHIF_DS_0055,card-data.tar.bz2,VALID,file,1,4620455
+GOHIF_DS_0056,2023-AR-Report-508.pdf,VALID,file,1,924349
+GOHIF_DS_0057,9789240108127-eng.pdf,VALID,file,1,1817938
+GOHIF_DS_0058,AMRSN_annual_report_2020.mht,VALID,file,1,1419828
+GOHIF_DS_0059,ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf,VALID,file,1,11138755
+GOHIF_DS_0060,ESPAUR-report-2024-to-2025-private-prescribing-update.pdf,VALID,file,1,11138755
+GOHIF_DS_0061,WHO-MHP-HPS-EML-2023 (1).02-eng.pdf,VALID,file,1,926649
+GOHIF_DS_0062,WHO-MHP-HPS-EML-2023.02-eng.pdf,VALID,file,1,926649
+GOHIF_DS_0063,WHO-MHP-HPS-EML-2023.04-eng.xlsx,VALID,file,1,117299
+GOHIF_DS_0064,abx_export.xlsx,VALID,file,1,17087
+GOHIF_DS_0065,studies.json,VALID,file,1,1448918
+GOHIF_DS_0066,Arabidopsis_thaliana.TAIR10.dna.chromosome.1.fa.gz,VALID,file,1,9211107
+GOHIF_DS_0067,Arabidopsis_thaliana.TAIR10.dna.chromosome.2.fa.gz,VALID,file,1,6036986
+GOHIF_DS_0068,Arabidopsis_thaliana.TAIR10.dna.chromosome.3.fa.gz,VALID,file,1,7172122
+GOHIF_DS_0069,Arabidopsis_thaliana.TAIR10.dna.chromosome.4.fa.gz,VALID,file,1,5652615
+GOHIF_DS_0070,Arabidopsis_thaliana.TAIR10.dna.chromosome.5.fa.gz,VALID,file,1,8226389
+GOHIF_DS_0071,Arabidopsis_thaliana.TAIR10.dna.chromosome.Mt.fa.gz,VALID,file,1,115120
+GOHIF_DS_0072,Arabidopsis_thaliana.TAIR10.dna.chromosome.Pt.fa.gz,VALID,file,1,48364
+GOHIF_DS_0073,PlantVillage-Dataset-master.zip,VALID,file,1,2504302720
+GOHIF_DS_0074,Production_Crops_Livestock_E_All_Data (1).zip,VALID,file,1,25138572
+GOHIF_DS_0075,Production_Crops_Livestock_E_All_Data.zip,VALID,file,1,25138572
+GOHIF_DS_0076,data-PHIbase_release_v4.19.zip,VALID,file,1,71854698
+GOHIF_DS_0077,plantlst.txt,VALID,file,1,7038655

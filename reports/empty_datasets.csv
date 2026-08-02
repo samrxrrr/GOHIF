@@ -1,0 +1,7 @@
+dataset_id,dataset_name,dataset_type,file_count,size_bytes,status
+GOHIF_DS_0013,vetlirn_sra_runinfo.csv,file,1,0,EMPTY
+GOHIF_DS_0032,FAOSTAT_Crops_Livestock.zip,file,1,0,EMPTY
+GOHIF_DS_0034,FDC_SR_Legacy.zip,file,1,0,EMPTY
+GOHIF_DS_0036,FoodEx2_catalogues.zip,file,1,0,EMPTY
+GOHIF_DS_0044,agrovoc_core.nt.gz,file,1,0,EMPTY
+GOHIF_DS_0045,agrovoc_core.nt.zip,file,1,0,EMPTY

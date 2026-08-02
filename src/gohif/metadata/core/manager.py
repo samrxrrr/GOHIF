@@ -4,60 +4,84 @@ import csv
 import json
 import sys
 
-# ------------------------------------------------------------------
-# Add GOHIF project root to Python path
-# ------------------------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parents[4]
 
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.gohif.metadata.extractors.generic_extractor import GenericExtractor
-from src.gohif.metadata.extractors.csv_extractor import CSVExtractor
-from src.gohif.utils.logging.logger import get_logger
-
-logger = get_logger("metadata")
-
-# ------------------------------------------------------------------
-# Paths
-# ------------------------------------------------------------------
-ROOT = Path("/mnt/g/My Drive/DATASETS")
-
-CATALOG = ROOT / "_registry" / "dataset_catalog.csv"
-
-OUTPUT_DIR = ROOT / "_metadata"
-OUTPUT_DIR.mkdir(exist_ok=True)
-
-processed = 0
-failed = 0
-
-logger.info("=" * 80)
-logger.info("GOHIF Metadata Generation Started")
-logger.info("Catalog : %s", CATALOG)
-logger.info("Output  : %s", OUTPUT_DIR)
-logger.info("Started : %s", datetime.now().isoformat())
-logger.info("=" * 80)
+from gohif.metadata.extractors.generic_extractor import GenericExtractor
+from gohif.metadata.extractors.csv_extractor import CSVExtractor
+from gohif.utils.logging.logger import get_logger
+from gohif.manifest.processing_manifest import ProcessingManifest
 
 
-def choose_extractor(path: Path):
-    """
-    Return the correct metadata extractor for a file.
-    """
-    if path.suffix.lower() == ".csv":
-        return CSVExtractor()
+class MetadataManager:
 
-    return GenericExtractor()
+    def __init__(self):
 
+        self.logger = get_logger("metadata")
 
-with open(CATALOG, newline="", encoding="utf-8") as f:
+        self.root = Path("/mnt/g/My Drive/DATASETS")
 
-    reader = csv.DictReader(f)
+        self.catalog = self.root / "_registry" / "dataset_catalog.csv"
 
-    for row in reader:
+        self.output_dir = self.root / "_metadata"
+
+        self.output_dir.mkdir(exist_ok=True)
+
+        self.manifest = ProcessingManifest(
+            self.output_dir / "processing_manifest.json"
+        )
+
+        self.processed = 0
+        self.failed = 0
+        self.skipped = 0
+
+    def choose_extractor(self, path):
+
+        if path.suffix.lower() == ".csv":
+            return CSVExtractor()
+
+        return GenericExtractor()
+
+    def process_file(self, file):
+
+        extractor = self.choose_extractor(file)
+
+        try:
+
+            return extractor.extract(file)
+
+        except Exception as e:
+
+            self.failed += 1
+
+            self.logger.exception(
+                "Failed extracting %s",
+                file,
+            )
+
+            return {
+                "file": str(file),
+                "error": str(e),
+            }
+
+    def process_dataset(self, row):
 
         dataset_id = row["dataset_id"]
 
-        dataset_path = ROOT / row["dataset_path"]
+        if self.manifest.is_completed(dataset_id):
+
+            self.skipped += 1
+
+            self.logger.info(
+                "Skipping %s (already processed)",
+                dataset_id,
+            )
+
+            return
+
+        dataset_path = self.root / row["dataset_path"]
 
         metadata = {
             "dataset_id": dataset_id,
@@ -68,33 +92,16 @@ with open(CATALOG, newline="", encoding="utf-8") as f:
             "files": [],
         }
 
-        logger.info("Processing %s", dataset_id)
+        self.logger.info(
+            "Processing %s",
+            dataset_id,
+        )
 
         if dataset_path.is_file():
 
-            extractor = choose_extractor(dataset_path)
-
-            try:
-
-                metadata["files"].append(
-                    extractor.extract(dataset_path)
-                )
-
-            except Exception as e:
-
-                failed += 1
-
-                logger.exception(
-                    "Extraction failed: %s",
-                    dataset_path,
-                )
-
-                metadata["files"].append(
-                    {
-                        "file": str(dataset_path),
-                        "error": str(e),
-                    }
-                )
+            metadata["files"].append(
+                self.process_file(dataset_path)
+            )
 
         elif dataset_path.is_dir():
 
@@ -109,46 +116,51 @@ with open(CATALOG, newline="", encoding="utf-8") as f:
                 if ".git" in file.parts:
                     continue
 
-                extractor = choose_extractor(file)
+                metadata["files"].append(
+                    self.process_file(file)
+                )
 
-                try:
-
-                    metadata["files"].append(
-                        extractor.extract(file)
-                    )
-
-                except Exception as e:
-
-                    failed += 1
-
-                    logger.exception(
-                        "Extraction failed: %s",
-                        file,
-                    )
-
-                    metadata["files"].append(
-                        {
-                            "file": str(file),
-                            "error": str(e),
-                        }
-                    )
-
-        out = OUTPUT_DIR / f"{dataset_id}.json"
+        out = self.output_dir / f"{dataset_id}.json"
 
         with open(out, "w", encoding="utf-8") as fp:
-            json.dump(metadata, fp, indent=2)
 
-        processed += 1
+            json.dump(
+                metadata,
+                fp,
+                indent=2,
+            )
 
-        logger.info(
-            "Finished %s (%d files)",
+        self.manifest.mark_completed(dataset_id)
+
+        self.processed += 1
+
+        self.logger.info(
+            "Finished %s",
             dataset_id,
-            len(metadata["files"]),
         )
 
-logger.info("=" * 80)
-logger.info("Metadata Generation Completed")
-logger.info("Datasets processed : %d", processed)
-logger.info("Extraction errors  : %d", failed)
-logger.info("Finished : %s", datetime.now().isoformat())
-logger.info("=" * 80)
+    def run(self):
+
+        self.logger.info("=" * 80)
+        self.logger.info("GOHIF Metadata Generation Started")
+        self.logger.info("=" * 80)
+
+        with open(self.catalog, newline="", encoding="utf-8") as f:
+
+            reader = csv.DictReader(f)
+
+            for row in reader:
+
+                self.process_dataset(row)
+
+        self.logger.info("=" * 80)
+        self.logger.info("Metadata Generation Completed")
+        self.logger.info("Processed : %d", self.processed)
+        self.logger.info("Skipped   : %d", self.skipped)
+        self.logger.info("Failed    : %d", self.failed)
+        self.logger.info("=" * 80)
+
+
+if __name__ == "__main__":
+
+    MetadataManager().run()
