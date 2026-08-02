@@ -1,0 +1,11 @@
+removed_node,remaining_nodes,remaining_edges,components_after_removal,component_change
+disease::COVID-19,101,144,3,0
+disease::Cancer,101,145,3,0
+disease::Influenza virus,101,145,3,0
+disease::Malaria,101,145,3,0
+disease::Tuberculosis,101,144,3,0
+pathogen::Escherichia coli,101,145,3,0
+pathogen::Influenza virus,101,145,3,0
+pathogen::Mycobacterium tuberculosis,101,147,3,0
+pathogen::SARS-CoV-2,101,148,3,0
+pathogen::Salmonella,101,145,3,0

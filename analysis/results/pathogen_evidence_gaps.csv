@@ -1,0 +1,6 @@
+pathogen,domains_reached,domains,supporting_datasets,datasets,degree,betweenness,evidence_profile,evidence_gap
+SARS-CoV-2,1,Human,2,GOHIF_DS_0059;GOHIF_DS_0060,2,1.65016501650165e-05,2,3
+Mycobacterium tuberculosis,2,Animal;Human,3,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060,3,0.0027252086875092,6,2
+Influenza virus,2,Animal;Human,5,GOHIF_DS_0008;GOHIF_DS_0059;GOHIF_DS_0060;GOHIF_DS_0061;GOHIF_DS_0062,5,0.0109874577958834,10,2
+Escherichia coli,3,Animal;Environmental;Human,5,GOHIF_DS_0008;GOHIF_DS_0024;GOHIF_DS_0056;GOHIF_DS_0059;GOHIF_DS_0060,5,0.0696079664433662,15,1
+Salmonella,4,Animal;Environmental;Food;Human,5,GOHIF_DS_0008;GOHIF_DS_0024;GOHIF_DS_0028;GOHIF_DS_0059;GOHIF_DS_0060,5,0.2779244475213374,20,0

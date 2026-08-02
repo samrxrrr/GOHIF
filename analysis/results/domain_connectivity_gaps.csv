@@ -1,0 +1,16 @@
+domain_a,domain_b,connected,shortest_path
+Animal,Environmental,True,4
+Animal,Food,True,4
+Animal,Genome,False,-1
+Animal,Human,True,4
+Animal,Plant,False,-1
+Environmental,Food,True,4
+Environmental,Genome,False,-1
+Environmental,Human,True,4
+Environmental,Plant,False,-1
+Food,Genome,False,-1
+Food,Human,True,4
+Food,Plant,False,-1
+Genome,Human,False,-1
+Genome,Plant,False,-1
+Human,Plant,False,-1

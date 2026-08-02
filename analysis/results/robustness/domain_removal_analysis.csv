@@ -1,0 +1,7 @@
+removed_domain,nodes_remaining,edges_remaining,components
+domain::Plant,101,138,14
+domain::Human,101,140,3
+domain::Environmental,101,137,15
+domain::Animal,101,136,14
+domain::Food,101,126,22
+domain::Genome,101,146,6

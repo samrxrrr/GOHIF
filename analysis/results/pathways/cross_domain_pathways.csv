@@ -1,0 +1,52 @@
+pathogen,target_domain,path_length,pathway
+Escherichia coli,Human,2,Escherichia coli → GOHIF_DS_0059 → Human
+Escherichia coli,Human,2,Escherichia coli → GOHIF_DS_0056 → Human
+Escherichia coli,Human,2,Escherichia coli → GOHIF_DS_0060 → Human
+Escherichia coli,Environmental,2,Escherichia coli → GOHIF_DS_0024 → Environmental
+Escherichia coli,Animal,2,Escherichia coli → GOHIF_DS_0008 → Animal
+Escherichia coli,Food,4,Escherichia coli → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0028 → Food
+Escherichia coli,Food,4,Escherichia coli → GOHIF_DS_0008 → Salmonella → GOHIF_DS_0028 → Food
+Escherichia coli,Food,4,Escherichia coli → GOHIF_DS_0024 → Salmonella → GOHIF_DS_0028 → Food
+Escherichia coli,Food,4,Escherichia coli → GOHIF_DS_0060 → Salmonella → GOHIF_DS_0028 → Food
+Influenza virus,Human,2,Influenza virus → GOHIF_DS_0059 → Human
+Influenza virus,Human,2,Influenza virus → GOHIF_DS_0062 → Human
+Influenza virus,Human,2,Influenza virus → GOHIF_DS_0060 → Human
+Influenza virus,Human,2,Influenza virus → GOHIF_DS_0061 → Human
+Influenza virus,Animal,2,Influenza virus → GOHIF_DS_0008 → Animal
+Influenza virus,Environmental,4,Influenza virus → GOHIF_DS_0059 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Influenza virus,Environmental,4,Influenza virus → GOHIF_DS_0008 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Influenza virus,Environmental,4,Influenza virus → GOHIF_DS_0060 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Influenza virus,Environmental,4,Influenza virus → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0024 → Environmental
+Influenza virus,Environmental,4,Influenza virus → GOHIF_DS_0008 → Salmonella → GOHIF_DS_0024 → Environmental
+Influenza virus,Food,4,Influenza virus → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0028 → Food
+Influenza virus,Food,4,Influenza virus → GOHIF_DS_0008 → Salmonella → GOHIF_DS_0028 → Food
+Influenza virus,Food,4,Influenza virus → GOHIF_DS_0060 → Salmonella → GOHIF_DS_0028 → Food
+Mycobacterium tuberculosis,Human,2,Mycobacterium tuberculosis → GOHIF_DS_0059 → Human
+Mycobacterium tuberculosis,Human,2,Mycobacterium tuberculosis → GOHIF_DS_0060 → Human
+Mycobacterium tuberculosis,Animal,2,Mycobacterium tuberculosis → GOHIF_DS_0008 → Animal
+Mycobacterium tuberculosis,Environmental,4,Mycobacterium tuberculosis → GOHIF_DS_0059 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Mycobacterium tuberculosis,Environmental,4,Mycobacterium tuberculosis → GOHIF_DS_0008 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Mycobacterium tuberculosis,Environmental,4,Mycobacterium tuberculosis → GOHIF_DS_0060 → Escherichia coli → GOHIF_DS_0024 → Environmental
+Mycobacterium tuberculosis,Environmental,4,Mycobacterium tuberculosis → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0024 → Environmental
+Mycobacterium tuberculosis,Environmental,4,Mycobacterium tuberculosis → GOHIF_DS_0008 → Salmonella → GOHIF_DS_0024 → Environmental
+Mycobacterium tuberculosis,Food,4,Mycobacterium tuberculosis → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0028 → Food
+Mycobacterium tuberculosis,Food,4,Mycobacterium tuberculosis → GOHIF_DS_0008 → Salmonella → GOHIF_DS_0028 → Food
+Mycobacterium tuberculosis,Food,4,Mycobacterium tuberculosis → GOHIF_DS_0060 → Salmonella → GOHIF_DS_0028 → Food
+SARS-CoV-2,Human,2,SARS-CoV-2 → GOHIF_DS_0059 → Human
+SARS-CoV-2,Human,2,SARS-CoV-2 → GOHIF_DS_0060 → Human
+SARS-CoV-2,Environmental,4,SARS-CoV-2 → GOHIF_DS_0059 → Escherichia coli → GOHIF_DS_0024 → Environmental
+SARS-CoV-2,Environmental,4,SARS-CoV-2 → GOHIF_DS_0060 → Escherichia coli → GOHIF_DS_0024 → Environmental
+SARS-CoV-2,Environmental,4,SARS-CoV-2 → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0024 → Environmental
+SARS-CoV-2,Environmental,4,SARS-CoV-2 → GOHIF_DS_0060 → Salmonella → GOHIF_DS_0024 → Environmental
+SARS-CoV-2,Animal,4,SARS-CoV-2 → GOHIF_DS_0059 → disease::COVID-19 → GOHIF_DS_0008 → Animal
+SARS-CoV-2,Animal,4,SARS-CoV-2 → GOHIF_DS_0060 → disease::COVID-19 → GOHIF_DS_0008 → Animal
+SARS-CoV-2,Animal,4,SARS-CoV-2 → GOHIF_DS_0059 → disease::Cancer → GOHIF_DS_0008 → Animal
+SARS-CoV-2,Animal,4,SARS-CoV-2 → GOHIF_DS_0060 → disease::Cancer → GOHIF_DS_0008 → Animal
+SARS-CoV-2,Animal,4,SARS-CoV-2 → GOHIF_DS_0059 → disease::Influenza virus → GOHIF_DS_0008 → Animal
+SARS-CoV-2,Food,4,SARS-CoV-2 → GOHIF_DS_0059 → Salmonella → GOHIF_DS_0028 → Food
+SARS-CoV-2,Food,4,SARS-CoV-2 → GOHIF_DS_0060 → Salmonella → GOHIF_DS_0028 → Food
+Salmonella,Human,2,Salmonella → GOHIF_DS_0059 → Human
+Salmonella,Human,2,Salmonella → GOHIF_DS_0060 → Human
+Salmonella,Environmental,2,Salmonella → GOHIF_DS_0024 → Environmental
+Salmonella,Animal,2,Salmonella → GOHIF_DS_0008 → Animal
+Salmonella,Food,2,Salmonella → GOHIF_DS_0028 → Food

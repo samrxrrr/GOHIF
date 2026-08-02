@@ -1,0 +1,13 @@
+pathogen,target_domain,supporting_paths,best_path_length,score
+Influenza virus,Human,4,2,2.0
+Escherichia coli,Human,3,2,1.5
+Mycobacterium tuberculosis,Human,2,2,1.0
+SARS-CoV-2,Human,2,2,1.0
+Salmonella,Human,2,2,1.0
+Influenza virus,Animal,1,2,0.5
+Escherichia coli,Animal,1,2,0.5
+Escherichia coli,Environmental,1,2,0.5
+Mycobacterium tuberculosis,Animal,1,2,0.5
+Salmonella,Animal,1,2,0.5
+Salmonella,Environmental,1,2,0.5
+Salmonella,Food,1,2,0.5
