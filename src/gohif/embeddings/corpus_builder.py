@@ -1,53 +1,58 @@
-"""
-GOHIF Corpus Builder
-Builds a unified textual corpus from artifact JSON files.
-"""
-
 from pathlib import Path
 import json
 
-ARTIFACT_DIR = Path("/mnt/g/My Drive/DATASETS/_artifacts")
-OUTPUT_FILE = Path("processed/corpus/corpus.jsonl")
+ARTIFACTS = Path("/mnt/g/My Drive/DATASETS/_artifacts")
+OUT = Path("processed/corpus/corpus.jsonl")
 
-OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+OUT.parent.mkdir(parents=True, exist_ok=True)
 
 count = 0
 
-with OUTPUT_FILE.open("w", encoding="utf-8") as out:
+with open(OUT, "w", encoding="utf-8") as writer:
 
-    for file in sorted(ARTIFACT_DIR.glob("*.json")):
+    for file in sorted(ARTIFACTS.glob("*.json")):
 
         try:
-            obj = json.loads(file.read_text(encoding="utf-8"))
 
-            dataset = obj.get("dataset_id","")
+            with open(file, encoding="utf-8") as fp:
+                obj = json.load(fp)
 
-            title = obj.get("title","")
+            meta = obj.get("metadata", {})
+            entities = obj.get("entities", {})
+            content = obj.get("content", {})
 
-            content = obj.get("content","")
+            text = []
+
+            text.append(meta.get("dataset_name", ""))
+            text.append(meta.get("title", ""))
+            text.append(meta.get("domain", ""))
+            text.append(meta.get("provider", ""))
+
+            for value in entities.values():
+                if isinstance(value, list):
+                    text.extend(str(x) for x in value)
 
             if isinstance(content, dict):
-                content = json.dumps(content)
+                text.append(content.get("title", ""))
+                text.append(content.get("text", ""))
 
-            if isinstance(content, list):
-                content = " ".join(map(str,content))
-
-            text = f"{title}\n{content}"
+            elif isinstance(content, str):
+                text.append(content)
 
             record = {
-                "dataset_id": dataset,
-                "text": text
+                "dataset_id": obj.get("dataset_id"),
+                "text": "\n".join(str(x) for x in text if x)
             }
 
-            out.write(json.dumps(record, ensure_ascii=False) + "\n")
+            writer.write(json.dumps(record, ensure_ascii=False) + "\n")
 
             count += 1
 
         except Exception:
             pass
 
-print("="*70)
-print("GOHIF Corpus Builder")
-print("="*70)
-print("Documents:", count)
-print("Output:", OUTPUT_FILE)
+print("=" * 70)
+print("GOHIF Corpus Built")
+print("=" * 70)
+print("Documents :", count)
+print("Output :", OUT)
