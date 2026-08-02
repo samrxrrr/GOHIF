@@ -1,0 +1,6 @@
+ligand_id,compound_name,target_group
+LIG_0001,Isoniazid,KatG
+LIG_0002,Clavulanic acid,CTX-M
+LIG_0003,Avibactam,CTX-M
+LIG_0004,Colistin,MCR-1
+LIG_0005,EDTA,MCR-1

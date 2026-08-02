@@ -1,0 +1,16 @@
+target_id,ligand_id,compound,binding_affinity_kcal_mol,status
+GOHIF_STRUCT_0001,LIG_0003,Avibactam,-5.545,completed
+GOHIF_STRUCT_0002,LIG_0003,Avibactam,-5.385,completed
+GOHIF_STRUCT_0002,LIG_0002,Clavulanic acid,-4.633,completed
+GOHIF_STRUCT_0002,LIG_0005,EDTA,-4.604,completed
+GOHIF_STRUCT_0001,LIG_0001,Isoniazid,-4.426,completed
+GOHIF_STRUCT_0001,LIG_0002,Clavulanic acid,-4.301,completed
+GOHIF_STRUCT_0002,LIG_0001,Isoniazid,-4.246,completed
+GOHIF_STRUCT_0002,LIG_0004,Colistin,-4.145,completed
+GOHIF_STRUCT_0001,LIG_0004,Colistin,-3.827,completed
+GOHIF_STRUCT_0001,LIG_0005,EDTA,-3.654,completed
+GOHIF_STRUCT_0003,LIG_0001,Isoniazid,0.0,completed
+GOHIF_STRUCT_0003,LIG_0002,Clavulanic acid,0.0,completed
+GOHIF_STRUCT_0003,LIG_0003,Avibactam,0.0,completed
+GOHIF_STRUCT_0003,LIG_0004,Colistin,0.0,completed
+GOHIF_STRUCT_0003,LIG_0005,EDTA,0.0,completed

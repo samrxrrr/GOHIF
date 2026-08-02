@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+  <plipversion>3.0.1</plipversion>
+  <bindingsite id="1" has_interactions="False">
+    <identifiers>
+      <longname>UNL</longname>
+      <ligtype>SMALLMOLECULE</ligtype>
+      <hetid>UNL</hetid>
+      <chain>A</chain>
+      <position>1</position>
+      <composite>False</composite>
+      <members>
+        <member id="1">UNL:A:1</member>
+      </members>
+      <smiles>CC(C)C.[N]CC[C@@H](C(=O)/N=C(/C(=O)[N][C@H](C(=O)[N]CCC(C)C)CC[N])\CC[N]C(=O)/C(=N/C(=O)/C(=N\C(=O)/C(=N\C(=O)C)/CC[N])/CC[N])/[C@H]([O])C)[N]C(=O)[C@H]([C@H]([O])C)[N]C(=O)/C(=N/C(=O)C/C=C\[C@@H](CC)C)/CC[N].[NH]CO</smiles>
+      <inchikey>OSEANATUOBTITF-WLMNUORNSA-N
+</inchikey>
+    </identifiers>
+    <lig_properties>
+      <num_heavy_atoms>81</num_heavy_atoms>
+      <num_hbd>25</num_hbd>
+      <num_unpaired_hbd>25</num_unpaired_hbd>
+      <num_hba>19</num_hba>
+      <num_unpaired_hba>19</num_unpaired_hba>
+      <num_hal>0</num_hal>
+      <num_unpaired_hal>0</num_unpaired_hal>
+      <num_aromatic_rings>0</num_aromatic_rings>
+      <num_rotatable_bonds>43</num_rotatable_bonds>
+      <molweight>1133.259240000001</molweight>
+      <logp>-1.381899999999994</logp>
+    </lig_properties>
+    <interacting_chains/>
+    <bs_residues/>
+    <interactions>
+      <hydrophobic_interactions/>
+      <hydrogen_bonds/>
+      <water_bridges/>
+      <salt_bridges/>
+      <pi_stacks/>
+      <pi_cation_interactions/>
+      <halogen_bonds/>
+      <metal_complexes/>
+    </interactions>
+    <mappings>
+      <smiles_to_pdb>81:1,43:2,22:3,26:4,48:5,52:6,53:7,79:8,16:9,41:10,13:11,38:12,29:13,35:14,17:15,44:16,80:17,14:18,42:19,40:20,15:21,11:22,27:23,12:24,37:25,39:26,28:27,31:28,36:29,30:30,54:38,10:39,9:40,8:42,78:43,55:44,56:45,57:47,77:48,61:49,62:50,63:52,73:53,64:54,65:55,66:57,67:58,68:59,69:60,72:61,70:62,71:63,74:64,75:65,76:66,58:69,60:70,59:71,7:73,6:74,5:75,32:78,34:79,33:80,49:82,50:83,51:84,45:87,46:88,47:89,23:92,24:93,25:94,1:97,2:98,3:99,4:100,18:101,19:102,20:103,21:104</smiles_to_pdb>
+    </mappings>
+  </bindingsite>
+  <date_of_creation>2026/08/02</date_of_creation>
+  <citation_information>Schake,P. Bolz,SN. et al. PLIP 2025: introducing protein–protein interactions to the protein–ligand interaction profiler. Nucl. Acids Res. (10 May 2025), gkaf361. doi: 10.1093/nar/gkaf361</citation_information>
+  <maintainer_information>PharmAI GmbH (2020-2021) - www.pharm.ai - hello@pharm.ai</maintainer_information>
+  <mode>default</mode>
+  <pdbid>GOHIF_STRUCT_0001_LIG_0004_PROTEIN</pdbid>
+  <model>1</model>
+  <filetype>PDB</filetype>
+  <pdbfile>analysis/drug_discovery/interactions/plip_results/plipfixed.GOHIF_STRUCT_0001_LIG_0004_k_tycdtd.pdb</pdbfile>
+  <pdbfixes>True</pdbfixes>
+  <filename>plipfixed.GOHIF_STRUCT_0001_LIG_0004_k_tycdtd.pdb</filename>
+  <excluded_ligands/>
+  <covlinkages/>
+</report>
