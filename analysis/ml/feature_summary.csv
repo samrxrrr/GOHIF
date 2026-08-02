@@ -1,0 +1,10 @@
+feature,missing_values,unique_values
+entity,0,101
+node_id,0,102
+entity_type,0,7
+domain_count,0,2
+dataset_count,0,12
+degree,0,11
+betweenness,0,30
+pathway_count,0,11
+evidence_score,0,1

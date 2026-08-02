@@ -1,0 +1,16 @@
+entity,AI_priority_probability,explanation
+Salmonella,1.0,Broad One Health domain connectivity; Strong multi-dataset evidence support; High network bridge importance; Extensive knowledge graph connectivity
+Escherichia coli,1.0,Broad One Health domain connectivity; Strong multi-dataset evidence support; High network bridge importance; Extensive knowledge graph connectivity
+COVID-19,1.0,Strong multi-dataset evidence support; Extensive knowledge graph connectivity
+Tuberculosis,1.0,Strong multi-dataset evidence support; Extensive knowledge graph connectivity
+Influenza virus,1.0,Strong multi-dataset evidence support; Extensive knowledge graph connectivity
+Cancer,1.0,Strong multi-dataset evidence support; Extensive knowledge graph connectivity
+Influenza virus,1.0,Strong multi-dataset evidence support; Extensive knowledge graph connectivity
+Mycobacterium tuberculosis,0.875,Strong multi-dataset evidence support
+Homo sapiens,0.125,Extensive knowledge graph connectivity
+Malaria,0.095,Extensive knowledge graph connectivity
+Rattus norvegicus,0.055,Strong multi-dataset evidence support
+Gallus gallus,0.055,Strong multi-dataset evidence support
+Bos taurus,0.0,
+SARS-CoV-2,0.0,
+EGFR,0.0,

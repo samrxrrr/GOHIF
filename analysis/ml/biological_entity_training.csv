@@ -1,0 +1,16 @@
+entity,node_id,entity_type,domain_count,dataset_count,degree,betweenness,pathway_count,evidence_score,priority_label
+Salmonella,pathogen::Salmonella,Pathogen,4,61,5,0.2779244475213374,5,311.8135651952063,1
+Escherichia coli,pathogen::Escherichia coli,Pathogen,3,38,5,0.0696079664433662,5,121.93530817454376,1
+COVID-19,disease::COVID-19,Disease,2,26,6,0.0160508193032664,6,52.83464260376986,1
+Tuberculosis,disease::Tuberculosis,Disease,2,26,6,0.0160508193032664,6,52.83464260376986,1
+Influenza virus,pathogen::Influenza virus,Pathogen,2,26,5,0.0109874577958834,5,52.57134780538594,1
+Cancer,disease::Cancer,Disease,2,26,5,0.0109874577958834,5,52.57134780538594,1
+Influenza virus,disease::Influenza virus,Disease,2,26,5,0.0109874577958834,5,52.57134780538594,1
+Mycobacterium tuberculosis,pathogen::Mycobacterium tuberculosis,Pathogen,2,26,3,0.0027252086875092,3,52.14171085175049,1
+Rattus norvegicus,species::Rattus norvegicus,Species,1,24,1,0.0,1,24.0,0
+Gallus gallus,species::Gallus gallus,Species,1,22,1,0.0,1,22.0,0
+Homo sapiens,species::Homo sapiens,Species,1,14,10,0.038062629686063,10,14.532876815604885,0
+Malaria,disease::Malaria,Disease,1,14,5,0.0051978794545516,5,14.072770312363724,0
+Bos taurus,species::Bos taurus,Species,1,14,1,0.0,1,14.0,0
+SARS-CoV-2,pathogen::SARS-CoV-2,Pathogen,1,13,2,1.65016501650165e-05,2,13.000214521452143,0
+EGFR,gene::EGFR,Gene,1,12,2,1.980198019801981e-05,2,12.000237623762375,0
