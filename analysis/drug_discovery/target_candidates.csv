@@ -1,0 +1,6 @@
+target_id,entity,pathogen,gene,protein,network_score,evidence_score,essentiality_score,druggability_score,structural_availability,final_target_score
+GOHIF_TARGET_0001,Salmonella,Salmonella,NA,NA,1.389622237606687,244,0,0,0,245.3896222376067
+GOHIF_TARGET_0002,Escherichia coli,Escherichia coli,NA,NA,0.348039832216831,114,0,0,0,114.34803983221683
+GOHIF_TARGET_0003,Influenza virus,Influenza virus,NA,NA,0.054937288979417,52,0,0,0,52.05493728897942
+GOHIF_TARGET_0004,Mycobacterium tuberculosis,Mycobacterium tuberculosis,NA,NA,0.0081756260625276,52,0,0,0,52.008175626062524
+GOHIF_TARGET_0005,SARS-CoV-2,SARS-CoV-2,NA,NA,3.3003300330033e-05,13,0,0,0,13.00003300330033
