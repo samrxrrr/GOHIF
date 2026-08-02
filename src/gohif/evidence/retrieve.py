@@ -77,7 +77,7 @@ while True:
 
                 preview=obj["content"].get("text","")
 
-            elif isinstance(obj["content"],str"):
+            elif isinstance(obj["content"], str):
 
                 preview=obj["content"]
 
