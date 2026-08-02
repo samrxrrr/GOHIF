@@ -1,67 +1,80 @@
 from pathlib import Path
 import json
+from difflib import SequenceMatcher
 
 ARTIFACTS = Path("/mnt/g/My Drive/DATASETS/_artifacts")
 
 datasets=[]
 
 for file in sorted(ARTIFACTS.glob("*.json")):
-
     with open(file,encoding="utf-8") as f:
         datasets.append(json.load(f))
 
 print("="*70)
-print("GOHIF Interactive Query Engine")
+print("GOHIF Semantic Query Engine v2")
 print("Type 'exit' to quit")
 print("="*70)
 
 while True:
 
-    query=input("\nGOHIF> ").strip()
+    query=input("\nGOHIF> ").strip().lower()
 
-    if query.lower() in ("exit","quit"):
+    if query in ("exit","quit"):
         break
-
-    query=query.lower()
 
     hits=[]
 
     for ds in datasets:
 
-        score=0
+        searchable=[]
 
         meta=ds["metadata"]
         ent=ds["entities"]
 
-        searchable=[]
+        searchable.extend([
+            meta.get("dataset_name",""),
+            meta.get("title",""),
+            meta.get("provider",""),
+            meta.get("domain","")
+        ])
 
-        searchable.append(meta.get("dataset_name",""))
-        searchable.append(meta.get("title",""))
-        searchable.append(meta.get("provider",""))
-        searchable.append(meta.get("domain",""))
+        for values in ent.values():
+            searchable.extend(values)
 
-        for field in ent.values():
-            searchable.extend(field)
+        best=0
 
-        text=" ".join(map(str,searchable)).lower()
+        for item in searchable:
 
-        if query in text:
-            score=text.count(query)
+            text=str(item).lower()
 
-        if score>0:
-            hits.append((score,ds))
+            if query in text:
+                score=100
+            else:
+                score=int(
+                    SequenceMatcher(
+                        None,
+                        query,
+                        text
+                    ).ratio()*100
+                )
+
+            if score>best:
+                best=score
+
+        if best>=60:
+            hits.append((best,ds))
 
     hits.sort(reverse=True,key=lambda x:x[0])
 
     print("\nMatches:",len(hits))
 
-    for score,ds in hits[:10]:
+    for score,ds in hits[:15]:
 
-        print("-"*60)
-        print("Dataset :",ds["dataset_id"])
-        print("Name    :",ds["metadata"].get("dataset_name"))
-        print("Domain  :",ds["metadata"].get("domain"))
-        print("Provider:",ds["metadata"].get("provider"))
-        print("Score   :",score)
+        print("-"*65)
+        print("Score    :",score)
+        print("Dataset  :",ds["dataset_id"])
+        print("Name     :",ds["metadata"].get("dataset_name"))
+        print("Domain   :",ds["metadata"].get("domain"))
+        print("Provider :",ds["metadata"].get("provider"))
 
-print("\nSession Finished.")
+print("\nSession finished.")
