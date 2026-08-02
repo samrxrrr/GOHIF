@@ -12,6 +12,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from src.gohif.metadata.extractors.generic_extractor import GenericExtractor
 from src.gohif.metadata.extractors.csv_extractor import CSVExtractor
 from src.gohif.utils.logging.logger import get_logger
+from src.gohif.manifest.processing_manifest import ProcessingManifest
 
 
 class MetadataManager:
@@ -28,17 +29,22 @@ class MetadataManager:
 
         self.output_dir.mkdir(exist_ok=True)
 
+        self.manifest = ProcessingManifest(
+            self.output_dir / "processing_manifest.json"
+        )
+
         self.processed = 0
         self.failed = 0
+        self.skipped = 0
 
-    def choose_extractor(self, path: Path):
+    def choose_extractor(self, path):
 
         if path.suffix.lower() == ".csv":
             return CSVExtractor()
 
         return GenericExtractor()
 
-    def process_file(self, file: Path):
+    def process_file(self, file):
 
         extractor = self.choose_extractor(file)
 
@@ -51,7 +57,7 @@ class MetadataManager:
             self.failed += 1
 
             self.logger.exception(
-                "Failed extracting metadata from %s",
+                "Failed extracting %s",
                 file,
             )
 
@@ -64,6 +70,17 @@ class MetadataManager:
 
         dataset_id = row["dataset_id"]
 
+        if self.manifest.is_completed(dataset_id):
+
+            self.skipped += 1
+
+            self.logger.info(
+                "Skipping %s (already processed)",
+                dataset_id,
+            )
+
+            return
+
         dataset_path = self.root / row["dataset_path"]
 
         metadata = {
@@ -75,7 +92,10 @@ class MetadataManager:
             "files": [],
         }
 
-        self.logger.info("Processing %s", dataset_id)
+        self.logger.info(
+            "Processing %s",
+            dataset_id,
+        )
 
         if dataset_path.is_file():
 
@@ -110,21 +130,19 @@ class MetadataManager:
                 indent=2,
             )
 
+        self.manifest.mark_completed(dataset_id)
+
         self.processed += 1
 
         self.logger.info(
-            "Finished %s (%d files)",
+            "Finished %s",
             dataset_id,
-            len(metadata["files"]),
         )
 
     def run(self):
 
         self.logger.info("=" * 80)
         self.logger.info("GOHIF Metadata Generation Started")
-        self.logger.info("Catalog : %s", self.catalog)
-        self.logger.info("Output  : %s", self.output_dir)
-        self.logger.info("Started : %s", datetime.now().isoformat())
         self.logger.info("=" * 80)
 
         with open(self.catalog, newline="", encoding="utf-8") as f:
@@ -137,23 +155,12 @@ class MetadataManager:
 
         self.logger.info("=" * 80)
         self.logger.info("Metadata Generation Completed")
-        self.logger.info(
-            "Datasets processed : %d",
-            self.processed,
-        )
-        self.logger.info(
-            "Extraction errors  : %d",
-            self.failed,
-        )
-        self.logger.info(
-            "Finished : %s",
-            datetime.now().isoformat(),
-        )
+        self.logger.info("Processed : %d", self.processed)
+        self.logger.info("Skipped   : %d", self.skipped)
+        self.logger.info("Failed    : %d", self.failed)
         self.logger.info("=" * 80)
 
 
 if __name__ == "__main__":
 
-    manager = MetadataManager()
-
-    manager.run()
+    MetadataManager().run()
