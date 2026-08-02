@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import chardet
 
-from src.gohif.metadata.extractors.generic_extractor import GenericExtractor
+from gohif.metadata.extractors.generic_extractor import GenericExtractor
 
 
 class CSVExtractor(GenericExtractor):

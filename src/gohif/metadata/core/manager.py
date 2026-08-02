@@ -9,10 +9,10 @@ PROJECT_ROOT = Path(__file__).resolve().parents[4]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.gohif.metadata.extractors.generic_extractor import GenericExtractor
-from src.gohif.metadata.extractors.csv_extractor import CSVExtractor
-from src.gohif.utils.logging.logger import get_logger
-from src.gohif.manifest.processing_manifest import ProcessingManifest
+from gohif.metadata.extractors.generic_extractor import GenericExtractor
+from gohif.metadata.extractors.csv_extractor import CSVExtractor
+from gohif.utils.logging.logger import get_logger
+from gohif.manifest.processing_manifest import ProcessingManifest
 
 
 class MetadataManager:

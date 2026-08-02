@@ -1,6 +1,6 @@
 from pathlib import Path
 from datetime import datetime
-from src.gohif.metadata.core.base import MetadataExtractor
+from gohif.metadata.core.base import MetadataExtractor
 
 class GenericExtractor(MetadataExtractor):
 

@@ -31,3 +31,10 @@ processed/
 
 # Metadata generated in Google Drive
 *.log
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+__pycache__/
+*.pyc
