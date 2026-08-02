@@ -11,11 +11,11 @@ ids = json.load(open("processed/retrieval/metadata.json"))
 
 metadata_cache = {}
 
-for f in ROOT.joinpath("_metadata_semantic").glob("*.json"):
+for f in ROOT.joinpath("_artifacts").glob("*.json"):
     try:
         obj = json.load(open(f,encoding="utf-8"))
         metadata_cache[obj["dataset_id"]] = obj
-    except:
+    except Exception:
         pass
 
 print("="*72)

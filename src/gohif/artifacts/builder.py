@@ -4,6 +4,7 @@ import uuid
 
 from gohif.artifacts.artifact import Artifact
 from gohif.artifacts.registry import ArtifactRegistry
+from gohif.extraction.document_extractor import DocumentExtractor
 
 
 INPUT = Path("/mnt/g/My Drive/DATASETS/_metadata_semantic")
@@ -14,6 +15,7 @@ class ArtifactBuilder:
     def __init__(self):
 
         self.registry = ArtifactRegistry()
+        self.extractor = DocumentExtractor()
 
     def build(self, metadata_file):
 
@@ -35,7 +37,11 @@ class ArtifactBuilder:
 
         artifact.metadata = meta
 
-        artifact.content["title"] = meta.get("title","")
+        
+        extracted = self.extractor.extract(meta["dataset_path"])
+
+        artifact.content = extracted
+
 
         artifact.entities["genes"] = meta.get("genes",[])
 
