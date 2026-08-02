@@ -1,0 +1,4 @@
+source,amr_gene_x,protein,pathogen,drug_class,resistance_mechanism_x,sequence_identity,coverage,confidence,integrated_target_score,amr_gene_y,resistance_mechanism_y,amr_risk_score,amr_gene_priority_score
+TEST,mcr-1,MCR phosphoethanolamine transferase,Salmonella,Colistin,Lipid A modification,100,100,high,85.74740555940166,,,85.74740555940166,85.74740555940166
+TEST,blaCTX-M,CTX-M beta-lactamase,Escherichia coli,Beta-lactam,ESBL production,100,100,high,39.98700995805421,,,39.98700995805421,39.98700995805421
+TEST,katG,Catalase-peroxidase,Mycobacterium tuberculosis,Isoniazid,Drug activation alteration,100,100,medium,18.20204390651563,,,18.20204390651563,12.741430734560941

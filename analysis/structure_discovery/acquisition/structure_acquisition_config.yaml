@@ -1,0 +1,28 @@
+targets:
+
+  - target_id: GOHIF_STRUCT_0001
+    protein: MCR phosphoethanolamine transferase
+    pathogen: Salmonella
+
+  - target_id: GOHIF_STRUCT_0002
+    protein: CTX-M beta-lactamase
+    pathogen: Escherichia coli
+
+  - target_id: GOHIF_STRUCT_0003
+    protein: Catalase-peroxidase
+    pathogen: Mycobacterium tuberculosis
+
+
+databases:
+
+  uniprot:
+    enabled: true
+
+  pdb:
+    enabled: true
+
+
+output:
+
+  structure_directory:
+    analysis/structure_discovery/acquisition/pdb_files

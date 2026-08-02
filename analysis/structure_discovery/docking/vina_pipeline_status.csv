@@ -1,0 +1,4 @@
+target_id,protein,pathogen,vina_status
+GOHIF_STRUCT_0001,MCR phosphoethanolamine transferase,Salmonella,ready
+GOHIF_STRUCT_0002,CTX-M beta-lactamase,Escherichia coli,ready
+GOHIF_STRUCT_0003,Catalase-peroxidase,Mycobacterium tuberculosis,ready
