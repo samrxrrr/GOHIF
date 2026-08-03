@@ -1,0 +1,4 @@
+target_id,receptor,center_x,center_y,center_z,size_x,size_y,size_z
+GOHIF_STRUCT_0001,5GOV.pdbqt,0,0,0,30,30,30
+GOHIF_STRUCT_0002,4HBT.pdbqt,0,0,0,30,30,30
+GOHIF_STRUCT_0003,1U2J.pdbqt,0,0,0,30,30,30

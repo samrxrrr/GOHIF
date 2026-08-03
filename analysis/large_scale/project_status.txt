@@ -1,0 +1,15 @@
+GOHIF LARGE SCALE DATASET
+
+Sources
+-------
+CARD
+ResFinder
+NCBI AMR
+WHO Priority Pathogens
+
+Status
+------
+CARD        pending
+ResFinder   pending
+NCBI        pending
+WHO         pending

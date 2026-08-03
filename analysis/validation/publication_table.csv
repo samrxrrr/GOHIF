@@ -1,0 +1,11 @@
+compound,pathogen,binding_affinity_kcal_mol,GOHIF_ADMET_score,GOHIF_final_score_v3
+Clavulanic acid,Salmonella,-4.301,10,56.10324222376067
+Isoniazid,Salmonella,-4.426,9,54.13824222376066
+Avibactam,Salmonella,-5.545,7,50.45156222376067
+EDTA,Salmonella,-3.654,6,47.92208222376066
+Colistin,Salmonella,-3.827,4,43.97052222376066
+Clavulanic acid,Escherichia coli,-4.633,10,37.89204398322168
+Isoniazid,Escherichia coli,-4.246,9,35.783683983221685
+Avibactam,Escherichia coli,-5.385,7,32.102603983221684
+EDTA,Escherichia coli,-4.604,6,29.883923983221685
+Colistin,Escherichia coli,-4.145,4,25.755403983221683

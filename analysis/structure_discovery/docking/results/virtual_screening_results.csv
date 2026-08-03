@@ -1,0 +1,4 @@
+target_id,ligand_id,status,binding_affinity
+GOHIF_STRUCT_0001,LIG_0001,waiting_for_ligand_structure,NA
+GOHIF_STRUCT_0002,LIG_0001,waiting_for_ligand_structure,NA
+GOHIF_STRUCT_0003,LIG_0001,waiting_for_ligand_structure,NA

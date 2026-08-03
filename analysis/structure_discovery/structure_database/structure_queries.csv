@@ -1,0 +1,4 @@
+target_id,protein,pathogen,search_name,uniprot_id,pdb_id,chain,resolution,experimental_method,download_status
+GOHIF_STRUCT_0001,MCR phosphoethanolamine transferase,Salmonella,MCR phosphoethanolamine transferase,,,,,,pending
+GOHIF_STRUCT_0002,CTX-M beta-lactamase,Escherichia coli,CTX-M beta-lactamase,,,,,,pending
+GOHIF_STRUCT_0003,Catalase-peroxidase,Mycobacterium tuberculosis,Catalase-peroxidase,,,,,,pending

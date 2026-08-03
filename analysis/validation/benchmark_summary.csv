@@ -1,0 +1,7 @@
+Metric,Value
+Total drug candidates,10.0
+Unique pathogens,2.0
+Top GOHIF score,56.103
+Mean GOHIF score,41.4
+Median GOHIF score,40.931
+High confidence candidates (>50),3.0

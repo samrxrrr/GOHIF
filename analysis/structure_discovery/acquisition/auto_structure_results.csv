@@ -1,0 +1,4 @@
+target_id,protein,pathogen,pdb_id,pdb_file
+GOHIF_STRUCT_0001,MCR phosphoethanolamine transferase,Salmonella,5GOV,analysis/structure_discovery/acquisition/pdb_files/5GOV.pdb
+GOHIF_STRUCT_0002,CTX-M beta-lactamase,Escherichia coli,4HBT,analysis/structure_discovery/acquisition/pdb_files/4HBT.pdb
+GOHIF_STRUCT_0003,Catalase-peroxidase,Mycobacterium tuberculosis,1U2J,analysis/structure_discovery/acquisition/pdb_files/1U2J.pdb

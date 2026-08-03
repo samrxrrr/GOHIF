@@ -1,0 +1,6 @@
+ligand_id,compound_name,cid,sdf_file,status,pdbqt_file
+LIG_0001,Isoniazid,3767,analysis/structure_discovery/docking/ligand_library/sdf/LIG_0001.sdf,downloaded,analysis/structure_discovery/docking/ligand_library/pdbqt/LIG_0001.pdbqt
+LIG_0002,Clavulanic acid,5280980,analysis/structure_discovery/docking/ligand_library/sdf/LIG_0002.sdf,downloaded,analysis/structure_discovery/docking/ligand_library/pdbqt/LIG_0002.pdbqt
+LIG_0003,Avibactam,9835049,analysis/structure_discovery/docking/ligand_library/sdf/LIG_0003.sdf,downloaded,analysis/structure_discovery/docking/ligand_library/pdbqt/LIG_0003.pdbqt
+LIG_0004,Colistin,5311054,analysis/structure_discovery/docking/ligand_library/sdf/LIG_0004.sdf,downloaded,analysis/structure_discovery/docking/ligand_library/pdbqt/LIG_0004.pdbqt
+LIG_0005,EDTA,6049,analysis/structure_discovery/docking/ligand_library/sdf/LIG_0005.sdf,downloaded,analysis/structure_discovery/docking/ligand_library/pdbqt/LIG_0005.pdbqt

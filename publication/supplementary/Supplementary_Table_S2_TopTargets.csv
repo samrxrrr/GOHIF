@@ -1,0 +1,51 @@
+normalized_gene,organism,drug_class,Resistance_mechanism,GOHIF_priority_score,pdb_count,structure_status
+OXA-48,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,220.0,105,Experimental (PDB)
+CTX-M-14b,Escherichia coli,beta-lactam,Beta-lactamase,86.0,38,Experimental (PDB)
+OXA-24,Acinetobacter baumannii,beta-lactam,Beta-lactamase,70.0,30,Experimental (PDB)
+penA,Neisseria gonorrhoeae,beta-lactam,Beta-lactamase,40.0,15,Experimental (PDB)
+NDM-21,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,40.0,15,Experimental (PDB)
+SMB-1,Serratia marcescens,beta-lactam,Beta-lactamase,28.0,9,Experimental (PDB)
+ACC-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+FOX-4,Escherichia coli,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+VIM-7,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+TEM-94,Escherichia coli,beta-lactam,Beta-lactamase,22.0,6,Experimental (PDB)
+aac(2')-Ib,Providencia stuartii,aminoglycoside,Aminoglycoside-modifying enzyme,21.0,6,Experimental (PDB)
+npmA,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,21.0,6,Experimental (PDB)
+SPM-1,Pseudomonas aeruginosa,beta-lactam,Other,20.0,5,Experimental (PDB)
+vat(E),Staphylococcus aureus,macrolide,Other,18.0,5,Experimental (PDB)
+OXA-57,Burkholderia pseudomallei,beta-lactam,Beta-lactamase,18.0,4,Experimental (PDB)
+TLA-1,Escherichia coli,beta-lactam,Beta-lactamase,18.0,4,Experimental (PDB)
+OXA-13,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+OXA-51,Acinetobacter baumannii,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+OXA-239,Acinetobacter sp. enrichment culture clone 8407,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+VMB-1,Vibrio alginolyticus,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+tet(50),Unknown prokaryotic organism,tetracycline,Efflux pump,14.0,3,Experimental (PDB)
+erm(38),Mycolicibacterium smegmatis,macrolide,Target modification,14.0,3,Experimental (PDB)
+CTX-M-10,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+ADC-25,Acinetobacter baumannii,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+NDM-3,Escherichia coli,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+CTX-M-27,Escherichia coli,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+sgm,Micromonospora zionensis,aminoglycoside,Aminoglycoside-modifying enzyme,13.0,2,Experimental (PDB)
+ant(4')-Ib,Pseudomonas aeruginosa,aminoglycoside,Aminoglycoside-modifying enzyme,13.0,2,Experimental (PDB)
+NDM-4,Escherichia coli,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-231,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+IMP-10,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+CMY-61,Escherichia coli,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+IMP-13,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+VIM-17,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-109,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-82,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+erm(35),Homo sapiens,macrolide,Target modification,12.0,2,Experimental (PDB)
+tet(X6),Chryseobacterium oncorhynchi,tetracycline,Efflux pump,12.0,2,Experimental (PDB)
+OXA-143,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-66,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+kamB,Streptoalloteichus tenebrarius (strain ATCC 17920 / DSM 40477 / JCM 4838 / CBS 697.72 / NBRC 16177 / NCIMB 11028 / NRRL B-12390 / A12253. 1 / ISP 5477),aminoglycoside,Other,11.0,1,Experimental (PDB)
+NDM-15,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+MIR-1,Klebsiella pneumoniae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+NDM-13,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-14,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-1,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-155,Pandoraea sputorum,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-9,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OCH-2,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-3,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate

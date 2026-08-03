@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+  <plipversion>3.0.1</plipversion>
+  <bindingsite id="1" has_interactions="False">
+    <identifiers>
+      <longname>UNL</longname>
+      <ligtype>SMALLMOLECULE</ligtype>
+      <hetid>UNL</hetid>
+      <chain>A</chain>
+      <position>1</position>
+      <composite>False</composite>
+      <members>
+        <member id="1">UNL:A:1</member>
+      </members>
+      <smiles>[O]C(=O)CN(CC(=O)[O])CCN(CC(=O)[O])CC(=O)[O]</smiles>
+      <inchikey>DLPNNYYWFYWTMA-UHFFFAOYSA-N
+</inchikey>
+    </identifiers>
+    <lig_properties>
+      <num_heavy_atoms>20</num_heavy_atoms>
+      <num_hbd>4</num_hbd>
+      <num_unpaired_hbd>4</num_unpaired_hbd>
+      <num_hba>10</num_hba>
+      <num_unpaired_hba>10</num_unpaired_hba>
+      <num_hal>0</num_hal>
+      <num_unpaired_hal>0</num_unpaired_hal>
+      <num_aromatic_rings>0</num_aromatic_rings>
+      <num_rotatable_bonds>11</num_rotatable_bonds>
+      <molweight>288.21088000000003</molweight>
+      <logp>-2.5812000000000004</logp>
+    </lig_properties>
+    <interacting_chains/>
+    <bs_residues/>
+    <interactions>
+      <hydrophobic_interactions/>
+      <hydrogen_bonds/>
+      <water_bridges/>
+      <salt_bridges/>
+      <pi_stacks/>
+      <pi_cation_interactions/>
+      <halogen_bonds/>
+      <metal_complexes/>
+    </interactions>
+    <mappings>
+      <smiles_to_pdb>9:1,4:2,3:3,1:4,2:5,20:6,5:8,7:9,6:10,8:11,10:13,11:14,12:15,14:16,13:17,15:18,16:20,18:21,17:22,19:23</smiles_to_pdb>
+    </mappings>
+  </bindingsite>
+  <date_of_creation>2026/08/02</date_of_creation>
+  <citation_information>Schake,P. Bolz,SN. et al. PLIP 2025: introducing protein–protein interactions to the protein–ligand interaction profiler. Nucl. Acids Res. (10 May 2025), gkaf361. doi: 10.1093/nar/gkaf361</citation_information>
+  <maintainer_information>PharmAI GmbH (2020-2021) - www.pharm.ai - hello@pharm.ai</maintainer_information>
+  <mode>default</mode>
+  <pdbid>GOHIF_STRUCT_0003_LIG_0005_PROTEIN</pdbid>
+  <model>1</model>
+  <filetype>PDB</filetype>
+  <pdbfile>analysis/drug_discovery/interactions/plip_results/plipfixed.GOHIF_STRUCT_0003_LIG_0005_3ixt2l37.pdb</pdbfile>
+  <pdbfixes>True</pdbfixes>
+  <filename>plipfixed.GOHIF_STRUCT_0003_LIG_0005_3ixt2l37.pdb</filename>
+  <excluded_ligands/>
+  <covlinkages/>
+</report>

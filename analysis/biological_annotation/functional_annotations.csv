@@ -1,0 +1,4 @@
+protein,pathogen,accession,gene_symbol,recommended_name,organism,go_terms,keywords,annotation_status
+MCR phosphoethanolamine transferase,Salmonella,A0A222YQC1,mcr-4,,Salmonella sp,GO:0005886; GO:0016776; GO:0009244,Cell inner membrane; Cell membrane; Membrane; Plasmid; Transferase; Transmembrane; Transmembrane helix,completed
+CTX-M beta-lactamase,Escherichia coli,I7AP60,CTX-M-27,Beta-lactamase,Escherichia coli,GO:0008800; GO:0030655; GO:0046677,3D-structure; Antibiotic resistance; Hydrolase; Pyrrolidone carboxylic acid; Signal,completed
+Catalase-peroxidase,Mycobacterium tuberculosis,A0A7G4P2Y6,katG,,Mycobacterium tuberculosis subsp. tuberculosis,GO:0005829; GO:0004096; GO:0020037; GO:0046872; GO:0070301; GO:0042744,Heme; Iron; Metal-binding; Oxidoreductase; Peroxidase,completed

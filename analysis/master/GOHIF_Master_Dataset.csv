@@ -1,0 +1,642 @@
+normalized_gene,organism,drug_class,Resistance_mechanism,GOHIF_priority_score,pdb_count,structure_status
+OXA-48,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,220.0,105,Experimental (PDB)
+CTX-M-14b,Escherichia coli,beta-lactam,Beta-lactamase,86.0,38,Experimental (PDB)
+OXA-24,Acinetobacter baumannii,beta-lactam,Beta-lactamase,70.0,30,Experimental (PDB)
+penA,Neisseria gonorrhoeae,beta-lactam,Beta-lactamase,40.0,15,Experimental (PDB)
+NDM-21,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,40.0,15,Experimental (PDB)
+SMB-1,Serratia marcescens,beta-lactam,Beta-lactamase,28.0,9,Experimental (PDB)
+ACC-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+FOX-4,Escherichia coli,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+VIM-7,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,24.0,7,Experimental (PDB)
+TEM-94,Escherichia coli,beta-lactam,Beta-lactamase,22.0,6,Experimental (PDB)
+aac(2')-Ib,Providencia stuartii,aminoglycoside,Aminoglycoside-modifying enzyme,21.0,6,Experimental (PDB)
+npmA,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,21.0,6,Experimental (PDB)
+SPM-1,Pseudomonas aeruginosa,beta-lactam,Other,20.0,5,Experimental (PDB)
+vat(E),Staphylococcus aureus,macrolide,Other,18.0,5,Experimental (PDB)
+OXA-57,Burkholderia pseudomallei,beta-lactam,Beta-lactamase,18.0,4,Experimental (PDB)
+TLA-1,Escherichia coli,beta-lactam,Beta-lactamase,18.0,4,Experimental (PDB)
+OXA-13,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+OXA-51,Acinetobacter baumannii,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+OXA-239,Acinetobacter sp. enrichment culture clone 8407,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+VMB-1,Vibrio alginolyticus,beta-lactam,Beta-lactamase,16.0,3,Experimental (PDB)
+tet(50),Unknown prokaryotic organism,tetracycline,Efflux pump,14.0,3,Experimental (PDB)
+erm(38),Mycolicibacterium smegmatis,macrolide,Target modification,14.0,3,Experimental (PDB)
+CTX-M-10,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+ADC-25,Acinetobacter baumannii,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+NDM-3,Escherichia coli,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+CTX-M-27,Escherichia coli,beta-lactam,Beta-lactamase,14.0,2,Experimental (PDB)
+sgm,Micromonospora zionensis,aminoglycoside,Aminoglycoside-modifying enzyme,13.0,2,Experimental (PDB)
+ant(4')-Ib,Pseudomonas aeruginosa,aminoglycoside,Aminoglycoside-modifying enzyme,13.0,2,Experimental (PDB)
+NDM-4,Escherichia coli,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-231,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+IMP-10,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+CMY-61,Escherichia coli,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+IMP-13,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+VIM-17,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-109,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-82,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+erm(35),Homo sapiens,macrolide,Target modification,12.0,2,Experimental (PDB)
+tet(X6),Chryseobacterium oncorhynchi,tetracycline,Efflux pump,12.0,2,Experimental (PDB)
+OXA-143,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+OXA-66,Acinetobacter baumannii,beta-lactam,Beta-lactamase,12.0,1,Experimental (PDB)
+kamB,Streptoalloteichus tenebrarius (strain ATCC 17920 / DSM 40477 / JCM 4838 / CBS 697.72 / NBRC 16177 / NCIMB 11028 / NRRL B-12390 / A12253. 1 / ISP 5477),aminoglycoside,Other,11.0,1,Experimental (PDB)
+NDM-15,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+MIR-1,Klebsiella pneumoniae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+NDM-13,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-14,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-1,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-155,Pandoraea sputorum,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-9,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OCH-2,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-3,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-4,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-5,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-6,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-7,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-106,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-151,Pandoraea pnomenusa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-176,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-183,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-184,Campylobacter jejuni,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-185,Campylobacter jejuni,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-192,Brachyspira pilosicoli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-19,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-10,Providencia rettgeri,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-110,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-137,Brachyspira pilosicoli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-112,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-20,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-116,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-121,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-129,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-136,Brachyspira pilosicoli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-107,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-139,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-144,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-111,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+GES-20,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+GES-5,Enterobacter cloacae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+GES-9,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMI-2,Enterobacter asburiae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+IMP-11,Caenorhabditis elegans,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-12,Caenorhabditis elegans,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-15,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-25,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-65,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-4,Xenopus laevis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-9,Enterobacter cloacae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+DHA-10,Morganella morganii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+DHA-1,Klebsiella pneumoniae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+DHA-2,Escherichia coli,beta-lactam,Other,10.0,0,AlphaFold Candidate
+EBR-1,Empedobacter brevis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+FONA-1,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+IMP-6,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FONA-3,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+FONA-4,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+CTX-M-71,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-108,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-2,Caenorhabditis briggsae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-31,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-35,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-3,Gallus gallus,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-164,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-113,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+GES-19,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IND-1,Acyrthosiphon pisum,beta-lactam,Other,10.0,0,AlphaFold Candidate
+KPC-10,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+KPC-15,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+KPC-19,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+KPC-2,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+LEN2,Zymoseptoria tritici (strain CBS 115943 / IPO323),beta-lactam,Other,10.0,0,AlphaFold Candidate
+FOX-7,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FOX-9,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+GES-11,Klebsiella oxytoca,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMP-8,Ectopseudomonas mendocina,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-77,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-79,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-7,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-80,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-83,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-84,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-86,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+erm(F),Streptococcus pneumoniae,macrolide,Target modification,10.0,1,Experimental (PDB)
+OXA-76,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-156,Pandoraea pulmonicola,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-384,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-385,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-386,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-388,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-389,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-390,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-422,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-423,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-435,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-437,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-383,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+mecC,Mammaliicoccus stepanovicii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+mcr-1.19,Klebsiella pneumoniae,colistin,Lipid A modification,10.0,0,AlphaFold Candidate
+mcr-2.2,Escherichia coli,colistin,Lipid A modification,10.0,0,AlphaFold Candidate
+mcr-3.35,Escherichia coli,colistin,Lipid A modification,10.0,0,AlphaFold Candidate
+mcr-4.7,Acinetobacter baumannii,colistin,Lipid A modification,10.0,0,AlphaFold Candidate
+mcr-8,Raoultella ornithinolytica,colistin,Lipid A modification,10.0,0,AlphaFold Candidate
+SHV-191,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-4,Achromobacter sp. sallbros1,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+PER-3,Acinetobacter baumannii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-53,Salmonella enterica subsp. enterica serovar Agona,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-89,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-59,Burkholderia pseudomallei,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+vga(A)LC,Staphylococcus haemolyticus,macrolide,Target modification,10.0,1,Experimental (PDB)
+OXA-71,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-72,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-75,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-440,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-382,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-216,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-22,Ralstonia pickettii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-23,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-251,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-256,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-28,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-2,Plasmid pB10-2,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-439,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-313,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-152,Pandoraea pnomenusa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-153,Pandoraea apista,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-154,Pandoraea sputorum,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-315,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FONA-5,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-157,Pandoraea norimbergensis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-158,Pandoraea sp. Va8523,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-159,Pandoraea sp. HD7676,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-15,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-312,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+otr(C),Shewanella oneidensis (strain ATCC 700550 / JCM 31522 / CIP 106686 / LMG 19005 / NCIMB 14063 / MR-1),tetracycline,Other,10.0,1,Experimental (PDB)
+tet(55),Unknown prokaryotic organism,tetracycline,Efflux pump,10.0,1,Experimental (PDB)
+OXA-314,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-316,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-317,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-32,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-34,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-366,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-371,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-208,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-375,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-376,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-377,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-378,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-379,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-37,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-380,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-381,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-207,Acinetobacter pittii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-374,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-189,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-190,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-19,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-1A,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-206,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-208,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-214,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-29,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-160,Proteus mirabilis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-2,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-3,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-47,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-48,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-49,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-57,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-60,Providencia stuartii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cepA,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+SHV-2a,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-33,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-38,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-42,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-5,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-7,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-89,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-8,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-12,Proteus mirabilis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-183,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SRT-1,Streptococcus troglodytae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+TEM-10,Klebsiella oxytoca,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-115,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-124,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-129,Klebsiella oxytoca,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-130,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-135,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-139,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-17,Capnocytophaga ochracea,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-63,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+VIM-3,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cepA-29,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cepA-44,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cepA-49,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-62,Pandoraea pnomenusa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-63,Brachyspira pilosicoli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cfiA10,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-65,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-68,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-69,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-70,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXY-2-6,Klebsiella oxytoca,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXY-5-2,Klebsiella oxytoca,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-58,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-64,Acinetobacter baumannii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-67,Proteus mirabilis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-68,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-85,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-86,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-91,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TEM-93,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+TMB-1,Achromobacter sp. sallbros1,beta-lactam,Other,10.0,0,AlphaFold Candidate
+TUS-1,Citrobacter werkmanii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+VEB-1,Providencia rettgeri,beta-lactam,Other,10.0,0,AlphaFold Candidate
+VIM-38,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+VHH-1,Vibrio harveyi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+VHW-1,Vibrio harveyi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OXA-9,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+VIM-19,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+VIM-1,Pseudomonas putida,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+VIM-2,Nocardia farcinica,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-63,Citrobacter freundii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-7,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-8b,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-103,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-110,Shigella sp. SH165,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FONA-2,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+CTX-M-112,Shigella sp. SH257,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-113,Shigella sp. SH284,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-123,Shigella sp. 11471,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-2,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-14,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-111,Shigella sp. SH202,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+ampH,Oncorhynchus kisutch,beta-lactam,Target modification,10.0,0,AlphaFold Candidate
+ACC-1b,Hafnia alvei,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+ACC-1c,Hafnia alvei,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+ACC-1d,Hafnia alvei,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+ACC-3,Hafnia alvei,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+B-2,Escherichia phage vB_EcoP_B,beta-lactam,Other,10.0,0,AlphaFold Candidate
+BIL-1,Escherichia coli,beta-lactam,Other,10.0,0,AlphaFold Candidate
+CTX-M-125,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FONA-6,Serratia fonticola,beta-lactam,Other,10.0,0,AlphaFold Candidate
+FOX-2,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FOX-3,Klebsiella oxytoca,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+FOX-6,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-15,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-164,Proteus mirabilis,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-165,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-170,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-17,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-4,Providencia rettgeri,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-24,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+IMI-1,Enterobacter cloacae,beta-lactam,Other,10.0,0,AlphaFold Candidate
+CTX-M-32,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-38,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-3,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-51,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-55,Shigella sp. 62,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-56,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-59,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-49,Citrobacter freundii,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+ROB-1,Glaesserella parasuis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+SHV-119,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-11,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-121,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-129,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-12,Serratia marcescens,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-133,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CKO-1,Citrobacter koseri,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfiA4,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfiA6,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfiA8,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfiA9,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+SHV-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-1b-b,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-25,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-26,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-27,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-168,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CTX-M-2,Vibrio cholerae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-13,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-1,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-28,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+CMY-42,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cfxA2,Prevotella intermedia,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfxA3,Capnocytophaga ochracea,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cfxA,Bacteroides fragilis,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cphA4,Aeromonas allosaccharophila,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cphA5,Aeromonas salmonicida,beta-lactam,Other,10.0,0,AlphaFold Candidate
+SME-2,Serratia marcescens,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cphA7,Aeromonas jandaei,beta-lactam,Other,10.0,0,AlphaFold Candidate
+cphA8,Aeromonas sobria,beta-lactam,Other,10.0,0,AlphaFold Candidate
+hugA,Proteus penneri,beta-lactam,Other,10.0,0,AlphaFold Candidate
+imiS,Aeromonas veronii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+mecC2,Staphylococcus saprophyticus,beta-lactam,Other,10.0,0,AlphaFold Candidate
+SHV-182,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-187,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-188,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-189,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+SHV-18,Klebsiella pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+cphA6,Aeromonas veronii,beta-lactam,Other,10.0,0,AlphaFold Candidate
+aac(3)-Ig,Riemerella anatipestifer,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(3)-Ib,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(3)-Ib-aac(6')-Ib,Acinetobacter pittii,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(6')-33,Pseudomonas aeruginosa,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(2')-Ie,Mycolicibacterium fortuitum,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtH,Klebsiella pneumoniae,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtG,Enterobacter hormaechei,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtE,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtD2,Citrobacter freundii,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtB,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtA,Pseudomonas aeruginosa,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+kgmB,Streptoalloteichus tenebrarius (strain ATCC 17920 / DSM 40477 / JCM 4838 / CBS 697.72 / NBRC 16177 / NCIMB 11028 / NRRL B-12390 / A12253. 1 / ISP 5477),aminoglycoside,Other,9.0,0,AlphaFold Candidate
+grmB,Micromonospora rosea,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+fmrO,Micromonospora olivasterospora,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+armA,Klebsiella pneumoniae,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aph(9)-Ia,Riemerella anatipestifer,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aph(4)-Ia,Anaplasma phagocytophilum (strain HZ),aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aph(3')-XV,Salmonella typhimurium,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+rmtF,Escherichia coli,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+ant(4')-IIb,Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1),aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+ant(3'')-Ii-aac(6')-IId,Salicibibacter cibarius,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aadK,Enterococcus faecium,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadD,Staphylococcus epidermidis,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA8b,Escherichia coli,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA8,Vibrio cholerae,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA7,Salmonella typhimurium,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA6,Escherichia coli,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA5,Escherichia coli,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA4,Escherichia coli,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA3,Plasmid NR79,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA2b,Pseudomonas aeruginosa,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA2,Salmonella typhimurium,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA24,Escherichia coli,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA23,Salmonella enterica subsp. enterica serovar Agona,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA22,Salmonella typhimurium,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA21,Salmonella enterica subsp. enterica serovar Rissen,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA1,Klebsiella pneumoniae,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA17,Aeromonas media,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA16,Vibrio cholerae non-O1/non-O139,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA15,Acinetobacter baumannii,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA14,Proteus mirabilis,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA13,Pseudoalteromonas marina,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA12,Salmonella typhimurium,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA11,Pseudomonas aeruginosa,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA10,Pseudomonas aeruginosa,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aadA1b,Salmonella enterica subsp. enterica serovar Schwarzengrund,aminoglycoside,Other,9.0,0,AlphaFold Candidate
+aacA43,Klebsiella pneumoniae,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(6')-Iaj,Pseudomonas aeruginosa,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+aac(6')-Ia,Acinetobacter baumannii,aminoglycoside,Aminoglycoside-modifying enzyme,9.0,0,AlphaFold Candidate
+tet,Staphylococcus aureus,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tetB(46),Streptococcus gingivalis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tetA(P),Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25),tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tetA(46),Streptococcus lactarius,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(Z),Microbacterium sorbitolivorans,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(Y),Aeromonas bestiarum,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(X4),Acinetobacter towneri,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+erm(B),Haemophilus influenzae,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(A),Haemophilus influenzae,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(50),Cutibacterium acnes,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(47),Helcococcus kunzii,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(45),Mammaliicoccus fleurettii,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(44)v,Staphylococcus xylosus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(44),Staphylococcus saprophyticus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(42),Pasteurella multocida,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(41),Mycobacteroides abscessus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(40),Mycolicibacterium mageritense,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(39),Mycolicibacterium porcinum,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(C),Enterococcus faecalis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(37),Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(33),Mammaliicoccus sciuri,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(32),Streptomyces xinghaiensis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(30),Streptomyces chisholmiae,macrolide,Target modification,8.0,0,AlphaFold Candidate
+cmr,Corynebacterium glutamicum,macrolide,Other,8.0,0,AlphaFold Candidate
+erm(Q),Corynebacterium lipophilum,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(O),Streptococcus suis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(N),Streptococcus pasteurianus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(G),Escherichia coli,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(E),Campylobacter coli,macrolide,Target modification,8.0,0,AlphaFold Candidate
+lnu(B),Staphylococcus aureus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+lnu(A),Staphylococcus argenteus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+lmr(A),Streptomyces viridosporus T7A,macrolide,Other,8.0,0,AlphaFold Candidate
+erm(Z),Streptomyces sp. SR-49,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(X),Corynebacterium diphtheriae,macrolide,Target modification,8.0,0,AlphaFold Candidate
+erm(R),Corynebacterium stercoris,macrolide,Target modification,8.0,0,AlphaFold Candidate
+msr(D),Streptococcus dysgalactiae subsp. equisimilis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+msr(C),Trigonella foenum-graecum,macrolide,Target modification,8.0,0,AlphaFold Candidate
+msr(A),Staphylococcus argenteus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+mph(I),Klebsiella aerogenes,macrolide,Target modification,8.0,0,AlphaFold Candidate
+mph(E),Acinetobacter piscicola,macrolide,Target modification,8.0,0,AlphaFold Candidate
+mph(B),Escherichia coli,macrolide,Target modification,8.0,0,AlphaFold Candidate
+mph(A),Escherichia coli,macrolide,Target modification,8.0,0,AlphaFold Candidate
+mdt(A),Lactococcus garvieae,macrolide,Efflux pump,8.0,0,AlphaFold Candidate
+lsa(B),Staphylococcus epidermidis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+lsa(A),Fructilactobacillus sanfranciscensis (strain TMW 1.1304),macrolide,Target modification,8.0,0,AlphaFold Candidate
+lnu(P),Staphylococcus simulans,macrolide,Target modification,8.0,0,AlphaFold Candidate
+vga(E),Staphylococcus cohnii,macrolide,Target modification,8.0,0,AlphaFold Candidate
+srm(B),Nothobranchius furzeri,macrolide,Other,8.0,0,AlphaFold Candidate
+sal(A),Mammaliicoccus sciuri,macrolide,Other,8.0,0,AlphaFold Candidate
+msr(E),Klebsiella huaxiensis,macrolide,Target modification,8.0,0,AlphaFold Candidate
+tet(X3),Dermacentor variabilis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(X),Parabacteroides faecalis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(W/32/O),Streptococcus suis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(W),Selenomonas ruminantium,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(V),Mycolicibacterium septicum,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(T),Megasphaera elsdenii,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(S),Enterococcus casseliflavus,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(Q),Bacteroides fragilis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(M),Erysipelothrix rhusiopathiae,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(L),bacterium LO337,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(G),Salmonella typhimurium,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(E),bacterium DC28,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(D),bacterium EC25,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(C),Chlamydia suis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(B),Actinobacillus pleuropneumoniae,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(A),Escherichia coli,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(51),Drosophila melanogaster,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(48),Burkholderia latens,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(45),Bacillus sp. 6f,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(44),Campylobacter fetus subsp. fetus,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(41),Escherichia coli,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(40),Clostridiaceae bacterium K10,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(39),Acinetobacter sichuanensis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(36),Bacteroides coprosuis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(35),Vibrio alfacsensis,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(34),Vibrio lentus,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(33),Trueperella pyogenes,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(32),Escherichia coli,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(31),Ignatzschineria cameli,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+tet(30),Devosia ginsengisoli,tetracycline,Efflux pump,8.0,0,AlphaFold Candidate
+erm(43),Mammaliicoccus lentus,macrolide,Target modification,8.0,0,AlphaFold Candidate
+dfrA5,Salmonella enteritidis,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA1,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA26,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA25,Klebsiella pneumoniae,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrK,Staphylococcus aureus (strain MRSA ST398 / isolate S0385),trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA6,Pseudoalteromonas marina,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA7,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA19,Klebsiella pneumoniae,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA17,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB7,Enterobacter cloacae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB78,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB77,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB76,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB75,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB74,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB73,Citrobacter sp. A121,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB72,Citrobacter sp. TR21-24,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB6,Citrobacter sp. A17,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB62,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB61,Citrobacter braakii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB60,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB5,Salmonella berta,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB59,Citrobacter sp. A293,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrB7,Aeromonas hydrophila,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrVC7,Vibrio cholerae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrVC4,Aeromonas caviae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrVC3,Vibrio cholerae non-O1/non-O139,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrVC1,Ralstonia pickettii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS8,Klebsiella pneumoniae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS7,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS4,Klebsiella pneumoniae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS3,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS2,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrS1,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrD2,Salmonella hadar,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrC,Proteus mirabilis,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB9,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB8,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB80,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+sul1,Escherichia coli,sulphonamide,Other,7.0,0,AlphaFold Candidate
+ARR-8,Klebsiella oxytoca,rifampicin,Drug inactivation,7.0,0,AlphaFold Candidate
+ARR-6,Pseudomonas aeruginosa,rifampicin,Drug inactivation,7.0,0,AlphaFold Candidate
+ARR-3,Enterobacter cloacae,rifampicin,Drug inactivation,7.0,0,AlphaFold Candidate
+ARR-2,Klebsiella pneumoniae,rifampicin,Drug inactivation,7.0,0,AlphaFold Candidate
+sul2,Escherichia coli,sulphonamide,Other,7.0,0,AlphaFold Candidate
+fosA,Klebsiella pneumoniae,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosA5,Escherichia coli,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+sul3,Escherichia coli,sulphonamide,Other,7.0,0,AlphaFold Candidate
+qnrB41,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB3,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB38,Klebsiella pneumoniae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+sul4,Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545),sulphonamide,Other,7.0,0,AlphaFold Candidate
+fosK,Acinetobacter soli,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosD,Weissella paramesenteroides ATCC 33313,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosC2,Escherichia coli,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosB5,Halalkalicoccus paucihalophilus,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosB4,Halalkalicoccus paucihalophilus,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosB3,Mycolicibacterium chlorophenolicum,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosB2,Stieleria varia,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosB1,Nonomuraea coxensis DSM 45129,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+qnrB23,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB21,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB1,Enterobacter agglomerans,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB58,Citrobacter portucalensis,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB57,Citrobacter sp. A304,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB56,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB55,Raoultella terrigena,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB53,Klebsiella pneumoniae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB50,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB4,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB48,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB47,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB45,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB44,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB43,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB42,Klebsiella pneumoniae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA3,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA2,Enterobacter hormaechei subsp. steigerwaltii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA1,Klebsiella oxytoca,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB37,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB36,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB34,Citrobacter werkmanii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB33,Citrobacter braakii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB32,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB30,Citrobacter braakii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB2,Salmonella enterica subsp. enterica serovar Bredeney,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB29,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB28,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB27,Citrobacter braakii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB26,Proteus vulgaris,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB25,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB24,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+cfr,Mammaliicoccus sciuri,phenicol,Target modification,7.0,0,AlphaFold Candidate
+cfr(C),Campylobacter coli,phenicol,Target modification,7.0,0,AlphaFold Candidate
+qnrB19,Escherichia coli,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB18,Citrobacter sp. A154,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB17,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB15,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB13,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB12,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB11,Citrobacter freundii,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrB10,Citrobacter sp. TR52-21,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA7,Shewanella algae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA5,Shewanella algae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+qnrA4,Shewanella algae,quinolone,Target protection / alteration,7.0,0,AlphaFold Candidate
+catB8,Morganella sp. IVCFP4,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catB7,Ostertagia ostertagi,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catB3,Acinetobacter baylyi,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+qepA,Salmonella enterica subsp. enterica serovar Indiana,quinolone,Efflux pump,7.0,0,AlphaFold Candidate
+qepA1,Escherichia coli,quinolone,Efflux pump,7.0,0,AlphaFold Candidate
+OqxB,Klebsiella pneumoniae,quinolone,Efflux pump,7.0,0,AlphaFold Candidate
+floR,Proteus mirabilis,phenicol,Other,7.0,0,AlphaFold Candidate
+fexA,Staphylococcus epidermidis,phenicol,Other,7.0,0,AlphaFold Candidate
+cml,Xenopus laevis,phenicol,Other,7.0,0,AlphaFold Candidate
+cmlV,Streptomyces violaceus,phenicol,Other,7.0,0,AlphaFold Candidate
+cmlB1,Bordetella bronchiseptica,phenicol,Other,7.0,0,AlphaFold Candidate
+cmlA1,Klebsiella pneumoniae,phenicol,Other,7.0,0,AlphaFold Candidate
+cfr(B),Gordoniibacillus kamchatkensis,phenicol,Target modification,7.0,0,AlphaFold Candidate
+cat,Lates calcarifer,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catS,Salmo salar,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catQ,Clostridium perfringens,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catP,Ajellomyces capsulatus,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catB,Salmo salar,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catB9,Vibrio cholerae,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+optrA,Enterococcus faecalis,oxazolidinone,Other,7.0,0,AlphaFold Candidate
+catB2,Salmonella enterica subsp. enterica serovar Schwarzengrund,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catB10,Pseudomonas aeruginosa,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catA3,Helianthus annuus,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catA2,Acinetobacter lwoffii,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+catA1,Burkholderia sp. (strain TH2),phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+cat86,Bacillus pumilus,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+cat(pC221),Staphylococcus aureus,phenicol,Drug inactivation,7.0,0,AlphaFold Candidate
+fosA4,Escherichia coli,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosA3,Klebsiella aerogenes,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosA2,Enterobacter cloacae,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+CmlA9,Klebsiella pneumoniae,phenicol,Other,7.0,0,AlphaFold Candidate
+CmlA7,Klebsiella pneumoniae,phenicol,Other,7.0,0,AlphaFold Candidate
+CmlA10,Ralstonia mannitolilytica,phenicol,Other,7.0,0,AlphaFold Candidate
+fusB,Staphylococcus haemolyticus,fusidicacid,Target protection / alteration,7.0,0,AlphaFold Candidate
+fos,Pan troglodytes,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosY,Staphylococcus aureus,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+fosL1,Salmo trutta,fosfomycin,Drug inactivation,7.0,0,AlphaFold Candidate
+nimF,Phocaeicola vulgatus,nitroimidazole,Other,7.0,0,AlphaFold Candidate
+NarA,Clostridium perfringens,misc,Other,7.0,0,AlphaFold Candidate
+dfrA13,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA12,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA10,Klebsiella pneumoniae,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA32,Salmonella enterica,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+bleO,Geobacillus stearothermophilus,glycopeptide,Drug inactivation,7.0,0,AlphaFold Candidate
+fusC,Burkholderia cepacia,fusidicacid,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA16,Aeromonas salmonicida,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA15,Vibrio cholerae non-O1/non-O139,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA14,Laribacter hongkongensis,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrG,Enterococcus faecalis,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrE,Exiguobacterium aurantiacum,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrD,Staphylococcus haemolyticus,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA30,Klebsiella sp. MB45,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrB6,Salmonella infantis,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrB5,Pseudomonas aeruginosa,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrB4,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA29,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA28,Aeromonas hydrophila,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA27,Klebsiella pneumoniae,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA34,Salmonella enterica,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA35,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA24,Escherichia coli,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA23,Salmonella typhimurium,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA21,Salmonella enterica subsp. enterica serovar Livingstone,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA20,Pasteurella multocida,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate
+dfrA8,Serratia marcescens,trimethoprim,Target protection / alteration,7.0,0,AlphaFold Candidate

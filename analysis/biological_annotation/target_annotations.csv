@@ -1,0 +1,4 @@
+amr_gene,protein,pathogen,drug_class,essentiality_score,druggability_score,structure_available,GOHIF_AMR_score,final_target_score,uniprot_id,gene_symbol,protein_name,organism,protein_family,molecular_function,biological_process,cellular_component,go_terms,kegg_pathway,resistance_mechanism,subcellular_location,essential_gene,virulence_factor,literature_support,annotation_status
+mcr-1,MCR phosphoethanolamine transferase,Salmonella,Colistin,0,0,0,85.74740555940166,42.87370277970083,,,,,,,,,,,,,,,,pending
+blaCTX-M,CTX-M beta-lactamase,Escherichia coli,Beta-lactam,0,0,0,39.98700995805421,19.993504979027104,,,,,,,,,,,,,,,,pending
+katG,Catalase-peroxidase,Mycobacterium tuberculosis,Isoniazid,0,0,0,12.74143073456094,6.37071536728047,,,,,,,,,,,,,,,,pending

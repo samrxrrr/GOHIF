@@ -1,0 +1,9 @@
+Metric,Value
+Drug candidates,10.0
+Prioritized proteins,641.0
+Experimental structures,45.0
+AlphaFold candidates,596.0
+Mean GOHIF drug score,41.4
+Maximum GOHIF drug score,56.1
+Mean protein priority score,9.83
+Maximum protein priority score,220.0

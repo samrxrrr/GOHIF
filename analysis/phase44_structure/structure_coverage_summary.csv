@@ -1,0 +1,3 @@
+structure_status,Proteins,Percentage
+AlphaFold Candidate,596,92.98
+Experimental (PDB),45,7.02

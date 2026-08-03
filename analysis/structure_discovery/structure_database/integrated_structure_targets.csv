@@ -1,0 +1,4 @@
+target_id,amr_gene,protein,pathogen,structure_quality,docking_ready,uniprot_id,pdb_id,experimental_method,resolution
+GOHIF_STRUCT_0001,mcr-1,MCR phosphoethanolamine transferase,Salmonella,0,False,,,,
+GOHIF_STRUCT_0002,blaCTX-M,CTX-M beta-lactamase,Escherichia coli,0,False,,,,
+GOHIF_STRUCT_0003,katG,Catalase-peroxidase,Mycobacterium tuberculosis,0,False,,,,

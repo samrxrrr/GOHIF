@@ -1,0 +1,17 @@
+drug_class,Proteins,MeanPriority
+beta-lactam,322,11.751552795031056
+quinolone,78,7.0
+aminoglycoside,54,9.62962962962963
+macrolide,49,8.489795918367347
+tetracycline,41,8.341463414634147
+trimethoprim,34,7.0
+phenicol,28,7.0
+fosfomycin,16,7.0
+colistin,5,10.0
+sulphonamide,4,7.0
+rifampicin,4,7.0
+fusidicacid,2,7.0
+misc,1,7.0
+glycopeptide,1,7.0
+nitroimidazole,1,7.0
+oxazolidinone,1,7.0

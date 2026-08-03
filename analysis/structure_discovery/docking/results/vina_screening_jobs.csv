@@ -1,0 +1,16 @@
+target_id,receptor,ligand_id,compound,vina_status,binding_affinity
+GOHIF_STRUCT_0001,5GOV.pdbqt,LIG_0001,Isoniazid,ready,pending
+GOHIF_STRUCT_0001,5GOV.pdbqt,LIG_0002,Clavulanic acid,ready,pending
+GOHIF_STRUCT_0001,5GOV.pdbqt,LIG_0003,Avibactam,ready,pending
+GOHIF_STRUCT_0001,5GOV.pdbqt,LIG_0004,Colistin,ready,pending
+GOHIF_STRUCT_0001,5GOV.pdbqt,LIG_0005,EDTA,ready,pending
+GOHIF_STRUCT_0002,4HBT.pdbqt,LIG_0001,Isoniazid,ready,pending
+GOHIF_STRUCT_0002,4HBT.pdbqt,LIG_0002,Clavulanic acid,ready,pending
+GOHIF_STRUCT_0002,4HBT.pdbqt,LIG_0003,Avibactam,ready,pending
+GOHIF_STRUCT_0002,4HBT.pdbqt,LIG_0004,Colistin,ready,pending
+GOHIF_STRUCT_0002,4HBT.pdbqt,LIG_0005,EDTA,ready,pending
+GOHIF_STRUCT_0003,1U2J.pdbqt,LIG_0001,Isoniazid,ready,pending
+GOHIF_STRUCT_0003,1U2J.pdbqt,LIG_0002,Clavulanic acid,ready,pending
+GOHIF_STRUCT_0003,1U2J.pdbqt,LIG_0003,Avibactam,ready,pending
+GOHIF_STRUCT_0003,1U2J.pdbqt,LIG_0004,Colistin,ready,pending
+GOHIF_STRUCT_0003,1U2J.pdbqt,LIG_0005,EDTA,ready,pending

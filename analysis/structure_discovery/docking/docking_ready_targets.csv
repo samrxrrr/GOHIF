@@ -1,0 +1,4 @@
+target_id,protein,pathogen,pdb_id,receptor_file,ligand_library,status
+GOHIF_STRUCT_0001,MCR phosphoethanolamine transferase,Salmonella,,NA,NA,waiting_for_structure
+GOHIF_STRUCT_0002,CTX-M beta-lactamase,Escherichia coli,,NA,NA,waiting_for_structure
+GOHIF_STRUCT_0003,Catalase-peroxidase,Mycobacterium tuberculosis,,NA,NA,waiting_for_structure
