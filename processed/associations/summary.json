@@ -1,0 +1,11 @@
+{
+  "cross_domain_relationships": 14,
+  "domain_pairs": {
+    "Food <-> Human": 2,
+    "Animal <-> Human": 6,
+    "Environmental <-> Human": 3,
+    "Animal <-> Food": 1,
+    "Environmental <-> Food": 1,
+    "Animal <-> Environmental": 1
+  }
+}

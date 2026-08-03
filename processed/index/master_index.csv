@@ -1,0 +1,79 @@
+dataset_id,dataset_name,domain,provider,type,path,genes,proteins,species,diseases,pathogens,countries,keywords
+GOHIF_DS_0015,AMRSN_annual_report_2020.mht,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/AMRSN_annual_report_2020.mht,0,0,0,0,0,0,1
+GOHIF_DS_0069,Arabidopsis_thaliana.TAIR10.dna.chromosome.4.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.4.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0049,FoodData_Central_foundation_food_csv_2024-04-18,Food,,directory,/mnt/g/My Drive/DATASETS/Food/FoodData_Central_foundation_food_csv_2024-04-18,0,0,0,0,0,0,1
+GOHIF_DS_0021,ANSWER DCT_ARG Soil_individual data_v2.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Soil_individual data_v2.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0051,FoodMicrobionet_data,Food,,directory,/mnt/g/My Drive/DATASETS/Food/FoodMicrobionet_data,0,0,0,0,0,0,1
+GOHIF_DS_0023,ANSWER DCT_ARG plant crop_individual data_v2.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG plant crop_individual data_v2.xlsx,0,0,0,0,0,0,1
+GOHIF_DS_0017,ANSWER DCT_ARB Water_individual data_v2.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB Water_individual data_v2.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0075,Production_Crops_Livestock_E_All_Data.zip,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Production_Crops_Livestock_E_All_Data.zip,0,0,0,0,0,0,2
+GOHIF_DS_0004,asf_situation_report_65.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/asf_situation_report_65.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0047,en.openfoodfacts.org.products.csv.gz,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/en.openfoodfacts.org.products.csv.gz,0,0,0,0,0,0,1
+GOHIF_DS_0054,VFDB_setB_pro.fas.gz,Genome,,single_file,/mnt/g/My Drive/DATASETS/Genome/VFDB_setB_pro.fas.gz,0,0,0,0,0,0,0
+GOHIF_DS_0034,FDC_SR_Legacy.zip,Food,U.S. Food and Drug Administration,single_file,/mnt/g/My Drive/DATASETS/Food/FDC_SR_Legacy.zip,0,0,1,0,0,0,1
+GOHIF_DS_0016,ANSWER DCT_ARB AIR_individual data.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB AIR_individual data.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0064,abx_export.xlsx,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/abx_export.xlsx,0,0,1,0,0,0,0
+GOHIF_DS_0052,Antibiotic_resistance_gene.fa.txt,Genome,,single_file,/mnt/g/My Drive/DATASETS/Genome/Antibiotic_resistance_gene.fa.txt,0,0,0,0,0,0,1
+GOHIF_DS_0059,ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf,0,0,1,6,6,0,0
+GOHIF_DS_0041,OFT3.0_export_repository.xlsx,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/OFT3.0_export_repository.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0003,aquapathogenx_template.zip,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/aquapathogenx_template.zip,0,0,0,0,0,0,0
+GOHIF_DS_0058,AMRSN_annual_report_2020.mht,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/AMRSN_annual_report_2020.mht,0,0,1,0,0,0,1
+GOHIF_DS_0036,FoodEx2_catalogues.zip,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/FoodEx2_catalogues.zip,0,0,0,0,0,0,1
+GOHIF_DS_0057,9789240108127-eng.pdf,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/9789240108127-eng.pdf,0,0,1,3,0,0,0
+GOHIF_DS_0012,tmp_export_livestock_1784994695977.csv,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/tmp_export_livestock_1784994695977.csv,0,0,0,0,0,0,1
+GOHIF_DS_0039,INFOSAN_Members_Guide_2020.pdf,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/INFOSAN_Members_Guide_2020.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0025,wc2.1_10m_tmin.zip,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/wc2.1_10m_tmin.zip,0,0,0,0,0,0,0
+GOHIF_DS_0032,FAOSTAT_Crops_Livestock.zip,Food,Food and Agriculture Organization,single_file,/mnt/g/My Drive/DATASETS/Food/FAOSTAT_Crops_Livestock.zip,0,0,0,0,0,0,2
+GOHIF_DS_0037,FoodEx2_record.html,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/FoodEx2_record.html,0,0,0,0,0,0,1
+GOHIF_DS_0035,FMBN_5_1_2_mindata.zip,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/FMBN_5_1_2_mindata.zip,0,0,0,0,0,0,0
+GOHIF_DS_0028,ACN_Annual_Report_2023.pdf,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/ACN_Annual_Report_2023.pdf,0,0,0,0,1,0,0
+GOHIF_DS_0019,ANSWER DCT_ARG AIR_individual data.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG AIR_individual data.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0043,RASFF_reports.html,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/RASFF_reports.html,0,0,0,0,0,0,0
+GOHIF_DS_0008,danmap_2023.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/danmap_2023.pdf,0,0,1,6,4,0,0
+GOHIF_DS_0006,cipars_2018_findings.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/cipars_2018_findings.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0048,FoodData_Central_branded_food_csv_2024-04-18,Food,,directory,/mnt/g/My Drive/DATASETS/Food/FoodData_Central_branded_food_csv_2024-04-18,0,0,0,0,0,0,1
+GOHIF_DS_0033,FDA_iRISK_5.0.html,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/FDA_iRISK_5.0.html,0,0,0,0,0,0,0
+GOHIF_DS_0072,Arabidopsis_thaliana.TAIR10.dna.chromosome.Pt.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.Pt.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0062,WHO-MHP-HPS-EML-2023.02-eng.pdf,Human,World Health Organization,single_file,/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023.02-eng.pdf,1,0,1,5,1,0,0
+GOHIF_DS_0077,plantlst.txt,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/plantlst.txt,0,0,0,0,0,0,1
+GOHIF_DS_0067,Arabidopsis_thaliana.TAIR10.dna.chromosome.2.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.2.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0040,NARMS_NOW.html,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/NARMS_NOW.html,0,0,0,0,0,0,0
+GOHIF_DS_0063,WHO-MHP-HPS-EML-2023.04-eng.xlsx,Human,World Health Organization,single_file,/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023.04-eng.xlsx,0,0,1,0,0,0,0
+GOHIF_DS_0001,WOAH_WAHIS.ReportRetriever-main.zip,Animal,World Health Organization,single_file,/mnt/g/My Drive/DATASETS/Animal/WOAH_WAHIS.ReportRetriever-main.zip,0,0,0,0,0,0,0
+GOHIF_DS_0056,2023-AR-Report-508.pdf,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/2023-AR-Report-508.pdf,0,0,1,0,1,0,0
+GOHIF_DS_0014,woah_amu_8th_report.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/woah_amu_8th_report.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0024,B09585-eng.pdf,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/B09585-eng.pdf,0,0,0,0,2,0,0
+GOHIF_DS_0013,vetlirn_sra_runinfo.csv,Animal,National Center for Biotechnology Information,single_file,/mnt/g/My Drive/DATASETS/Animal/vetlirn_sra_runinfo.csv,0,0,0,0,0,0,0
+GOHIF_DS_0046,agrovoc_releases.html,Food,Food and Agriculture Organization,single_file,/mnt/g/My Drive/DATASETS/Food/agrovoc_releases.html,0,0,0,0,0,0,0
+GOHIF_DS_0065,studies.json,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/studies.json,0,0,1,0,0,0,0
+GOHIF_DS_0045,agrovoc_core.nt.zip,Food,Food and Agriculture Organization,single_file,/mnt/g/My Drive/DATASETS/Food/agrovoc_core.nt.zip,0,0,0,0,0,0,0
+GOHIF_DS_0011,faostat_QCL_normalized.zip,Animal,Food and Agriculture Organization,single_file,/mnt/g/My Drive/DATASETS/Animal/faostat_QCL_normalized.zip,0,0,0,0,0,0,0
+GOHIF_DS_TEST,,,,,,0,0,0,0,0,0,0
+GOHIF_DS_0053,CVM-NARMS-HACCP-1997-2005.xlsx,Genome,,single_file,/mnt/g/My Drive/DATASETS/Genome/CVM-NARMS-HACCP-1997-2005.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0026,wc2.1_2.5m_tmin.zip,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/wc2.1_2.5m_tmin.zip,0,0,0,0,0,0,0
+GOHIF_DS_0018,ANSWER DCT_ARB plant crop_individual data.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB plant crop_individual data.xlsx,0,0,0,0,0,0,1
+GOHIF_DS_0007,countries-data-antibiotic-livestock.zip,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/countries-data-antibiotic-livestock.zip,0,0,0,0,0,0,2
+GOHIF_DS_0070,Arabidopsis_thaliana.TAIR10.dna.chromosome.5.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.5.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0002,adt_rule_qa.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/adt_rule_qa.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0030,Codex_CXC61_AMR_Code_of_Practice.pdf,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/Codex_CXC61_AMR_Code_of_Practice.pdf,0,0,0,0,0,0,1
+GOHIF_DS_0076,data-PHIbase_release_v4.19.zip,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/data-PHIbase_release_v4.19.zip,0,0,0,0,0,0,0
+GOHIF_DS_0027,wc2.1_5m_tmin.zip,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/wc2.1_5m_tmin.zip,0,0,0,0,0,0,0
+GOHIF_DS_0060,ESPAUR-report-2024-to-2025-private-prescribing-update.pdf,Human,,single_file,/mnt/g/My Drive/DATASETS/Human/ESPAUR-report-2024-to-2025-private-prescribing-update.pdf,0,0,1,6,6,0,0
+GOHIF_DS_0061,WHO-MHP-HPS-EML-2023 (1).02-eng.pdf,Human,World Health Organization,single_file,/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023 (1).02-eng.pdf,1,0,1,5,1,0,0
+GOHIF_DS_0029,CIPARS_2021_Annual_Report.pdf,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/CIPARS_2021_Annual_Report.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0066,Arabidopsis_thaliana.TAIR10.dna.chromosome.1.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.1.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0073,PlantVillage-Dataset-master.zip,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/PlantVillage-Dataset-master.zip,0,0,0,0,0,0,1
+GOHIF_DS_0031,EFSA_Zoonoses_Data_Collection.html,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/EFSA_Zoonoses_Data_Collection.html,0,0,0,0,0,0,0
+GOHIF_DS_0020,ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0022,ANSWER DCT_ARG Water_individual data_v2.xlsx,Environmental,,single_file,/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Water_individual data_v2.xlsx,0,0,0,0,0,0,0
+GOHIF_DS_0005,cattle_qtldb.txt,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/cattle_qtldb.txt,0,0,1,0,0,0,1
+GOHIF_DS_0010,esvac_owid.zip,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/esvac_owid.zip,0,0,0,0,0,0,0
+GOHIF_DS_0044,agrovoc_core.nt.gz,Food,Food and Agriculture Organization,single_file,/mnt/g/My Drive/DATASETS/Food/agrovoc_core.nt.gz,0,0,0,0,0,0,0
+GOHIF_DS_0038,INFOSAN_Activity_Report_2020_2021.pdf,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/INFOSAN_Activity_Report_2020_2021.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0068,Arabidopsis_thaliana.TAIR10.dna.chromosome.3.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.3.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0042,OpenFoodToxTX22809_2023.xlsx,Food,,single_file,/mnt/g/My Drive/DATASETS/Food/OpenFoodToxTX22809_2023.xlsx,0,0,0,0,0,0,1
+GOHIF_DS_0071,Arabidopsis_thaliana.TAIR10.dna.chromosome.Mt.fa.gz,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.Mt.fa.gz,0,0,0,0,0,0,0
+GOHIF_DS_0009,en-woah-amu-report-2025-final.pdf,Animal,,single_file,/mnt/g/My Drive/DATASETS/Animal/en-woah-amu-report-2025-final.pdf,0,0,0,0,0,0,0
+GOHIF_DS_0074,Production_Crops_Livestock_E_All_Data (1).zip,Plant,,single_file,/mnt/g/My Drive/DATASETS/Plant/Production_Crops_Livestock_E_All_Data (1).zip,0,0,0,0,0,0,2
+GOHIF_DS_0050,FoodMicrobionet,Food,,directory,/mnt/g/My Drive/DATASETS/Food/FoodMicrobionet,0,0,0,0,0,0,1
+GOHIF_DS_0055,card-data.tar.bz2,Genome,,single_file,/mnt/g/My Drive/DATASETS/Genome/card-data.tar.bz2,0,0,0,0,0,0,0

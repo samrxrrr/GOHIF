@@ -1,0 +1,1556 @@
+{
+  "environmental": [
+    {
+      "dataset": "GOHIF_DS_0015",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0021",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0023",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0017",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0016",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0025",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0019",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0024",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0026",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0018",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0027",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0020",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0022",
+      "field": "domain"
+    }
+  ],
+  "amrsn_annual_report_2020.mht": [
+    {
+      "dataset": "GOHIF_DS_0015",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0015",
+      "field": "title"
+    },
+    {
+      "dataset": "GOHIF_DS_0058",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0058",
+      "field": "title"
+    }
+  ],
+  "amr": [
+    {
+      "dataset": "GOHIF_DS_0015",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0052",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0058",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0007",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0030",
+      "field": "keywords"
+    }
+  ],
+  "plant": [
+    {
+      "dataset": "GOHIF_DS_0069",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0023",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0075",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0075",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0072",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0077",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0077",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0067",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0018",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0070",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0076",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0066",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0073",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0073",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0068",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0071",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0074",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0074",
+      "field": "keywords"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.4.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0069",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0069",
+      "field": "title"
+    }
+  ],
+  "food": [
+    {
+      "dataset": "GOHIF_DS_0049",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0049",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0051",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0051",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0047",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0047",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0041",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0036",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0036",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0039",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0037",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0037",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0035",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0028",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0043",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0048",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0048",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0033",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0040",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0046",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0045",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0030",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0029",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0031",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0044",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0038",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0042",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0042",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0050",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0050",
+      "field": "keywords"
+    }
+  ],
+  "fooddata_central_foundation_food_csv_2024-04-18": [
+    {
+      "dataset": "GOHIF_DS_0049",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0049",
+      "field": "title"
+    }
+  ],
+  "answer dct_arg soil_individual data_v2.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0021",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0021",
+      "field": "title"
+    }
+  ],
+  "foodmicrobionet_data": [
+    {
+      "dataset": "GOHIF_DS_0051",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0051",
+      "field": "title"
+    }
+  ],
+  "answer dct_arg plant crop_individual data_v2.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0023",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0023",
+      "field": "title"
+    }
+  ],
+  "answer dct_arb water_individual data_v2.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0017",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0017",
+      "field": "title"
+    }
+  ],
+  "production_crops_livestock_e_all_data.zip": [
+    {
+      "dataset": "GOHIF_DS_0075",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0075",
+      "field": "title"
+    }
+  ],
+  "livestock": [
+    {
+      "dataset": "GOHIF_DS_0075",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0012",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0007",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0005",
+      "field": "keywords"
+    },
+    {
+      "dataset": "GOHIF_DS_0074",
+      "field": "keywords"
+    }
+  ],
+  "animal": [
+    {
+      "dataset": "GOHIF_DS_0004",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0003",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0012",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0006",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0001",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0014",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0013",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0011",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0007",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0002",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0005",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0010",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0009",
+      "field": "domain"
+    }
+  ],
+  "asf_situation_report_65.pdf": [
+    {
+      "dataset": "GOHIF_DS_0004",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0004",
+      "field": "title"
+    }
+  ],
+  "en.openfoodfacts.org.products.csv.gz": [
+    {
+      "dataset": "GOHIF_DS_0047",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0047",
+      "field": "title"
+    }
+  ],
+  "genome": [
+    {
+      "dataset": "GOHIF_DS_0054",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0052",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0053",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0055",
+      "field": "domain"
+    }
+  ],
+  "vfdb_setb_pro.fas.gz": [
+    {
+      "dataset": "GOHIF_DS_0054",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0054",
+      "field": "title"
+    }
+  ],
+  "u.s. food and drug administration": [
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "provider"
+    }
+  ],
+  "fdc_sr_legacy.zip": [
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "title"
+    }
+  ],
+  "rattus norvegicus": [
+    {
+      "dataset": "GOHIF_DS_0034",
+      "field": "species"
+    }
+  ],
+  "answer dct_arb air_individual data.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0016",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0016",
+      "field": "title"
+    }
+  ],
+  "human": [
+    {
+      "dataset": "GOHIF_DS_0064",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0058",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0063",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0056",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0065",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "domain"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "domain"
+    }
+  ],
+  "abx_export.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0064",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0064",
+      "field": "title"
+    }
+  ],
+  "homo sapiens": [
+    {
+      "dataset": "GOHIF_DS_0064",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0058",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0063",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0056",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0065",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "species"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "species"
+    }
+  ],
+  "antibiotic_resistance_gene.fa.txt": [
+    {
+      "dataset": "GOHIF_DS_0052",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0052",
+      "field": "title"
+    }
+  ],
+  "espaur-report-2024-to-2025-private-prescribing-update (1).pdf": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "title"
+    }
+  ],
+  "covid-19": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "diseases"
+    }
+  ],
+  "cancer": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "diseases"
+    }
+  ],
+  "influenza": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "pathogens"
+    }
+  ],
+  "influenza virus": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    }
+  ],
+  "malaria": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "diseases"
+    }
+  ],
+  "tuberculosis": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "diseases"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "diseases"
+    }
+  ],
+  "escherichia coli": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0056",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0024",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    }
+  ],
+  "mycobacterium tuberculosis": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    }
+  ],
+  "sars-cov-2": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    }
+  ],
+  "salmonella": [
+    {
+      "dataset": "GOHIF_DS_0059",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0028",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0024",
+      "field": "pathogens"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "pathogens"
+    }
+  ],
+  "oft3.0_export_repository.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0041",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0041",
+      "field": "title"
+    }
+  ],
+  "aquapathogenx_template.zip": [
+    {
+      "dataset": "GOHIF_DS_0003",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0003",
+      "field": "title"
+    }
+  ],
+  "foodex2_catalogues.zip": [
+    {
+      "dataset": "GOHIF_DS_0036",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0036",
+      "field": "title"
+    }
+  ],
+  "9789240108127-eng.pdf": [
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0057",
+      "field": "title"
+    }
+  ],
+  "tmp_export_livestock_1784994695977.csv": [
+    {
+      "dataset": "GOHIF_DS_0012",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0012",
+      "field": "title"
+    }
+  ],
+  "infosan_members_guide_2020.pdf": [
+    {
+      "dataset": "GOHIF_DS_0039",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0039",
+      "field": "title"
+    }
+  ],
+  "wc2.1_10m_tmin.zip": [
+    {
+      "dataset": "GOHIF_DS_0025",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0025",
+      "field": "title"
+    }
+  ],
+  "food and agriculture organization": [
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0046",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0045",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0011",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0044",
+      "field": "provider"
+    }
+  ],
+  "faostat_crops_livestock.zip": [
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0032",
+      "field": "title"
+    }
+  ],
+  "foodex2_record.html": [
+    {
+      "dataset": "GOHIF_DS_0037",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0037",
+      "field": "title"
+    }
+  ],
+  "fmbn_5_1_2_mindata.zip": [
+    {
+      "dataset": "GOHIF_DS_0035",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0035",
+      "field": "title"
+    }
+  ],
+  "acn_annual_report_2023.pdf": [
+    {
+      "dataset": "GOHIF_DS_0028",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0028",
+      "field": "title"
+    }
+  ],
+  "answer dct_arg air_individual data.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0019",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0019",
+      "field": "title"
+    }
+  ],
+  "rasff_reports.html": [
+    {
+      "dataset": "GOHIF_DS_0043",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0043",
+      "field": "title"
+    }
+  ],
+  "danmap_2023.pdf": [
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "title"
+    }
+  ],
+  "gallus gallus": [
+    {
+      "dataset": "GOHIF_DS_0008",
+      "field": "species"
+    }
+  ],
+  "cipars_2018_findings.pdf": [
+    {
+      "dataset": "GOHIF_DS_0006",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0006",
+      "field": "title"
+    }
+  ],
+  "fooddata_central_branded_food_csv_2024-04-18": [
+    {
+      "dataset": "GOHIF_DS_0048",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0048",
+      "field": "title"
+    }
+  ],
+  "fda_irisk_5.0.html": [
+    {
+      "dataset": "GOHIF_DS_0033",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0033",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.pt.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0072",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0072",
+      "field": "title"
+    }
+  ],
+  "world health organization": [
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0063",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0001",
+      "field": "provider"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "provider"
+    }
+  ],
+  "who-mhp-hps-eml-2023.02-eng.pdf": [
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "title"
+    }
+  ],
+  "egfr": [
+    {
+      "dataset": "GOHIF_DS_0062",
+      "field": "genes"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "genes"
+    }
+  ],
+  "plantlst.txt": [
+    {
+      "dataset": "GOHIF_DS_0077",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0077",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.2.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0067",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0067",
+      "field": "title"
+    }
+  ],
+  "narms_now.html": [
+    {
+      "dataset": "GOHIF_DS_0040",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0040",
+      "field": "title"
+    }
+  ],
+  "who-mhp-hps-eml-2023.04-eng.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0063",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0063",
+      "field": "title"
+    }
+  ],
+  "woah_wahis.reportretriever-main.zip": [
+    {
+      "dataset": "GOHIF_DS_0001",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0001",
+      "field": "title"
+    }
+  ],
+  "2023-ar-report-508.pdf": [
+    {
+      "dataset": "GOHIF_DS_0056",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0056",
+      "field": "title"
+    }
+  ],
+  "woah_amu_8th_report.pdf": [
+    {
+      "dataset": "GOHIF_DS_0014",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0014",
+      "field": "title"
+    }
+  ],
+  "b09585-eng.pdf": [
+    {
+      "dataset": "GOHIF_DS_0024",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0024",
+      "field": "title"
+    }
+  ],
+  "national center for biotechnology information": [
+    {
+      "dataset": "GOHIF_DS_0013",
+      "field": "provider"
+    }
+  ],
+  "vetlirn_sra_runinfo.csv": [
+    {
+      "dataset": "GOHIF_DS_0013",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0013",
+      "field": "title"
+    }
+  ],
+  "agrovoc_releases.html": [
+    {
+      "dataset": "GOHIF_DS_0046",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0046",
+      "field": "title"
+    }
+  ],
+  "studies.json": [
+    {
+      "dataset": "GOHIF_DS_0065",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0065",
+      "field": "title"
+    }
+  ],
+  "agrovoc_core.nt.zip": [
+    {
+      "dataset": "GOHIF_DS_0045",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0045",
+      "field": "title"
+    }
+  ],
+  "faostat_qcl_normalized.zip": [
+    {
+      "dataset": "GOHIF_DS_0011",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0011",
+      "field": "title"
+    }
+  ],
+  "cvm-narms-haccp-1997-2005.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0053",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0053",
+      "field": "title"
+    }
+  ],
+  "wc2.1_2.5m_tmin.zip": [
+    {
+      "dataset": "GOHIF_DS_0026",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0026",
+      "field": "title"
+    }
+  ],
+  "answer dct_arb plant crop_individual data.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0018",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0018",
+      "field": "title"
+    }
+  ],
+  "countries-data-antibiotic-livestock.zip": [
+    {
+      "dataset": "GOHIF_DS_0007",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0007",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.5.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0070",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0070",
+      "field": "title"
+    }
+  ],
+  "adt_rule_qa.pdf": [
+    {
+      "dataset": "GOHIF_DS_0002",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0002",
+      "field": "title"
+    }
+  ],
+  "codex_cxc61_amr_code_of_practice.pdf": [
+    {
+      "dataset": "GOHIF_DS_0030",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0030",
+      "field": "title"
+    }
+  ],
+  "data-phibase_release_v4.19.zip": [
+    {
+      "dataset": "GOHIF_DS_0076",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0076",
+      "field": "title"
+    }
+  ],
+  "wc2.1_5m_tmin.zip": [
+    {
+      "dataset": "GOHIF_DS_0027",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0027",
+      "field": "title"
+    }
+  ],
+  "espaur-report-2024-to-2025-private-prescribing-update.pdf": [
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0060",
+      "field": "title"
+    }
+  ],
+  "who-mhp-hps-eml-2023 (1).02-eng.pdf": [
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0061",
+      "field": "title"
+    }
+  ],
+  "cipars_2021_annual_report.pdf": [
+    {
+      "dataset": "GOHIF_DS_0029",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0029",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.1.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0066",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0066",
+      "field": "title"
+    }
+  ],
+  "plantvillage-dataset-master.zip": [
+    {
+      "dataset": "GOHIF_DS_0073",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0073",
+      "field": "title"
+    }
+  ],
+  "efsa_zoonoses_data_collection.html": [
+    {
+      "dataset": "GOHIF_DS_0031",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0031",
+      "field": "title"
+    }
+  ],
+  "answer dct_arg sewage sludge_individual data_v2.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0020",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0020",
+      "field": "title"
+    }
+  ],
+  "answer dct_arg water_individual data_v2.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0022",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0022",
+      "field": "title"
+    }
+  ],
+  "cattle_qtldb.txt": [
+    {
+      "dataset": "GOHIF_DS_0005",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0005",
+      "field": "title"
+    }
+  ],
+  "bos taurus": [
+    {
+      "dataset": "GOHIF_DS_0005",
+      "field": "species"
+    }
+  ],
+  "esvac_owid.zip": [
+    {
+      "dataset": "GOHIF_DS_0010",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0010",
+      "field": "title"
+    }
+  ],
+  "agrovoc_core.nt.gz": [
+    {
+      "dataset": "GOHIF_DS_0044",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0044",
+      "field": "title"
+    }
+  ],
+  "infosan_activity_report_2020_2021.pdf": [
+    {
+      "dataset": "GOHIF_DS_0038",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0038",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.3.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0068",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0068",
+      "field": "title"
+    }
+  ],
+  "openfoodtoxtx22809_2023.xlsx": [
+    {
+      "dataset": "GOHIF_DS_0042",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0042",
+      "field": "title"
+    }
+  ],
+  "arabidopsis_thaliana.tair10.dna.chromosome.mt.fa.gz": [
+    {
+      "dataset": "GOHIF_DS_0071",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0071",
+      "field": "title"
+    }
+  ],
+  "en-woah-amu-report-2025-final.pdf": [
+    {
+      "dataset": "GOHIF_DS_0009",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0009",
+      "field": "title"
+    }
+  ],
+  "production_crops_livestock_e_all_data (1).zip": [
+    {
+      "dataset": "GOHIF_DS_0074",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0074",
+      "field": "title"
+    }
+  ],
+  "foodmicrobionet": [
+    {
+      "dataset": "GOHIF_DS_0050",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0050",
+      "field": "title"
+    }
+  ],
+  "card-data.tar.bz2": [
+    {
+      "dataset": "GOHIF_DS_0055",
+      "field": "dataset_name"
+    },
+    {
+      "dataset": "GOHIF_DS_0055",
+      "field": "title"
+    }
+  ]
+}

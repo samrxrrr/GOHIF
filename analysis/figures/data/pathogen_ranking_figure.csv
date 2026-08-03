@@ -1,0 +1,6 @@
+pathogen,domains_reached,supporting_datasets,degree,betweenness,evidence_profile
+Salmonella,4,5,5,0.2779244475213374,20
+Escherichia coli,3,5,5,0.0696079664433662,15
+Influenza virus,2,5,5,0.0109874577958834,10
+Mycobacterium tuberculosis,2,3,3,0.0027252086875092,6
+SARS-CoV-2,1,2,2,1.65016501650165e-05,2

@@ -1,0 +1,4 @@
+source,amr_gene,protein,pathogen,drug_class,resistance_mechanism,sequence_identity,coverage,confidence
+TEST,blaCTX-M,CTX-M beta-lactamase,Escherichia coli,Beta-lactam,ESBL production,100,100,high
+TEST,mcr-1,MCR phosphoethanolamine transferase,Salmonella,Colistin,Lipid A modification,100,100,high
+TEST,katG,Catalase-peroxidase,Mycobacterium tuberculosis,Isoniazid,Drug activation alteration,100,100,medium

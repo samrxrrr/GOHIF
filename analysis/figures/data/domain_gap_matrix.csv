@@ -1,0 +1,6 @@
+domain_a,Environmental,Food,Genome,Human,Plant
+Animal,True,True,False,True,False
+Environmental,,True,False,True,False
+Food,,,False,True,False
+Genome,,,,False,False
+Human,,,,,False

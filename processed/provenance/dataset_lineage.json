@@ -1,0 +1,695 @@
+[
+  {
+    "dataset_id": "GOHIF_DS_0001",
+    "dataset_name": "WOAH_WAHIS.ReportRetriever-main.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/WOAH_WAHIS.ReportRetriever-main.zip",
+    "type": "file",
+    "size_bytes": 15194,
+    "sha256": "e3b5dcbd892e393d35ef254aca06e32e709c4257073be18d27e4ce7a9eb5eb3f",
+    "last_modified": "2026-07-25T14:43:42"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0002",
+    "dataset_name": "adt_rule_qa.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/adt_rule_qa.pdf",
+    "type": "file",
+    "size_bytes": 60685,
+    "sha256": "472d7850fae8e9877be998cc4bd2557aeeaf97126de8301843a0ea6b6031e5a9",
+    "last_modified": "2026-07-25T15:09:39"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0003",
+    "dataset_name": "aquapathogenx_template.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/aquapathogenx_template.zip",
+    "type": "file",
+    "size_bytes": 919,
+    "sha256": "a010c8d90e914479739696003d93f2da450b566b8e68141153510f7350149366",
+    "last_modified": "2026-07-25T15:17:55"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0004",
+    "dataset_name": "asf_situation_report_65.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/asf_situation_report_65.pdf",
+    "type": "file",
+    "size_bytes": 146,
+    "sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+    "last_modified": "2026-07-25T15:18:30"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0005",
+    "dataset_name": "cattle_qtldb.txt",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/cattle_qtldb.txt",
+    "type": "file",
+    "size_bytes": 7270,
+    "sha256": "a62c30cde812043d85ac2093c1f2e6dc297f389e497efd1f2e7c5762fc081b86",
+    "last_modified": "2026-07-25T15:17:07"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0006",
+    "dataset_name": "cipars_2018_findings.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/cipars_2018_findings.pdf",
+    "type": "file",
+    "size_bytes": 10100,
+    "sha256": "5f110acd087aa54aab7afbf47315035e68514b740ee047be12793adfbbd2080e",
+    "last_modified": "2026-07-25T15:03:48"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0007",
+    "dataset_name": "countries-data-antibiotic-livestock.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/countries-data-antibiotic-livestock.zip",
+    "type": "file",
+    "size_bytes": 2670,
+    "sha256": "f4cf4675905409d0e8a7606cfb443af004ec149ab3bbf0c5d472bada2a15f8bb",
+    "last_modified": "2026-07-25T14:26:47.758000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0008",
+    "dataset_name": "danmap_2023.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/danmap_2023.pdf",
+    "type": "file",
+    "size_bytes": 14557538,
+    "sha256": "4eb5ea2980e0916338918199ce98debc94d71e2bb6a694e10ab5630c73d19886",
+    "last_modified": "2026-07-25T14:49:28"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0009",
+    "dataset_name": "en-woah-amu-report-2025-final.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/en-woah-amu-report-2025-final.pdf",
+    "type": "file",
+    "size_bytes": 1458901,
+    "sha256": "5715a3632d6d73e35829efdea7de385ad2bd436222a1cca11e99b910cffd17ce",
+    "last_modified": "2026-07-25T14:26:48.126000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0010",
+    "dataset_name": "esvac_owid.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/esvac_owid.zip",
+    "type": "file",
+    "size_bytes": 9997,
+    "sha256": "843f3c7321d23ca45f1d62b51896ca1684168daa0a16b844f9bb56fac944636e",
+    "last_modified": "2026-07-25T14:45:33"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0011",
+    "dataset_name": "faostat_QCL_normalized.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/faostat_QCL_normalized.zip",
+    "type": "file",
+    "size_bytes": 167,
+    "sha256": "446a6087825fa73eadb045e5a2e9e2adf7df241b571228187728191d961dda1f",
+    "last_modified": "2026-07-25T15:04:40"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0012",
+    "dataset_name": "tmp_export_livestock_1784994695977.csv",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/tmp_export_livestock_1784994695977.csv",
+    "type": "file",
+    "size_bytes": 13037982,
+    "sha256": "6e5d0323e7ad30d9a9df00254e30ed08b879c268fc9b584d11dea43b8dc4e5e7",
+    "last_modified": "2026-07-25T15:51:42"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0013",
+    "dataset_name": "vetlirn_sra_runinfo.csv",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/vetlirn_sra_runinfo.csv",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:12:06"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0014",
+    "dataset_name": "woah_amu_8th_report.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Animal/woah_amu_8th_report.pdf",
+    "type": "file",
+    "size_bytes": 146,
+    "sha256": "32f2fa940d4b4fe19aca1e53a24e5aac29c57b7c5ee78588325b87f1b649c864",
+    "last_modified": "2026-07-25T15:10:09"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0015",
+    "dataset_name": "AMRSN_annual_report_2020.mht",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/AMRSN_annual_report_2020.mht",
+    "type": "file",
+    "size_bytes": 1419828,
+    "sha256": "56d4df8606d7cbe56eb9c2f2ed23d1b524f53c54dbc2a771fb553508b457cff4",
+    "last_modified": "2026-07-26T07:24:59.885000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0016",
+    "dataset_name": "ANSWER DCT_ARB AIR_individual data.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB AIR_individual data.xlsx",
+    "type": "file",
+    "size_bytes": 2122035,
+    "sha256": "b1772969768ed3ebe11c72312268de78ce8c8d788d85d7d487e4b2e9761dd7bd",
+    "last_modified": "2026-07-26T07:25:01.596000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0017",
+    "dataset_name": "ANSWER DCT_ARB Water_individual data_v2.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB Water_individual data_v2.xlsx",
+    "type": "file",
+    "size_bytes": 4513765,
+    "sha256": "645b9d58fbb9ebeb1b8a0aa9c6b94824f9bed51e9e761ada916364da6c2beb34",
+    "last_modified": "2026-07-26T07:25:01.248000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0018",
+    "dataset_name": "ANSWER DCT_ARB plant crop_individual data.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARB plant crop_individual data.xlsx",
+    "type": "file",
+    "size_bytes": 2487588,
+    "sha256": "a8659ae8a9e55035f8bd6b0ab66a1136b24e4947a6921a69ba71e4f9f64c3499",
+    "last_modified": "2026-07-26T07:25:01.448000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0019",
+    "dataset_name": "ANSWER DCT_ARG AIR_individual data.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG AIR_individual data.xlsx",
+    "type": "file",
+    "size_bytes": 2845728,
+    "sha256": "5aea997351eb3dab465c3adc7ecfcbdd46b897c73069bf60845fbf30a3cc5fac",
+    "last_modified": "2026-07-26T07:25:00.836000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0020",
+    "dataset_name": "ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Sewage Sludge_individual data_v2.xlsx",
+    "type": "file",
+    "size_bytes": 2732703,
+    "sha256": "8fb5cb7841657973447542855df7b45a84de9a0b2a331a13a7f56de95fc6a5b3",
+    "last_modified": "2026-07-26T07:25:00.474000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0021",
+    "dataset_name": "ANSWER DCT_ARG Soil_individual data_v2.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Soil_individual data_v2.xlsx",
+    "type": "file",
+    "size_bytes": 2720452,
+    "sha256": "f021abe8ac8deea6ee27a2150f1a539b52a078dbd728433fcb421709b79aa352",
+    "last_modified": "2026-07-26T07:24:59.531000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0022",
+    "dataset_name": "ANSWER DCT_ARG Water_individual data_v2.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG Water_individual data_v2.xlsx",
+    "type": "file",
+    "size_bytes": 5886860,
+    "sha256": "c55f6702742fa32aa7f01cb6ddd96872403ceceb932d5726fe8ebe79d151f872",
+    "last_modified": "2026-07-26T07:25:01.038000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0023",
+    "dataset_name": "ANSWER DCT_ARG plant crop_individual data_v2.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/ANSWER DCT_ARG plant crop_individual data_v2.xlsx",
+    "type": "file",
+    "size_bytes": 2805011,
+    "sha256": "23800756640aabae8c708ea850a69c2b6354477f81d1acc0d435d975f72ac569",
+    "last_modified": "2026-07-26T07:25:00.616000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0024",
+    "dataset_name": "B09585-eng.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/B09585-eng.pdf",
+    "type": "file",
+    "size_bytes": 1214653,
+    "sha256": "8a41c8e32f474be911d2bf911ea5d771b4829f1d190cf3fe2dfe70d32e3f4222",
+    "last_modified": "2026-07-26T07:25:01.725000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0025",
+    "dataset_name": "wc2.1_10m_tmin.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/wc2.1_10m_tmin.zip",
+    "type": "file",
+    "size_bytes": 37605037,
+    "sha256": "918edb6cc60786ec3335c544237074fe2ce50c1d83f0fa7bfd47921b26f3df9b",
+    "last_modified": "2026-07-26T07:25:02.138000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0026",
+    "dataset_name": "wc2.1_2.5m_tmin.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/wc2.1_2.5m_tmin.zip",
+    "type": "file",
+    "size_bytes": 450776085,
+    "sha256": "83170a2b0746379f2e17bd263ed9d3e4f686f6c2d6211d2485138e3664aebf1c",
+    "last_modified": "2026-07-26T07:26:57.733000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0027",
+    "dataset_name": "wc2.1_5m_tmin.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Environmental/wc2.1_5m_tmin.zip",
+    "type": "file",
+    "size_bytes": 128562254,
+    "sha256": "5b8fe82d9f6ce82c14e88023fa3cb32f97568b3acf5f6513c454d51d946dc4c2",
+    "last_modified": "2026-07-26T07:25:18.336000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0028",
+    "dataset_name": "ACN_Annual_Report_2023.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Food/ACN_Annual_Report_2023.pdf",
+    "type": "file",
+    "size_bytes": 307987,
+    "sha256": "5ed872dc06c0b9c5a32712ed7021d7452f40e0b1e32e5133840fecc407fa5b0b",
+    "last_modified": "2026-07-25T15:51:00"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0029",
+    "dataset_name": "CIPARS_2021_Annual_Report.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Food/CIPARS_2021_Annual_Report.pdf",
+    "type": "file",
+    "size_bytes": 19263,
+    "sha256": "dcc9c239a2f6eb797823dd282264f29fdecc4f361e873ef5a155dfb02543a143",
+    "last_modified": "2026-07-25T16:02:27"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0030",
+    "dataset_name": "Codex_CXC61_AMR_Code_of_Practice.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Food/Codex_CXC61_AMR_Code_of_Practice.pdf",
+    "type": "file",
+    "size_bytes": 46244,
+    "sha256": "c49bc1922bb75554aac724294e9df0dc831241c10b47116bc7ad3cf735205676",
+    "last_modified": "2026-07-25T15:41:17"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0031",
+    "dataset_name": "EFSA_Zoonoses_Data_Collection.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/EFSA_Zoonoses_Data_Collection.html",
+    "type": "file",
+    "size_bytes": 84638,
+    "sha256": "991c62e2cfc35375725978da83d59558e106d06c011e49ae4e4db132700e21b4",
+    "last_modified": "2026-07-25T16:01:58"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0032",
+    "dataset_name": "FAOSTAT_Crops_Livestock.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FAOSTAT_Crops_Livestock.zip",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:25:25"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0033",
+    "dataset_name": "FDA_iRISK_5.0.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FDA_iRISK_5.0.html",
+    "type": "file",
+    "size_bytes": 13162,
+    "sha256": "fe845deebcac03e97dedde7e137e3ddd6b8e33ff5c43843fbfe6471836529bb6",
+    "last_modified": "2026-07-25T15:52:08"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0034",
+    "dataset_name": "FDC_SR_Legacy.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FDC_SR_Legacy.zip",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:27:11"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0035",
+    "dataset_name": "FMBN_5_1_2_mindata.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FMBN_5_1_2_mindata.zip",
+    "type": "file",
+    "size_bytes": 273922877,
+    "sha256": "a4560e89553b5ea7bc947b12bdb3911ea65584cd4fe132164e50cb4c5b131513",
+    "last_modified": "2026-07-25T15:46:46"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0036",
+    "dataset_name": "FoodEx2_catalogues.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodEx2_catalogues.zip",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:40:42"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0037",
+    "dataset_name": "FoodEx2_record.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodEx2_record.html",
+    "type": "file",
+    "size_bytes": 105751,
+    "sha256": "b5b8141b5dba4d6b0da956b0fbfa2796bdbc8aa530839dcfdcec078d50054497",
+    "last_modified": "2026-07-25T15:40:02"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0038",
+    "dataset_name": "INFOSAN_Activity_Report_2020_2021.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Food/INFOSAN_Activity_Report_2020_2021.pdf",
+    "type": "file",
+    "size_bytes": 755,
+    "sha256": "a859cc83d11508435744f1ce4fb6f39396083c22e60bea3f872887eb2dd1863f",
+    "last_modified": "2026-04-02T08:47:48"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0039",
+    "dataset_name": "INFOSAN_Members_Guide_2020.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Food/INFOSAN_Members_Guide_2020.pdf",
+    "type": "file",
+    "size_bytes": 755,
+    "sha256": "a859cc83d11508435744f1ce4fb6f39396083c22e60bea3f872887eb2dd1863f",
+    "last_modified": "2026-04-02T08:47:48"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0040",
+    "dataset_name": "NARMS_NOW.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/NARMS_NOW.html",
+    "type": "file",
+    "size_bytes": 35648,
+    "sha256": "421188b9b19363509da257a8ccabc726da35a60bf467dd2efe95c31038cb0cab",
+    "last_modified": "2026-07-25T12:01:08"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0041",
+    "dataset_name": "OFT3.0_export_repository.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Food/OFT3.0_export_repository.xlsx",
+    "type": "file",
+    "size_bytes": 22595502,
+    "sha256": "5181661e921651d4087b544981e1e5a63b99532844eac0112732806a00a85eda",
+    "last_modified": "2026-07-25T15:38:04"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0042",
+    "dataset_name": "OpenFoodToxTX22809_2023.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Food/OpenFoodToxTX22809_2023.xlsx",
+    "type": "file",
+    "size_bytes": 12330464,
+    "sha256": "0c61eab0da41c84defd1e1e94974530a6065189cc5c8b36972d5f33b9ddf2c13",
+    "last_modified": "2026-07-25T15:38:41"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0043",
+    "dataset_name": "RASFF_reports.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/RASFF_reports.html",
+    "type": "file",
+    "size_bytes": 146434,
+    "sha256": "2630b86ab7a2033702ce9200663c3a0105a1071c4b674986671d0b5768b710e7",
+    "last_modified": "2026-07-25T15:50:56"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0044",
+    "dataset_name": "agrovoc_core.nt.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Food/agrovoc_core.nt.gz",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:49:15"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0045",
+    "dataset_name": "agrovoc_core.nt.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Food/agrovoc_core.nt.zip",
+    "type": "file",
+    "size_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "last_modified": "2026-07-25T15:49:36"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0046",
+    "dataset_name": "agrovoc_releases.html",
+    "path": "/mnt/g/My Drive/DATASETS/Food/agrovoc_releases.html",
+    "type": "file",
+    "size_bytes": 24271,
+    "sha256": "09ea7fdae55c7b605d5cf6abd893b4e4494ccca764a6fc185946b74a0e385ef0",
+    "last_modified": "2026-07-25T03:50:18"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0047",
+    "dataset_name": "en.openfoodfacts.org.products.csv.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Food/en.openfoodfacts.org.products.csv.gz",
+    "type": "file",
+    "size_bytes": 1275171186,
+    "sha256": "f72687ee8bc6522054fe69dbfda6b91902c16af1ec2e043cde27bc6c29ad8176",
+    "last_modified": "2026-07-25T16:09:03.250000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0048",
+    "dataset_name": "FoodData_Central_branded_food_csv_2024-04-18",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodData_Central_branded_food_csv_2024-04-18",
+    "type": "directory",
+    "size_bytes": 0,
+    "sha256": "",
+    "last_modified": "2026-07-25T15:35:22.708000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0049",
+    "dataset_name": "FoodData_Central_foundation_food_csv_2024-04-18",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodData_Central_foundation_food_csv_2024-04-18",
+    "type": "directory",
+    "size_bytes": 0,
+    "sha256": "",
+    "last_modified": "2026-07-25T15:32:58.047000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0050",
+    "dataset_name": "FoodMicrobionet",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodMicrobionet",
+    "type": "directory",
+    "size_bytes": 0,
+    "sha256": "",
+    "last_modified": "2026-07-25T15:47:05.616000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0051",
+    "dataset_name": "FoodMicrobionet_data",
+    "path": "/mnt/g/My Drive/DATASETS/Food/FoodMicrobionet_data",
+    "type": "directory",
+    "size_bytes": 0,
+    "sha256": "",
+    "last_modified": "2026-07-25T15:47:19.975000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0052",
+    "dataset_name": "Antibiotic_resistance_gene.fa.txt",
+    "path": "/mnt/g/My Drive/DATASETS/Genome/Antibiotic_resistance_gene.fa.txt",
+    "type": "file",
+    "size_bytes": 2979571,
+    "sha256": "7e81b6dbf2ecb1301a5bab5597600049791741d67758651b23dac7c608fac974",
+    "last_modified": "2026-07-26T04:34:26.074000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0053",
+    "dataset_name": "CVM-NARMS-HACCP-1997-2005.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Genome/CVM-NARMS-HACCP-1997-2005.xlsx",
+    "type": "file",
+    "size_bytes": 11718433,
+    "sha256": "2ea802291579abe196846ccf158cebe7a2baea494a28f6c55a771bab9fe449ba",
+    "last_modified": "2026-07-26T04:34:25.426000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0054",
+    "dataset_name": "VFDB_setB_pro.fas.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Genome/VFDB_setB_pro.fas.gz",
+    "type": "file",
+    "size_bytes": 5644656,
+    "sha256": "9878bf46c12e42d9b43e0206f727936da4cc94166a4bcf1588f060777c9022a3",
+    "last_modified": "2026-07-26T04:34:25.886000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0055",
+    "dataset_name": "card-data.tar.bz2",
+    "path": "/mnt/g/My Drive/DATASETS/Genome/card-data.tar.bz2",
+    "type": "file",
+    "size_bytes": 4620455,
+    "sha256": "d80520c51ef3bae1098cd00e0c3d1d013e5785f8d8df787dcc5f435927557df9",
+    "last_modified": "2026-07-26T04:34:26.245000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0056",
+    "dataset_name": "2023-AR-Report-508.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/2023-AR-Report-508.pdf",
+    "type": "file",
+    "size_bytes": 924349,
+    "sha256": "0bbf442bb3de6dc916b1d30724fb6c7cd393f88860ddaa36648e621d359c46e2",
+    "last_modified": "2026-07-25T14:46:24"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0057",
+    "dataset_name": "9789240108127-eng.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/9789240108127-eng.pdf",
+    "type": "file",
+    "size_bytes": 1817938,
+    "sha256": "732a823328601c0d2e87d92ddce17f54b720ffd934a4c458b7951fc915a03af0",
+    "last_modified": "2026-07-25T14:45:03"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0058",
+    "dataset_name": "AMRSN_annual_report_2020.mht",
+    "path": "/mnt/g/My Drive/DATASETS/Human/AMRSN_annual_report_2020.mht",
+    "type": "file",
+    "size_bytes": 1419828,
+    "sha256": "56d4df8606d7cbe56eb9c2f2ed23d1b524f53c54dbc2a771fb553508b457cff4",
+    "last_modified": "2026-07-26T07:20:16.616000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0059",
+    "dataset_name": "ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/ESPAUR-report-2024-to-2025-private-prescribing-update (1).pdf",
+    "type": "file",
+    "size_bytes": 11138755,
+    "sha256": "91f58865520ca14367c5c41463d2d81e1565cd71dfd80fbd63b7bab28cd74417",
+    "last_modified": "2026-07-26T07:20:16.902000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0060",
+    "dataset_name": "ESPAUR-report-2024-to-2025-private-prescribing-update.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/ESPAUR-report-2024-to-2025-private-prescribing-update.pdf",
+    "type": "file",
+    "size_bytes": 11138755,
+    "sha256": "91f58865520ca14367c5c41463d2d81e1565cd71dfd80fbd63b7bab28cd74417",
+    "last_modified": "2026-07-25T14:45:53"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0061",
+    "dataset_name": "WHO-MHP-HPS-EML-2023 (1).02-eng.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023 (1).02-eng.pdf",
+    "type": "file",
+    "size_bytes": 926649,
+    "sha256": "9617e1dee5f9772ec1154d4c4453c761fe53483c821525b9d7d9dee66a4850a1",
+    "last_modified": "2026-07-26T07:20:17.216000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0062",
+    "dataset_name": "WHO-MHP-HPS-EML-2023.02-eng.pdf",
+    "path": "/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023.02-eng.pdf",
+    "type": "file",
+    "size_bytes": 926649,
+    "sha256": "9617e1dee5f9772ec1154d4c4453c761fe53483c821525b9d7d9dee66a4850a1",
+    "last_modified": "2026-07-25T14:43:16"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0063",
+    "dataset_name": "WHO-MHP-HPS-EML-2023.04-eng.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Human/WHO-MHP-HPS-EML-2023.04-eng.xlsx",
+    "type": "file",
+    "size_bytes": 117299,
+    "sha256": "59f1c52ae53599f21e67c74d1578d9c1f4f90e98a943cfdb013ea70978153b8f",
+    "last_modified": "2026-07-25T14:35:31"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0064",
+    "dataset_name": "abx_export.xlsx",
+    "path": "/mnt/g/My Drive/DATASETS/Human/abx_export.xlsx",
+    "type": "file",
+    "size_bytes": 17087,
+    "sha256": "432f8d3b424b4694999943d26e82fcb5ebe08eb60087b3e0ef8aa4884d437397",
+    "last_modified": "2026-07-26T07:20:17.027000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0065",
+    "dataset_name": "studies.json",
+    "path": "/mnt/g/My Drive/DATASETS/Human/studies.json",
+    "type": "file",
+    "size_bytes": 1448918,
+    "sha256": "0050d7ec5c0f320f128bf428acb3d52c34c30de9b5dc1ce3ad7f7c0b90d00470",
+    "last_modified": "2026-07-25T14:47:17"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0066",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.1.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.1.fa.gz",
+    "type": "file",
+    "size_bytes": 9211107,
+    "sha256": "e89fd92115593134f98eb55ce29562c5d63c6a8a816e035f26b59336073688a5",
+    "last_modified": "2026-07-26T04:13:48.039000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0067",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.2.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.2.fa.gz",
+    "type": "file",
+    "size_bytes": 6036986,
+    "sha256": "c693482b92f5e765c4c73241a9be085ef2facc40a952e2b30a394ea4b3586fa3",
+    "last_modified": "2026-07-26T04:13:47.751000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0068",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.3.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.3.fa.gz",
+    "type": "file",
+    "size_bytes": 7172122,
+    "sha256": "5a57b79a574c7a37b2280fdcc377eb2499f74c6fedc53335c097649b206ba836",
+    "last_modified": "2026-07-26T04:13:47.175000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0069",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.4.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.4.fa.gz",
+    "type": "file",
+    "size_bytes": 5652615,
+    "sha256": "97056c30aa418f041984d655be58dead28eedafb59b73a0f3e54e9edb0e09c0d",
+    "last_modified": "2026-07-26T04:13:47.547000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0070",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.5.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.5.fa.gz",
+    "type": "file",
+    "size_bytes": 8226389,
+    "sha256": "22637081d2969777105e1764fb833c1684dbbd05cedaed97b5a201076247a82c",
+    "last_modified": "2026-07-26T04:13:47.908000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0071",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.Mt.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.Mt.fa.gz",
+    "type": "file",
+    "size_bytes": 115120,
+    "sha256": "bc0fa221867cb32dfe0244d4eaf95508c85969e1bfa12ac7358ba687cb1fec58",
+    "last_modified": "2026-07-26T04:13:46.981000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0072",
+    "dataset_name": "Arabidopsis_thaliana.TAIR10.dna.chromosome.Pt.fa.gz",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Arabidopsis_thaliana.TAIR10.dna.chromosome.Pt.fa.gz",
+    "type": "file",
+    "size_bytes": 48364,
+    "sha256": "68905aeddc600b80a5175463d8112874aaa6b6269c6398181dd7524743e1cfb7",
+    "last_modified": "2026-07-26T04:13:46.783000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0073",
+    "dataset_name": "PlantVillage-Dataset-master.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/PlantVillage-Dataset-master.zip",
+    "type": "file",
+    "size_bytes": 2504302720,
+    "sha256": "858df90a05ab147fa2b0a32c47053128c4ca772326c43e962856e69290012374",
+    "last_modified": "2026-07-26T04:53:27.969000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0074",
+    "dataset_name": "Production_Crops_Livestock_E_All_Data (1).zip",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Production_Crops_Livestock_E_All_Data (1).zip",
+    "type": "file",
+    "size_bytes": 25138572,
+    "sha256": "51cf90575962763cda0b28acbe9a69bad7129f282aa1e5ae7e924e16da0c3fc8",
+    "last_modified": "2026-07-26T04:34:40.404000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0075",
+    "dataset_name": "Production_Crops_Livestock_E_All_Data.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/Production_Crops_Livestock_E_All_Data.zip",
+    "type": "file",
+    "size_bytes": 25138572,
+    "sha256": "51cf90575962763cda0b28acbe9a69bad7129f282aa1e5ae7e924e16da0c3fc8",
+    "last_modified": "2026-07-26T04:19:35.610000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0076",
+    "dataset_name": "data-PHIbase_release_v4.19.zip",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/data-PHIbase_release_v4.19.zip",
+    "type": "file",
+    "size_bytes": 71854698,
+    "sha256": "56975af276c129a58b04058ed6a8a3f493fd700dcd59b71bb6fc63fafac79045",
+    "last_modified": "2026-07-26T04:07:26.851000"
+  },
+  {
+    "dataset_id": "GOHIF_DS_0077",
+    "dataset_name": "plantlst.txt",
+    "path": "/mnt/g/My Drive/DATASETS/Plant/plantlst.txt",
+    "type": "file",
+    "size_bytes": 7038655,
+    "sha256": "2a08310dfc2fd33dd441e935ed169ab680bcea367e7bb5fb6c11d450d0c0d0bf",
+    "last_modified": "2026-07-26T04:15:31.934000"
+  }
+]

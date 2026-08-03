@@ -1,0 +1,15 @@
+dataset_a,domain_a,dataset_b,domain_b,shared_entities,entities
+GOHIF_DS_0059,Human,GOHIF_DS_0028,Food,1,Salmonella
+GOHIF_DS_0059,Human,GOHIF_DS_0008,Animal,7,COVID-19; Cancer; Escherichia coli; Influenza virus; Mycobacterium tuberculosis; Salmonella; Tuberculosis
+GOHIF_DS_0059,Human,GOHIF_DS_0024,Environmental,2,Escherichia coli; Salmonella
+GOHIF_DS_0057,Human,GOHIF_DS_0008,Animal,2,COVID-19; Tuberculosis
+GOHIF_DS_0028,Food,GOHIF_DS_0008,Animal,1,Salmonella
+GOHIF_DS_0028,Food,GOHIF_DS_0024,Environmental,1,Salmonella
+GOHIF_DS_0028,Food,GOHIF_DS_0060,Human,1,Salmonella
+GOHIF_DS_0008,Animal,GOHIF_DS_0062,Human,4,COVID-19; Cancer; Influenza virus; Tuberculosis
+GOHIF_DS_0008,Animal,GOHIF_DS_0056,Human,1,Escherichia coli
+GOHIF_DS_0008,Animal,GOHIF_DS_0024,Environmental,2,Escherichia coli; Salmonella
+GOHIF_DS_0008,Animal,GOHIF_DS_0060,Human,7,COVID-19; Cancer; Escherichia coli; Influenza virus; Mycobacterium tuberculosis; Salmonella; Tuberculosis
+GOHIF_DS_0008,Animal,GOHIF_DS_0061,Human,4,COVID-19; Cancer; Influenza virus; Tuberculosis
+GOHIF_DS_0056,Human,GOHIF_DS_0024,Environmental,1,Escherichia coli
+GOHIF_DS_0024,Environmental,GOHIF_DS_0060,Human,2,Escherichia coli; Salmonella

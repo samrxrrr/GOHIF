@@ -1,0 +1,7 @@
+id,type,label
+domain::Plant,Domain,Plant
+domain::Human,Domain,Human
+domain::Environmental,Domain,Environmental
+domain::Animal,Domain,Animal
+domain::Food,Domain,Food
+domain::Genome,Domain,Genome

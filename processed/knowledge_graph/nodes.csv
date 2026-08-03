@@ -1,0 +1,106 @@
+id,type,label
+GOHIF_DS_0069,Dataset,GOHIF_DS_0069
+domain::Plant,Domain,Plant
+GOHIF_DS_0064,Dataset,GOHIF_DS_0064
+domain::Human,Domain,Human
+species::Homo sapiens,Species,Homo sapiens
+GOHIF_DS_0063,Dataset,GOHIF_DS_0063
+provider::World Health Organization,Provider,World Health Organization
+GOHIF_DS_0059,Dataset,GOHIF_DS_0059
+disease::COVID-19,Disease,COVID-19
+disease::Cancer,Disease,Cancer
+disease::Influenza virus,Disease,Influenza virus
+disease::Malaria,Disease,Malaria
+disease::Tuberculosis,Disease,Tuberculosis
+pathogen::Escherichia coli,Pathogen,Escherichia coli
+pathogen::Influenza virus,Pathogen,Influenza virus
+pathogen::Mycobacterium tuberculosis,Pathogen,Mycobacterium tuberculosis
+pathogen::SARS-CoV-2,Pathogen,SARS-CoV-2
+pathogen::Salmonella,Pathogen,Salmonella
+GOHIF_DS_0057,Dataset,GOHIF_DS_0057
+GOHIF_DS_0017,Dataset,GOHIF_DS_0017
+domain::Environmental,Domain,Environmental
+GOHIF_DS_0009,Dataset,GOHIF_DS_0009
+domain::Animal,Domain,Animal
+GOHIF_DS_0075,Dataset,GOHIF_DS_0075
+GOHIF_DS_0028,Dataset,GOHIF_DS_0028
+domain::Food,Domain,Food
+GOHIF_DS_0008,Dataset,GOHIF_DS_0008
+disease::Covid-19,Disease,Covid-19
+disease::covid-19,Disease,covid-19
+species::Gallus gallus,Species,Gallus gallus
+GOHIF_DS_0077,Dataset,GOHIF_DS_0077
+GOHIF_DS_0037,Dataset,GOHIF_DS_0037
+GOHIF_DS_0054,Dataset,GOHIF_DS_0054
+domain::Genome,Domain,Genome
+GOHIF_DS_0072,Dataset,GOHIF_DS_0072
+GOHIF_DS_0062,Dataset,GOHIF_DS_0062
+gene::EGFR,Gene,EGFR
+GOHIF_DS_0021,Dataset,GOHIF_DS_0021
+GOHIF_DS_0018,Dataset,GOHIF_DS_0018
+GOHIF_DS_0065,Dataset,GOHIF_DS_0065
+GOHIF_DS_0015,Dataset,GOHIF_DS_0015
+GOHIF_DS_0023,Dataset,GOHIF_DS_0023
+GOHIF_DS_0001,Dataset,GOHIF_DS_0001
+GOHIF_DS_0056,Dataset,GOHIF_DS_0056
+GOHIF_DS_0024,Dataset,GOHIF_DS_0024
+GOHIF_DS_0013,Dataset,GOHIF_DS_0013
+provider::National Center for Biotechnology Information,Provider,National Center for Biotechnology Information
+GOHIF_DS_0046,Dataset,GOHIF_DS_0046
+provider::Food and Agriculture Organization,Provider,Food and Agriculture Organization
+GOHIF_DS_0049,Dataset,GOHIF_DS_0049
+GOHIF_DS_0045,Dataset,GOHIF_DS_0045
+GOHIF_DS_0011,Dataset,GOHIF_DS_0011
+GOHIF_DS_0004,Dataset,GOHIF_DS_0004
+GOHIF_DS_TEST,Dataset,GOHIF_DS_TEST
+GOHIF_DS_0029,Dataset,GOHIF_DS_0029
+GOHIF_DS_0007,Dataset,GOHIF_DS_0007
+GOHIF_DS_0048,Dataset,GOHIF_DS_0048
+GOHIF_DS_0026,Dataset,GOHIF_DS_0026
+GOHIF_DS_0070,Dataset,GOHIF_DS_0070
+GOHIF_DS_0002,Dataset,GOHIF_DS_0002
+GOHIF_DS_0016,Dataset,GOHIF_DS_0016
+GOHIF_DS_0033,Dataset,GOHIF_DS_0033
+GOHIF_DS_0052,Dataset,GOHIF_DS_0052
+GOHIF_DS_0012,Dataset,GOHIF_DS_0012
+GOHIF_DS_0039,Dataset,GOHIF_DS_0039
+GOHIF_DS_0014,Dataset,GOHIF_DS_0014
+GOHIF_DS_0019,Dataset,GOHIF_DS_0019
+GOHIF_DS_0076,Dataset,GOHIF_DS_0076
+GOHIF_DS_0041,Dataset,GOHIF_DS_0041
+GOHIF_DS_0060,Dataset,GOHIF_DS_0060
+GOHIF_DS_0043,Dataset,GOHIF_DS_0043
+GOHIF_DS_0061,Dataset,GOHIF_DS_0061
+GOHIF_DS_0006,Dataset,GOHIF_DS_0006
+GOHIF_DS_0058,Dataset,GOHIF_DS_0058
+GOHIF_DS_0073,Dataset,GOHIF_DS_0073
+GOHIF_DS_0067,Dataset,GOHIF_DS_0067
+GOHIF_DS_0042,Dataset,GOHIF_DS_0042
+GOHIF_DS_0031,Dataset,GOHIF_DS_0031
+GOHIF_DS_0047,Dataset,GOHIF_DS_0047
+GOHIF_DS_0036,Dataset,GOHIF_DS_0036
+GOHIF_DS_0051,Dataset,GOHIF_DS_0051
+GOHIF_DS_0010,Dataset,GOHIF_DS_0010
+GOHIF_DS_0032,Dataset,GOHIF_DS_0032
+GOHIF_DS_0044,Dataset,GOHIF_DS_0044
+GOHIF_DS_0038,Dataset,GOHIF_DS_0038
+GOHIF_DS_0053,Dataset,GOHIF_DS_0053
+GOHIF_DS_0020,Dataset,GOHIF_DS_0020
+GOHIF_DS_0030,Dataset,GOHIF_DS_0030
+GOHIF_DS_0022,Dataset,GOHIF_DS_0022
+GOHIF_DS_0068,Dataset,GOHIF_DS_0068
+GOHIF_DS_0066,Dataset,GOHIF_DS_0066
+GOHIF_DS_0071,Dataset,GOHIF_DS_0071
+GOHIF_DS_0027,Dataset,GOHIF_DS_0027
+GOHIF_DS_0025,Dataset,GOHIF_DS_0025
+GOHIF_DS_0035,Dataset,GOHIF_DS_0035
+GOHIF_DS_0074,Dataset,GOHIF_DS_0074
+GOHIF_DS_0050,Dataset,GOHIF_DS_0050
+GOHIF_DS_0034,Dataset,GOHIF_DS_0034
+provider::U.S. Food and Drug Administration,Provider,U.S. Food and Drug Administration
+species::Rattus norvegicus,Species,Rattus norvegicus
+GOHIF_DS_0055,Dataset,GOHIF_DS_0055
+GOHIF_DS_0003,Dataset,GOHIF_DS_0003
+GOHIF_DS_0040,Dataset,GOHIF_DS_0040
+GOHIF_DS_0005,Dataset,GOHIF_DS_0005
+species::Bos taurus,Species,Bos taurus

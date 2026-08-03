@@ -1,0 +1,11 @@
+{
+  "candidate_entities": 17,
+  "highest_priority": [
+    "pathogens",
+    "Salmonella",
+    5,
+    4,
+    20,
+    "Animal;Environmental;Food;Human"
+  ]
+}

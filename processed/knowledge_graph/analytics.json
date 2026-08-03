@@ -1,0 +1,103 @@
+{
+  "total_nodes": 107,
+  "total_edges": 156,
+  "node_types": {
+    "Dataset": 78,
+    "Domain": 6,
+    "Provider": 4,
+    "Species": 4,
+    "Disease": 8,
+    "Pathogen": 6,
+    "Gene": 1
+  },
+  "edge_types": {
+    "HAS_DOMAIN": 77,
+    "HAS_PROVIDER": 11,
+    "MENTIONS_SPECIES": 13,
+    "MENTIONS_DISEASE": 31,
+    "MENTIONS_PATHOGEN": 22,
+    "MENTIONS_GENE": 2
+  },
+  "top_connected_nodes": [
+    [
+      "domain::Food",
+      24
+    ],
+    [
+      "domain::Animal",
+      14
+    ],
+    [
+      "GOHIF_DS_0059",
+      14
+    ],
+    [
+      "GOHIF_DS_0060",
+      14
+    ],
+    [
+      "domain::Environmental",
+      13
+    ],
+    [
+      "domain::Plant",
+      12
+    ],
+    [
+      "GOHIF_DS_0008",
+      12
+    ],
+    [
+      "domain::Human",
+      10
+    ],
+    [
+      "species::Homo sapiens",
+      10
+    ],
+    [
+      "GOHIF_DS_0062",
+      10
+    ],
+    [
+      "GOHIF_DS_0061",
+      10
+    ],
+    [
+      "disease::COVID-19",
+      6
+    ],
+    [
+      "disease::Tuberculosis",
+      6
+    ],
+    [
+      "disease::Cancer",
+      5
+    ],
+    [
+      "disease::Influenza",
+      5
+    ],
+    [
+      "disease::Malaria",
+      5
+    ],
+    [
+      "pathogen::Escherichia coli",
+      5
+    ],
+    [
+      "pathogen::Influenza",
+      5
+    ],
+    [
+      "pathogen::Salmonella",
+      5
+    ],
+    [
+      "GOHIF_DS_0057",
+      5
+    ]
+  ]
+}
