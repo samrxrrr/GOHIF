@@ -1,0 +1,13 @@
+{
+    "name": "priority_demo",
+    "phase": "46",
+    "artifact_type": "table",
+    "version": "1.0.0",
+    "created": "2026-08-03T07:21:49.219962",
+    "rows": 3,
+    "columns": [
+        "gene",
+        "score"
+    ],
+    "sha256": "f44742e2c53c3ba8278b1c2da5591d1979b8c109fbddb5e1e728fac79b077c5b"
+}

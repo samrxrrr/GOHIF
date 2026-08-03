@@ -1,0 +1,13 @@
+{
+    "name": "test_prioritization",
+    "phase": "46",
+    "artifact_type": "table",
+    "version": "1.0.0",
+    "created": "2026-08-03T07:20:28.174181",
+    "rows": 3,
+    "columns": [
+        "gene",
+        "score"
+    ],
+    "sha256": "a603d8832399ed137ec6c276a427debe4de2651ecdca803dc4692d21d40839ff"
+}

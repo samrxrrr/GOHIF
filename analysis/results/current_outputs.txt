@@ -1,0 +1,5 @@
+analysis/figures/data/domain_gap_matrix.csv
+analysis/figures/data/domain_network_edges.csv
+analysis/figures/data/domain_network_nodes.csv
+analysis/figures/data/pathogen_ranking_figure.csv
+analysis/large_scale/logs/import_summary.csv
