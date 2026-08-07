@@ -1,0 +1,51 @@
+Protein,PDB_ID,Status,Message,File
+OXA-48,3HBR,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3HBR.pdb
+CTX-M-14b,4UA6,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/4UA6.pdb
+OXA-24,2JC7,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2JC7.pdb
+penA,3EQU,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3EQU.pdb
+NDM-21,6MGY,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6MGY.pdb
+SMB-1,3VPE,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3VPE.pdb
+ACC-1,6K8X,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6K8X.pdb
+FOX-4,5CGS,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5CGS.pdb
+VIM-7,2Y87,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2Y87.pdb
+TEM-94,4OPQ,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/4OPQ.pdb
+npmA,3P2E,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3P2E.pdb
+aac(2')-Ib,5US1,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5US1.pdb
+vat(E),1KHR,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1KHR.pdb
+tet(50),5TUE,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5TUE.pdb
+erm(38),7F8A,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/7F8A.pdb
+CTX-M-10,4HBT,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/4HBT.pdb
+CTX-M-27,1YLP,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1YLP.pdb
+NDM-3,3SPU,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3SPU.pdb
+NDM-4,3SPU,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3SPU.pdb
+NDM-15,3SPU,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3SPU.pdb
+NDM-1,3SPU,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3SPU.pdb
+IMP-10,5EV6,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5EV6.pdb
+IMP-13,6R78,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6R78.pdb
+VIM-17,5MM9,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5MM9.pdb
+OXA-57,9H9U,FAILED,HTTP 404,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/9H9U.pdb
+OXA-51,4ZDX,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/4ZDX.pdb
+OXA-13,1H8Z,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1H8Z.pdb
+OXA-239,5WIB,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5WIB.pdb
+OXA-143,5IY2,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5IY2.pdb
+OXA-66,6T1H,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6T1H.pdb
+sgm,3LCV,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3LCV.pdb
+kamB,3MQ2,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3MQ2.pdb
+MCR-1,5LRN,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/5LRN.pdb
+QnrB1,2XTW,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2XTW.pdb
+SHV-1,1SHV,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1SHV.pdb
+VMB-1,6JV4,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6JV4.pdb
+TLA-1,6NVT,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6NVT.pdb
+SPM-1,2FHX,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2FHX.pdb
+ADC-25,8FQN,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/8FQN.pdb
+CMY-61,1RGY,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1RGY.pdb
+OXA-82,6T1H,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6T1H.pdb
+MIR-1,1KE4,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1KE4.pdb
+QnrA (QnrA1),2XTW,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2XTW.pdb
+QnrS (QnrS1),2XTW,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/2XTW.pdb
+OXA-109,OXA-66 (6T1H) OR OXA-51 (4ZDX),FAILED,HTTP 404,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/OXA-66 (6T1H) OR OXA-51 (4ZDX).pdb
+OCH,3Q6X,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3Q6X.pdb
+cepA-29,3W4Q,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/3W4Q.pdb
+OXA-155,6T1H,EXISTS,Already downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/6T1H.pdb
+FONA,1RGZ,SUCCESS,Downloaded,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/1RGZ.pdb
+vga(A)LC,7NHL,SUCCESS,Manually added after verification,/home/samrxrr/GOHIF/analysis/structure_validation/pdb/raw/7NHL.pdb

@@ -1,0 +1,50 @@
+Protein,PDB_ID,Available_Chains,Selected_Chains,Residues_Selected,Reason
+OXA-48,3HBR,"A,B,C,D",B,240.0,Largest protein chain (240 residues)
+CTX-M-14b,4UA6,"A,B",A,262.0,Largest protein chain (262 residues)
+OXA-24,2JC7,A,A,244.0,Single protein chain
+penA,3EQU,"A,B",A,420.0,Largest protein chain (420 residues)
+NDM-21,6MGY,"A,B,C,D",C,238.0,Largest protein chain (238 residues)
+SMB-1,3VPE,A,A,259.0,Single protein chain
+ACC-1,6K8X,A,A,356.0,Single protein chain
+FOX-4,5CGS,A,A,356.0,Single protein chain
+VIM-7,2Y87,A,A,227.0,Single protein chain
+TEM-94,4OPQ,A,A,258.0,Single protein chain
+npmA,3P2E,"A,B",A,201.0,Largest protein chain (201 residues)
+aac(2')-Ib,5US1,"A,B,C,D,E,F,G,H,I,J,K,L",A,189.0,Largest protein chain (189 residues) | REVIEW: multimeric assembly
+vat(E),1KHR,"A,B,C,D,E,F",A,206.0,Largest protein chain (206 residues)
+tet(50),5TUE,"A,B",A,388.0,Largest protein chain (388 residues)
+erm(38),7F8A,A,A,245.0,Single protein chain
+CTX-M-10,4HBT,A,A,262.0,Single protein chain
+CTX-M-27,1YLP,"A,B",A,263.0,Largest protein chain (263 residues)
+NDM-3,3SPU,"A,B,C,D,E",B,238.0,Largest protein chain (238 residues)
+NDM-4,3SPU,"A,B,C,D,E",B,238.0,Largest protein chain (238 residues)
+NDM-15,3SPU,"A,B,C,D,E",B,238.0,Largest protein chain (238 residues)
+NDM-1,3SPU,"A,B,C,D,E",B,238.0,Largest protein chain (238 residues)
+IMP-10,5EV6,"A,B,C,D",B,223.0,Largest protein chain (223 residues)
+IMP-13,6R78,"A,B",A,218.0,Largest protein chain (218 residues)
+VIM-17,5MM9,"A,B",A,232.0,Largest protein chain (232 residues)
+OXA-57,9H9U,,,,Structure not found
+OXA-51,4ZDX,A,A,240.0,Single protein chain
+OXA-13,1H8Z,"A,B",A,237.0,Largest protein chain (237 residues)
+OXA-239,5WIB,"A,B",A,243.0,Largest protein chain (243 residues)
+OXA-143,5IY2,"A,B",A,240.0,Largest protein chain (240 residues)
+OXA-66,6T1H,A,A,240.0,Single protein chain
+sgm,3LCV,B,B,256.0,Single protein chain
+kamB,3MQ2,"A,B",A,215.0,Largest protein chain (215 residues)
+MCR-1,5LRN,"A,B",A,324.0,Largest protein chain (324 residues)
+QnrB1,2XTW,"A,B,C,D",B,215.0,Largest protein chain (215 residues)
+SHV-1,1SHV,A,A,265.0,Single protein chain
+VMB-1,6JV4,"A,B,C,D",A,221.0,Largest protein chain (221 residues)
+TLA-1,6NVT,"A,B,C,D",A,276.0,Largest protein chain (276 residues)
+SPM-1,2FHX,"A,B",A,244.0,Largest protein chain (244 residues)
+ADC-25,8FQN,"A,B",B,360.0,Largest protein chain (360 residues)
+CMY-61,1RGY,A,A,360.0,Single protein chain
+OXA-82,6T1H,A,A,240.0,Single protein chain
+MIR-1,1KE4,"A,B",B,358.0,Largest protein chain (358 residues)
+QnrA (QnrA1),2XTW,"A,B,C,D",B,215.0,Largest protein chain (215 residues)
+QnrS (QnrS1),2XTW,"A,B,C,D",B,215.0,Largest protein chain (215 residues)
+OXA-109,OXA-66 (6T1H) or OXA-51 (4ZDX),,,,Structure not found
+OCH,3Q6X,"A,B",A,241.0,Largest protein chain (241 residues)
+cepA-29,3W4Q,"A,B,C",A,258.0,Largest protein chain (258 residues)
+OXA-155,6T1H,A,A,240.0,Single protein chain
+FONA,1RGZ,A,A,363.0,Single protein chain

@@ -1,0 +1,50 @@
+Protein,PDB ID,Resolution (Å),Organism,Confidence
+OXA-48,3HBR,1.90,Klebsiella pneumoniae,VERIFIED
+CTX-M-14b,4UA6,0.79,Escherichia coli,VERIFIED
+OXA-24,2JC7,2.50,Acinetobacter baumannii,VERIFIED
+penA,3EQU,2.40,Neisseria gonorrhoeae,VERIFIED
+NDM-21,6MGY,1.60 (per PDB header REMARK 200),Klebsiella pneumoniae,HOMOLOG
+SMB-1,3VPE,1.60,Serratia marcescens,VERIFIED
+ACC-1,6K8X,1.59,Klebsiella pneumoniae,VERIFIED
+FOX-4,5CGS,1.63,Escherichia coli (recombinant; native host Aeromonas caviae-derived plasmid-borne FOX family),VERIFIED
+VIM-7,2Y87,1.86,Pseudomonas aeruginosa,VERIFIED
+TEM-94,4OPQ,N/A,UNRESOLVED - no authoritative sequence record retrieved,UNRESOLVED
+npmA,3P2E,2.40,Escherichia coli (clinical isolate),VERIFIED
+aac(2')-Ib,5US1,2.48,Mycobacterium fortuitum,HOMOLOG
+vat(E),1KHR,"~2.0-2.2 (VatD apo/complex series - exact resolution requires direct RCSB confirmation, not yet verified this session)",Enterococcus faecium / Enterococcus hirae,HOMOLOG
+tet(50),5TUE,2.10,Uncultured bacterium (soil metagenome-derived),VERIFIED
+erm(38),7F8A,1.90,Mycolicibacterium (Mycobacterium) smegmatis,VERIFIED
+CTX-M-10,4HBT,1.10,Escherichia coli,HOMOLOG
+CTX-M-27,1YLP,1.20,Escherichia coli,VERIFIED
+NDM-3,3SPU,2.10,Klebsiella pneumoniae,HOMOLOG
+NDM-4,3SPU,2.10,Klebsiella pneumoniae,HOMOLOG
+NDM-15,3SPU,2.10,Klebsiella pneumoniae,HOMOLOG
+NDM-1,3SPU,2.10,Klebsiella pneumoniae,VERIFIED
+IMP-10,5EV6,1.98,Serratia marcescens (IMP-1 reference structure; IMP-10 originally characterized in Pseudomonas aeruginosa and Alcaligenes xylosoxidans),HOMOLOG
+IMP-13,6R78,2.21,Pseudomonas aeruginosa,VERIFIED
+VIM-17,5MM9,N/A,Pseudomonas aeruginosa,UNRESOLVED
+OXA-57,9H9U,N/A,Burkholderia pseudomallei,PENDING
+OXA-51,4ZDX,2.00,Acinetobacter baumannii,VERIFIED
+OXA-13,1H8Z,1.80,Pseudomonas aeruginosa,VERIFIED
+OXA-239,5WIB,1.87,Acinetobacter baumannii,VERIFIED
+OXA-143,5IY2,1.15,Acinetobacter baumannii,VERIFIED
+OXA-66,6T1H,2.10,Acinetobacter baumannii,VERIFIED
+sgm,3LCV,2.00,Micromonospora zionensis,VERIFIED
+kamB,3MQ2,Not confirmed (pending verification),Streptoalloteichus tenebrarius,VERIFIED
+MCR-1,5LRN,High-resolution (native structure; exact figure pending verification),Escherichia coli,VERIFIED
+QnrB1,2XTW,Not confirmed,Klebsiella pneumoniae,VERIFIED
+SHV-1,1SHV,1.98,Klebsiella pneumoniae,VERIFIED
+VMB-1,6JV4,1.70,Vibrio alginolyticus,VERIFIED
+TLA-1,6NVT,Not confirmed,Escherichia coli,VERIFIED
+SPM-1,2FHX,1.90,Pseudomonas aeruginosa,VERIFIED
+ADC-25,8FQN,Not confirmed,Acinetobacter baumannii,HOMOLOG
+CMY-61,1RGY,Not confirmed,Enterobacteriaceae (exact host unconfirmed),HOMOLOG
+OXA-82,6T1H,2.10,Acinetobacter baumannii,HOMOLOG
+MIR-1,1KE4,~2.0 (native P99 structure),Enterobacter cloacae,PENDING
+QnrA (QnrA1),2XTW,Not confirmed,Klebsiella pneumoniae,HOMOLOG
+QnrS (QnrS1),2XTW,Not confirmed,Not confirmed (multiple host organisms reported),HOMOLOG
+OXA-109,OXA-66 (6T1H) or OXA-51 (4ZDX),2.10 (6T1H) / 2.00 (4ZDX),Acinetobacter baumannii,NEEDS RESOLUTION
+OCH,3Q6X,N/A,Ochrobactrum anthropi / Brucella anthropi (taxonomic synonyms),UNRESOLVED
+cepA-29,3W4Q,N/A,Bacteroides fragilis,UNRESOLVED
+OXA-155,6T1H,N/A,Acinetobacter baumannii (presumed),UNRESOLVED
+FONA,1RGZ,N/A,Serratia fonticola (CORRECTED - not Elizabethkingia as superficial searches might suggest),UNRESOLVED

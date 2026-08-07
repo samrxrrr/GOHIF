@@ -1,0 +1,11 @@
+normalized_gene,organism,drug_class,Resistance_mechanism,GOHIF_priority_score,pdb_count,structure_status
+erm(F),Streptococcus pneumoniae,macrolide,Target modification,10.0,1,Experimental (PDB)
+vga(A)LC,Staphylococcus haemolyticus,macrolide,Target modification,10.0,1,Experimental (PDB)
+otr(C),Shewanella oneidensis (strain ATCC 700550 / JCM 31522 / CIP 106686 / LMG 19005 / NCIMB 14063 / MR-1),tetracycline,Other,10.0,1,Experimental (PDB)
+tet(55),Unknown prokaryotic organism,tetracycline,Efflux pump,10.0,1,Experimental (PDB)
+NDM-13,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OXA-14,Pseudomonas aeruginosa,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-1,Escherichia coli,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+NDM-9,Klebsiella pneumoniae subsp. pneumoniae,beta-lactam,Beta-lactamase,10.0,0,AlphaFold Candidate
+OCH-2,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate
+OCH-3,Brucella anthropi,beta-lactam,Other,10.0,0,AlphaFold Candidate

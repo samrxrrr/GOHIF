@@ -1,0 +1,7 @@
+GOHIF Phase II
+Advanced Structure Quality Control
+
+Structures Analysed : 41
+
+QC_Status
+PASS    41

@@ -1,0 +1,5 @@
+normalized_gene,organism,drug_class,Resistance_mechanism,GOHIF_priority_score,pdb_count
+erm(F),Streptococcus pneumoniae,macrolide,Target modification,10.0,1
+vga(A)LC,Staphylococcus haemolyticus,macrolide,Target modification,10.0,1
+otr(C),Shewanella oneidensis (strain ATCC 700550 / JCM 31522 / CIP 106686 / LMG 19005 / NCIMB 14063 / MR-1),tetracycline,Other,10.0,1
+tet(55),Unknown prokaryotic organism,tetracycline,Efflux pump,10.0,1
