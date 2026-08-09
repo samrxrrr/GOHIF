@@ -12,7 +12,7 @@ MANIFEST = ROOT / "analysis/structure_validation/docking/Docking_Manifest.csv"
 
 df = pd.read_csv(MANIFEST)
 
-N_WORKERS = min(8, multiprocessing.cpu_count())
+N_WORKERS = 1
 
 print("=" * 80)
 print("GOHIF Phase II")
