@@ -1,0 +1,19 @@
+GOHIF 8,160 GPU POST-PRODUCTION FORENSIC AUDIT
+============================================================
+PASS 40 receptor directories
+PASS 8160 best PDBQT
+PASS 8160 DLG
+PASS 8160 XML
+FAIL 8160 logs
+PASS unique pair IDs = 8160
+PASS no empty PDBQT
+PASS no empty DLG
+PASS no empty XML
+PASS no empty logs
+
+DLGs with intermolecular records: 8160
+DLGs without intermolecular data: 0
+DLGs with no negative signal: 0
+Best intermolecular energy: -20.550000
+Worst intermolecular energy: -3.790000
+Mean best intermolecular energy: -8.573348

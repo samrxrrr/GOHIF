@@ -1,0 +1,25 @@
+GOHIF PHASE B CONSOLIDATED SUMMARY
+=================================
+
+204-LIGAND CHEMISTRY/DOCKING LAYER
+----------------------------------
+Authoritative ligands: 204
+RDKit non-redundant descriptors: 19
+Morgan fingerprints: radius 2, 2048 bits
+Chemical PCA: completed
+Chemical UMAP: completed
+Butina/Tanimoto cutoff: 0.50
+Integrated ranking: frozen TOP-25 only
+Explainable ML target: 40-receptor mean docking energy
+CV model: HistGradientBoostingRegressor
+5-fold CV R2: 0.6927
+5-fold CV MAE: 0.6233 kcal/mol
+5-fold CV RMSE: 0.8480 kcal/mol
+SHAP background: all 204 ligands
+
+MD EVIDENCE LAYER
+-----------------
+Validated 100-ns MD comparators: 5
+Main extended-MD target: GOHIF-235 x tet(X6)
+Extended MD: 1 us
+MD labels are NOT assigned to the other 199 chemistry ligands.

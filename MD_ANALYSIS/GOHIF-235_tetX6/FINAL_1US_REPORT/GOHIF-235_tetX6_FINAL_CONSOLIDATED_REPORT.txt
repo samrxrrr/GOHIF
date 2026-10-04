@@ -1,0 +1,360 @@
+GOHIF-235 × tet(X6)
+FINAL CONSOLIDATED MOLECULAR DYNAMICS REPORT
+============================================================
+
+PROJECT
+Global One Health Intelligence Framework (GOHIF)
+
+FINAL CANDIDATE
+GOHIF-235 × tet(X6)
+
+============================================================
+1. DOCKING CAMPAIGN
+============================================================
+
+Docking campaign:
+40 receptors × 204 ligands = 8,160 docking pairs.
+
+Production docking used the corrected AutoDock-GPU workflow.
+Docking QC, filtering, interaction/pose assessment, ADME analysis,
+integrated ranking, and the frozen Top-25 candidate set were completed.
+
+GOHIF-235 × tet(X6) was retained as a high-priority candidate
+for molecular-dynamics validation.
+
+GOHIF-033 × IMP-13 was not taken forward to MD because its
+docked pose could not be transferred into a chemically/topologically
+validated MD representation without forcing an unreliable mapping.
+
+Frozen docking artifacts were preserved.
+
+============================================================
+2. 100 ns MULTI-CANDIDATE MD SCREENING
+============================================================
+
+Five candidates completed the standardized 100 ns MD screening:
+
+GOHIF-235 × tet(X6)
+GOHIF-234 × sgm
+GOHIF-064 × tet(X6)
+GOHIF-010 × kamB
+GOHIF-179 × tet(X6)
+
+The 100 ns QC framework included:
+
+Temperature
+Pressure
+Potential energy
+Kinetic energy
+Total energy
+Volume
+Density
+Protein backbone RMSD
+Ligand RMSD
+Protein RMSF
+Radius of gyration
+SASA
+Protein-ligand contact assessment
+Hydrogen-bond geometry assessment
+Final-vs-initial structural validation
+
+Formal ligand hydrogen-bond counting was not accepted because
+the GROMACS hydrogen-bond analysis did not correctly recognize
+the ligand donor/acceptor chemistry.
+
+Validated geometry/contact proxies were therefore retained.
+
+All five candidates showed a protein-ligand minimum distance
+≤0.30 nm in 100% of trajectory frames.
+
+============================================================
+3. GOHIF-235 × tet(X6) 100 ns BASELINE
+============================================================
+
+Backbone RMSD mean:             0.143253 nm
+Backbone RMSD final:            0.142660 nm
+Backbone RMSD maximum:          0.217557 nm
+
+RMSF mean:                      0.080732 nm
+RMSF maximum:                   0.267200 nm
+
+Radius of gyration mean:        2.219558 nm
+Radius of gyration minimum:     2.184522 nm
+Radius of gyration maximum:     2.257887 nm
+
+SASA mean:                      186.193061 nm²
+
+Protein-ligand minimum distance mean: 0.1849 nm
+Minimum:                            0.1420 nm
+Maximum:                            0.2300 nm
+
+Contact fraction ≤0.30 nm:      100%
+
+Corrected final-vs-initial backbone RMSD:
+0.1426609 nm
+
+============================================================
+4. FINAL CANDIDATE SELECTION
+============================================================
+
+The five-candidate 100 ns QC comparison was completed before
+the extended simulation.
+
+GOHIF-235 × tet(X6) was selected as the single candidate for
+the extended 1 µs simulation based on the integrated 100 ns
+stability/interaction evidence.
+
+The extended stage therefore consisted of one candidate and
+one 1 µs production trajectory.
+
+============================================================
+5. 1 µs PRODUCTION MD
+============================================================
+
+Candidate:
+GOHIF-235 × tet(X6)
+
+Duration:                       1,000 ns
+Steps:                          500,000,000
+Timestep:                       0.002 ps
+Frames:                         100,001
+Frame interval:                 10 ps
+System atoms:                   71,720
+
+Water model:                    OPC
+
+GPU execution:
+PP/nonbonded:                   GPU
+PME:                            GPU
+Bonded:                         GPU
+Coordinate update/constraints:  CPU via -update auto
+
+CPU coordinate update was required for compatibility with the
+virtual-site-containing OPC system.
+
+The production trajectory completed successfully.
+
+============================================================
+6. 1 µs TRAJECTORY ANALYSIS
+============================================================
+
+Completed analyses:
+
+Protein/Cα RMSD
+Ligand RMSD
+Protein RMSF
+Radius of gyration
+SASA
+Protein-ligand minimum distance/contact persistence
+Residue-level contact/occupancy analysis
+PCA
+DCCM
+Conformational clustering
+
+MMPBSA was explicitly excluded from the final analysis plan.
+
+============================================================
+7. 1 µs Cα RMSD
+============================================================
+
+The full 1 µs trajectory contained 100,001 frames.
+
+Mean:       0.15129 nm
+SD:         0.02395 nm
+Q50:        0.15286 nm
+Q75:        0.16667 nm
+Q90:        0.17979 nm
+Q95:        0.18801 nm
+Q99:        0.20901 nm
+Maximum:    0.27923 nm
+
+These values describe the full-trajectory Cα RMSD distribution
+used for the conformational analysis.
+
+============================================================
+8. CONFORMATIONAL CLUSTERING
+============================================================
+
+The complete 1 µs trajectory was sampled every 100 ps for
+exploratory conformational clustering.
+
+Sampled frames:                 10,001
+Atoms:                          371 Cα atoms
+Method:                         GROMOS
+Primary cutoff:                 0.15 nm
+
+Cluster populations:
+
+Cluster 1:   8999 frames   89.98%
+Cluster 2:    556 frames    5.56%
+Cluster 3:    316 frames    3.16%
+Cluster 4:     65 frames    0.65%
+Cluster 5:     35 frames    0.35%
+Cluster 6:     13 frames    0.13%
+Cluster 7:      8 frames    0.08%
+Cluster 8:      5 frames    0.05%
+Cluster 9:      3 frames    0.03%
+Cluster 10:     1 frame     0.01%
+
+An exploratory 0.20 nm cutoff produced one cluster containing
+all 10,001 sampled frames.
+
+The 0.15 nm analysis therefore resolves one dominant
+conformational population together with smaller minority
+subpopulations.
+
+============================================================
+9. 100 ns ↔ 1 µs CROSS-COMPARISON
+============================================================
+
+The authoritative five-candidate 100 ns integrated QC matrix
+was cross-compared with the GOHIF-235 × tet(X6) 1 µs results.
+
+The five-candidate 100 ns cohort was:
+
+GOHIF-010 × kamB
+GOHIF-064 × tet(X6)
+GOHIF-179 × tet(X6)
+GOHIF-234 × sgm
+GOHIF-235 × tet(X6)
+
+The 100 ns cohort comparison provides the screening-stage
+context for the subsequent 1 µs analysis of GOHIF-235 × tet(X6).
+
+The 1 µs Cα RMSD distribution and clustering results are retained
+as extended-timescale analyses and are not silently substituted
+for metrics whose definitions differ between the two stages.
+
+============================================================
+10. HYDROGEN-BOND QUALIFICATION
+============================================================
+
+Formal protein-ligand hydrogen-bond counts are not reported.
+
+The GROMACS hydrogen-bond analysis did not correctly recognize
+the ligand donor/acceptor chemistry despite the presence of
+explicit ligand heteroatoms and topology entries.
+
+Protein-ligand minimum-distance and contact-persistence metrics
+were therefore retained as validated geometric evidence.
+
+These metrics must not be described as hydrogen-bond counts.
+
+============================================================
+11. MMPBSA
+============================================================
+
+MMPBSA was explicitly skipped by project decision.
+
+No MMPBSA binding free-energy value is included in the final
+evidence chain.
+
+============================================================
+12. MD25 / DOCKED-POSE TRANSFER QUALIFICATION
+============================================================
+
+The authoritative tet(X6) docking pose was investigated for
+transfer into the clean ligand topology.
+
+Although coordinate correspondences could be established for
+part of the structure, authoritative PDBQT branch connectivity
+was not completely preserved in the clean topology.
+
+The mapping therefore failed the required topology-provenance
+validation.
+
+The docked pose was not forcibly transferred into the final
+MD topology.
+
+Frozen docking data were not modified.
+
+============================================================
+13. FINAL EVIDENCE CHAIN
+============================================================
+
+Corrected GPU docking
+        |
+        v
+8,160 docking pairs
+        |
+        v
+Docking QC / filtering / ADME / integrated ranking
+        |
+        v
+Frozen Top-25
+        |
+        v
+Five-candidate 100 ns MD screening
+        |
+        v
+15-category QC
+        |
+        v
+GOHIF-235 × tet(X6) selected
+        |
+        v
+1 µs production MD
+        |
+        v
+RMSD / RMSF / Rg / SASA
+        |
+        v
+Protein-ligand contact analysis
+        |
+        v
+PCA / DCCM
+        |
+        v
+Conformational clustering
+        |
+        v
+100 ns ↔ 1 µs cross-comparison
+        |
+        v
+Integrated interpretation
+        |
+        v
+Provenance and reproducibility package
+
+============================================================
+14. REPRODUCIBILITY
+============================================================
+
+The final evidence package contains:
+
+FINAL_1US_SCIENTIFIC_INTERPRETATION.txt
+INTEGRATED_1US_ANALYSIS_MATRIX.tsv
+INTEGRATED_1US_SUMMARY.txt
+CLUSTER_POPULATION_SUMMARY.tsv
+PROVENANCE_MANIFEST.tsv
+software_versions.txt
+md_1us_tpr_dump.txt
+trajectory_integrity.txt
+STEP16_Calpha_RMSD.xvg
+gromos_0.15_sizes.xvg
+SHA256SUMS.txt
+
+Cross-comparison package:
+
+CROSS_COMPARISON_SUMMARY.txt
+FIVE_CANDIDATE_100NS_COMPARISON.tsv
+GOHIF235_100NS_vs_1US.tsv
+
+============================================================
+15. FINAL INTERPRETATION BOUNDARY
+============================================================
+
+The completed computational evidence supports reporting the
+observed trajectory stability, conformational behavior,
+protein-ligand contact persistence, and dynamic analyses.
+
+The results do not by themselves establish experimental binding
+affinity, biochemical inhibition, cellular efficacy, or clinical
+activity.
+
+No unsupported hydrogen-bond count or MMPBSA free-energy claim
+is made.
+
+============================================================
+END OF REPORT
+============================================================

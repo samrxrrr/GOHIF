@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 168 240 156
+#CENTER -3.981 -6.047 17.505
+#MACROMOLECULE NDM-21.pdbqt
+
+ndim=3
+dim1=169
+dim2=241
+dim3=157
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=NDM-21.A.map filetype=ascii skip=6
+variable 2 file=NDM-21.C.map filetype=ascii skip=6
+variable 3 file=NDM-21.HD.map filetype=ascii skip=6
+variable 4 file=NDM-21.N.map filetype=ascii skip=6
+variable 5 file=NDM-21.NA.map filetype=ascii skip=6
+variable 6 file=NDM-21.OA.map filetype=ascii skip=6
+variable 7 file=NDM-21.SA.map filetype=ascii skip=6
+variable 8 file=NDM-21.S.map filetype=ascii skip=6
+variable 9 file=NDM-21.F.map filetype=ascii skip=6
+variable 10 file=NDM-21.e.map filetype=ascii skip=6
+variable 11 file=NDM-21.d.map filetype=ascii skip=6

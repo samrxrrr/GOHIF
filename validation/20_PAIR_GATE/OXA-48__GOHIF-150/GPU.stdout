@@ -1,0 +1,44 @@
+AutoDock-GPU version: be06a135181178c8631653e1e32d9ece86b5b4d8
+
+Running 1 docking calculation
+
+Cuda device:                              NVIDIA RTX A4000
+Available memory on device:               13065 MB (total: 15967 MB)
+
+CUDA Setup time 0.165911s
+(Thread 31 is setting up Job #1)
+
+Running Job #1
+    Using heuristics: (capped) number of evaluations set to 1132076
+    Overriding heuristics, setting number of evaluations to --nev = 100000 instead.
+    Warning: The set number of evals is 8.00% of the uncapped heuristics estimate of 1250000 evals.
+             This means this docking may not be able to converge. Increasing --heurmax may improve
+             convergence but will also increase runtime.
+             AutoStop will not stop before 85.19% (85186) of the set number of evaluations.
+    Local-search chosen method is: ADADELTA (ad)
+
+Rest of Setup time 0.661843s
+
+Executing docking runs, stopping automatically after either reaching 0.15 kcal/mol standard deviation of
+the best molecules of the last 4 * 5 generations, 42000 generations, or 100000 evaluations:
+
+Generations |  Evaluations |     Threshold    |  Average energy of best 10%  | Samples | Best Inter + Intra
+------------+--------------+------------------+------------------------------+---------+-------------------
+          0 |          150 |   -0.48 kcal/mol |   -0.94 +/-    0.16 kcal/mol |       5 |   -1.12 kcal/mol
+          5 |        89332 |   -0.48 kcal/mol |   -2.41 +/-    0.98 kcal/mol |     573 |   -5.84 kcal/mol
+          6 |       104930 |   -2.39 kcal/mol |   -2.55 +/-    1.06 kcal/mol |     662 |   -5.87 kcal/mol
+------------+--------------+------------------+------------------------------+---------+-------------------
+
+                                   Finished evaluation after reaching
+                        104930 evaluations. Best inter + intra    -5.87 kcal/mol.
+
+
+Shutdown time 0.002648s
+
+Job #1 took 0.738 sec after waiting 4.737 sec for setup
+
+(Thread 31 is processing Job #1)
+Run time of entire job set (1 file): 5.502 sec
+Processing time: 0.020 sec
+
+All jobs (1) ran without errors.

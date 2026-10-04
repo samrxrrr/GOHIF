@@ -1,0 +1,43 @@
+AutoDock-GPU version: be06a135181178c8631653e1e32d9ece86b5b4d8
+
+Running 1 docking calculation
+
+Cuda device:                              NVIDIA RTX A4000
+Available memory on device:               14627 MB (total: 15967 MB)
+
+CUDA Setup time 0.157415s
+(Thread 22 is setting up Job #1)
+
+Running Job #1
+    Using heuristics: (capped) number of evaluations set to 1132076
+    Overriding heuristics, setting number of evaluations to --nev = 100000 instead.
+    Warning: The set number of evals is 8.00% of the uncapped heuristics estimate of 1250000 evals.
+             This means this docking may not be able to converge. Increasing --heurmax may improve
+             convergence but will also increase runtime.
+             AutoStop will not stop before 85.19% (85186) of the set number of evaluations.
+    Local-search chosen method is: ADADELTA (ad)
+
+Rest of Setup time 0.402241s
+
+Executing docking runs, stopping automatically after either reaching 0.15 kcal/mol standard deviation of
+the best molecules of the last 4 * 5 generations, 42000 generations, or 100000 evaluations:
+
+Generations |  Evaluations |     Threshold    |  Average energy of best 10%  | Samples | Best Inter + Intra
+------------+--------------+------------------+------------------------------+---------+-------------------
+          0 |          150 |   -1.09 kcal/mol |   -2.02 +/-    0.27 kcal/mol |       4 |   -2.35 kcal/mol
+          4 |       111182 |   -1.01 kcal/mol |   -3.60 +/-    1.22 kcal/mol |    1545 |   -7.63 kcal/mol
+------------+--------------+------------------+------------------------------+---------+-------------------
+
+                                   Finished evaluation after reaching
+                        111182 evaluations. Best inter + intra    -7.63 kcal/mol.
+
+
+Shutdown time 0.002558s
+
+Job #1 took 0.476 sec after waiting 3.812 sec for setup
+
+(Thread 22 is processing Job #1)
+Run time of entire job set (1 file): 4.330 sec
+Processing time: 0.035 sec
+
+All jobs (1) ran without errors.

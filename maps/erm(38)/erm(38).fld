@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 220 158 136
+#CENTER 24.96 17.267 35.897
+#MACROMOLECULE erm(38).pdbqt
+
+ndim=3
+dim1=221
+dim2=159
+dim3=137
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=erm(38).A.map filetype=ascii skip=6
+variable 2 file=erm(38).C.map filetype=ascii skip=6
+variable 3 file=erm(38).HD.map filetype=ascii skip=6
+variable 4 file=erm(38).N.map filetype=ascii skip=6
+variable 5 file=erm(38).NA.map filetype=ascii skip=6
+variable 6 file=erm(38).OA.map filetype=ascii skip=6
+variable 7 file=erm(38).SA.map filetype=ascii skip=6
+variable 8 file=erm(38).S.map filetype=ascii skip=6
+variable 9 file=erm(38).F.map filetype=ascii skip=6
+variable 10 file=erm(38).e.map filetype=ascii skip=6
+variable 11 file=erm(38).d.map filetype=ascii skip=6

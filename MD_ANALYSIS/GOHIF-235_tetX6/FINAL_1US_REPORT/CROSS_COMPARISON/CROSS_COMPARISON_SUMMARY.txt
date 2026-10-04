@@ -1,0 +1,57 @@
+GOHIF-235 × tet(X6)
+100 ns COHORT ↔ 1 µs CROSS-COMPARISON
+============================================================
+
+AUTHORITATIVE 100 ns COHORT
+- GOHIF-010_kamB
+- GOHIF-064_tetX6
+- GOHIF-179_tetX6
+- GOHIF-234_sgm
+- GOHIF-235_tetX6
+
+GOHIF-235 100 ns baseline
+BACKBONE_RMSD_MEAN_NM: 0.143253
+BACKBONE_RMSD_FINAL_NM: 0.142660
+BACKBONE_RMSD_MAX_NM: 0.217557
+LIGAND_RMSD_MEAN: 4.311476
+LIGAND_RMSD_FINAL: 8.941362
+LIGAND_RMSD_MAX: 9.529870
+RMSF_MEAN_NM: 0.080732
+RMSF_MAX_NM: 0.267200
+RG_MEAN_NM: 2.219558
+RG_MIN_NM: 2.184522
+RG_MAX_NM: 2.257887
+SASA_MEAN_NM2: 186.193061
+SASA_MIN_NM2: 177.945000
+SASA_MAX_NM2: 194.173000
+PL_MIN_DISTANCE_MEAN_NM: 0.1849
+PL_MIN_DISTANCE_MIN_NM: 0.2300
+PL_MIN_DISTANCE_MAX_NM: 0.1420
+CONTACT_FRACTION_0.30NM: 1.000000
+FINAL_INITIAL_BACKBONE_RMSD_NM: 4.1147423
+
+GOHIF-235 1 µs Cα RMSD
+Mean: 0.15129 nm
+SD:   0.02395 nm
+Q50:  0.15286 nm
+Q75:  0.16667 nm
+Q90:  0.17979 nm
+Q95:  0.18801 nm
+Q99:  0.20901 nm
+Max:  0.27923 nm
+
+1 µs conformational clustering
+Method: GROMOS
+Sampling: 100 ps
+Cutoff: 0.15 nm
+Clusters: 10
+Dominant cluster: 89.98%
+0.20 nm exploratory clustering: 1 cluster
+
+Methodological qualification
+100 ns cohort metrics are retained from the authoritative
+100 ns QC matrix. The 1 µs Cα RMSD distribution is reported
+separately because its reference/analysis definition is not
+silently assumed to be identical to every 100 ns RMSD metric.
+No MMPBSA result is included. Formal ligand H-bond counts are
+not reported; validated contact/proximity metrics are retained.

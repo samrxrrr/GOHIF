@@ -1,0 +1,48 @@
+GOHIF FINAL MD-23 FREEZE
+Date: 2026-09-13
+
+Purpose:
+Final HARD-QUALIFIED molecular-dynamics screening cohort.
+
+Composition:
+19 retained candidates from the original frozen Top-25
++
+4 qualified replacements.
+
+Total:
+23 candidates.
+
+Replacement candidates:
+GOHIF-179 × tet(X6)
+GOHIF-155 × sgm
+GOHIF-029 × tet(X6)
+GOHIF-100 × penA
+
+Excluded original candidates:
+GOHIF-033 × IMP-13
+GOHIF-236 × OXA-51
+GOHIF-222 × vat(E)
+GOHIF-186 × NDM-4
+GOHIF-074 × ACC-1
+GOHIF-020 × kamB
+
+Additional replacement candidates investigated but not admitted:
+GOHIF-230 × FOX-4
+GOHIF-156 × sgm
+GOHIF-147 × OXA-109
+GOHIF-019 × tet(50)
+All remaining ranked candidates through #204 failed the hard qualification
+screen or remained REVIEW-only.
+
+Decision:
+The 23-candidate cohort is frozen for standardized 100-ns MD screening.
+
+No docking files are to be modified, deleted, or rerun as part of this freeze.
+
+Next workflow:
+23 × standardized 100-ns MD
+→ trajectory QC
+→ integrated trajectory ranking
+→ final Top 3–5
+→ independent 200-ns replicas
+→ final prioritization.

@@ -1,0 +1,116 @@
+GOHIF-235 × tet(X6)
+FINAL 1 µs MOLECULAR DYNAMICS INTERPRETATION
+============================================================
+
+1. SIMULATION
+The selected GOHIF-235 × tet(X6) complex completed a 1 µs
+production MD simulation consisting of 500,000,000 steps at
+0.002 ps timestep, producing 100,001 frames over 1,000,000 ps.
+
+The production system contained 71,720 atoms and used OPC water.
+GPU acceleration was used for nonbonded/PP, PME, and bonded work,
+while coordinate update/constraints remained on CPU because of
+virtual-site compatibility.
+
+2. Cα RMSD
+The complete 1 µs Cα trajectory contained 100,001 frames.
+
+Mean Cα RMSD: 0.15129 nm
+SD:            0.02395 nm
+Q50:           0.15286 nm
+Q75:           0.16667 nm
+Q90:           0.17979 nm
+Q95:           0.18801 nm
+Q99:           0.20901 nm
+Maximum:       0.27923 nm
+
+These values describe the global protein conformational deviation
+relative to the RMSD reference used in the analysis.
+
+3. 100 ns VALIDATED BASELINE
+The candidate entered the 1 µs stage after the standardized 100 ns
+QC cohort.
+
+GOHIF-235 × tet(X6):
+Backbone RMSD mean:             0.143253 nm
+Backbone RMSD final:            0.142660 nm
+Backbone RMSD maximum:          0.217557 nm
+Protein RMSF mean:              0.080732 nm
+Protein RMSF maximum:           0.267200 nm
+Radius of gyration mean:        2.219558 nm
+SASA mean:                      186.193061 nm²
+PL minimum-distance mean:      0.1849 nm
+PL contact fraction ≤0.30 nm:  100%
+
+Corrected final-vs-initial backbone RMSD:
+0.1426609 nm
+
+4. CONFORMATIONAL CLUSTERING
+Clustering was performed on a 100-ps sampled Cα trajectory
+containing 10,001 frames spanning the complete 1 µs simulation.
+
+GROMOS clustering at 0.15 nm produced 10 clusters:
+
+Cluster 1: 8999 frames (89.98%)
+Cluster 2:  556 frames (5.56%)
+Cluster 3:  316 frames (3.16%)
+Cluster 4:   65 frames (0.65%)
+Cluster 5:   35 frames (0.35%)
+Cluster 6:   13 frames (0.13%)
+Cluster 7:    8 frames (0.08%)
+Cluster 8:    5 frames (0.05%)
+Cluster 9:    3 frames (0.03%)
+Cluster 10:   1 frame  (0.01%)
+
+At 0.20 nm, the same sampled trajectory produced one cluster
+containing all 10,001 frames.
+
+The clustering therefore identifies one dominant conformational
+population at the 0.15 nm exploratory resolution, with smaller
+subpopulations representing a minority of sampled conformations.
+
+5. PROTEIN-LIGAND CONTACTS
+The standardized 100 ns analysis showed a protein-ligand minimum
+distance ≤0.30 nm in 100% of frames.
+
+This is a contact-persistence metric and must not be interpreted
+as a formal hydrogen-bond count.
+
+6. HYDROGEN-BOND QUALIFICATION
+Formal ligand-protein hydrogen-bond counting was not accepted
+because the GROMACS hydrogen-bond analysis did not correctly
+recognize the ligand donor/acceptor chemistry.
+
+Geometry-based contact/proximity measurements were retained as
+the validated alternative.
+
+7. MMPBSA
+MMPBSA was explicitly excluded from the final project analysis
+plan and is not part of the final evidence chain.
+
+8. OVERALL EVIDENCE STRUCTURE
+The final evidence chain is:
+
+Docking
+  ->
+100 ns multi-category QC
+  ->
+single-candidate selection
+  ->
+validated 1 µs production MD
+  ->
+RMSD / RMSF / Rg / SASA
+  ->
+protein-ligand contact analysis
+  ->
+PCA
+  ->
+DCCM
+  ->
+conformational clustering
+  ->
+integrated interpretation
+
+No claim of binding free energy from MMPBSA is made.
+No formal hydrogen-bond count is reported.
+The clustering result is based on Cα RMSD and 100-ps sampling.

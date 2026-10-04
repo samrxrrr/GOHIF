@@ -1,0 +1,59 @@
+GOHIF-235 × tet(X6) — INTEGRATED 1 µs ANALYSIS
+============================================================
+
+TRAJECTORY
+Duration: 1000.0 ns
+Frames: 100001
+Atoms: 71720
+C-alpha analysis atoms: 371
+
+1 µs C-alpha RMSD
+ca_rmsd_mean_nm: 0.151294 nm
+ca_rmsd_sd_nm: 0.023948 nm
+ca_rmsd_min_nm: 0.000714 nm
+ca_rmsd_max_nm: 0.279228 nm
+ca_rmsd_q50_nm: 0.152857 nm
+ca_rmsd_q75_nm: 0.166666 nm
+ca_rmsd_q90_nm: 0.179793 nm
+ca_rmsd_q95_nm: 0.188015 nm
+ca_rmsd_q99_nm: 0.209008 nm
+
+100 ns VALIDATED BASELINE QC
+backbone_rmsd_mean_nm: 0.143253
+backbone_rmsd_final_nm: 0.14266
+backbone_rmsd_max_nm: 0.217557
+rmsf_mean_nm: 0.080732
+rmsf_max_nm: 0.2672
+rg_mean_nm: 2.219558
+rg_min_nm: 2.184522
+rg_max_nm: 2.257887
+sasa_mean_nm2: 186.193061
+sasa_min_nm2: 177.945
+sasa_max_nm2: 194.173
+pl_min_distance_mean_nm: 0.1849
+pl_min_distance_min_nm: 0.142
+pl_min_distance_max_nm: 0.23
+contact_fraction_le_030nm: 1.0
+final_initial_backbone_rmsd_nm: 0.1426609
+
+CONFORMATIONAL CLUSTERING
+Method: GROMOS
+Metric: C-alpha RMSD
+Sampling: 100 ps
+Frames: 10001
+Cutoff: 0.15 nm
+Clusters: 10
+Cluster 1: 8999 frames (89.98%)
+Cluster 2: 556 frames (5.56%)
+Cluster 3: 316 frames (3.16%)
+Cluster 4: 65 frames (0.65%)
+Cluster 5: 35 frames (0.35%)
+Cluster 6: 13 frames (0.13%)
+Cluster 7: 8 frames (0.08%)
+Cluster 8: 5 frames (0.05%)
+Cluster 9: 3 frames (0.03%)
+Cluster 10: 1 frames (0.01%)
+
+0.20 nm exploratory clustering: 1 cluster (100%).
+Formal ligand H-bond count was not accepted; geometry/contact proxies were used.
+MMPBSA was explicitly excluded from the final analysis plan.

@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 166 168 136
+#CENTER 22.494 22.456 -9.128
+#MACROMOLECULE OXA-66.pdbqt
+
+ndim=3
+dim1=167
+dim2=169
+dim3=137
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=OXA-66.A.map filetype=ascii skip=6
+variable 2 file=OXA-66.C.map filetype=ascii skip=6
+variable 3 file=OXA-66.HD.map filetype=ascii skip=6
+variable 4 file=OXA-66.N.map filetype=ascii skip=6
+variable 5 file=OXA-66.NA.map filetype=ascii skip=6
+variable 6 file=OXA-66.OA.map filetype=ascii skip=6
+variable 7 file=OXA-66.SA.map filetype=ascii skip=6
+variable 8 file=OXA-66.S.map filetype=ascii skip=6
+variable 9 file=OXA-66.F.map filetype=ascii skip=6
+variable 10 file=OXA-66.e.map filetype=ascii skip=6
+variable 11 file=OXA-66.d.map filetype=ascii skip=6

@@ -1,0 +1,2 @@
+n_ligands	fingerprint_bits	tanimoto_similarity_cutoff	n_clusters	largest_cluster	median_cluster_size	singleton_clusters	non_singleton_clusters	multi_ligand_members
+204	2048	0.5	152	10	1.0	128	24	76

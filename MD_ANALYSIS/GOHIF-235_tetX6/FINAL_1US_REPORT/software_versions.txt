@@ -1,0 +1,35 @@
+GROMACS:
+                   :-) GROMACS - gmx, 2026.3-conda_forge (-:
+
+Executable:   /home/student/miniforge3/envs/gohif-md/bin.AVX2_256/gmx
+Data prefix:  /home/student/miniforge3/envs/gohif-md
+Working dir:  /home/student/GOHIF_DOCKING/GPU_FINAL_CORRECTED_8160_20260911/MD_PREPARATION/FINAL_MD23/complex_assembly/GOHIF-235_tetX6/MD_1US_PREP/PRODUCTION_1US_GPU
+Command line:
+  gmx --version
+
+GROMACS version:     2026.3-conda_forge
+Precision:           mixed
+Memory model:        64 bit
+MPI library:         thread_mpi
+MPI version:         built in
+OpenMP support:      enabled (GMX_OPENMP_MAX_THREADS = 128)
+GPU support:         CUDA
+NBNxM GPU setup:     super-cluster 2x2x2 / cluster 8 (cluster-pair splitting on)
+SIMD instructions:   AVX2_256
+CPU FFT library:     fftw-3.3.11-sse2-avx
+GPU FFT library:     cuFFT
+Multi-GPU FFT:       none
+
+Python:
+Python 3.13.15
+
+ACPYPE:
+==========================================================================
+| ACPYPE: AnteChamber PYthon Parser interfacE v. 2026.9.4 (c) 2026 AWSdS |
+==========================================================================
+
+Open Babel:
+Open Babel 3.2.1 -- Aug 19 2026 -- 17:02:54
+
+RDKit:
+2025.09.5

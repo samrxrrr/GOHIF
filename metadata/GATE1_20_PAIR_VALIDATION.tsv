@@ -1,0 +1,21 @@
+receptor	ligand	status	exit	dlg	xml	nonzero_inter	best_inter	reason
+ACC-1	GOHIF-001	PASS	0	True	True	20	-7.92	
+ACC-1	GOHIF-050	PASS	0	True	True	20	-6.39	
+ACC-1	GOHIF-150	PASS	0	True	True	20	-5.37	
+ACC-1	GOHIF-201	PASS	0	True	True	20	-6.95	
+CMY-61	GOHIF-001	PASS	0	True	True	20	-7.5	
+CMY-61	GOHIF-050	PASS	0	True	True	20	-7.41	
+CMY-61	GOHIF-150	PASS	0	True	True	20	-5.7	
+CMY-61	GOHIF-201	PASS	0	True	True	20	-6.8	
+NDM-3	GOHIF-001	PASS	0	True	True	20	-7.34	
+NDM-3	GOHIF-050	PASS	0	True	True	20	-6.65	
+NDM-3	GOHIF-150	PASS	0	True	True	20	-5.46	
+NDM-3	GOHIF-201	PASS	0	True	True	20	-6.73	
+OXA-48	GOHIF-001	PASS	0	True	True	20	-7.23	
+OXA-48	GOHIF-050	PASS	0	True	True	20	-6.23	
+OXA-48	GOHIF-150	PASS	0	True	True	20	-5.68	
+OXA-48	GOHIF-201	PASS	0	True	True	20	-7.13	
+tet(X6)	GOHIF-001	PASS	0	True	True	20	-7.69	
+tet(X6)	GOHIF-050	PASS	0	True	True	20	-6.52	
+tet(X6)	GOHIF-150	PASS	0	True	True	20	-6.08	
+tet(X6)	GOHIF-201	PASS	0	True	True	20	-7.2	

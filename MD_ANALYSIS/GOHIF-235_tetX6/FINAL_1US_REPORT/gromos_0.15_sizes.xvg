@@ -1,0 +1,28 @@
+# This file was created Sat Oct  3 10:32:20 2026
+# Created by:
+#               :-) GROMACS - gmx cluster, 2026.3-conda_forge (-:
+# 
+# Executable:   /home/student/miniforge3/envs/gohif-md/bin.AVX2_256/gmx
+# Data prefix:  /home/student/miniforge3/envs/gohif-md
+# Working dir:  /home/student/GOHIF_DOCKING/GPU_FINAL_CORRECTED_8160_20260911/MD_PREPARATION/FINAL_MD23/complex_assembly/GOHIF-235_tetX6/MD_1US_PREP/PRODUCTION_1US_GPU
+# Command line:
+#   gmx cluster -s STEP16_Calpha.tpr -f CLUSTERING_1US/GOHIF-235_tetX6_1us_Calpha_100ps.xtc -method gromos -cutoff 0.15 -o CLUSTERING_1US/gromos_0.15_cluster.xpm -g CLUSTERING_1US/gromos_0.15.log -cl CLUSTERING_1US/gromos_0.15_structures.pdb -sz CLUSTERING_1US/gromos_0.15_sizes.xvg -clid CLUSTERING_1US/gromos_0.15_ids.xvg
+# gmx cluster is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Cluster Sizes"
+@    xaxis  label "Cluster #"
+@    yaxis  label "# Structures"
+@TYPE xy
+@g0 type bar
+       1     8999
+       2      556
+       3      316
+       4       65
+       5       35
+       6       13
+       7        8
+       8        5
+       9        3
+      10        1

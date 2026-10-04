@@ -1,0 +1,16 @@
+MD unsupervised clustering methodology
+======================================
+Input: 5 validated 100 ns MD candidates.
+Feature source: GOHIF_5_CANDIDATE_MD_FEATURE_MATRIX.tsv
+Feature panel: 12 interpretable non-constant features.
+Scaling: StandardScaler (z-score).
+Distance: Euclidean distance in standardized feature space.
+Algorithms evaluated: KMeans and Agglomerative Ward.
+Primary descriptive partition: k=2.
+KMeans silhouette: 0.373957
+Agglomerative Ward silhouette: 0.373957
+Both methods produced the same k=2 partition.
+Cluster 1: GOHIF-010_kamB, GOHIF-064_tetX6, GOHIF-179_tetX6, GOHIF-235_tetX6
+Cluster 2: GOHIF-234_sgm
+Interpretation limitation: n=5; clustering is exploratory and not a generalizable statistical model.
+Formal protein-ligand H-bond counts were not available and were not substituted into the feature panel.

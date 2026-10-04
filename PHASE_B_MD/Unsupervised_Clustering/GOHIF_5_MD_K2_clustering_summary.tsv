@@ -1,0 +1,3 @@
+method	k	silhouette
+KMeans	2	0.37395650728379426
+Agglomerative_Ward	2	0.37395650728379426

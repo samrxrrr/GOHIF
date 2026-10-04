@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 144 176 138
+#CENTER -20.465 -22.796 15.398
+#MACROMOLECULE TEM-94.pdbqt
+
+ndim=3
+dim1=145
+dim2=177
+dim3=139
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=TEM-94.A.map filetype=ascii skip=6
+variable 2 file=TEM-94.C.map filetype=ascii skip=6
+variable 3 file=TEM-94.HD.map filetype=ascii skip=6
+variable 4 file=TEM-94.N.map filetype=ascii skip=6
+variable 5 file=TEM-94.NA.map filetype=ascii skip=6
+variable 6 file=TEM-94.OA.map filetype=ascii skip=6
+variable 7 file=TEM-94.SA.map filetype=ascii skip=6
+variable 8 file=TEM-94.S.map filetype=ascii skip=6
+variable 9 file=TEM-94.F.map filetype=ascii skip=6
+variable 10 file=TEM-94.e.map filetype=ascii skip=6
+variable 11 file=TEM-94.d.map filetype=ascii skip=6

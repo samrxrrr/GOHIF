@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 202 240 182
+#CENTER -11.916 32.613 -25.454
+#MACROMOLECULE CMY-61.pdbqt
+
+ndim=3
+dim1=203
+dim2=241
+dim3=183
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=CMY-61.A.map filetype=ascii skip=6
+variable 2 file=CMY-61.C.map filetype=ascii skip=6
+variable 3 file=CMY-61.HD.map filetype=ascii skip=6
+variable 4 file=CMY-61.N.map filetype=ascii skip=6
+variable 5 file=CMY-61.NA.map filetype=ascii skip=6
+variable 6 file=CMY-61.OA.map filetype=ascii skip=6
+variable 7 file=CMY-61.SA.map filetype=ascii skip=6
+variable 8 file=CMY-61.S.map filetype=ascii skip=6
+variable 9 file=CMY-61.F.map filetype=ascii skip=6
+variable 10 file=CMY-61.e.map filetype=ascii skip=6
+variable 11 file=CMY-61.d.map filetype=ascii skip=6

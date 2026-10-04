@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 238 172 242
+#CENTER -4.203 -0.939 14.419
+#MACROMOLECULE kamB.pdbqt
+
+ndim=3
+dim1=239
+dim2=173
+dim3=243
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=kamB.A.map filetype=ascii skip=6
+variable 2 file=kamB.C.map filetype=ascii skip=6
+variable 3 file=kamB.HD.map filetype=ascii skip=6
+variable 4 file=kamB.N.map filetype=ascii skip=6
+variable 5 file=kamB.NA.map filetype=ascii skip=6
+variable 6 file=kamB.OA.map filetype=ascii skip=6
+variable 7 file=kamB.SA.map filetype=ascii skip=6
+variable 8 file=kamB.S.map filetype=ascii skip=6
+variable 9 file=kamB.F.map filetype=ascii skip=6
+variable 10 file=kamB.e.map filetype=ascii skip=6
+variable 11 file=kamB.d.map filetype=ascii skip=6

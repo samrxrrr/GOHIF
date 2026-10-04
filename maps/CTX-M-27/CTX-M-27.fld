@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.4
+#NELEMENTS 244 190 238
+#CENTER 16.32 69.608 27.86
+#MACROMOLECULE CTX-M-27.pdbqt
+
+ndim=3
+dim1=245
+dim2=191
+dim3=239
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=CTX-M-27.A.map filetype=ascii skip=6
+variable 2 file=CTX-M-27.C.map filetype=ascii skip=6
+variable 3 file=CTX-M-27.HD.map filetype=ascii skip=6
+variable 4 file=CTX-M-27.N.map filetype=ascii skip=6
+variable 5 file=CTX-M-27.NA.map filetype=ascii skip=6
+variable 6 file=CTX-M-27.OA.map filetype=ascii skip=6
+variable 7 file=CTX-M-27.SA.map filetype=ascii skip=6
+variable 8 file=CTX-M-27.S.map filetype=ascii skip=6
+variable 9 file=CTX-M-27.F.map filetype=ascii skip=6
+variable 10 file=CTX-M-27.e.map filetype=ascii skip=6
+variable 11 file=CTX-M-27.d.map filetype=ascii skip=6

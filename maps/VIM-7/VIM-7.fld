@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 150 144 154
+#CENTER 26.029 8.68 -0.09
+#MACROMOLECULE VIM-7.pdbqt
+
+ndim=3
+dim1=151
+dim2=145
+dim3=155
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=VIM-7.A.map filetype=ascii skip=6
+variable 2 file=VIM-7.C.map filetype=ascii skip=6
+variable 3 file=VIM-7.HD.map filetype=ascii skip=6
+variable 4 file=VIM-7.N.map filetype=ascii skip=6
+variable 5 file=VIM-7.NA.map filetype=ascii skip=6
+variable 6 file=VIM-7.OA.map filetype=ascii skip=6
+variable 7 file=VIM-7.SA.map filetype=ascii skip=6
+variable 8 file=VIM-7.S.map filetype=ascii skip=6
+variable 9 file=VIM-7.F.map filetype=ascii skip=6
+variable 10 file=VIM-7.e.map filetype=ascii skip=6
+variable 11 file=VIM-7.d.map filetype=ascii skip=6

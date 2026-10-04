@@ -1,0 +1,25 @@
+CATEGORY	ITEM	VALUE
+PROJECT	Framework	GOHIF
+CANDIDATE	Final candidate	GOHIF-235 × tet(X6)
+MD	Production duration	1000 ns
+MD	Production steps	500000000
+MD	Timestep	0.002 ps
+MD	Frames	100001
+MD	Trajectory interval	10 ps/frame
+MD	Atoms	71720
+MD	Water model	OPC
+MD	Production acceleration	GPU PP + GPU PME + GPU bonded; CPU update/constraints
+MD	MPI ranks	1
+MD	OpenMP threads	16
+MD	Coordinate update	auto / CPU for virtual-site compatibility
+ANALYSIS	C-alpha atoms	371
+ANALYSIS	C-alpha RMSD	Full 100001-frame trajectory
+ANALYSIS	Clustering sampling	100 ps
+ANALYSIS	Clustering frames	10001
+ANALYSIS	Clustering method	GROMOS
+ANALYSIS	Primary clustering cutoff	0.15 nm
+ANALYSIS	Primary clusters	10
+ANALYSIS	0.20 nm exploratory clusters	1
+ANALYSIS	Formal MMPBSA	Skipped by project decision
+ANALYSIS	Formal ligand H-bonds	Not accepted
+ANALYSIS	Contact proxy	Protein-ligand minimum distance

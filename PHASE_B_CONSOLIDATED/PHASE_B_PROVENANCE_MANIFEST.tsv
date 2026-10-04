@@ -1,0 +1,4 @@
+file	rows	content	evidence_scope
+GOHIF_204_PHASE_B_MASTER_CHEMISTRY_DOCKING.tsv	204	RDKit descriptors + docking robustness + chemical PCA/UMAP + chemical clustering + TOP-25 integrated ranking where applicable	204-ligand chemistry/docking layer
+GOHIF_5_VALIDATED_MD_COMPARATORS.tsv	5	Validated 100-ns trajectory QC feature matrix	5-candidate MD comparator layer
+GOHIF-235_tetX6_1US_EVIDENCE.tsv	1	Authoritative integrated 1-us analysis matrix	GOHIF-235 x tet(X6) main-target extended-MD layer

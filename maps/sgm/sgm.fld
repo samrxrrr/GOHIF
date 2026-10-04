@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.375
+#NELEMENTS 136 170 192
+#CENTER 10.279 2.494 20.113
+#MACROMOLECULE sgm.pdbqt
+
+ndim=3
+dim1=137
+dim2=171
+dim3=193
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=sgm.A.map filetype=ascii skip=6
+variable 2 file=sgm.C.map filetype=ascii skip=6
+variable 3 file=sgm.HD.map filetype=ascii skip=6
+variable 4 file=sgm.N.map filetype=ascii skip=6
+variable 5 file=sgm.NA.map filetype=ascii skip=6
+variable 6 file=sgm.OA.map filetype=ascii skip=6
+variable 7 file=sgm.SA.map filetype=ascii skip=6
+variable 8 file=sgm.S.map filetype=ascii skip=6
+variable 9 file=sgm.F.map filetype=ascii skip=6
+variable 10 file=sgm.e.map filetype=ascii skip=6
+variable 11 file=sgm.d.map filetype=ascii skip=6

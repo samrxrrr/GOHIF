@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.425
+#NELEMENTS 244 216 172
+#CENTER -17.188 -62.609 -1.03
+#MACROMOLECULE sul1.pdbqt
+
+ndim=3
+dim1=245
+dim2=217
+dim3=173
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=sul1.A.map filetype=ascii skip=6
+variable 2 file=sul1.C.map filetype=ascii skip=6
+variable 3 file=sul1.HD.map filetype=ascii skip=6
+variable 4 file=sul1.N.map filetype=ascii skip=6
+variable 5 file=sul1.NA.map filetype=ascii skip=6
+variable 6 file=sul1.OA.map filetype=ascii skip=6
+variable 7 file=sul1.SA.map filetype=ascii skip=6
+variable 8 file=sul1.S.map filetype=ascii skip=6
+variable 9 file=sul1.F.map filetype=ascii skip=6
+variable 10 file=sul1.e.map filetype=ascii skip=6
+variable 11 file=sul1.d.map filetype=ascii skip=6

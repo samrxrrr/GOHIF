@@ -1,0 +1,41 @@
+# AVS field file
+# AutoDock Atomic Affinity and Electrostatic Grids
+# GOHIF corrected GPU-compatible FLD
+
+#SPACING 0.5
+#NELEMENTS 252 252 218
+#CENTER 53.138 152.977 34.445
+#MACROMOLECULE aac(2')-Ib.pdbqt
+
+ndim=3
+dim1=253
+dim2=253
+dim3=219
+nspace=3
+veclen=11
+data=float
+field=uniform
+
+label=A-affinity
+label=C-affinity
+label=HD-affinity
+label=N-affinity
+label=NA-affinity
+label=OA-affinity
+label=SA-affinity
+label=S-affinity
+label=F-affinity
+label=Electrostatics
+label=Desolvation
+
+variable 1 file=aac(2')-Ib.A.map filetype=ascii skip=6
+variable 2 file=aac(2')-Ib.C.map filetype=ascii skip=6
+variable 3 file=aac(2')-Ib.HD.map filetype=ascii skip=6
+variable 4 file=aac(2')-Ib.N.map filetype=ascii skip=6
+variable 5 file=aac(2')-Ib.NA.map filetype=ascii skip=6
+variable 6 file=aac(2')-Ib.OA.map filetype=ascii skip=6
+variable 7 file=aac(2')-Ib.SA.map filetype=ascii skip=6
+variable 8 file=aac(2')-Ib.S.map filetype=ascii skip=6
+variable 9 file=aac(2')-Ib.F.map filetype=ascii skip=6
+variable 10 file=aac(2')-Ib.e.map filetype=ascii skip=6
+variable 11 file=aac(2')-Ib.d.map filetype=ascii skip=6
